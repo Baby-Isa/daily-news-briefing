@@ -1,0 +1,137 @@
+# Master feed list
+# Format: lane | outlet | url | flags
+# Flags: DISPUTED = Cowork reported failure via unreliable tooling, re-verify
+#        FULLTEXT = fetch full article body for this feed
+#        QUIET    = low publication volume, staleness is normal not failure
+ 
+## GEOGRAPHIC
+UK | Sky News | https://feeds.skynews.com/feeds/rss/uk.xml |
+UK | Guardian UK | https://www.theguardian.com/uk-news/rss |
+UK | BBC UK | https://feeds.bbci.co.uk/news/uk/rss.xml |
+UK | Politico London Playbook | https://www.politico.eu/newsletter/london-playbook/feed/ |
+Europe | Euronews | https://www.euronews.com/rss |
+Europe | NYT Europe | https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml |
+Europe | NPR Europe | https://feeds.npr.org/1124/rss.xml |
+Europe | Politico Europe | https://www.politico.eu/feed/ |
+North America | NYT US | https://rss.nytimes.com/services/xml/rss/nyt/US.xml |
+North America | BBC US Canada | https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml |
+North America | NPR Americas | https://feeds.npr.org/1127/rss.xml |
+North America | CSM USA | https://rss.csmonitor.com/feeds/usa |
+Latin America | MercoPress | https://en.mercopress.com/rss/ |
+Latin America | BBC Latin America | https://feeds.bbci.co.uk/news/world/latin_america/rss.xml |
+Latin America | Mexico News Daily | https://mexiconewsdaily.com/feed/ |
+Latin America | Buenos Aires Herald | https://buenosairesherald.com/feed |
+Middle East | Middle East Eye | https://www.middleeasteye.net/rss |
+Middle East | France 24 ME | https://www.france24.com/en/middle-east/rss |
+Middle East | NPR Middle East | https://feeds.npr.org/1009/rss.xml |
+Middle East | Al Jazeera global | https://www.aljazeera.com/xml/rss/all.xml |
+East Africa | The EastAfrican | https://www.theeastafrican.co.ke/rss.xml |
+East Africa | BBC Africa | https://feeds.bbci.co.uk/news/world/africa/rss.xml |
+East Africa | NPR Africa | https://feeds.npr.org/1126/rss.xml |
+Sub-Saharan Africa | Africanews | https://www.africanews.com/feed/rss |
+Sub-Saharan Africa | Daily Maverick | https://www.dailymaverick.co.za/rss |
+Sub-Saharan Africa | France 24 Africa | https://www.france24.com/en/africa/rss |
+Sub-Saharan Africa | ISS Africa | https://issafrica.org/rss | DISPUTED
+North Africa | Maghrebi | https://maghrebi.org/feed/ |
+North Africa | Morocco World News | https://www.moroccoworldnews.com/feed |
+South Asia | Dawn | https://www.dawn.com/feeds/home |
+South Asia | BBC India | https://feeds.bbci.co.uk/news/world/asia/india/rss.xml |
+South Asia | NPR Asia | https://feeds.npr.org/1125/rss.xml |
+South Asia | Guardian South Asia | https://www.theguardian.com/world/south-asia/rss |
+East Asia | SCMP | https://www.scmp.com/rss/91/feed |
+East Asia | Guardian China | https://www.theguardian.com/world/china/rss |
+East Asia | NYT AsiaPacific | https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml |
+East Asia | Japan Times | https://www.japantimes.co.jp/feed/ |
+Southeast Asia | Channel News Asia | https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml |
+Southeast Asia | DW Asia | https://rss.dw.com/xml/rss-en-asia |
+Southeast Asia | The Diplomat | https://thediplomat.com/feed/ |
+Central Asia | Times of Central Asia | https://timesca.com/feed |
+Central Asia | Diplomat Crossroads Asia | https://thediplomat.com/regions/crossroads-asia/feed/ | DISPUTED
+Central Asia | RFE/RL Kazakhstan | https://www.rferl.org/api/zriiml-vomx-tpeogm_ |
+Eastern Europe | Kyiv Independent | https://kyivindependent.com/feed/ |
+Eastern Europe | Meduza | https://meduza.io/rss/en/all |
+Eastern Europe | Guardian Ukraine | https://www.theguardian.com/world/ukraine/rss |
+Eastern Europe | Balkan Insight | https://balkaninsight.com/feed/ |
+Pacific | RNZ | https://www.rnz.co.nz/rss/national.xml |
+Pacific | Guardian Australia | https://www.theguardian.com/australia-news/rss |
+Pacific | ABC Australia | https://www.abc.net.au/news/feed/51120/rss.xml | DISPUTED
+ 
+## DOMAIN
+Politics | Politico Europe | https://www.politico.eu/feed/ |
+Politics | Foreign Policy | https://foreignpolicy.com/feed/ | FULLTEXT
+Politics | NPR Politics | https://feeds.npr.org/1014/rss.xml |
+Politics | CSM Politics | https://rss.csmonitor.com/feeds/politics |
+Science | Nature | https://www.nature.com/nature.rss |
+Science | Science AAAS | https://www.science.org/rss/news_current.xml |
+Science | NPR Science | https://feeds.npr.org/1007/rss.xml |
+Science | CSM Science | https://rss.csmonitor.com/feeds/science |
+Space | Space.com | https://www.space.com/feeds/all |
+Space | NYT Space | https://rss.nytimes.com/services/xml/rss/nyt/Space.xml |
+Space | NPR Space | https://feeds.npr.org/1026/rss.xml |
+Health | STAT News | https://www.statnews.com/feed/ |
+Health | NYT Health | https://rss.nytimes.com/services/xml/rss/nyt/Health.xml |
+Health | NPR Health | https://feeds.npr.org/1128/rss.xml |
+Energy | Carbon Brief | https://www.carbonbrief.org/feed/ |
+Energy | NYT Environment | https://rss.nytimes.com/services/xml/rss/nyt/Environment.xml |
+Energy | NPR Climate | https://feeds.npr.org/1167/rss.xml |
+Energy | CSM Environment | https://rss.csmonitor.com/feeds/environment |
+AI and technology | MIT Tech Review | https://www.technologyreview.com/feed/ |
+AI and technology | The Verge | https://www.theverge.com/rss/index.xml |
+AI and technology | Ars Technica | https://arstechnica.com/feed/ |
+AI and technology | NPR Technology | https://feeds.npr.org/1019/rss.xml |
+Economy | Financial Times | https://www.ft.com/rss/home |
+Economy | NYT Economy | https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml | FULLTEXT
+Economy | NPR Business | https://feeds.npr.org/1006/rss.xml |
+Business | Guardian Business | https://www.theguardian.com/business/rss |
+Business | BBC Business | https://feeds.bbci.co.uk/news/business/rss.xml |
+Built environment | Construction Dive | https://www.constructiondive.com/feeds/news/ |
+Built environment | ENR | https://www.enr.com/rss/articles |
+Law | Just Security | https://www.justsecurity.org/feed/ |
+Law | CSM Commentary | https://rss.csmonitor.com/feeds/commentary |
+Society and culture | Aeon | https://aeon.co/feed.rss |
+Society and culture | NPR Culture | https://feeds.npr.org/1008/rss.xml |
+Society and culture | CSM Culture | https://rss.csmonitor.com/feeds/theculture |
+Conflict | War on the Rocks | https://warontherocks.com/feed/ |
+Conflict | Crisis Group | https://www.crisisgroup.org/rss.xml |
+Conflict | NPR National Security | https://feeds.npr.org/1122/rss.xml |
+ 
+## WATCHLIST
+Arsenal | Guardian Arsenal | https://www.theguardian.com/football/arsenal/rss |
+Arsenal | Arseblog | https://arseblog.com/feed/ |
+Arsenal | Arseblog News | https://news.arseblog.com/feed/ |
+Chainlink | Decrypt | https://decrypt.co/feed | FULLTEXT
+Chainlink | The Block | https://www.theblock.co/rss.xml |
+Chainlink | The Defiant | https://thedefiant.io/feed |
+Chainlink | CoinDesk | https://www.coindesk.com/arc/outboundfeeds/rss/ |
+OriginTrail | Medium OriginTrail | https://medium.com/feed/origintrail | QUIET
+Agronomics | Reddit r/Agronomics | https://www.reddit.com/r/Agronomics/new/.rss?limit=25 | DISPUTED QUIET
+ 
+## SPECIAL INTERESTS
+Projectors | FlatPanelsHD | https://www.flatpanelshd.com/rss |
+Projectors | Engadget | https://www.engadget.com/rss.xml |
+Aviation | Simple Flying | https://simpleflying.com/feed/ |
+Aviation | One Mile at a Time | https://onemileatatime.com/feed/ |
+Aviation | AeroTime | https://www.aerotime.aero/feed |
+Cameras | 43Rumors | https://www.43rumors.com/feed/ |
+Cameras | PetaPixel | https://petapixel.com/feed/ |
+Cars | CarNewsChina | https://www.carnewschina.com/feed/ |
+Cars | Autocar | https://www.autocar.co.uk/rss |
+Urbanism | Dezeen | https://www.dezeen.com/feed/ |
+Urbanism | ArchDaily | https://www.archdaily.com/rss/ |
+Games | Rock Paper Shotgun | https://www.rockpapershotgun.com/feed |
+Games | PCGamesN | https://www.pcgamesn.com/feed |
+Longevity | Lifespan.io | https://www.lifespan.io/feed/ |
+Longevity | Fight Aging | https://www.fightaging.org/feed/ |
+Longevity | Nature Aging | https://www.nature.com/nataging.rss |
+Longevity | Peter Attia | https://peterattiamd.com/feed/ |
+E-commerce | Modern Retail | https://www.modernretail.co/feed/ |
+E-commerce | Marketplace Pulse | https://www.marketplacepulse.com/articles/recent.atom |
+Trends | Skift | https://skift.com/feed/ |
+Employers | Leisure Opportunities | https://rss.leisureopportunities.co.uk/rss_news.cfm?section=HAF | QUIET
+Employers | Newton Impact | https://newtonimpact.com/feed/ | QUIET
+ 
+## EDITORIAL
+Editorial | Longreads | https://longreads.com/feed/ | FULLTEXT
+Editorial | Rest of World | https://restofworld.org/feed/ | FULLTEXT
+Editorial | New Lines | https://newlinesmag.com/feed/ | FULLTEXT
+Editorial | Aeon | https://aeon.co/feed.rss | FULLTEXT
