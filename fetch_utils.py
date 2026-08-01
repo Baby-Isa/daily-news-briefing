@@ -1,25 +1,23 @@
 #!/usr/bin/env python3
 """
-Shared fetching, hardened against the four failure modes the first
-verification run exposed.
+Shared fetching, with escalation.
 
-1. HTTP 403. Six feeds refused a plain script. Sending a full set of
-   browser headers (not just a user-agent) gets most of them through,
-   because bot detection looks at the whole header set. If that still
-   fails we retry once as a recognised feed reader, since some sites
-   allow feed readers while blocking generic scripts.
+Lesson from the previous version, which broke 35 working feeds: do NOT
+send elaborate browser headers by default. Two specific traps, both hit:
 
-2. HTTP 5xx and connection errors. NYT Economy returned 503 while every
-   other NYT feed worked, so it was momentary. Three attempts with
-   increasing waits handles this.
+  - Accept-Encoding with "br" (Brotli) requires a library that is not
+    installed by default. Without it the body arrives as raw compressed
+    bytes and the parser reports zero items even though the fetch
+    succeeded. We now leave Accept-Encoding alone entirely and let
+    requests negotiate only what it can actually decode.
 
-3. SSL errors. One site had a certificate problem. We retry once without
-   verification and mark it, rather than losing the source silently.
-   Acceptable here because we are reading public headlines, not sending
-   anything.
+  - Sec-Fetch-Mode: navigate, plus text/html in Accept, tells a server
+    this is a browser opening a page. Several then returned the HTML
+    article listing instead of the feed.
 
-4. Datacenter IP blocking. GitHub runners use datacenter addresses, which
-   some sites (Reddit especially) block regardless of headers.
+So: start simple, escalate only when a request is actually refused.
+Most sites want a plain feed request. A handful want to see a browser.
+Escalating for everyone breaks the majority to please the few.
 """
 
 import time
@@ -29,71 +27,95 @@ import requests
 TIMEOUT = 25
 ATTEMPTS = 3
 
-BROWSER_HEADERS = {
+# Level 1: what a feed reader sends. This is what worked for 106 feeds.
+# Note the deliberate absence of Accept-Encoding.
+FEED_HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
         "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
     ),
-    "Accept": (
-        "application/rss+xml, application/atom+xml, application/xml;q=0.9, "
-        "text/xml;q=0.9, text/html;q=0.8, */*;q=0.7"
-    ),
+    "Accept": ("application/rss+xml, application/atom+xml, "
+               "application/xml;q=0.9, text/xml;q=0.9, */*;q=0.5"),
     "Accept-Language": "en-GB,en;q=0.9",
-    "Accept-Encoding": "gzip, deflate, br",
+}
+
+# Level 2: a declared feed reader. Some sites allow these while
+# blocking anything that looks like a generic script.
+READER_HEADERS = {
+    "User-Agent": "FeedFetcher-Google; (+http://www.google.com/feedfetcher.html)",
+    "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+}
+
+# Level 3: a full browser fingerprint. Only for sites refusing both of
+# the above. This is the header set that broke everything as a default.
+BROWSER_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 "
+        "(KHTML, like Gecko) Version/17.4 Safari/605.1.15"
+    ),
+    "Accept": ("text/html,application/xhtml+xml,application/xml;q=0.9,"
+               "image/webp,*/*;q=0.8"),
+    "Accept-Language": "en-GB,en-US;q=0.9,en;q=0.8",
     "Sec-Fetch-Dest": "document",
     "Sec-Fetch-Mode": "navigate",
     "Sec-Fetch-Site": "none",
-    "Sec-Fetch-User": "?1",
     "Upgrade-Insecure-Requests": "1",
-    "Connection": "keep-alive",
 }
 
-# Some sites allow declared feed readers while blocking generic scripts.
-FEEDREADER_HEADERS = {
-    "User-Agent": "FeedFetcher-Google; (+http://www.google.com/feedfetcher.html)",
-    "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
-    "Accept-Language": "en-GB,en;q=0.9",
-}
+BLOCKED_CODES = (401, 403, 429)
 
 
-def fetch(url, referer=None):
-    """Fetch a URL, working around blocking and transient failures.
+def _looks_like_feed(resp):
+    """Reject an HTML page served where a feed was expected."""
+    head = resp.content[:600].lstrip()
+    if head.startswith(b"<?xml") or b"<rss" in head or b"<feed" in head:
+        return True
+    if b"<rdf:RDF" in head:
+        return True
+    ctype = resp.headers.get("Content-Type", "").lower()
+    if "html" in ctype and b"<rss" not in resp.content[:3000]:
+        return False
+    return True
 
-    Returns (response, note). response is None if every attempt failed,
-    and note explains what happened.
+
+def fetch(url):
+    """Fetch a URL, escalating politely if refused.
+
+    Returns (response, note). response is None if all attempts failed.
     """
-    headers = dict(BROWSER_HEADERS)
-    if referer:
-        headers["Referer"] = referer
-    else:
-        # A same-origin referer makes the request look like ordinary
-        # in-site navigation rather than a bare hit on a feed URL.
-        try:
-            parts = url.split("/")
-            headers["Referer"] = f"{parts[0]}//{parts[2]}/"
-        except IndexError:
-            pass
-
     last = "no attempt made"
 
     for attempt in range(ATTEMPTS):
         try:
-            resp = requests.get(url, headers=headers, timeout=TIMEOUT,
+            resp = requests.get(url, headers=FEED_HEADERS, timeout=TIMEOUT,
                                 allow_redirects=True)
-            if resp.status_code == 200:
-                return resp, "ok"
 
-            if resp.status_code in (403, 401, 429):
-                # Blocked rather than broken. Try once as a feed reader.
+            if resp.status_code == 200:
+                if _looks_like_feed(resp):
+                    return resp, "ok"
+                # HTML served where a feed was expected: try the reader
+                # identity, which some sites use to decide what to send.
                 try:
-                    alt = requests.get(url, headers=FEEDREADER_HEADERS,
+                    alt = requests.get(url, headers=READER_HEADERS,
                                        timeout=TIMEOUT, allow_redirects=True)
-                    if alt.status_code == 200:
+                    if alt.status_code == 200 and _looks_like_feed(alt):
                         return alt, "ok (needed feed-reader identity)"
                 except requests.RequestException:
                     pass
-                return None, (f"HTTP {resp.status_code} - blocked, likely "
-                              f"bot protection or datacenter IP")
+                return resp, "warning: response looks like HTML, not a feed"
+
+            if resp.status_code in BLOCKED_CODES:
+                for label, hdrs in (("feed-reader", READER_HEADERS),
+                                    ("browser", BROWSER_HEADERS)):
+                    try:
+                        alt = requests.get(url, headers=hdrs, timeout=TIMEOUT,
+                                           allow_redirects=True)
+                        if alt.status_code == 200:
+                            return alt, f"ok (needed {label} identity)"
+                    except requests.RequestException:
+                        pass
+                return None, (f"HTTP {resp.status_code} - refused all three "
+                              f"identities, likely datacenter IP blocking")
 
             if resp.status_code >= 500:
                 last = f"HTTP {resp.status_code} (server error)"
@@ -104,7 +126,7 @@ def fetch(url, referer=None):
 
         except requests.exceptions.SSLError:
             try:
-                resp = requests.get(url, headers=headers, timeout=TIMEOUT,
+                resp = requests.get(url, headers=FEED_HEADERS, timeout=TIMEOUT,
                                     verify=False, allow_redirects=True)
                 if resp.status_code == 200:
                     return resp, "ok (certificate problem, verification skipped)"
