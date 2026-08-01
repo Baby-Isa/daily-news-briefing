@@ -11,11 +11,9 @@ UK | BBC UK | https://feeds.bbci.co.uk/news/uk/rss.xml |
 UK | Politico London Playbook | https://www.politico.eu/newsletter/london-playbook/feed/ |
 Europe | Euronews | https://www.euronews.com/rss |
 Europe | NYT Europe | https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml |
-Europe | NPR Europe | https://feeds.npr.org/1124/rss.xml |
 Europe | Politico Europe | https://www.politico.eu/feed/ |
 North America | NYT US | https://rss.nytimes.com/services/xml/rss/nyt/US.xml |
 North America | BBC US Canada | https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml |
-North America | NPR Americas | https://feeds.npr.org/1127/rss.xml |
 North America | CSM USA | https://rss.csmonitor.com/feeds/usa |
 Latin America | MercoPress | https://en.mercopress.com/rss/ |
 Latin America | BBC Latin America | https://feeds.bbci.co.uk/news/world/latin_america/rss.xml |
@@ -58,10 +56,8 @@ Politics | CSM Politics | https://rss.csmonitor.com/feeds/politics |
 Science | Nature | https://www.nature.com/nature.rss |
 Science | Phys.org | https://phys.org/rss-feed/
 Science | ScienceDaily | https://www.sciencedaily.com/rss/all.xml |
-Science | NPR Science | https://feeds.npr.org/1007/rss.xml |
 Space | Space.com | https://www.space.com/feeds/all |
 Space | NYT Space | https://rss.nytimes.com/services/xml/rss/nyt/Space.xml |
-Space | NPR Space | https://feeds.npr.org/1026/rss.xml |
 Health | STAT News | https://www.statnews.com/feed/ |
 Health | NYT Health | https://rss.nytimes.com/services/xml/rss/nyt/Health.xml |
 Health | NPR Health | https://feeds.npr.org/1128/rss.xml |
@@ -72,7 +68,6 @@ Energy | CSM Environment | https://rss.csmonitor.com/feeds/environment |
 AI and technology | MIT Tech Review | https://www.technologyreview.com/feed/ |
 AI and technology | The Verge | https://www.theverge.com/rss/index.xml |
 AI and technology | Ars Technica | https://arstechnica.com/feed/ |
-AI and technology | NPR Technology | https://feeds.npr.org/1019/rss.xml |
 Economy | Financial Times | https://www.ft.com/rss/home |
 Economy | NYT Economy | https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml | FULLTEXT
 Economy | NPR Business | https://feeds.npr.org/1006/rss.xml |
@@ -81,7 +76,6 @@ Business | BBC Business | https://feeds.bbci.co.uk/news/business/rss.xml |
 Built environment | Construction Dive | https://www.constructiondive.com/feeds/news/ |
 Built environment | ENR | https://www.enr.com/rss/articles |
 Law | CSM Commentary | https://rss.csmonitor.com/feeds/commentary |
-Society and culture | Aeon | https://aeon.co/feed.rss |
 Society and culture | NPR Culture | https://feeds.npr.org/1008/rss.xml |
 Society and culture | CSM Culture | https://rss.csmonitor.com/feeds/theculture |
 Conflict | War on the Rocks | https://warontherocks.com/feed/ |
@@ -90,14 +84,13 @@ Conflict | NPR National Security | https://feeds.npr.org/1122/rss.xml |
 ## WATCHLIST
 Arsenal | Guardian Arsenal | https://www.theguardian.com/football/arsenal/rss |
 Arsenal | Arseblog | https://arseblog.com/feed/ |
-Chainlink | Decrypt | https://decrypt.co/feed | FULLTEXT
-Chainlink | The Block | https://www.theblock.co/rss.xml |
-Chainlink | The Defiant | https://thedefiant.io/feed |
-Chainlink | CoinDesk | https://www.coindesk.com/arc/outboundfeeds/rss/ |
+Chainlink | Decrypt | https://decrypt.co/feed | FULLTEXT FILTER:chainlink,link token,oracle,ccip,smartcon,tokenised,tokenized,real-world asset
+Chainlink | The Block | https://www.theblock.co/rss.xml | FILTER:chainlink,link token,oracle,ccip,smartcon,tokenised,tokenized,real-world asset
+Chainlink | The Defiant | https://thedefiant.io/feed | FILTER:chainlink,link token,oracle,ccip,smartcon,tokenised,tokenized,real-world asset
+Chainlink | CoinDesk | https://www.coindesk.com/arc/outboundfeeds/rss/ | FILTER:chainlink,link token,oracle,ccip,smartcon,tokenised,tokenized,real-world asset
 OriginTrail | Medium OriginTrail | https://medium.com/feed/origintrail | QUIET
 
 ## SPECIAL INTERESTS
-Projectors | Engadget | https://www.engadget.com/rss.xml |
 Aviation | Simple Flying | https://simpleflying.com/feed/ |
 Aviation | One Mile at a Time | https://onemileatatime.com/feed/ |
 Aviation | AeroTime | https://www.aerotime.aero/feed |
@@ -127,9 +120,6 @@ Editorial | Aeon | https://aeon.co/feed.rss | FULLTEXT QUIET
 Agronomics | Google News Agronomics | https://news.google.com/rss/search?q=Agronomics+ANIC&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Agronomics | Google News cultivated meat | https://news.google.com/rss/search?q=cultivated+meat+investment&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 OriginTrail | Google News OriginTrail | https://news.google.com/rss/search?q=%22OriginTrail%22+OR+%22TRAC+token%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
-Employers | Google News PureGym | https://news.google.com/rss/search?q=%22PureGym%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
-Employers | Google News Ascenti | https://news.google.com/rss/search?q=%22Ascenti%22+physiotherapy&hl=en-GB&gl=GB&ceid=GB:en | QUIET
-Employers | Google News Newton | https://news.google.com/rss/search?q=%22Newton+Impact%22+OR+%22Newton+Europe%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Chainlink | Google News Chainlink | https://news.google.com/rss/search?q=%22Chainlink%22+crypto+OR+oracle&hl=en-GB&gl=GB&ceid=GB:en |
 
 ## REPLACEMENTS FOR THIN LANES
@@ -139,13 +129,11 @@ Law | SCOTUSblog | https://www.scotusblog.com/feed/ |
 Law | JURIST | https://www.jurist.org/news/feed/ |
 Projectors | Digital Trends Home Theater | https://www.digitaltrends.com/home-theater/feed/ |
 ## SECOND ROUND REPLACEMENTS
-Trends | Travel Weekly | https://www.travelweekly.co.uk/feed |
 Trends | Google News travel trends | https://news.google.com/rss/search?q=travel+tourism+trends&hl=en-GB&gl=GB&ceid=GB:en |
 North Africa | Google News North Africa | https://news.google.com/rss/search?q=Morocco+OR+Algeria+OR+Tunisia+OR+Libya+politics&hl=en-GB&gl=GB&ceid=GB:en |
 Sub-Saharan Africa | AllAfrica | https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf |
 Cameras | DPReview | https://www.dpreview.com/feeds/news.xml |
 Games | Eurogamer | https://www.eurogamer.net/feed |
-Built environment | Dezeen | https://www.dezeen.com/feed/ |
 E-commerce | Retail Dive | https://www.retaildive.com/feeds/news/ |
 ## THIRD ROUND ADDITIONS
 Trends | Skift Meetings | https://meetings.skift.com/feed/ |
@@ -154,7 +142,6 @@ Conflict | Long War Journal | https://www.longwarjournal.org/feed |
 ## AGRONOMICS PORTFOLIO AND SECTOR
 Agronomics | GN BlueNalu | https://news.google.com/rss/search?q=BlueNalu+cultivated+seafood&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Agronomics | GN Mosa Meat | https://news.google.com/rss/search?q=%22Mosa+Meat%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
-Agronomics | GN Clean Food Group | https://news.google.com/rss/search?q=%22Clean+Food+Group%22+yeast+oil&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Agronomics | GN Liberation Bio | https://news.google.com/rss/search?q=%22Liberation+Bioindustries%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Agronomics | GN Solar Foods | https://news.google.com/rss/search?q=%22Solar+Foods%22+protein+fermentation&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Agronomics | GN Onego Formo | https://news.google.com/rss/search?q=%22Onego+Bio%22+OR+%22Formo+GmbH%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
