@@ -1,7 +1,7 @@
 ======================================================================
 NEWS DIGEST for Saturday 01 August 2026
-Built 16:17 UTC
-688 unique stories from 145 feeds
+Built 16:32 UTC
+628 unique stories from 148 feeds
 ======================================================================
 
 Every item below is dated. Check each date against today before treating anything as new.
@@ -11,10 +11,10 @@ Every item below is dated. Check each date against today before treating anythin
 ## WORLD
 ######################################################################
 
---- UK (45) ---
+--- UK (44) ---
 
 * William and Kate bring children to Commonwealth Games netball and cycling events
-  BBC UK | 01 Aug 15:28 UTC
+  BBC UK | 01 Aug 16:20 UTC
   Spectators at Glasgow's OVO Hydro were treated to exhilarating performances during New Zealand's 61-54 win over England.
   https://www.bbc.co.uk/news/articles/cz7d1xpn5e8o?at_medium=RSS&at_campaign=rss
 
@@ -22,11 +22,6 @@ Every item below is dated. Check each date against today before treating anythin
   BBC UK | 01 Aug 15:28 UTC
   Fire crews remain at Dunwich Heath and RSPB Minsmere. Meanwhile, a fundraising appeal is launched.
   https://www.bbc.co.uk/news/articles/cy5dpzk115wo?at_medium=RSS&at_campaign=rss
-
-* Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says
-  BBC UK | 01 Aug 15:25 UTC [also carried by: ABC Australia, Al-Monitor, Channel News Asia, DW Asia, Dawn, Euronews, NYT AsiaPacific]
-  Renowned mountaineer Nirmal Purja died along with other team members in a powerful avalanche on Broad Peak, his climbing company confirmed on Saturday. The avalanche struck on Thursday, cutting off contact with the international expedition led by 43-year-old British-Nepali climber Purja. “It is with profound sadness and immense heartbreak that we confirm that Nirmal Purja tragically lost his life ...
-  https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss
 
 * First minister 'wants answers' after visiting families in wake of quarry blast flooding
   BBC UK | 01 Aug 14:25 UTC
@@ -49,12 +44,12 @@ Every item below is dated. Check each date against today before treating anythin
   https://www.bbc.co.uk/news/articles/cdx705xz2g7o?at_medium=RSS&at_campaign=rss
 
 * Greater Manchester mayor says Burnham's new powers will change lives
-  BBC UK | 01 Aug 13:15 UTC [also carried by: BBC UK]
+  BBC UK | 01 Aug 13:15 UTC
   Bev Craig succeeds Andy Burnham as Greater Manchester's mayor after winning Thursday's by-election.
   https://www.bbc.co.uk/news/articles/cddj3j50rmpo?at_medium=RSS&at_campaign=rss
 
 * Greek police fast-tracking tests to find out how British woman found in suitcase died
-  BBC UK | 01 Aug 13:02 UTC [also carried by: BBC UK]
+  BBC UK | 01 Aug 13:02 UTC
   Authorities are yet unable to say whether the death of Elisabeth-Jane Ross is considered murder, but toxicology tests are being fast-tracked.
   https://www.bbc.co.uk/news/articles/cz05yzzr93jo?at_medium=RSS&at_campaign=rss
 
@@ -72,11 +67,6 @@ Every item below is dated. Check each date against today before treating anythin
   BBC UK | 01 Aug 11:54 UTC
   The 120-year-old venue has been closed for almost four years while the work was carried out.
   https://www.bbc.co.uk/news/articles/cevm2mrv33go?at_medium=RSS&at_campaign=rss
-
-* Comfortable victory, but uncomfortable numbers for Labour in Greater Manchester
-  Sky News | 01 Aug 11:43 UTC [also carried by: Guardian UK]
-  Bev Craig succeeds Andy Burnham and wins back support in areas where Reform made gains in May Labour has stormed to a decisive victory in the Greater Manchester mayoral byelection, seizing back areas that recently fell to Reform UK and the Greens. Labour’s Bev Craig, the Manchester city council leader, will now succeed Andy Burnham and hold one of the most powerful political positions outside West...
-  https://news.sky.com/story/comfortable-victory-but-uncomfortable-numbers-for-labour-in-greater-manchester-13569010
 
 * On the ground in the English seaside town rightwing influencers say is being ‘invaded’
   Guardian UK | 01 Aug 11:00 UTC
@@ -213,6 +203,11 @@ Every item below is dated. Check each date against today before treating anythin
   This month, people across Europe will have the chance to see their first solar eclipse in nearly three decades.
   https://news.sky.com/story/the-first-solar-eclipse-in-almost-30-years-where-best-to-view-it-13568455
 
+* Labour wins decisive victory in Greater Manchester mayoral byelection
+  Guardian UK | 31 Jul 22:01 UTC [also carried by: Sky News]
+  Bev Craig succeeds Andy Burnham and wins back support in areas where Reform made gains in May Labour has stormed to a decisive victory in the Greater Manchester mayoral byelection, seizing back areas that recently fell to Reform UK and the Greens. Labour’s Bev Craig, the Manchester city council leader, will now succeed Andy Burnham and hold one of the most powerful political positions outside West...
+  https://www.theguardian.com/politics/2026/jul/31/labour-wins-decisive-victory-in-greater-manchester-mayoral-byelection
+
 * 'Total devastation': Suffolk wildfire still burning after two days as National Trust launches appeal
   Sky News | 31 Jul 19:02 UTC
   Firefighters are still tackling a blaze that has caused "total devastation" to a heathland in Suffolk – with the National Trust launching a public appeal to restore the reserve.
@@ -238,77 +233,32 @@ Every item below is dated. Check each date against today before treating anythin
   Duetting stars surpass record set in 1953, when crooner Frankie Laine hit the top with I Believe Sam Fender and Olivia Dean have scored the longest running UK No 1 single in history with Rein Me In , beating a record that has stood since 1953. Back then, the UK singles chart had been running for less than a year and contained just 12 songs when I Believe, a bombastic ballad by US crooner Frankie L...
   https://www.theguardian.com/music/2026/jul/31/sam-fender-olivia-dean-rein-me-in-breaks-73-year-record-longest-running-uk-no-1-single
 
---- Europe (49) ---
+--- Europe (18) ---
 
 * Migration Surge on the Spain-Morocco Border
   NYT Europe | 01 Aug 16:01 UTC [also carried by: Google News North Africa]
   Our Madrid bureau chief, Jason Horowitz, visits the coastal town of Ceuta, a Spanish territory in North Africa where there has been an unprecedented influx of migrants crossing the border from Morocco.
   https://www.nytimes.com/video/world/europe/100000011066115/migration-surge-on-the-spain-morocco-border.html
 
-* Latest news bulletin | August 1st, 2026 – Evening
-  Euronews | 01 Aug 16:00 UTC [also carried by: Euronews]
-  Catch up with the most important stories from around Europe and beyond this August 1st, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.
-  http://www.euronews.com/video/2026/08/01/latest-news-bulletin-august-1st-2026-evening
-
 * Spain Installs Floating Barrier in Ceuta After Influx of Migrants
   NYT Europe | 01 Aug 15:28 UTC [also carried by: Al Jazeera global, BBC Africa]
   Most of those who came to the territory, a Spanish exclave in Africa, have returned across the border to Morocco. At least 67 people died trying to enter, the authorities said.
   https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html
 
-* Germany's small islands: nature and slow living almost on your doorstep
-  Euronews | 01 Aug 15:20 UTC
-  When Germans talk about islands, many think of Sylt, Rügen or Usedom. Yet beyond these classics lie small islands ideal for short breaks, offering peace, nature and unique landscapes far from crowds.
-  http://www.euronews.com/travel/2026/08/01/germanys-small-islands-nature-and-slow-living-almost-on-your-doorstep
-
-* Hamburg celebrates Pride with increased security one week after deadly Berlin attack
-  Euronews | 01 Aug 15:10 UTC
-  The Hamburg event's motto this time is “Queer in solidarity. Take a stand — for a future without fear.”
-  http://www.euronews.com/my-europe/2026/08/01/hamburg-celebrates-pride-with-increased-security-one-week-after-deadly-berlin-attack
-
 * What Caused the Surge of Migrants From Morocco Into Ceuta?
-  NYT Europe | 01 Aug 14:56 UTC [also carried by: Google News North Africa, NYT Europe]
+  NYT Europe | 01 Aug 14:56 UTC [also carried by: Google News North Africa]
   Speculation has focused on lax Moroccan policing, attractive Spanish immigration policies and misinformation from human traffickers. In reality, experts said, it’s too early to know.
   https://www.nytimes.com/2026/07/31/world/europe/migrants-surge-morocco-ceuta-spain.html
-
-* Wildfires in Europe: blazes continue to spread in France and Greece
-  Euronews | 01 Aug 14:18 UTC
-  A wildfire in Provence continues spreading despite emergency services keeping it from nearby towns. Meanwhile, 400 firefighters battle winds-fueled fires threatening a coastal resort in Greece.
-  http://www.euronews.com/my-europe/2026/08/01/wildfires-in-europe-blazes-continue-to-spread-in-france-and-greece
 
 * Russian Missiles Kill 9 in Kyiv After Trump Backs Off Air-Defense Pledge
   NYT Europe | 01 Aug 13:49 UTC
   Ukraine’s supply of Patriot missile interceptors is dwindling, and on Friday, President Trump backed away from his promise to let Ukraine make them itself.
   https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html
 
-* Find in German cave: 40,000-year-old mammoth ivory bird figures discovered
-  Euronews | 01 Aug 13:35 UTC
-  During excavations in the Hohle Fels cave, archaeologists uncovered two bird figurines carved from mammoth ivory, hinting at humans’ striking artistic sense 40,000 years ago.
-  http://www.euronews.com/culture/2026/08/01/find-in-german-cave-40000-year-old-mammoth-ivory-bird-figures-discovered
-
 * Extreme Heat Has Transformed What Summer Means Across Generations in Europe
   NYT Europe | 01 Aug 12:39 UTC [also carried by: NYT Environment]
   Rising temperatures and more frequent heat waves have changed the feel of the season for today’s children, compared with their parents and grandparents.
   https://www.nytimes.com/2026/08/01/world/europe/europe-summer-heat-germany-climate-change.html
-
-* 'Not a single person reached mainland Spain or the rest of the EU', says von der Leyen
-  Euronews | 01 Aug 12:30 UTC
-  After around 60,000 irregular migrants entered the Ceuta Spanish enclave in North Africa, European Commission President Ursula von der Leyen said this Saturday that "the vast majority of those who arrived illegally have returned to Morocco."
-  http://www.euronews.com/my-europe/2026/08/01/not-a-single-person-reached-mainland-spain-or-the-rest-of-the-eu-says-von-der-leyen
-
-* 22 EU leaders call for emergency talks over Ceuta migrant crisis
-  Euronews | 01 Aug 12:05 UTC [also carried by: Google News North Africa]
-  The letter came as Spanish Prime Minister Pedro Sánchez hit out at some EU members over their response to the crisis.
-  http://www.euronews.com/my-europe/2026/08/01/22-eu-leaders-call-for-emergency-talks-over-ceuta-migrant-crisis
-
-* Situation in Ceuta 'almost entirely reversed' as death toll climbs to 67, Spain says
-  Euronews | 01 Aug 12:03 UTC
-  Under the watch of Spanish soldiers and police, the last remaining young migrants continued crossing back over the border to Morocco on Saturday morning.
-  http://www.euronews.com/my-europe/2026/08/01/situation-in-ceuta-almost-entirely-reversed-as-death-toll-climbs-to-67-spain-says
-
-* Lithuania moves to tighten curbs on pro-Kremlin Russian and Belarusian figures
-  Euronews | 01 Aug 11:46 UTC
-  Lithuania plans tougher restrictions on pro-Kremlin Russian and Belarusian nationals, including bans on public activities and tighter limits on buying property near sensitive sites, citing national security and anti-propaganda concerns.
-  http://www.euronews.com/my-europe/2026/08/01/lithuania-moves-to-tighten-curbs-on-pro-kremlin-russian-and-belarusian-figures
 
 * Out of the fire: Displaced French residents return home to leftover ruins
   NPR Europe | 01 Aug 11:46 UTC
@@ -321,14 +271,9 @@ Every item below is dated. Check each date against today before treating anythin
   https://www.npr.org/2026/08/01/nx-s1-5913338/how-locals-clubbed-together-to-save-historic-160-year-old-london-pub
 
 * Ceuta crisis: 22 EU leaders gang up against Spain’s Sánchez over his migration policy
-  Politico Europe | 01 Aug 11:10 UTC [also carried by: Politico Europe]
+  Politico Europe | 01 Aug 11:10 UTC [also carried by: Google News North Africa]
   The Spanish prime minister accuses EU partners of taking "selfish" and "unlawful" stances in response to the surge of migrants from Morocco.
   https://www.politico.eu/article/ceuta-crisis-22-eu-leaders-letter-spain-pedro-sanchez-migration-policy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-
-* Sánchez slams Europe's lack of solidarity over Ceuta in letter to von der Leyen
-  Euronews | 01 Aug 10:52 UTC
-  In a letter, Sánchez laments what he describes as a lack of EU solidarity driven by "prejudice, misinformation and attacks" for political gain.
-  http://www.euronews.com/my-europe/2026/08/01/sanchez-slams-europes-lack-of-solidarity-over-ceuta-in-letter-to-von-der-leyen
 
 * A French Village Becomes a Ghost Town After the Wildfires
   NYT Europe | 01 Aug 09:02 UTC [also carried by: NYT Environment]
@@ -345,152 +290,57 @@ Every item below is dated. Check each date against today before treating anythin
   Facing a long prison sentence or a forced trip to the front line of a war he opposes, Artyom Vovchenko believed it was worth taking a risk.
   https://www.nytimes.com/2026/08/01/world/europe/russia-war-deserter.html
 
-* Ceuta migrant crisis sparks strong reactions from all over Europe
-  Euronews | 01 Aug 08:50 UTC
-  "We will not yield an inch", "a failure of EU's migration policies", "demagoguery": the migrant crisis in Ceuta has sparked strong reactions from EU countries and political figures. Some are calling for Spain's suspension from the Schengen zone, others call these "instrumental attacks".
-  http://www.euronews.com/my-europe/2026/08/01/ceuta-migrant-crisis-sparks-strong-reactions-from-all-over-europe
-
-* Two reported attacks on tankers near Strait of Hormuz
-  Euronews | 01 Aug 08:48 UTC [also carried by: SCMP]
-  The United ⁠Kingdom Maritime Trade Operations (UKMTO) ⁠said on Saturday it had received reports of two maritime incidents off Oman, including one in which a tanker was struck by ‌an unknown projectile. In the first incident, a tanker was hit about 11 nautical miles northeast of Oman’s Lima. The vessel reported it was “struck by an unknown projectile which has caused damage to the engine room” and ...
-  http://www.euronews.com/2026/08/01/two-reported-attacks-on-tankers-near-strait-of-hormuz
-
 * Machthaber: Giorgia Meloni
-  Politico Europe | 01 Aug 08:00 UTC [also carried by: Politico Europe]
+  Politico Europe | 01 Aug 08:00 UTC
   Wer regiert die Welt – und was treibt sie an? In unserem regelmäßigen Machthaber-Spezial geht es um die mächtigsten und umstrittensten Politikerinnen und Politiker unserer Zeit. Wir zeigen, wie sie denken, entscheiden – und was das für uns bedeutet. Eine Politikerin oder Politiker, ein Blick hinter die Kulissen der Macht. Das Berlin Playbook als Podcast […]
   https://www.politico.eu/podcast/berlin-playbook-podcast/machthaber-giorgia-meloni/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
 
-* Could the EU kick Spain out of the Schengen area over the Ceuta crisis?
-  Euronews | 01 Aug 07:51 UTC
-  Italy reintroduced air and maritime border controls, while Finland and Denmark ask for full suspension of the free-movement rules for Spain. The European Commission has to trigger the procedure, a move which does not appear imminent.
-  http://www.euronews.com/my-europe/2026/08/01/could-the-eu-kick-spain-out-of-the-schengen-area-over-the-ceuta-crisis
-
-* Mysterious DNA: two unknown ancestors found in human genome
-  Euronews | 01 Aug 06:05 UTC [also carried by: ScienceDaily]
-  Modern humans carry DNA from two mysterious extinct lineages in addition to Neanderthals and Denisovans. Their hidden genetic legacy shows that our evolutionary past was shaped by repeated mixing among many different human groups.
-  http://www.euronews.com/health/2026/08/01/mysterious-dna-two-unknown-ancestors-found-in-human-genome
-
-* Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles
-  NYT Europe | 01 Aug 05:49 UTC [also carried by: Al-Monitor, BBC US Canada, Guardian Ukraine, NYT US, SCMP]
-  US President Donald Trump said on ⁠Friday that America has not agreed to Ukraine building Patriot missiles, but that talks are ongoing, adding that the US must be “very careful about letting somebody build them”. Trump said during a meeting with Ukrainian President Volodymyr Zelensky in Turkey this ‌month that he was going to give Ukraine a licence to manufacture Patriot missile interceptors to he...
-  https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html
-
-* US Senate bill on Russia sanctions risks backfiring against European allies
-  Euronews | 01 Aug 05:30 UTC
-  A sanctions bill making its way through the US Senate risks handing Donald Trump a powerful tool to slap tariffs on allies and adversaries alike.
-  http://www.euronews.com/my-europe/2026/08/01/us-senate-bill-on-russia-sanctions-risks-backfiring-against-european-allies
-
-* Tongue tied: Humans once spoke tens of thousands of languages, so what happened?
-  Euronews | 01 Aug 05:22 UTC
-  According to a study published in the journal Science, today's spoken languages are the legacy of a handful that survived a major "language bottleneck" in the past.
-  http://www.euronews.com/culture/2026/08/01/tongue-tied-humans-once-spoke-tens-of-thousands-of-languages-so-what-happened
-
-* ‘Not in my basement’: Why has Germany been so slow to adopt smart meters and what’s it costing?
-  Euronews | 01 Aug 05:01 UTC
-  Only around five per cent of German households have a smart meter – compared to almost universal rollout in many other EU nations.
-  http://www.euronews.com/2026/08/01/not-in-my-basement-why-has-germany-been-so-slow-to-adopt-smart-meters-and-whats-it-costing
-
-* Danube dries in heat: skeleton of giant mammoth uncovered in Bulgaria
-  Euronews | 01 Aug 05:00 UTC
-  Record-low water levels have exposed the bones of a large mammoth in the riverbed near the village of Ryahovo in Bulgaria. Experts believe it is a woolly mammoth (Mammuthus primigenius).
-  http://www.euronews.com/2026/08/01/danube-dries-in-heat-skeleton-of-giant-mammoth-uncovered-in-bulgaria
-
-* Ice cream economics: How long do you have to work for one scoop?
-  Euronews | 01 Aug 05:00 UTC
-  In an indicative comparison of prices in 10 European countries, Euronews found that affording a scoop of ice cream required the most working time in Greece — nearly three times as much as in Germany.
-  http://www.euronews.com/business/2026/08/01/ice-cream-economics-how-long-do-you-have-to-work-for-one-scoop
-
-* Scenic, secluded and stress-free: These are Europe’s best islands for a road trip
-  Euronews | 01 Aug 05:00 UTC
-  Whether you're chasing dramatic scenery, searching for solitude or looking for a calming adventure, here are the top recommendations.
-  http://www.euronews.com/travel/2026/08/01/scenic-secluded-and-stress-free-these-are-europes-best-islands-for-a-road-trip
-
 * Labour holds Greater Manchester mayoralty after counting goes to second round
-  Politico Europe | 01 Aug 04:09 UTC [also carried by: Politico Europe]
+  Politico Europe | 01 Aug 04:09 UTC
   Bev Craig will succeed Andy Burnham, whose departure for Westminster triggered the special election.
   https://www.politico.eu/article/labour-holds-greater-manchester-mayoralty-after-counting-goes-to-second-round/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-
-* Wildfires: Var department once again facing the flames
-  Euronews | 31 Jul 20:23 UTC
-  Fanned by the mistral and extreme heat, the blaze swept through 1,000 hectares in six hours; 2,500 people were evacuated near the Gros Bessillon massif and the village of Correns is now completely cut off.
-  http://www.euronews.com/2026/07/31/wildfires-var-department-once-again-facing-the-flames
-
-* Earthquake strikes volcanic area near Naples, injuring 21 people and causing extensive damage
-  Euronews | 31 Jul 20:08 UTC
-  A magnitude 4.7 earthquake struck the Phlegraean Fields, a volcanic area near Naples in southern Italy, injuring 21 people and damaging buildings and churches.
-  http://www.euronews.com/my-europe/2026/07/31/strongest-earthquake-in-years-strikes-volcanic-area-near-naples-injuring-four
-
-* Spain's legal dilemma behind Ceuta's record migrant arrivals
-  Euronews | 31 Jul 19:49 UTC
-  Ceuta is facing its worst migration crisis since 2021, with its reception centre overflowing and facilities for unaccompanied minors operating at 1,600% of capacity.
-  http://www.euronews.com/my-europe/2026/07/31/spains-legal-dilemma-behind-ceutas-record-migrant-arrivals
 
 * Young Men Poured Into Ceuta Seeking Work
   NYT Europe | 31 Jul 19:18 UTC
   Several migrants said they had been motivated by social media messages claiming that the Spanish border was open, though the origin of those messages remained unclear.
   https://www.nytimes.com/2026/07/31/world/europe/young-men-poured-into-ceuta-seeking-work.html
 
-* Inside Ceuta: Residents face fear and uncertainty as migrant numbers soar; bread is scarce, shops are closed
-  Euronews | 31 Jul 19:01 UTC
-  Most shops are shut, bread is scarce, and local festivities have been cancelled after tens of thousands of migrants arrived from Morocco. Residents and local authorities describe growing fear and uncertainty as returns continue.
-  http://www.euronews.com/my-europe/2026/07/31/inside-ceuta-residents-face-fear-and-uncertainty-as-migrant-numbers-soar-bread-is-scarce-s
-
 * Far-right politicians seize on Ceuta
   NYT Europe | 31 Jul 18:30 UTC
   Several migrants who crossed into Ceuta attributed their arrival to lax Moroccan border protocols. But Europe’s anti-immigrant politicians blamed Spain’s migrant-friendly policies.
   https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-far-right-backlash.html
-
-* Wildfire breaks out near Athens, prompting evacuation alerts
-  Euronews | 31 Jul 18:07 UTC
-  The fire broke out at around 3:30 p.m. on Friday on the slopes of Mount Poikilo, in the Aspropyrgos area, west of Athens.
-  http://www.euronews.com/my-europe/2026/07/31/wildfire-breaks-out-near-athens-prompting-evacuation-alerts
-
-* Migrants in Ceuta cannot move to other countries, EU says
-  Euronews | 31 Jul 17:34 UTC
-  The European Commission says migrants who entered the Spanish enclave irregularly will not reach mainland Europe, as EU countries call for Spain’s suspension from Schengen over border-control failures.
-  http://www.euronews.com/my-europe/2026/07/31/migrants-in-ceuta-cannot-move-to-other-countries-eu-says
 
 * Ceuta Evokes Europe’s 2015 Migration Crisis. But Much Has Changed Since.
   NYT Europe | 31 Jul 17:16 UTC
   The crossing of 50,000 people to Spanish territory this week has created a crisis for the Spanish government, much as the 2015 migration crisis did for Europe’s leaders. The context is different.
   https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-migration-2015-legal-changes.html
 
-* Liberia sacks officials after record cocaine seizures worth $336 million
-  Euronews | 31 Jul 17:11 UTC
-  The drug busts have intensified scrutiny of Liberia's narcotics problem, with social media users, political commentators and local media calling for greater accountability from public officials and swift progress in the investigation.
-  http://www.euronews.com/2026/07/31/liberia-sacks-officials-after-record-cocaine-seizures-worth-336-million
-
-* Almost all of Ceuta migrants have returned to Morocco, Spain says
-  Politico Europe | 31 Jul 17:05 UTC [also carried by: BBC Africa, Politico Europe]
-  Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.
-  https://www.politico.eu/article/almost-all-ceuta-migrants-returned-morocco-spain-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-
 * Ukraine’s Strike on Iranian Ship Shows How Two Wars Could Spiral
   NYT Europe | 31 Jul 16:57 UTC [also carried by: NYT US]
   Iran sent military aid to Russia for its war against Ukraine. Now the question is whether that conflict and the U.S.-Israeli war against Iran are converging.
   https://www.nytimes.com/2026/07/31/us/politics/iran-ukraine-war.html
 
-* One dead, five missing after a building collapses in Italy
-  Euronews | 31 Jul 16:32 UTC
-  The body found after the collapse of a two-storey building near Messina is believed to be that of a local businessman. Five people remain missing.
-  http://www.euronews.com/my-europe/2026/07/31/one-dead-five-missing-after-a-building-collapses-in-italy
-
 * Northern Ireland misses a deadline to fix its budget crisis
-  Politico Europe | 31 Jul 16:32 UTC [also carried by: Politico Europe]
+  Politico Europe | 31 Jul 16:32 UTC
   Stormont’s pleas for more Treasury billions overshadow Northern Ireland Secretary Chris Bryant’s first day on the ground.
   https://www.politico.eu/article/northern-ireland-misses-a-deadline-to-fix-its-budget-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
 
-* London mayor Sadiq Khan accuses Palantir of bypassing procurement rules
-  Politico Europe | 31 Jul 16:17 UTC [also carried by: Politico Europe]
-  The Met Police intended “at each stage” to award the larger contract to the U.S. tech firm, a legal statement claims.
-  https://www.politico.eu/article/sadiq-khan-london-police-palantir-legal-case-bypassing-procurement-rules/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-
 --- North America (33) ---
+
+* Current Ebola outbreak worst ever in DR Congo, WHO says
+  BBC US Canada | 01 Aug 16:16 UTC [also carried by: BBC Africa]
+  The current strain has so far killed 1,587 people, and there is currently no approved vaccine or treatment.
+  https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss
 
 * How the Michigan Primary Is Dividing Jewish Voters
   NYT US | 01 Aug 16:00 UTC
   U.S. support for Israel is dividing Jewish voters — and reshaping the Democratic Party — ahead of Michigan’s primary on Aug. 4. We traveled to Detroit to meet campaigners on both sides of the issue, and find out how the war in Gaza has shaped their politics, and tested their community.
   https://www.nytimes.com/video/us/elections/100000011063444/michigan-primary-elections-jewish-voters.html
+
+* Trump threatens to revive $1.8bn 'anti-weaponisation' fund as Senate standoff deepens
+  BBC US Canada | 01 Aug 15:58 UTC
+  "It will immediately be back on the table, and I will get it done," the president wrote.
+  https://www.bbc.co.uk/news/articles/cj9dwkk1lk7o?at_medium=RSS&at_campaign=rss
 
 * 'Our hearts are in ruins,' Savannah Guthrie says after kidnapped mother's ransom notes released
   BBC US Canada | 01 Aug 15:38 UTC
@@ -511,11 +361,6 @@ Every item below is dated. Check each date against today before treating anythin
   NYT US | 01 Aug 14:29 UTC
   A previously undisclosed subpoena, involving reporting on a failed SEAL Team 6 mission in North Korea, reflects the government’s expanding campaign to investigate leaks of secrets.
   https://www.nytimes.com/2026/08/01/us/politics/times-subpoena-reporter-trump-north-korea.html
-
-* Charges Dropped Against Ex-Olympian David Hearn Accused of Damaging Reflecting Pool
-  NYT US | 01 Aug 14:11 UTC [also carried by: Al Jazeera global, SCMP]
-  The US Justice Department moved Friday to dismiss a criminal case charging a former Olympian with deliberately damaging the Lincoln Memorial Reflecting Pool. Government lawyers said in a 20-page court filing that information provided since the indictment of David Hearn shows that the damage was the result of a “flawed installation by the contractor” as well as “the rush to complete the project pri...
-  https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html
 
 * How a Culver City In-N-Out Ignited a Drive-Through Debate
   NYT US | 01 Aug 14:09 UTC
@@ -571,11 +416,6 @@ Every item below is dated. Check each date against today before treating anythin
   NYT US | 31 Jul 23:47 UTC
   It was the latest sign that the president was doubling down on his fight for aspects of a deal that brings him vast benefits, even though they have jeopardized the confirmation of his pick for attorney general.
   https://www.nytimes.com/2026/07/31/us/politics/trump-appeal-irs-lawsuit-ruling.html
-
-* Missing Australian Hiker Found Dead on Wyoming Trail
-  NYT US | 31 Jul 23:26 UTC [also carried by: Guardian Australia]
-  Body of William Standish discovered in Teton mountains as investigators say fatal fall likely cause of death A 28-year-old Australian hiker who lost contact with his family while hiking the Continental Divide Trail between Yellowstone and Grand Teton national parks in Wyoming has been found dead, according to authorities. The man, identified as William Standish, was discovered by rescuers on Wedne...
-  https://www.nytimes.com/2026/07/31/us/wyoming-continental-divide-trail-hiker-dead.html
 
 * Trump and Netanyahu May Be at Odds Again Over Gaza Plan
   NYT US | 31 Jul 23:05 UTC
@@ -652,7 +492,7 @@ Every item below is dated. Check each date against today before treating anythin
   Christina Hart, 29, started posting reviews on social media in May. Less than two months later, a stomach illness forced her to stop.
   https://www.nytimes.com/2026/07/31/us/cyclospora-cyclosporiasis-nashville.html
 
---- Latin America (13) ---
+--- Latin America (15) ---
 
 * When legacy media’s hypocrisy gets called out: A perspective from our CEO
   Mexico News Daily | 01 Aug 13:00 UTC
@@ -689,6 +529,16 @@ Every item below is dated. Check each date against today before treating anythin
   Mexico is building a vast biometric ID system and expanding camera networks. Critics warn the infrastructure could enable the kind of surveillance state China spent decades constructing. The post Opinion: Is China Claudia Sheinbaum’s surveillance model for Mexico? appeared first on Mexico News Daily
   https://mexiconewsdaily.com/news/digital-surveillance-china-claudia-sheinbaum-mexico-opinion/
 
+* Mexican soccer officials break ranks wth US and Canada by not rejecting FIFA’s World Cup privatization plan
+  Mexico News Daily | 31 Jul 22:25 UTC
+  FIFA President Gianni Infantino's plan to privatize chunks of the organization that controls international soccer has drawn nearly universal rejection, but the Mexican Football Federaion is keeping its options open. The post Mexican soccer officials break ranks wth US and Canada by not rejecting FIFA’s World Cup privatization plan appeared first on Mexico News Daily
+  https://mexiconewsdaily.com/lifestyle/mexico-breaks-ranks-wth-us-canada-not-rejecting-fifas-privatization-plans/
+
+* Three confederations reject selling part of the World Cup to private funds; Conmebol asks for explanations
+  MercoPress | 31 Jul 22:05 UTC
+  The South American Football Confederation asked FIFA on Friday for additional information and clarification on the FIFA Forward Enterprise project, without coming out for or against it, a day after the confederations of Europe and of North and Central America and the Caribbean rejected the plan.
+  https://en.mercopress.com/2026/07/31/three-confederations-reject-selling-part-of-the-world-cup-to-private-funds-conmebol-asks-for-explanations?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss
+
 * Harry Styles concerts will boost Mexico City’s economy by 2 billion pesos
   Mexico News Daily | 31 Jul 21:07 UTC
   Confirming Mexico City's entertainment tourism pull, the Styles concerts (6) outnumber the CDMX World Cup games (5), the projected 400,000 attendance is in the ballpark with the Estadio Azteca attendance, and a large percentage will be from out of town. The post Harry Styles concerts will boost Mexico City’s economy by 2 billion pesos appeared first on Mexico News Daily
@@ -719,20 +569,25 @@ Every item below is dated. Check each date against today before treating anythin
   Following recent news regarding the decline in "high-value visitors," tourist officials in Mexico have pivoted to an ambitious new plan. The post El Jalapeño: Tourism ministry rebrands falling revenue as bold ‘low-value visitor’ strategy appeared first on Mexico News Daily
   https://mexiconewsdaily.com/el-jalapeno/tourism-ministry-rebrands-falling-revenue-as-bold-low-value-visitor-strategy/
 
---- Middle East (39) ---
+--- Middle East (38) ---
+
+* Israel says it killed three Hezbollah fighters despite ceasefire
+  Middle East Eye | 01 Aug 16:29 UTC
+  Israel says it killed three Hezbollah fighters despite ceasefire The Israeli military has claimed that it has killed three Hezbollah fighters in southern Lebanon in further violation of ceasefire agreements. "The soldiers struck the terrorists and eliminated them in order to remove the threat," the Israeli military said in a statement. The Israeli attacks took place on the strategically important ...
+  https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-it-killed-three-hezbollah-fighters-despite-ceasefire
+
+* Moroccan rapper Mehdi El Youbi temporarily released from prison
+  Al Jazeera global | 01 Aug 16:15 UTC
+  The outspoken artist was detained in mid-July for ‘insulting a constitutional institution'.
+  https://www.aljazeera.com/news/2026/8/1/moroccan-rapper-mehdi-el-youbi-temporarily-released-from-prison?traffic_source=rss
 
 * At least 11 wounded by Colombia car bomb days before presidential election
   Al Jazeera global | 01 Aug 15:48 UTC
   President-elect Abelardo de la Espriella pledges to pursue harsh crackdown on rebel groups and criminal organisations.
   https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss
 
-* US embassies tell citizens to 'consider departing' Middle East
-  Middle East Eye | 01 Aug 15:38 UTC [also carried by: Channel News Asia, France 24 ME]
-  US embassies tell citizens to 'consider departing' Middle East US embassies across the Middle East have issued security alerts urging American citizens to "consider departing" the region due to "the potential for an unforseen escalation" in the conflict between the US and Iran. The warnings come after US President Donald Trump threatened to hit Iran "very hard" on Friday amid widespread US media r...
-  https://www.middleeasteye.net/live-blog/live-blog-update/us-embassies-tell-citizens-consider-departing-middle-east
-
 * Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings
-  Al Jazeera global | 01 Aug 15:34 UTC [also carried by: Al Jazeera global]
+  Al Jazeera global | 01 Aug 15:34 UTC
   Former officials will appeal sentences handed down for neglecting intelligence warnings before the deadly attacks.
   https://www.aljazeera.com/news/2026/8/1/two-ex-sri-lanka-officials-sentenced-to-death-over-2019-easter-bombings?traffic_source=rss
 
@@ -740,11 +595,6 @@ Every item below is dated. Check each date against today before treating anythin
   Al Jazeera global | 01 Aug 14:28 UTC
   Police cases, social media takedowns and online abuse have followed many who took part in India’s youth protests.
   https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss
-
-* Israeli strike destroys Gaza hospital warehouse
-  Al Jazeera global | 01 Aug 14:07 UTC [also carried by: Middle East Eye]
-  Israeli forces kill one and destroy two hospital warehouses in Gaza strike Gaza's health ministry has condemned the destruction of two medicine warehouses belonging to Al-Aqsa Martyrs Hospital by Israeli forces in Deir al-Balah on Saturday morning. "The destructive force of the missiles used resulted in the complete destruction of two out of four warehouses at the targeted site, in addition to cau...
-  https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss
 
 * GCC condemns Iranian attacks in Kuwait
   Middle East Eye | 01 Aug 13:55 UTC
@@ -771,15 +621,15 @@ Every item below is dated. Check each date against today before treating anythin
   Spanish commentators accuse Israel and US of involvement in Ceuta crisis Submitted by Imran Mulla on Sat, 08/01/2026 - 12:40 Some 60,000 people crossed into Ceuta from Morocco this week, including around 8,000 children A Spanish soldier escorts a group of migrants on their way back towards the Moroccan border, following their illegal crossing into the Spanish enclave of Ceuta, on 1 August 2026 (AF...
   https://www.middleeasteye.net/news/spanish-minister-clashes-israeli-diplomat-over-migrants-entering-ceuta-morocco
 
-* Iran warns against ‘flames of war’ amid US strike threats on energy sites
-  Al Jazeera global | 01 Aug 12:44 UTC [also carried by: Al Jazeera global]
-  From coup to conflict - how decades of rivalries and miscalculations have shaped one of today’s most dangerous wars.
-  https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss
-
 * Sde Teiman walkout lays bare an Israeli military running out of trust
   Al Jazeera global | 01 Aug 12:40 UTC
   Nearly three years of open-ended war have made obedience inside the Israeli military increasingly conditional.
   https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss
+
+* Israeli forces kill one and destroy two hospital warehouses in Gaza strike
+  Middle East Eye | 01 Aug 12:30 UTC [also carried by: Al Jazeera global]
+  Israeli forces kill one and destroy two hospital warehouses in Gaza strike Gaza's health ministry has condemned the destruction of two medicine warehouses belonging to Al-Aqsa Martyrs Hospital by Israeli forces in Deir al-Balah on Saturday morning. "The destructive force of the missiles used resulted in the complete destruction of two out of four warehouses at the targeted site, in addition to cau...
+  https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-destroy-two-hospital-warehouses-gaza
 
 * 'We cried instead of celebrating': War and loss shadow Gaza's top students
   Middle East Eye | 01 Aug 12:29 UTC
@@ -801,15 +651,15 @@ Every item below is dated. Check each date against today before treating anythin
   US President Donald Trump mimicked missile interceptions as he described the US military shooting down Iranian missiles.
   https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss
 
-* India’s Modi says he forgives students who abused him in Cockroach protests
-  Al Jazeera global | 01 Aug 11:08 UTC [also carried by: Channel News Asia, DW Asia, Dawn]
-  Indian Prime Minister Narendra Modi said he wanted to “forgive” protesters who abused him during recent youth-led demonstrations that dealt a rare political setback to his government. The remarks came after the online Cockroach Janta Party (CJP) mobilised large protests in New Delhi and other cities over examination paper leaks, posing the biggest challenge to Modi’s government in recent years. So...
-  https://www.aljazeera.com/news/2026/8/1/indias-modi-says-he-forgives-students-who-abused-him-in-cockroach-protests?traffic_source=rss
-
 * Famed climber Purja confirmed dead as bodies recovered from Broad Peak
   Al Jazeera global | 01 Aug 10:38 UTC
   Pakistani rescuers have recovered three of 10 missing climbers swept away in avalanche on world's 12th largest peak.
   https://www.aljazeera.com/news/2026/8/1/omani-legend-us-novice-pakistan-recovers-bodies-from-broad-peak?traffic_source=rss
+
+* Iran: The Making of a War
+  Al Jazeera global | 01 Aug 10:30 UTC
+  From coup to conflict - how decades of rivalries and miscalculations have shaped one of today’s most dangerous wars.
+  https://www.aljazeera.com/video/featured-documentaries/2026/8/1/iran-the-making-of-a-war?traffic_source=rss
 
 * Israeli drone attack kills two Palestinians in Gaza
   Middle East Eye | 01 Aug 10:06 UTC
@@ -835,6 +685,11 @@ Every item below is dated. Check each date against today before treating anythin
   Al Jazeera global | 01 Aug 09:47 UTC
   Iranian Kurdish groups based in Iraq have been heavily attacked in the war, but most deny US assistance.
   https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss
+
+* Beneath Tunisia’s silence, public anger simmers
+  Al Jazeera global | 01 Aug 09:42 UTC [also carried by: Google News North Africa]
+  Behind Tunisia’s enforced calm, anger is growing over repression, economic decline and collapsing public services.
+  https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss
 
 * Houthis deny planning to charge ships passing through Red Sea
   Middle East Eye | 01 Aug 09:16 UTC [also carried by: Al-Monitor]
@@ -862,7 +717,7 @@ Every item below is dated. Check each date against today before treating anythin
   https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-army-says-air-defence-systems-intercepting-hostile-drones
 
 * UKMTO says explosion near tanker off Oman reported
-  Middle East Eye | 01 Aug 06:20 UTC [also carried by: Middle East Eye]
+  Middle East Eye | 01 Aug 06:20 UTC
   UKMTO says explosion near tanker off Oman reported The United Kingdom Maritime Trade Operations (UKMTO) said it received a report of an incident 21 nautical miles northeast of Oman's Khasab, where the master of a tanker saw a large splash and an explosion in close proximity to the vessel. No damage to the vessel had been reported, UKMTO said. Earlier, it reported a tanker had been struck by an unk...
   https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-explosion-near-tanker-oman-reported
 
@@ -891,37 +746,22 @@ Every item below is dated. Check each date against today before treating anythin
   'Driver of global instability': UN chief says Middle East fighting must stop UN secretary-general Antonio Guterres has said that fighting must stop on all fronts in the Middle East as it is increasingly becoming a driver of global instability, according to Reuters. The UN chief noted that trade through the Strait of Hormuz has collapsed, energy markets have been upended, prices of food and key fer...
   https://www.middleeasteye.net/live-blog/live-blog-update/driver-global-instability-un-chief-says-middle-east-fighting-must-stop
 
-* Protesters detained at rally in support of Pakistan-administered Kashmir
-  Al Jazeera global | 01 Aug 04:39 UTC
-  Police detained several protesters in Lahore, Pakistan as they rallied in solidarity with Pakistan-administered Kashmir.
-  https://www.aljazeera.com/video/newsfeed/2026/8/1/protesters-detained-at-rally-in-support-of-pakistan-administered-kashmir?traffic_source=rss
-
 * HRF says Dutch took no action against Israeli soldier despite criminal complaint
   Middle East Eye | 01 Aug 04:13 UTC
   HRF says Dutch took no action against Israeli soldier despite criminal complaint The Hind Rajab Foundation (HRF) has said that Dutch authorities took no action against an Israeli reservist despite an urgent criminal complaint accusing him of war crimes during his visit to the Netherlands. HRF said it filed the complaint with the Dutch National Public Prosecutor’s Office against Leon Khlebnikov, an...
   https://www.middleeasteye.net/live-blog/live-blog-update/hrf-says-dutch-took-no-action-against-israeli-soldier-despite-criminal
-
-* Iran will further tighten Hormuz if US naval blockade continues, top official says
-  Middle East Eye | 01 Aug 03:16 UTC
-  Iran will further tighten Hormuz if US naval blockade continues, top official says A top official of Iran's Supreme National Security Council (SNSC) has warned that if the US continues with its naval blockade on Tehran's ports, it will further seal the Strait of Hormuz and block other strategic passages, according to IRNA. Mohammad Baqer Zolqadr, the secretary of SNSC and a veteran Islamic Revolut...
-  https://www.middleeasteye.net/live-blog/live-blog-update/iran-will-further-tighten-hormuz-if-us-naval-blockade-continues-top
 
 * Trump's plan for Gaza faces huge hurdles ahead
   NPR Middle East | 31 Jul 20:20 UTC
   President Trump announced a "historic breakthrough" in his plan to bring peace to Gaza, but huge hurdles remain.
   https://www.npr.org/2026/07/31/nx-s1-5915644/trumps-plan-for-gaza-faces-huge-hurdles-ahead
 
-* Replay: US President Donald Trump addresses Cabinet meeting
-  France 24 ME | 31 Jul 16:22 UTC
-  Rewatch US President Donald Trump's address during a cabinet meeting at the Camp David retreat following the announcement that Hamas had agreed to disarm in Gaza as part of a US-brokered plan.
-  https://www.france24.com/en/replay-us-president-donald-trump-addresses-cabinet-meeting
+* Hamas agrees to disarm under Trump ceasefire deal
+  France 24 ME | 31 Jul 18:25 UTC
+  Hamas said on Friday it had agreed to hand over its weapons to a Palestinian governing committee as part of a US-backed roadmap that would see a gradual Israeli military withdrawal from Gaza, though Israel said it would not pull back until the militant group is fully disarmed.
+  https://www.france24.com/en/middle-east/20260731-hamas-agrees-to-disarm-under-trump-plan
 
 --- East Africa (13) ---
-
-* Why Trump chose ex-CIA man Checker as Rwanda envoy
-  The EastAfrican | 01 Aug 14:00 UTC
-  Mr Checker has a good knowledge of the region, having held senior roles at the State...
-  https://www.theeastafrican.co.ke/tea/news/east-africa/why-trump-chose-ex-cia-man-checker-as-rwanda-envoy--5543644
 
 * Kenyan tea exports shift from Sudan, Iran, to China, South Africa
   The EastAfrican | 01 Aug 10:00 UTC
@@ -958,15 +798,15 @@ Every item below is dated. Check each date against today before treating anythin
   Excluding local communities from mining economies is fuelling conflict, illegal trade and lost...
   https://www.theeastafrican.co.ke/tea/business-tech/continent-looks-to-bottoms-up-deal-mineral-exploitation-5543172
 
+* From 2002 to 2027: How first-term senator Sifuna is changing Kenya’s election game
+  The EastAfrican | 01 Aug 03:00 UTC
+  If he goes for the top seat in the land, he’ll be the second youngest candidate after Uhuru.
+  https://www.theeastafrican.co.ke/tea/news/east-africa/senator-sifuna-is-changing-kenya-election-game-5543192
+
 * EAC must stop rewarding any form of hypocrisy
   The EastAfrican | 01 Aug 03:00 UTC
   East Africa has spent decades marketing itself as a single market. It is time its governments...
   https://www.theeastafrican.co.ke/tea/opinion/editorials/eac-must-stop-rewarding-any-form-of-hypocrisy-5543202
-
-* From 2002 to 2027: How first-term senator Sifuna is changing Kenya’s election game
-  The EastAfrican | 01 Aug 03:00 UTC
-  If he goes for the top seat in the land, he’ll be the second youngest major party candidate...
-  https://www.theeastafrican.co.ke/tea/news/east-africa/senator-sifuna-is-changing-kenya-election-game-5543192
 
 * Ethiopian death row inmates desperate to escape execution in Saudi Arabia call the BBC
   BBC Africa | 31 Jul 23:41 UTC
@@ -983,17 +823,22 @@ Every item below is dated. Check each date against today before treating anythin
   A U.S. company in Rwanda has been providing medical supplies via drone. But even state-of-the-art technology can't overcome a weak health care infrastructure.
   https://www.npr.org/2026/07/31/nx-s1-5867626/drone-delivery-helps-in-rwanda-but-only-so-much
 
---- Sub-Saharan Africa (33) ---
+* Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco
+  BBC Africa | 31 Jul 17:03 UTC [also carried by: Politico Europe]
+  Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.
+  https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss
 
-* Life in Spanish enclave 'disrupted' by migrant influx, says Ceuta mayor
-  Africanews | 01 Aug 14:54 UTC [also carried by: France 24 Africa]
-  Almost all of the migrants who entered Spain’s enclave of Ceuta had left by Saturday, according to officials. An estimated 60,000 migrants entered Ceuta from neighbouring Morocco over just a few days, with at least 67 people losing their lives in the attempt. Spain has announced plans to install a 500-metre-long containment barrier along the sea border. Meanwhile, a majority of EU countries have c...
-  http://www.africanews.com/2026/08/01/life-in-spanish-enclave-disrupted-by-migrant-influx-says-ceuta-mayor/
+--- Sub-Saharan Africa (21) ---
 
 * Ceuta: Spain slams "selfish" EU partners
-  France 24 Africa | 01 Aug 14:42 UTC [also carried by: France 24 Africa, Politico Europe]
+  France 24 Africa | 01 Aug 14:42 UTC [also carried by: Politico Europe]
   Almost all of the migrants who entered Spain’s enclave of Ceuta had left by Saturday, according to officials. An estimated 60,000 migrants entered Ceuta from neighbouring Morocco over just a few days, with at least 67 people losing their lives in the attempt. Spain has announced plans to install a 500-metre-long containment barrier along the sea border. Meanwhile, a majority of EU countries have c...
   https://www.france24.com/en/ceuta-spain-slams-selfish-eu-partners
+
+* Ceuta enclave "almost" back to normal after migrant influx
+  France 24 Africa | 01 Aug 14:40 UTC [also carried by: Africanews]
+  Almost all of the migrants who entered Spain’s enclave of Ceuta had left by Saturday, according to officials. An estimated 60,000 migrants entered Ceuta from neighbouring Morocco over just a few days, with at least 67 people losing their lives in the attempt. Spain has announced plans to install a 500-metre-long containment barrier along the sea border. Meanwhile, a majority of EU countries have c...
+  https://www.france24.com/en/video/20260801-ceuta-enclave-almost-back-to-normal-after-migrant-influx-1
 
 * Africa: Africa's Energy Crossroads: What Namibia's Rise and South Africa's Debate Mean for the Continent
   AllAfrica | 01 Aug 14:19 UTC
@@ -1011,17 +856,17 @@ Every item below is dated. Check each date against today before treating anythin
   http://www.africanews.com/2026/08/01/search-for-missing-prolongs-the-agony-for-families-in-gaza/
 
 * Africa: Fighting erupts in Ethiopia's Tigray
-  France 24 Africa | 01 Aug 11:52 UTC [also carried by: France 24 Africa]
+  France 24 Africa | 01 Aug 11:52 UTC
   Clashes between Tigray’s TPLF and the Ethiopian federal army are taking place in a contested area of the northern region, with fears of a renewed war. The last Tigray war, which took place between 2020-2022 left 600,000 dead, and the region has not yet recovered. But mediation attempts from the US and African Union have seemingly failed to prevent the worst. Our correspondent in Addis Ababa Tom Ca...
   https://www.france24.com/en/africa-fighting-erupts-in-ethiopia-s-tigray
 
 * Ceuta 2026 dwarfs 2021 migration crisis
-  France 24 Africa | 01 Aug 11:51 UTC [also carried by: France 24 Africa]
+  France 24 Africa | 01 Aug 11:51 UTC
   Almost all of the tens of thousands of migrants who entered Spain’s enclave of Ceuta had left by Saturday, according to officials. An estimated 60,000 migrants crossed into Ceuta from neighbouring Morocco over just a few days, with at least 67 people losing their lives in the attempt. Spain has announced plans to install a 500-metre-long containment barrier along the sea border, while a majority o...
   https://www.france24.com/en/ceuta-2026-dwarfs-2021-migration-crisis
 
 * Ceuta: 60,000 cross the border, 57 died
-  France 24 Africa | 01 Aug 11:21 UTC [also carried by: France 24 Africa]
+  France 24 Africa | 01 Aug 11:21 UTC
   After a day of deadly chaos in Spain’s tiny North African enclave of Ceuta, calm has returned for now. Of the 60,000 migrants who stormed into the territory, around 45,000 returned to neighbouring Morocco within hours. Authorities ordered people to turn around and go back, warning they could otherwise face eventual expulsion. There were fears the massive surge could trigger a humanitarian crisis. ...
   https://www.france24.com/en/ceuta-60-000-cross-the-border-57-died
 
@@ -1041,7 +886,7 @@ Every item below is dated. Check each date against today before treating anythin
   http://www.africanews.com/2026/08/01/france-and-italy-boost-border-controls-after-migrant-influx-to-spanish-enclave/
 
 * Ceuta: What triggered mass migrant crossing?
-  France 24 Africa | 01 Aug 09:03 UTC [also carried by: BBC Africa, France 24 Africa]
+  France 24 Africa | 01 Aug 09:03 UTC [also carried by: BBC Africa]
   The massive influx of people was equivalent to around 70% of Ceuta’s resident population. As the first reports of migrants reaching the Spanish enclave spread, more people headed north in the hope of reaching EU territory. It remains unclear what triggered the influx, but social media was awash with posts encouraging people to enter Ceuta in the days before the chaos began. Clémence Waller has mor...
   https://www.france24.com/en/video/20260801-ceuta-what-triggered-mass-migrant-crossing-1
 
@@ -1049,6 +894,11 @@ Every item below is dated. Check each date against today before treating anythin
   Africanews | 01 Aug 08:37 UTC
   Tens of thousands of migrants who crossed into Spain’s tiny Ceuta territory returned voluntarily to Morocco on Friday, a day after the influx triggered chaos in the North African city and reignited the immigration debate in Europe and beyond. At least 57 migrants died on the journey.
   http://www.africanews.com/2026/08/01/48000-migrants-return-to-morocco-after-massive-influx-into-spanish-enclave/
+
+* Infantino drops plan to sell World Cup profits after worldwide pushback
+  Africanews | 01 Aug 06:44 UTC
+  FIFA President Gianni Infantino is abandoning his divisive plan to sell World Cup profits to private equity after receiving pushback from all corners of the soccer world.
+  http://www.africanews.com/2026/08/01/infantino-drops-plan-to-sell-world-cup-profits-after-worldwide-pushback/
 
 * LOCAL ELECTIONS 2026: Joburg’s electoral map rewritten as population shifts reshape wards
   Daily Maverick | 01 Aug 06:00 UTC
@@ -1084,75 +934,20 @@ Every item below is dated. Check each date against today before treating anythin
   Daily Maverick | 31 Jul 17:00 UTC
   https://www.dailymaverick.co.za/video/2026-07-31-watch-spies-in-america-from-south-african-freedom-fighter-to-foreign-agent/
 
-* Kenya: Standard Chartered Mobilizes Sh97bn for Sustainable Finance in Kenya
-  AllAfrica | 31 Jul 16:32 UTC
-  [Capital FM] Nairobi -- Standard Chartered Bank Kenya has mobilized more than Sh97 billion in sustainable finance since 2021, supporting renewable energy, affordable housing, sustainable infrastructure and women-led businesses as demand for climate-focused investments grows.
-  https://allafrica.com/stories/202607310415.html
+--- North Africa (24) ---
 
-* Uganda: Woman Loses Ear in Suspected Rape Attempt in Kasese
-  AllAfrica | 31 Jul 16:31 UTC
-  [Nile Post] Police in Kasese District have launched a manhunt for two suspects accused of attempting to rape a 29-year-old woman before cutting off her right ear during a violent attack in the early hours of Thursday.
-  https://allafrica.com/stories/202607310414.html
+* Moroccans ejected from Spain's Ceuta lament 'broken dreams'
+  Al-Monitor | 01 Aug 16:30 UTC
+  As thousands of Moroccans who forced their way into the Spanish enclave of Ceuta this week were returning home, many did so with their dreams broken and newly convinced that reaching Spain was not worth the risks. Mohamed Nias, a 23-year-old fruit seller from Tangier, was returning from his second attempt in five years at getting to Spain.
+  https://www.al-monitor.com/originals/2026/08/moroccans-ejected-spains-ceuta-lament-broken-dreams
 
-* Uganda: Government Declares Telecom Infrastructure Vandalism Economic Sabotage
-  AllAfrica | 31 Jul 16:30 UTC
-  [Nile Post] The government has warned that vandalism of telecommunications infrastructure is undermining national development and will be treated as economic sabotage as Uganda expands digital connectivity across the country.
-  https://allafrica.com/stories/202607310413.html
-
-* Ethiopia: Amhara Region Delivers 357 Kilograms of Gold to Nbe
-  AllAfrica | 31 Jul 16:29 UTC
-  [ENA] Addis Ababa -- The Amhara National Regional State supplied 357 kilograms of gold to the National Bank of Ethiopia (NBE) for the first time during the 2018 Ethiopian fiscal year.
-  https://allafrica.com/stories/202607310412.html
-
-* FOOD FOR THOUGHT: How hydroponic gardens plant seeds of innovation and women’s empowerment
-  Daily Maverick | 31 Jul 16:28 UTC
-  Two South African high schools and women from their surrounding communities will learn to grow vegetables sustainably, thanks to a tailor-made solar-powered vertical hydroponic system that requires no soil, recycles water and is emission-free.
-  https://www.dailymaverick.co.za/article/2026-07-31-how-hydroponic-gardens-plant-seeds-of-innovation-and-womens-empowerment/
-
-* Zimbabwe: Netone Urges Youth to Harness Ai As Driver of Jobs and Digital Transformation
-  AllAfrica | 31 Jul 16:27 UTC
-  [263Chat] Mobile network operator NetOne has called on young Zimbabweans to embrace artificial intelligence (AI) as a catalyst for innovation, industrialisation and job creation, while warning that the rapid adoption of the technology must be accompanied by robust cybersecurity measures.
-  https://allafrica.com/stories/202607310411.html
-
-* Uganda: Nine Nup Supporters Granted Amnesty
-  AllAfrica | 31 Jul 16:27 UTC
-  [Nile Post] A group of nine supporters of opposition National Unity Platform(NUP) have been granted amnesty by the Uganda Amnesty Commission.
-  https://allafrica.com/stories/202607310410.html
-
-* Namibia: Father Wanted for Stabbing Son to Death At Omusati
-  AllAfrica | 31 Jul 16:25 UTC
-  [Namibian] The police in the Omusati region are searching for a man (24) who allegedly stabbed his son to death at Oshifo village in the Ruacana constituency on Wednesday afternoon.
-  https://allafrica.com/stories/202607310409.html
-
-* Namibia: DNA Confirms Identity of Man Whose Skeletal Remains Were Found At Otjomuise
-  AllAfrica | 31 Jul 16:24 UTC
-  [Namibian] Human skeletal remains discovered along the Matshitshi gravel road at Otjomuise have been identified as those of Anton Topnaar (31), who was reported missing in Windhoek in October last year.
-  https://allafrica.com/stories/202607310408.html
-
-* Nigeria: FG to End Electricity Subsidy From 2027
-  AllAfrica | 31 Jul 16:23 UTC
-  [Vanguard] The Federal Government has announced plans to phase out electricity subsidy payments from 2027 as part of efforts to address mounting debts in the power sector.
-  https://allafrica.com/stories/202607310406.html
-
-* Nigeria: Nigerian Police Deploy New CP to Oversee Osun Governorship Poll
-  AllAfrica | 31 Jul 16:22 UTC
-  [Premium Times] The deployment comes after months of controversies sourrounding the conduct of the Osun State Police command led by former CP Ibrahim Gotan and calls for his redeployment by the state government.
-  https://allafrica.com/stories/202607310405.html
-
-* Uganda: HIV Injection Is Not a Vaccine, Experts Warn
-  AllAfrica | 31 Jul 16:22 UTC
-  [Independent (Kampala)] Kampala -- Experts have urged those who already received their first injection of the twice-yearly HIV preventing drug Lenacapavir to consider using combination prevention options, warning that the game changer injection is not a vaccine.
-  https://allafrica.com/stories/202607310404.html
-
-* Algeria: President Tebboune Offers Condolences to Families of Boumerdes Bus Crash Victims
-  AllAfrica | 31 Jul 16:19 UTC
-  [Algerie Presse Service] Algiers -- President of the Republic Abdelmadjid Tebboune offered his deepest condolences on Friday to the families of the victims of a passenger bus crash in the Berrahmoun El-Karma area of Boumerdes province. According to an updated preliminary toll, the tragic accident has left 25 people dead and 44 injured.
-  https://allafrica.com/stories/202607310401.html
-
---- North Africa (21) ---
+* US embassies urge citizens to consider departing Middle East
+  Al-Monitor | 01 Aug 16:30 UTC [also carried by: Channel News Asia, France 24 ME, Middle East Eye]
+  US embassies in capitals across the Middle East on Saturday warned American citizens to beware of an "unforeseen escalation" in the regional conflict and urged them to be ready to leave. The warning, posted online by US embassies in Bahrain, Iraq, Israel, Jordan, Kuwait, Lebanon, Oman, Qatar, Saudi Arabia and the United Arab Emirates came a day after US President Donald Trump threatened to hit Ira...
+  https://www.al-monitor.com/originals/2026/08/us-embassies-urge-citizens-consider-departing-middle-east
 
 * Gaza's civil defence, medical sources say Israeli strikes kill two
-  Al-Monitor | 01 Aug 15:30 UTC [also carried by: Al-Monitor]
+  Al-Monitor | 01 Aug 15:30 UTC [also carried by: Al Jazeera global]
   Gaza's civil defence agency and medical sources said Israeli strikes in the Palestinian territory on Saturday killed two people and significantly damaged a hospital's medical supply warehouses. The Israeli military said, meanwhile, that it had struck five Hamas weapons depots in the Gaza Strip. The strikes come a day after Hamas said it had agreed to a deal to end the war with Israel that includes...
   https://www.al-monitor.com/originals/2026/08/gazas-civil-defence-medical-sources-say-israeli-strikes-kill-two
 
@@ -1181,20 +976,30 @@ Every item below is dated. Check each date against today before treating anythin
   Protesters Seal Tripoli Government Buildings Amid Power Crisis Libya Herald
   https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS2dPeVBMbjVqUXFSMzdCT052NC1uaThnMUNIMGNTZEtRTEJ5QzJfVy1BZnE5bkc4NzlvVGt6eGlnaFhmdnYwS0lQZEg0ZWJWejgzR3o3ZVZKY0plMUlOZ1cwa3hFVWliTUhsR0VqcGpQM1VRcEx6ajh5MnRZS1ZCcmE5Zl92bTd4azQ1cUpWbVlELUJGTU9MOHJJOUF0WGhmdWQ1NXFucWJhdEQtcDVsbHEzbTJBTms4M0llRFZaTUlmOF96SHhVbg?oc=5
 
-* Beneath Tunisia’s silence, public anger simmers - Al Jazeera
-  Google News North Africa | 01 Aug 09:54 UTC [also carried by: Al Jazeera global]
-  Behind Tunisia’s enforced calm, anger is growing over repression, economic decline and collapsing public services.
-  https://news.google.com/rss/articles/CBMijgFBVV95cUxPZDF6V3BzYmVuOXU5SFZXTC1hbGh2ZS0tS2taNldoWEhJOEhYZ3lTNTV2amlsREx0ZXRseUZYRC15UEs1ZjctVkgwUGhYQWhPVVgzLUJJeHZuNWwzNHdSc3Y3NW1taWdYc0JDaWV4bWhKd05oaWhfbTk0UW9Md3FCUTRxLXp2NWE0RC1Td1BB0gGTAUFVX3lxTFBJR19mRWhGQjRfMExuZHR3cHBsTkY0TVMwenBMNnhzM1JMSDFiLTFiYWRnZEF6dFZ0VTFJX2tKcmM1Tl9yUDN0MnU0b2UzS2tYRjVPZDkyMFphaDFjZnpSVWFDNXJ2eFBxT0tCYWh1OWpJS0djb3RxUHNNRW51ZWdfNFJPMHhQbEVGNGN1UHNENmpYUQ?oc=5
+* Spain's N. Africa enclave returns to normal as migrants depart
+  Al-Monitor | 01 Aug 09:30 UTC [also carried by: Channel News Asia]
+  Almost all of the tens of thousands of migrants who entered Spain's enclave of Ceuta in North Africa had left by Saturday, officials sa
+  https://www.al-monitor.com/originals/2026/08/spains-n-africa-enclave-returns-normal-migrants-depart
 
 * Egypt captains recount scramble to stop disaster after drone strike
   Al-Monitor | 01 Aug 09:30 UTC
   Marine officers who battled fires aboard two gas vessels struck in a drone attack on Egypt's port of Damietta feared the ships were "a bomb waiting to explode" that could have destroyed the entire port and ripped through the city beyond. The US-owned Energos Winter floating storage and regasification unit and the Greek-owned LNG tanker GasLog Salem -- which were moored side by side at the Mediterr...
   https://www.al-monitor.com/originals/2026/08/egypt-captains-recount-scramble-stop-disaster-after-drone-strike
 
+* Soccer-Infantino faces crisis as UEFA, CONCACAF declare lost confidence over scrapped World Cup deal
+  Al-Monitor | 01 Aug 07:46 UTC
+  Aug 1 (Reuters) - FIFA President Gianni Infantino is under unprecedented fire after regional confederations UEFA and CONCACAF said on Saturday they had lost confidence in his leadership following his abandoned plan to sell a stake in World Cup commercial rights. The dramatic fallout from Infantino's scrapped $4.2-billion proposal has exposed growing unease within world soccer over his leadership s...
+  https://www.al-monitor.com/originals/2026/08/soccer-infantino-faces-crisis-uefa-concacaf-declare-lost-confidence-over-scrapped
+
 * Hundreds rally in Madrid against migrant ‘invasion’ in Spain - CTV News
   Google News North Africa | 01 Aug 06:06 UTC
   Hundreds rally in Madrid against migrant ‘invasion’ in Spain CTV News
   https://news.google.com/rss/articles/CBMitAFBVV95cUxQelV4OEFPT0hlQmtNT3dnYk9oU2xyMU5ETkZsLVhDLWdSa2xtU25EVncwWkdZX0RMS1NSa244SU1IWHZnRWVmMkFIMjJjSC1PMzM2UlBTYXg5RzBpRmg3N3FTc2JYdG5GcDVCMGtaU3IwSWExNGVOMjNPZWlFQ3pQM2JQUHpweFc2UmdNRl9CNHc3cTVkV1VJYjR2MG1wX0dfZTJYQWdtbXBLZVZpcDRYbW9QZG0?oc=5
+
+* FIFA scraps private investment plan after backlash
+  Al-Monitor | 01 Aug 05:30 UTC [also carried by: Japan Times]
+  FIFA president Gianni Infantino said on Saturday he has scrapped a plan to allow private investment in the World Cup following fierce backlash from football officials worldwide. "Our purpose has always been -- and will always be -- to unite and improve," Infantino said in a statement. "As a result, this proposal will not proceed."
+  https://www.al-monitor.com/originals/2026/08/fifa-scraps-private-investment-plan-after-backlash
 
 * 'Not migration, but a city under Spanish occupation': Morocco turns its anger on Israel - Ynetnews
   Google News North Africa | 01 Aug 00:48 UTC
@@ -1211,25 +1016,20 @@ Every item below is dated. Check each date against today before treating anythin
   It’s a Delicate, Tragic Situation. So of Course Trump Is Exploiting It. Slate
   https://news.google.com/rss/articles/CBMiigFBVV95cUxNR2JWajNVSU5TNk9tZDJnYkVpSGpXQTBnUHBTU3FwMmZyMGlHZUlONHZ6UFVxR1UxcDBtMU9SMzB0MmpiQlpUeXl4RmVUX0dzbmJMSFNxUjFNcHR3N1lDOU9zOXhVUlhlWGdYd1R2QjZ5bG1vdTRtNTcyR25lMF9abHdRVkg4SHpHWHc?oc=5
 
+* Trump's Iran conundrum
+  Al-Monitor | 31 Jul 20:30 UTC [also carried by: The Verge]
+  US President Donald Trump has secured a welcome Middle East diplomatic breakthrough with an agreement for Hamas militants to disarm, but remains mired in the conflict with Iran, searching for an exit strategy that continues to elude him. After five months of war, Trump's room for maneuver seems extremely limited, and he gives the impression of increasingly making up his plans as he goes along.
+  https://www.al-monitor.com/originals/2026/07/trumps-iran-conundrum
+
 * Oil spill from shadow fleet tanker spreading off Oman, satellite images show
   Al-Monitor | 31 Jul 19:46 UTC
   By Catherine Cartier and Jonathan Saul BEIRUT/LONDON, July 31 (Reuters) - A sanctions-hit tanker is leaking oil off the coast of Oman and the spill has spread in recent days, increasing concern about possible environmental damage to coastal areas, according to an analysis of satellite imagery and shipping specialists. The Caroline Bezengi took Russian oil on board at the Black Sea port of Novoross...
   https://www.al-monitor.com/originals/2026/07/oil-spill-shadow-fleet-tanker-spreading-oman-satellite-images-show
 
 * How Hamas disarmament deal may test Iran's regional strategy
-  Al-Monitor | 31 Jul 18:41 UTC [also carried by: Al-Monitor]
+  Al-Monitor | 31 Jul 18:41 UTC
   A possible Hamas decision to disarm would represent more than a Gaza development, testing Iran's decades-old strategy of projecting power through regional allies.
   https://www.al-monitor.com/originals/2026/07/how-hamas-disarmament-deal-may-test-irans-regional-strategy
-
-* Hamas agrees to disarm under Trump plan
-  Al-Monitor | 31 Jul 18:30 UTC [also carried by: France 24 ME]
-  Hamas said Friday it had agreed to a deal that includes handing over its weapons to a Palestinian governing committee and the gradual withdrawal of Israeli forces from the Gaza Strip. The deal is aimed at implementing the long-stalled second phase of the Gaza ceasefire plan brokered by US President Donald Trump, who on Thursday hailed the agreement for Hamas's "complete disarmament", calling it a ...
-  https://www.al-monitor.com/originals/2026/07/hamas-agrees-disarm-under-trump-plan-0
-
-* Iran-linked militias seek to draw Iraq into regional war
-  Al-Monitor | 31 Jul 18:01 UTC
-  “Iran’s logic is the logic of war,” a Gulf regional official tells Al-Monitor.
-  https://www.al-monitor.com/originals/2026/07/iran-linked-militias-seek-draw-iraq-regional-war
 
 * NBM ‘Waku WAFCON’ winners cherish Morocco experience - Nyasa Times
   Google News North Africa | 31 Jul 17:52 UTC
@@ -1256,7 +1056,12 @@ Every item below is dated. Check each date against today before treating anythin
   Social media rumours, economic hardship fuel migrant surge into Ceuta Reuters
   https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWWpOX0habk9mbjBicnJKX3RTZTRhelk2dEpWbnJpTE9KbWxCWjdrYWhQSXV3NG5SLUZWMG5HaTJXUE9nWVZEVWd1ZkRReGVQM3ZrQVRROEtlSElaZDVzY3ZFOTMwX0ZmdEl4TEh5YXV2NlZiaE1xUFRXVVdRZHFhVEU0dlpGTmNLQV81ZkdsdjNuOE50eWgwaUFkekxWN2ZCZXU5QWlfdHpRd3hIQzRaQmlvREFIRkFF?oc=5
 
---- South Asia (27) ---
+--- South Asia (29) ---
+
+* Bilawal receives JAAC response on Truth and Reconciliation Commission, says he will consult stakeholders on way forward
+  Dawn | 01 Aug 16:29 UTC
+  PPP Chairman Bilawal Bhutto-Zardari on Saturday said he had received a response from the proscribed Joint Awami Action Committee (JAAC) to his letter proposing the establishment of a Truth and Reconciliation Commission. Welcoming the group’s “willingness to accept the proposed commission” as a possible institutional way forward, the PPP chairman said the establishment of the commission had also be...
+  https://www.dawn.com/news/2019950/bilawal-receives-jaac-response-on-truth-and-reconciliation-commission-says-he-will-consult-stakeholders-on-way-forward
 
 * US to make visa bond program permanent for people from dozens of countries
   Dawn | 01 Aug 15:55 UTC [also carried by: Skift]
@@ -1333,6 +1138,16 @@ Every item below is dated. Check each date against today before treating anythin
   LAHORE: Activists of the Haqooq-i-Khalq Party were arrested on Friday while holding a peaceful demonstration outside the press club to show solidarity with the Joint Action Committee of AJK. However, a party spokesperson says that all the detainees have been released on the condition that there will be no demonstration on Saturday (today). Activist Farooq Tariq was also among those arrested during...
   https://www.dawn.com/news/2019778/activists-held-in-lahore-for-holding-pro-kashmir-demonstration
 
+* Modi says he forgives protesters who abused him during youth-led demonstrations against exam paper leaks
+  Dawn | 01 Aug 05:55 UTC [also carried by: Al Jazeera global, Channel News Asia, DW Asia]
+  Indian Prime Minister Narendra Modi said he wanted to “forgive” protesters who abused him during recent youth-led demonstrations that dealt a rare political setback to his government. The remarks came after the online Cockroach Janta Party (CJP) mobilised large protests in New Delhi and other cities over examination paper leaks, posing the biggest challenge to Modi’s government in recent years. So...
+  https://www.dawn.com/news/2019908/modi-says-he-forgives-protesters-who-abused-him-during-youth-led-demonstrations-against-exam-paper-leaks
+
+* FIFA scraps private investment plan after fierce backlash from officials worldwide
+  Dawn | 01 Aug 05:39 UTC [also carried by: Financial Times]
+  FIFA president Gianni Infantino said on Saturday he has scrapped a plan to allow private investment in the World Cup following fierce backlash from football officials worldwide. “Our purpose has always been — and will always be — to unite and improve,” Infantino said in a statement. “As a result, this proposal will not proceed.” FIFA, world football’s governing body, had floated the plan on Tuesda...
+  https://www.dawn.com/news/2019907/fifa-scraps-private-investment-plan-after-fierce-backlash-from-officials-worldwide
+
 * Is Maryam bridging gap between PML-N legislators and admin?
   Dawn | 01 Aug 03:56 UTC
   LAHORE: Chief Minister Maryam Nawaz has begun meeting PML-N lawmakers on a regular basis to hear their concerns and address issues being faced by their constituents, apparently in an attempt to bridge a growing gap between the party’s legislators and the administrative machinery in the province. On Friday, PML-N MPAs from Bahawalnagar called on the CM and discussed the prevailing political situati...
@@ -1388,20 +1203,15 @@ Every item below is dated. Check each date against today before treating anythin
   António Guterres says strengthening El Niño will help push the world’s climate crisis into ‘uncharted territory’ India’s monsoon is in danger and hotter, drier conditions are forecast across much of the world as a stronger El Niño weather system is taking hold, weather experts have warned. António Guterres, the UN secretary general, said the strengthening El Niño was “adding fuel to a planet alrea...
   https://www.theguardian.com/environment/2026/jul/31/india-monsoon-el-nino-hot-dry-conditions-meteorologists
 
-* Good governance 'quintessential' for security and stability of Pakistan: DG ISPR
-  Dawn | 31 Jul 16:21 UTC
-  Inter-Services Public Relations (ISPR) Director General Lieutenant General Ahmed Sharif Chaudhry on Friday termed good governance “quintessential” for Pakistan’s security and stability. He made the remarks while addressing a press conference on the country’s overall security situation, particularly the situation in Balochistan. The DG ISPR, during his presser, commented on Interior Minister Mohsin...
-  https://www.dawn.com/news/2019472/good-governance-quintessential-for-security-and-stability-of-pakistan-dg-ispr
-
---- East Asia (63) ---
+--- East Asia (66) ---
 
 * Hong Kong set for heavy showers, squally thunderstorms over next few days
   SCMP | 01 Aug 15:06 UTC
   Hongkongers should brace for more bad weather over the next few days. The Hong Kong Observatory warned on Saturday that showers would be heavy at times with squally thunderstorms over the coast of southern China in the next couple of days under the influence of a broad trough of low pressure and an active southerly airstream. Meanwhile, authorities said they received six landslide reports between ...
   https://www.scmp.com/news/hong-kong/health-environment/article/3362655/hong-kong-set-heavy-showers-squally-thunderstorms-over-next-few-days?utm_source=rss_feed
 
-* Nepal’s famed climber and 9 others die in Pakistan avalanche
-  SCMP | 01 Aug 14:25 UTC
+* Noted Nepali climber Nirmal Purja among 10 dead in Pakistan avalanche
+  SCMP | 01 Aug 14:25 UTC [also carried by: ABC Australia, Al-Monitor, BBC UK, Channel News Asia, DW Asia, Dawn, NYT AsiaPacific]
   Celebrated Nepali climber Nirmal Purja, who set a record for the fastest ascent of the world’s 14 highest mountains, died in an ‌avalanche during an expedition in Pakistan, his company said on Saturday. “Today it is with profound sadness and immense heartbreak that we confirm that Nirmal ‘Nimsdai’ Purja tragically lost his life following the avalanche on Broad ⁠Peak,” his expedition organising com...
   https://www.scmp.com/news/asia/south-asia/article/3362654/nepals-famed-climber-and-9-others-die-avalanche-pakistan?utm_source=rss_feed
 
@@ -1444,11 +1254,6 @@ Every item below is dated. Check each date against today before treating anythin
   SCMP | 01 Aug 12:44 UTC
   Hong Kong police have arrested 57 people, including a 14-year-old boy, in a crackdown on triad-linked illegal debt collection. Police said on Saturday that the operation, launched last month, had dismantled an illegal debt collection syndicate, along with a prostitution venue, a drug den and three illegal gambling parlours. Fifty-seven people, aged 14 to 70, were arrested and some of them had tria...
   https://www.scmp.com/news/hong-kong/law-and-crime/article/3362648/boy-14-among-57-arrested-crackdown-triad-linked-debt-collection-ring?utm_source=rss_feed
-
-* UEFA has ‘lost confidence’ in FIFA President Gianni Infantino as FIFA scraps investment plan
-  Japan Times | 01 Aug 12:44 UTC [also carried by: Al-Monitor]
-  FIFA president Gianni Infantino said on Saturday he has scrapped a plan to allow private investment in the World Cup following fierce backlash from football officials worldwide. "Our purpose has always been -- and will always be -- to unite and improve," Infantino said in a statement. "As a result, this proposal will not proceed."
-  https://www.japantimes.co.jp/sports/2026/08/01/soccer/infantino-uefa-no-confidence/
 
 * Japan ends rescue at quake-hit shopping centre after explosion kills 7
   SCMP | 01 Aug 12:32 UTC
@@ -1505,6 +1310,11 @@ Every item below is dated. Check each date against today before treating anythin
   The world is on the cusp of a third missile age, with conventional ballistic weapons proliferating at unprecedented speed in the wake of widespread deployment in Iran and Ukraine.
   https://www.japantimes.co.jp/news/2026/08/01/world/new-missile-age/
 
+* Tankers targeted in twin incidents near Strait of Hormuz off Oman
+  SCMP | 01 Aug 07:21 UTC
+  The United ⁠Kingdom Maritime Trade Operations (UKMTO) ⁠said on Saturday it had received reports of two maritime incidents off Oman, including one in which a tanker was struck by ‌an unknown projectile. In the first incident, a tanker was hit about 11 nautical miles northeast of Oman’s Lima. The vessel reported it was “struck by an unknown projectile which has caused damage to the engine room” and ...
+  https://www.scmp.com/news/world/middle-east/article/3362633/tankers-targeted-twin-incidents-near-strait-hormuz-oman?utm_source=rss_feed
+
 * DeepSeek is developing massive AI data center in inner Mongolia
   Japan Times | 01 Aug 07:05 UTC
   The ambitious move in computing infrastructure shows the startup can compete with the leading AI models of Silicon Valley.
@@ -1539,6 +1349,11 @@ Every item below is dated. Check each date against today before treating anythin
   SCMP | 01 Aug 05:11 UTC
   The Chinese military held joint naval and air drills near Scarborough Shoal, a disputed reef in the South China Sea, on Saturday. The training exercise came after Beijing hit out at the Philippines for an “illegal” attempt to extend its seabed rights off the coast of Palawan and map out its claims to the reef. “This is a necessary action taken in light of the current situation in the South China S...
   https://www.scmp.com/news/china/military/article/3362628/pla-stages-south-china-sea-drills-days-after-illegal-philippine-territorial-bid?utm_source=rss_feed
+
+* Japan quake evacuees with pets find refuge at Kumamoto animal hospital
+  SCMP | 01 Aug 05:05 UTC [also carried by: Channel News Asia, Japan Times]
+  When a powerful earthquake jolted southern ⁠Japan this week, rattling ⁠homes and knocking out water and ⁠electricity, Tomoko Takaoka bundled up her beloved fluffy dogs and went in search of a safe place to stay. Unable to reach her parents, the 31-year-old factory worker turned to a nearby evacuation centre only to discover that Ku the chihuahua and Sheri the chihuahua-poodle mix were not welcome....
+  https://www.scmp.com/news/asia/east-asia/article/3362627/japan-quake-evacuees-pets-find-refuge-kumamoto-animal-hospital?utm_source=rss_feed
 
 * India and China revive Himalayan trade at high-altitude pass
   SCMP | 01 Aug 05:00 UTC
@@ -1645,6 +1460,11 @@ Every item below is dated. Check each date against today before treating anythin
   At a food fair in New Delhi, a vegetable exporter from the Philippines set out its wares: bags of dried moringa and lemongrass, bundles of taro leaves and a bowl of laing, the creamy coconut-milk stew made from them. The question Dry Tech Manufacturing wanted to answer was simple: could the simple Filipino food it sells under its Sheentaro brand tantalise the taste buds of the world’s most populou...
   https://www.scmp.com/week-asia/politics/article/3362555/ready-player-3-india-offers-asean-us-china-alternative?utm_source=rss_feed
 
+* Trump officials drop Reflecting Pool charges against ex-US Olympian David Hearn
+  SCMP | 31 Jul 23:11 UTC [also carried by: NYT US]
+  The US Justice Department moved Friday to dismiss a criminal case charging a former Olympian with deliberately damaging the Lincoln Memorial Reflecting Pool. Government lawyers said in a 20-page court filing that information provided since the indictment of David Hearn shows that the damage was the result of a “flawed installation by the contractor” as well as “the rush to complete the project pri...
+  https://www.scmp.com/news/world/united-states-canada/article/3362617/trump-officials-drop-reflecting-pool-charges-against-ex-us-olympian-david-hearn?utm_source=rss_feed
+
 * Beast of Reincarnation shows Game Freak has more to learn
   Japan Times | 31 Jul 23:00 UTC
   Game Freak's ambitious action RPG borrows familiar ideas but struggles to make them feel fresh.
@@ -1705,12 +1525,21 @@ Every item below is dated. Check each date against today before treating anythin
   Rescuers were searching for missing bodies from the accident in one of the country’s mining hubs, where methane gas explosions and mine collapses are frequent.
   https://www.nytimes.com/2026/07/31/world/asia/pakistan-coal-mine-explosion.html
 
+* Trump says US hasn’t agreed to Ukraine building Patriot missiles
+  SCMP | 31 Jul 18:35 UTC [also carried by: Al-Monitor, BBC US Canada, Guardian Ukraine, NYT Europe, NYT US]
+  US President Donald Trump said on ⁠Friday that America has not agreed to Ukraine building Patriot missiles, but that talks are ongoing, adding that the US must be “very careful about letting somebody build them”. Trump said during a meeting with Ukrainian President Volodymyr Zelensky in Turkey this ‌month that he was going to give Ukraine a licence to manufacture Patriot missile interceptors to he...
+  https://www.scmp.com/news/world/russia-central-asia/article/3362609/trump-says-us-hasnt-agreed-ukraine-building-patriot-missiles?utm_source=rss_feed
+
 * Italy suspends EU Schengen free-travel pact with Spain over Ceuta migrant crisis
-  SCMP | 31 Jul 17:39 UTC [also carried by: Euronews]
+  SCMP | 31 Jul 17:39 UTC
   Italy said on Friday it ⁠was suspending the EU’s ⁠border-free Schengen arrangements with Spain for one month in ⁠response to a mass influx of migrants into the Spanish enclave of Ceuta from neighbouring Morocco. Italy does not share a land border with Spain but the measure – which looks certain to anger Madrid – will ‌affect people travelling by plane or boat between the two countries, meaning the...
   https://www.scmp.com/news/world/europe/article/3362607/italy-suspends-eu-schengen-free-travel-pact-spain-over-ceuta-migrant-crisis?utm_source=rss_feed
 
---- Southeast Asia (17) ---
+--- Southeast Asia (15) ---
+
+* Brentford sign Sangare from Lens for club-record fee
+  Channel News Asia | 01 Aug 16:25 UTC
+  https://www.channelnewsasia.com/sport/brentford-sign-sangare-lens-club-record-fee-6293016
 
 * Consortium led by Staveley to buy Gold family's stakes in West Ham
   Channel News Asia | 01 Aug 15:27 UTC
@@ -1743,11 +1572,6 @@ Every item below is dated. Check each date against today before treating anythin
   Channel News Asia | 01 Aug 12:51 UTC
   https://www.channelnewsasia.com/east-asia/japan-quake-aeon-mall-blast-search-ends-6292846
 
-* Spain's North Africa enclave returns to normal as migrants depart
-  Channel News Asia | 01 Aug 11:59 UTC [also carried by: Al-Monitor]
-  Almost all of the tens of thousands of migrants who entered Spain's enclave of Ceuta in North Africa had left by Saturday, officials sa
-  https://www.channelnewsasia.com/world/spains-north-africa-enclave-returns-normal-migrants-depart-6292636
-
 * BYD's sales rise for third month, buoyed by exports
   Channel News Asia | 01 Aug 11:05 UTC
   https://www.channelnewsasia.com/business/byds-sales-rise-third-month-buoyed-exports-6292746
@@ -1761,15 +1585,14 @@ Every item below is dated. Check each date against today before treating anythin
   Channel News Asia | 01 Aug 10:05 UTC
   https://www.channelnewsasia.com/sport/uefa-welcomes-fifas-decision-scrap-stake-sale-6292726
 
+* Reaction to FIFA backing down on World Cup sell-off plans
+  Channel News Asia | 01 Aug 09:12 UTC
+  https://www.channelnewsasia.com/sport/reaction-fifa-backing-down-world-cup-sell-plans-6292671
+
 * How crypto miners are stealing power in Southeast Asia
   DW Asia | 01 Aug 09:04 UTC
   Across Southeast Asia, illegal cryptocurrency miners are stealing vast amounts of electricity, straining national grids, and exposing links to organized crime.
   https://www.dw.com/en/how-crypto-miners-are-stealing-power-in-southeast-asia/a-78175364?maca=en-rss-en-asia-5133-xml-mrss
-
-* Dogs allowed: Animal hospital opens doors to Japan quake survivors and their pets
-  Channel News Asia | 01 Aug 08:45 UTC [also carried by: Japan Times, SCMP]
-  When a powerful earthquake jolted southern ⁠Japan this week, rattling ⁠homes and knocking out water and ⁠electricity, Tomoko Takaoka bundled up her beloved fluffy dogs and went in search of a safe place to stay. Unable to reach her parents, the 31-year-old factory worker turned to a nearby evacuation centre only to discover that Ku the chihuahua and Sheri the chihuahua-poodle mix were not welcome....
-  https://www.channelnewsasia.com/east-asia/dogs-allowed-animal-hospital-opens-doors-japan-quake-survivors-and-their-pets-6292486
 
 * Firefighters in Greece struggle to save coastal resort as winds rage
   Channel News Asia | 01 Aug 08:43 UTC
@@ -1780,15 +1603,6 @@ Every item below is dated. Check each date against today before treating anythin
   China opposes forced labour and says the Xinjiang region - where the US says the alleged human rights abuses took place - is stable, prosperous and free of any "forced labour".
   https://www.channelnewsasia.com/east-asia/chinas-commerce-ministry-denies-us-accusation-forced-labour-in-xinjiang-6292616
 
-* China conducts naval, air patrols around disputed shoal in South China Sea
-  Channel News Asia | 01 Aug 08:11 UTC
-  https://www.channelnewsasia.com/east-asia/china-conducts-naval-air-patrols-around-disputed-shoal-in-south-china-sea-6292351
-
-* UK court allows plans for Chinese 'super' embassy to advance
-  DW Asia | 31 Jul 16:19 UTC
-  A court dismissed a legal challenge against Beijing's new embassy in London, which could become the largest in the UK. The case, brought by a neighborhood association, argued the embassy poses a security threat.
-  https://www.dw.com/en/uk-court-allows-plans-for-chinese-super-embassy-to-advance/a-78194764?maca=en-rss-en-asia-5133-xml-mrss
-
 --- Central Asia (1) ---
 
 * Kazakhstan and Azerbaijan Begin Laying Trans-Caspian Fiber-Optic Cable
@@ -1796,7 +1610,12 @@ Every item below is dated. Check each date against today before treating anythin
   Kazakhstan and Azerbaijan have begun laying a fiber-optic cable across the Caspian Sea, marking the start of offshore construction on
   https://timesca.com/kazakhstan-and-azerbaijan-begin-laying-trans-caspian-fiber-optic-cable/
 
---- Eastern Europe (8) ---
+--- Eastern Europe (9) ---
+
+* EU offered Spain support ‘from first moment’ of Ceuta crisis, says von der Leyen, after Sánchez hits out – Europe live
+  Guardian Ukraine | 01 Aug 14:58 UTC [also carried by: Financial Times]
+  ‘Not a single person reached mainland Spain or rest of EU,’ says European Commission president, after Spanish PM condemned ‘selfish, polarising’ reaction of some countries Back to Ukraine, where nine people were killed in Kyiv this morning from a Russian missile and drone attack. Damage was reported in seven districts of the capital, according to Ukrainian officials, with Ukrainian president Volod...
+  https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco
 
 * Laura Loomer, Lindsey Graham and the deepening Iran crisis: what’s behind Trump’s reset with Zelenskyy?
   Guardian Ukraine | 01 Aug 10:00 UTC
@@ -1838,7 +1657,7 @@ Every item below is dated. Check each date against today before treating anythin
   Ukrainian President Volodymyr Zelensky’s office has asked the Prosecutor General’s Office to consider opening a criminal case against Belarusian leader Alexander Lukashenko. Mariana Haievska-Kovbasiuk, a spokesperson for the Prosecutor General’s Office, confirmed the request to Ukrinform, Ukraine’s state news agency.
   https://meduza.io/en/news/2026/07/31/ukraine-weighs-criminal-case-against-belarusian-leader-lukashenko
 
---- Pacific (42) ---
+--- Pacific (43) ---
 
 * Gold medallist makes no apologies for 'selfish' racing in Aussie podium sweep
   ABC Australia | 01 Aug 13:24 UTC
@@ -1861,7 +1680,7 @@ Every item below is dated. Check each date against today before treating anythin
   https://www.abc.net.au/news/2026-08-01/australia-beats-ireland-in-aflw-with-thrills-and-spills-at-north/106986172
 
 * Russian missile attacks on Kyiv kill at least ten and injure dozens
-  ABC Australia | 01 Aug 09:43 UTC [also carried by: Euronews]
+  ABC Australia | 01 Aug 09:43 UTC
   Ukraine downed only one of 27 Russian ballistic missiles during the attack as the country lacks interceptors for the US Patriot systems, President Volodymyr Zelenskyy said.
   https://www.abc.net.au/news/2026-08-01/ukraine-russia-kyiv-missile-attack-interceptors/106986180
 
@@ -2040,6 +1859,11 @@ Every item below is dated. Check each date against today before treating anythin
   Samoa's national rugby captain and coach have written to the prime minister regarding the current crisis affecting Lakapi Samoa.
   https://www.rnz.co.nz/news/pacific/855188/samoa-captain-and-coach-urge-resolution-for-their-country-s-best-interests
 
+* Missing Australian hiker found dead in Wyoming, officials say
+  Guardian Australia | 31 Jul 21:06 UTC [also carried by: NYT US]
+  Body of William Standish discovered in Teton mountains as investigators say fatal fall likely cause of death A 28-year-old Australian hiker who lost contact with his family while hiking the Continental Divide Trail between Yellowstone and Grand Teton national parks in Wyoming has been found dead, according to authorities. The man, identified as William Standish, was discovered by rescuers on Wedne...
+  https://www.theguardian.com/us-news/2026/jul/31/australian-hiker-wyoming
+
 * Otago councils want to form unitary authority - without Dunedin
   RNZ | 31 Jul 18:43 UTC
   A Dunedin city councillor says a proposal to exclude the city from a new Otago unitary authority is "ridiculous", but the mayor behind it says it makes sense.
@@ -2140,12 +1964,22 @@ Every item below is dated. Check each date against today before treating anythin
   https://foreignpolicy.com/2026/07/31/pure-men-senegal-mohamed-sarr-homophobia-queer-africa-islam-religion/
 
 * What in the World?
-  Foreign Policy | 31 Jul 17:42 UTC
+  Foreign Policy | 31 Jul 17:42 UTC [also carried by: Al Jazeera global]
   Test yourself on the week of July 25: India’s Cockroach movement gets a win, Burnham receives his first foreign leader, and Peru inaugurates a new president.
   FULL TEXT: Have feedback? Email [email protected] to let me know your thoughts. 1. After last week’s protests, India’s Cockroach Janta Party notched a major win on Saturday. What happened? Indian Education Minister Dharmendra Pradhan resigned. Medical students no longer need to retake their exams. Pradhan withdrew plans for an overhaul of school curriculum. Prime Minister Narendra Modi rescinded planned increases to university fees. The Cockroach movement’s success marks one of the few times Modi has given in to a domestic opponent, FP’s Michael Kugelman writes in South Asia Brief. 2. Why did Brazil’s Ministry of Foreign Affairs recall its ambassador to Argentina on Sunday? Argentine President Javier Milei threatened Brazil with tariffs. Argentine troops entered Brazilian territory without permission. Milei ridiculed the Brazilian men’s soccer team at the World Cup. Milei insulted Brazilian government officials. Milei’s actions are the latest example of the perils of the recent rise in populist governments, which often sideline traditional diplomacy, Christopher S. Chivvis, Milan Vaishnav, and Rohan Mukherjee argue . 3. Who did British Prime Minister Andy Burnham welcome on Monday in the first visit by a foreign leader to the United Kingdom since he assumed office? Ahead of the meeting, London said it would share with Kyiv intellectual property behind a drone-cloaking system, further bolstering Ukraine’s campaign of drone strikes deep inside Russia. As Alexey Kovalev wrote this month, those strikes have exposed more Russians to the war’s consequences. 4. Keiko Fujimori was sworn in as Peru’s president on Tuesday. Fujimori has previously expressed interest in joining Trump’s regional initiative to fight transnational crime. What is that initiative called? Close, deeply polarized elections signal a future of difficult governance for Latin America’s new right-wing leaders, including Fujimori, Christopher Sabatini wrote last month. 5. Israeli Prime Minister Benjamin Netanyahu met Trump at the White House on Tuesday. This was the first face-to-face meeting between the two leaders since when? The beginning of the Iran war in late February Trump’s second inauguration in January 2025 The signing of the U.S.-Iran memorandum of understanding in June Iran’s regime has turned out to be much more resilient than both Netanyahu and Trump hoped, Assaf Sharon writes . 6. Thousands of people rallied in the Democratic Republic of the Congo on Tuesday in protest of proposed constitutional changes that could result in what? The removal of some civil rights to combat M23 rebels A third presidential term for Félix Tshisekedi The abolition of opposition political parties In pursuit of Congo’s mineral wealth, the Trump administration has remained silent on Tshisekedi’s attempts to secure a third term, FP’s Christina Lu reported in June. 7. What did Russian authorities charge Pavel Durov, the founder of the messaging app Telegram, with on Wednesday? Spying on Russian officials to obtain state secrets Stealing private financial data from Telegram users Spreading misinformation about Russian President Vladimir Putin Aiding terrorism by failing to remove Ukrainian channels Moscow’s crackdown on social media is one of the latest signs that Putin is losing control over the narrative of the war in Ukraine, Kovalev wrote in March. 8. UEFA, the European soccer association, agreed on Thursday to boycott any competition run by FIFA following its proposal this week to do what? Transfer World Cup ownership stakes to private companies Further expand the next World Cup competition to 72 teams Install Trump as an honorary president of the organization Let the United States exclusively host the men’s World Cup in 2034 FP’s Ravi Agrawal sat down with Times sports and economics journalist Mehreen Khan ahead of this year’s competition to discuss the geopolitics of soccer on FP Live. 9. Slovenian cyclist Tadej Pogacar won the Tour de France on Sunday, tying the record for most title
   https://foreignpolicy.com/2026/07/31/news-quiz-india-cockroach-movement-burnham-uk-keiko-fujimori-peru-president/
 
---- Conflict (2) ---
+--- Conflict (4) ---
+
+* Shock wave
+  Defense One | 01 Aug 12:00 UTC
+  What if the U.S. were ahead of China in hypersonic weapons development? Welcome to the latest Fictional Intelligence.
+  https://www.defenseone.com/ideas/2026/08/shock-wave-fictional-intelligence/415158/
+
+* HII’s sea drone business is growing, but revenue is ‘modest,’ CEO says
+  Defense One | 31 Jul 20:58 UTC
+  The company recently booked a yearlong production contract extension for its underwater drone, Lionfish.
+  https://www.defenseone.com/business/2026/07/hiis-sea-drone-business-growing-revenue-modest-ceo-says/415160/
 
 * The Atlantic Brief: The Strait of Hormuz and the Future of Free Navigation
   War on the Rocks | 31 Jul 20:27 UTC
@@ -2208,22 +2042,12 @@ Every item below is dated. Check each date against today before treating anythin
 ## ECONOMY AND BUSINESS
 ######################################################################
 
---- Economy (12) ---
-
-* EU ministers to discuss Spain’s migrant crisis after Sánchez hits out over criticism
-  Financial Times | 01 Aug 15:39 UTC [also carried by: Guardian Ukraine]
-  ‘Not a single person reached mainland Spain or rest of EU,’ says European Commission president, after Spanish PM condemned ‘selfish, polarising’ reaction of some countries Back to Ukraine, where nine people were killed in Kyiv this morning from a Russian missile and drone attack. Damage was reported in seven districts of the capital, according to Ukrainian officials, with Ukrainian president Volod...
-  https://www.ft.com/content/1b3f09b5-897e-4b7a-9949-2c4d9a32929e?syn-25a6b1a6=1
+--- Economy (11) ---
 
 * Infantino’s U-turn fuels doubts about his future at Fifa
   Financial Times | 01 Aug 15:32 UTC
   The president of football’s governing body was expected to stand for re-election unopposed, but now criticism is mounting
   https://www.ft.com/content/c0d97297-98ed-452f-bdfd-1f16d53d4eb3?syn-25a6b1a6=1
-
-* Fifa abandons $20bn investment plan after global backlash
-  Financial Times | 01 Aug 10:03 UTC [also carried by: Dawn, Euronews]
-  FIFA president Gianni Infantino said on Saturday he has scrapped a plan to allow private investment in the World Cup following fierce backlash from football officials worldwide. “Our purpose has always been — and will always be — to unite and improve,” Infantino said in a statement. “As a result, this proposal will not proceed.” FIFA, world football’s governing body, had floated the plan on Tuesda...
-  https://www.ft.com/content/58400cf0-20df-46ef-975b-7414806e09de?syn-25a6b1a6=1
 
 * The week that shook football
   Financial Times | 01 Aug 08:08 UTC
@@ -2250,6 +2074,11 @@ Every item below is dated. Check each date against today before treating anythin
   Golf and Tennis Academy members unhappy that Carlyle & Co members can now use their exclusive Town Club
   https://www.ft.com/content/da564e49-d7bb-48c9-a5d9-b847b596b23e?syn-25a6b1a6=1
 
+* FIFA scraps controversial deal to sell stakes in World Cup to private investors
+  NPR Business | 01 Aug 02:08 UTC
+  FIFA abandoned a plan to create a commercial venture and then sell stakes to minority investors, just days after unveiling it. The plan drew sharp condemnation — and a boycott from European nations.
+  https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino
+
 * Bond sell-off sent warning on Fed’s credibility, says top central bank official
   Financial Times | 31 Jul 23:10 UTC
   Alberto Musalem says he supported dissenters’ calls for a quarter-point interest rate rise
@@ -2270,7 +2099,12 @@ Every item below is dated. Check each date against today before treating anythin
   Migrants spent days preparing to reach the Spanish enclave of Ceuta from neighbouring Morocco
   https://www.ft.com/content/7c487af9-53a2-4088-bf14-1f2deb4247e9?syn-25a6b1a6=1
 
---- Business (4) ---
+--- Business (5) ---
+
+* Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up
+  BBC Business | 01 Aug 12:41 UTC
+  The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.
+  https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss
 
 * Snapchat joins other popular platforms in fight against 'AI slop'
   BBC Business | 31 Jul 21:57 UTC
@@ -2296,7 +2130,7 @@ Every item below is dated. Check each date against today before treating anythin
 ## SCIENCE AND TECHNOLOGY
 ######################################################################
 
---- Science (40) ---
+--- Science (41) ---
 
 * Insights into bee biology could ease US rules for organic honey
   Phys.org | 01 Aug 16:00 UTC
@@ -2412,6 +2246,11 @@ Every item below is dated. Check each date against today before treating anythin
   ScienceDaily | 01 Aug 02:53 UTC
   Blood cancers that eventually worsen may carry detectable genetic warning signs years before patients develop serious symptoms. The findings could lead to earlier intervention while also helping doctors distinguish true cancer from harmless age-related blood changes.
   https://www.sciencedaily.com/releases/2026/07/260729010740.htm
+
+* Scientists found two mysterious ‘ghost’ ancestors hiding in our DNA
+  ScienceDaily | 01 Aug 01:58 UTC
+  Modern humans carry DNA from two mysterious extinct lineages in addition to Neanderthals and Denisovans. Their hidden genetic legacy shows that our evolutionary past was shaped by repeated mixing among many different human groups.
+  https://www.sciencedaily.com/releases/2026/07/260731034139.htm
 
 * Fish pathogens once limited to Asia and US emerge in Brazilian farms
   Phys.org | 31 Jul 22:20 UTC
@@ -2616,11 +2455,6 @@ Every item below is dated. Check each date against today before treating anythin
 
 --- AI and technology (26) ---
 
-* Trump blames Tim Walz for water hacks even though it’s probably Iran
-  The Verge | 01 Aug 15:23 UTC [also carried by: Al-Monitor]
-  US President Donald Trump has secured a welcome Middle East diplomatic breakthrough with an agreement for Hamas militants to disarm, but remains mired in the conflict with Iran, searching for an exit strategy that continues to elude him. After five months of war, Trump's room for maneuver seems extremely limited, and he gives the impression of increasingly making up his plans as he goes along.
-  https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran
-
 * Review: Yes, we're still arguing about Nolan's The Odyssey
   Ars Technica | 01 Aug 15:19 UTC
   Christopher Nolan's impressionistic remix of Homer's epic poem finds the man behind the myth.
@@ -2676,6 +2510,11 @@ Every item below is dated. Check each date against today before treating anythin
   Some group with no modern descendants contributed a lot to our genomes.
   https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/
 
+* With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC
+  The Verge | 31 Jul 22:09 UTC
+  Sharge, the company that makes delightful retro Mac-shaped chargers and see-inside batteries, is finally impressing me with a portable SSD. I couldn't recommend the Sharge Disk, Disk Plus, or even the Disk Pro, but I'd be happy to own the new Disk Pro 2 Ultra. This isn't just a drive. It's a 4K HDMI dock […]
+  https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock
+
 * Doctors took a look at man's painful shoulder—they found the joint was missing
   Ars Technica | 31 Jul 21:51 UTC
   The term "Milwaukee Shoulder Syndrome" was coined in 1981, based on cases in four women.
@@ -2705,6 +2544,11 @@ Every item below is dated. Check each date against today before treating anythin
   The Verge | 31 Jul 19:35 UTC
   We spotted a great deal on Tile trackers earlier this week that’s still live, but if you’re an iPhone owner, we ultimately recommend Apple’s latest AirTag. Right now, you can pick up a four-pack for $89 ($10 off) at Amazon and Target, matching the bundle’s all-time low price. If you’re a member, Costco also has […]
   https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale
+
+* Google Earth’s AI deepfake tool only lasted one day
+  The Verge | 31 Jul 19:13 UTC [also carried by: Decrypt]
+  Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican border […]
+  https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool
 
 * Would you get tattooed just to interview at a 7-days-a-week AI startup?
   Ars Technica | 31 Jul 19:04 UTC
@@ -2741,12 +2585,7 @@ Every item below is dated. Check each date against today before treating anythin
   Sony doesn't think the move will hurt it financially.
   https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/
 
-* Man invested $45M in a Nicolas Cage movie. It got stolen off Netflix’s desk.
-  Ars Technica | 31 Jul 16:17 UTC
-  Filmmaker sues Netflix over stolen screener of unreleased Nicolas Cage movie.
-  https://arstechnica.com/tech-policy/2026/07/man-invested-45m-in-a-nicolas-cage-movie-it-got-stolen-off-netflixs-desk/
-
---- Built environment (3) ---
+--- Built environment (2) ---
 
 * The Scalability Secret: Unlocking Business Continuity Through Tech Stacks
   ENR | 01 Aug 04:00 UTC
@@ -2757,11 +2596,6 @@ Every item below is dated. Check each date against today before treating anythin
   ENR | 31 Jul 19:55 UTC
   Infrastructure investor Brookfield and energy developer NextEra are picked by the US Energy Dept to build data center-power complex at the former Kentucky uranium enrichment site
   https://www.enr.com/articles/63404-private-team-aims-to-build-100b-data-center-power-megaproject-on-federal-site
-
-* FlatironDragados-Sukut JV lands $1.8B dam project
-  Construction Dive | 31 Jul 16:19 UTC
-  The construction team will upgrade the Anderson Dam in California, which is operating at limited capacity due to the threat of earthquakes.
-  https://www.constructiondive.com/news/flatiron-dragados-sukut-jv-anderson-dam-project/826724/
 
 ######################################################################
 ## SOCIETY
@@ -2800,35 +2634,35 @@ Every item below is dated. Check each date against today before treating anythin
   Key players have piled up extra minutes at the World Cup and signing Vinícius Júnior would smash their wage structure After beating MK Dons 3-0 in a training-ground friendly last weekend, Arsenal truly begin their pre-season programme against Girona on Saturday evening. It marks a return to action for the Premier League champions, who will want to show their success last season was not a one-off. ...
   https://www.theguardian.com/football/2026/jul/31/arsenal-mikel-arteta-injuries-fatigue-title-defence
 
---- Chainlink (35) ---
+--- Chainlink (33) ---
 
 * SummerFi to Wind Down After Seven Years, Citing Exploit
-  The Defiant | 01 Aug 16:17 UTC
+  The Defiant | 01 Aug 16:32 UTC
   Aave founder Stani Kulechov called the DeFi access point 'an OG' as its team said it would sunset the UI.
   https://thedefiant.io/news/defi/summerfi-to-wind-down-after-seven-years-citing-exploit
 
 * eToro Takes Strategic Stake in Onchain Derivatives Exchange Extended, Plans Zengo Tie-Up
-  The Defiant | 01 Aug 16:17 UTC
+  The Defiant | 01 Aug 16:32 UTC
   eToro has become a strategic investor in Extended, an onchain perpetual futures exchange, and said the round begins a partnership with Zengo, the self-custody wallet eToro acquired earlier this year. Neither company disclosed the investment size.
   https://thedefiant.io/news/cefi/etoro-strategic-stake-onchain-derivatives-extended-zengo
 
 * NEAR Governance Votes to Scrap Developer Gas Rebate
-  The Defiant | 01 Aug 16:17 UTC
+  The Defiant | 01 Aug 16:32 UTC
   NEAR's on-chain governance body, House of Stake, passed proposal HSP-027 to eliminate the protocol's developer gas rebate, a change that will send all network gas fees to be burned rather than partly rebated to smart-contract owners. NEAR co-founder Illia Polosukhin confirmed the outcome Monday,…
   https://thedefiant.io/news/blockchains/near-governance-votes-to-scrap-developer-gas-rebate
 
 * BitMine Adds $73 Million in ETH, Pushing Holdings to 4.8% of Supply
-  The Defiant | 01 Aug 16:17 UTC
+  The Defiant | 01 Aug 16:32 UTC
   BitMine Immersion Technologies (NYSE: BMNR), the Ethereum treasury company chaired by Fundstrat's Tom Lee, bought 42,197 ETH worth roughly $73 million over the past week, according to the company's own holdings update posted Monday. The purchase lifts BitMine's total to 5,742,237 ETH, about 4.8% of…
   https://thedefiant.io/news/tradfi-and-fintech/bitmine-adds-73-million-in-eth-pushing-holdings-to-4-8-of-supply
 
 * EDX Markets Closes $76M Series C Led by SBI Holdings
-  The Defiant | 01 Aug 16:17 UTC
+  The Defiant | 01 Aug 16:32 UTC
   EDX Markets, an institutional-only crypto trading venue with its own central clearinghouse, closed a $76 million Series C funding round led by SBI Holdings, the firm said in a press release. The Tokyo-listed financial group becomes a strategic investor in the U.S. exchange. The capital will fund…
   https://thedefiant.io/converge/tradfi-and-fintech/edx-markets-closes-76m-series-c-led-by-sbi-holdings
 
 * Tether's Former CIO Heathcote Plans to Sell Equity Stake
-  The Defiant | 01 Aug 16:17 UTC
+  The Defiant | 01 Aug 16:32 UTC
   Richard Heathcote, who until earlier this year served as Tether Holdings SA's chief investment officer, is planning to sell a small stake in the stablecoin issuer, Bloomberg reported Monday, citing people familiar with the matter. Heathcote is working with investment bank PJT Partners to sell part…
   https://thedefiant.io/converge/cefi/tether-s-former-cio-heathcote-plans-to-sell-equity-stake
 
@@ -2867,11 +2701,6 @@ Every item below is dated. Check each date against today before treating anythin
   CoinDesk | 01 Aug 13:00 UTC
   https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards
 
-* Chainlink’s Strategic Reserves Now Worth $5.7 Million Following 706,809 LINK Addition in July - ZyCrypto
-  Google News Chainlink | 01 Aug 10:15 UTC
-  Chainlink’s Strategic Reserves Now Worth $5.7 Million Following 706,809 LINK Addition in July ZyCrypto
-  https://news.google.com/rss/articles/CBMisgFBVV95cUxNWlg3cDRTV1E3SlhyaVU1OVNScWFLajFvV2JvdkZablJ6dko0c01tQ0dQVzNnU3R6TGFrOENPaU1SZTIxTE1hZFU1ZUJNQ2NHeFNPRUc1WnY1bXc2dFdURjRHVnlwWkJzblNGS2cyc3Fja1FPSGV0Nzc4WVAzcDRSQmVRNjROekRCTElwS2hfN0F1Z1NkUlJhNEtTMWpEaGgtSVJMWDk3ZUQ3T0F6dmo3WEtn0gG3AUFVX3lxTFBRMmRrWW1QWFh5ekRndXF6bWZyZDR3MUtGTjVWbE9wS0pGRFdQZEpud0hIdUZKTVV2SHFRRHA3M3V3T29lejVrMmVxNE1lbGpGbkN0ekN1OGo2cFM4cUw1akV4Z1Y0R3lQZ0otb0x0TGJDd2tDYTNPQ1pQT0podWFGUERWMXM3dk42T0t3TmM0aGdCMGdFNk5vWTJDbkg4SC1fbTI1dXdjSE1vSXNVTTZCcnNGZVpYOA?oc=5
-
 * Chainlink Price Prediction 2026: Will LINK Get to $38? - Memeburn
   Google News Chainlink | 01 Aug 09:58 UTC
   Chainlink Price Prediction 2026: Will LINK Get to $38? Memeburn
@@ -2897,11 +2726,6 @@ Every item below is dated. Check each date against today before treating anythin
 * Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say
   CoinDesk | 31 Jul 20:50 UTC
   https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say
-
-* Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears
-  Decrypt | 31 Jul 20:32 UTC [also carried by: The Verge]
-  Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican border […]
-  https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears
 
 * Metronome Discloses $15.7 Million Synth Shortfall, Blames Oracle Lag in Swap Module
   The Defiant | 31 Jul 20:30 UTC
@@ -2960,10 +2784,10 @@ Every item below is dated. Check each date against today before treating anythin
   CoinDesk | 31 Jul 17:07 UTC
   https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs
 
-* BlockDAG Launches Staking & Claiming, While Chainlink & Cardano Face Key Market Shifts - StreetInsider
-  Google News Chainlink | 31 Jul 16:26 UTC
-  BlockDAG Launches Staking & Claiming, While Chainlink & Cardano Face Key Market Shifts StreetInsider
-  https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTENJVmVPVFN2NkdmYmVBRUNfamQ0aUJpUkF3UEg1MUdtUmNLSktYdXR1dENJX29ITjdGQlN0WlBYYUowQWtBXzI5ejJaNmlZOXVuZG01LTJHMFJRWXpQdU9nOWdLWVJYSXBCV29RQ0lnWHhwNS1LRlQzeHN5ZXZLWXJVNmkweUpOa2FaUmVtOEV2OTJqaERPc2trMDlqc2pVRXotd0hhM0FLMmpVVHFtbUVhdVNEUmxoV3lxZ0pnTlFQSzJidXl0OUZzUWpkVWRYbzkyVnRFMTBDR1dkbGhSY3MwNDhobkw5MDhTNlRfYw?oc=5
+* World Cup 2026 prediction markets topped $20 billion, with Ronaldo tears among the biggest wagers
+  The Block | 31 Jul 16:48 UTC
+  World Cup betting activity peaked around major knockout matches, with markets ranging from match outcomes to player-specific outcomes.
+  https://www.theblock.co/post/410295/world-cup-2026-prediction-markets-topped-20-billion-ronaldo-tears-biggest-wagers?utm_source=rss&utm_medium=rss
 
 --- OriginTrail (1) ---
 
@@ -2972,22 +2796,12 @@ Every item below is dated. Check each date against today before treating anythin
   Swarm Intelligence Verified: Introducing Block’s Buzz integration for Decentralized Knowledge Graph (DKG) Networks began by moving packets between machines. Then they moved posts between people — an era Jack Dorsey helped define as founder and former CEO of Twitter. Dorsey’s Block just launched Buzz — an open-source collaboration workspace built on the Nostr protocol he has long championed, where ...
   https://medium.com/origintrail/swarm-intelligence-verified-introducing-blocks-buzz-integration-for-decentralized-knowledge-graph-c88f8209c9bd?source=rss----d4d7f6d41f7c---4
 
---- Agronomics (5) ---
-
-* Solar Foods Oyj Class K Revenue Breakdown – OMXHEX:SFOODS - TradingView
-  GN Solar Foods Onego | 31 Jul 23:00 UTC
-  Solar Foods Oyj Class K Revenue Breakdown – OMXHEX:SFOODS TradingView
-  https://news.google.com/rss/articles/CBMiekFVX3lxTE5aelFMRjFZMmJrbk9oX2hTQVpmRHh6QWRkNjNrNEFzb2RLQncyYW55Q3VuUEU2aFo4SDN4TVRDTHdEbTFLYTJSc3NSekFBVVNsRzJKNUYyMjV1czJYLXpaczV0MDVjRVUzeTdWSkxFMzZJR3l1eVRPM2pB?oc=5
+--- Agronomics (3) ---
 
 * Daebong LS seeks to overcome ‘chronic limitations’ via precision fermented lutein - NutraIngredients.com
   GN precision fermentation | 30 Jul 03:18 UTC
   Daebong LS seeks to overcome ‘chronic limitations’ via precision fermented lutein NutraIngredients.com
   https://news.google.com/rss/articles/CBMizAFBVV95cUxNc05rbDRhY0hNaW1JMGZXaDh3aGRjcElncGdWY1VIRmROUGhrTjFIX3R6S0dmMkZlUUFsa0xtZURaeVhnSThZd1MtQ0Z3NzR4QXQweHhkQV9NUVZObDdYbm1qZzdCYzRpRHFIb0NKRzhLMVAwTm5abUF2SVBOQ3NLTDY2NkwzeTFyY0FPUFoycDJKZTZjTHpsVmZhQk9YUm9CbDhnVmxZS194U1AzT21wU0Qwc3JrSnppZ1ppcXJQXzI5eG5IaHl3amdxZkU?oc=5
-
-* A new autism support group in B.C. is providing specialized training for first responders - cbc.ca
-  GN Solar Foods Onego | 29 Jul 13:00 UTC
-  A new autism support group in B.C. is providing specialized training for first responders cbc.ca
-  https://news.google.com/rss/articles/CBMirwFBVV95cUxNellHb2p0OUNGVV9PRFVISl8ycUkxT1VKYnl4dG1nMW90ZWlZbHNhRVJ4MHo1Y0VRTFBvT3NGUHg4NV9HVTRaM0p2dTBlUnFhVW1EV0NnRW5qUEhkSkpKUmlPTDM0M1gtNlc3TmRXYUlkOHc1eFh2bFI3bHFjb3RHQmhBZWc0Sl9JbkQya192dUl5Ukhxc3JraDJ2UUFGcXRHQy03cGtDY3ZiYl9YQzQw?oc=5
 
 * Animal-Free Egg Protein Market to Reach USD 1,933.5 Million by 2036 Driven by Precision Fermentation and Avian Flu Resilience, FMI - PR Newswire
   GN precision fermentation | 28 Jul 14:16 UTC
@@ -3003,127 +2817,17 @@ Every item below is dated. Check each date against today before treating anythin
 ## SPECIAL INTERESTS
 ######################################################################
 
---- Projectors (40) ---
+--- Projectors (17) ---
 
-* What are you currently listening to and on what? Part IV. *Read post #1*
-  AVForums | 01 Aug 16:16 UTC
-  Carried on from..... What Are You Currently Listening To And On What? Part III 🔊🎶🎵🎶🎵🎶👍 www.avforums.com Please note: Images, limit to 1 per album. 1 full sized image per post. Multiple images in a single post must be thumbnails and limited to a maximum of 4. Please use your discretion when making consecutive posts.
-  https://www.avforums.com/threads/what-are-you-currently-listening-to-and-on-what-part-iv-read-post-1.2415990/?utm_source=rss&utm_medium=rss
-
-* PSN Credit
-  AVForums | 01 Aug 16:16 UTC [also carried by: AVForums]
-  Looking for up to £150 in PSN Credit. Let me know what you have please
-  https://www.avforums.com/threads/psn-credit.2557573/?utm_source=rss&utm_medium=rss
-
-* Retirement
-  AVForums | 01 Aug 16:15 UTC
-  I've noticed the subject of retirement pop up in several different threads, and thought it might be useful to have a single, consolidated thread to discuss all things to do with retirement. Examples of topics that may be suitable: Pensions - all the different types, how to build them up, and how to draw them down. Finances - accumulating wealth before retirement and decumulating during retirement....
-  https://www.avforums.com/threads/retirement.2554868/?utm_source=rss&utm_medium=rss
-
-* Room perfect and speakers
-  AVForums | 01 Aug 16:15 UTC
-  Currently I have a Lyngdorf TDAI 1120 powering a pair of Monitor Audio Soundframe 1 on-wall speakers together with a BK double gem sub. Room perfect does the integration of speakers and sub with a 80 Hz BW filter. It sounds good and detailed but the bass is on the lean side and the different voices are quite subtle to me. With room perfect bypassed, the sound is warmer but definitely muddier. I wi...
-  https://www.avforums.com/threads/room-perfect-and-speakers.2557810/?utm_source=rss&utm_medium=rss
-
-* Rot in Hell
-  AVForums | 01 Aug 16:14 UTC
-  Not normally one to get worked up about sentencing but in this case I hope he rots in hell, although I have a feeling that sentencing guidelines don't really cover this behaviour. https://news.sky.com/story/robert-bush-sentencing-latest-victims-gather-outside-court-as-monster-funeral-director-who-prevented-burials-faces-jail-13565624
-  https://www.avforums.com/threads/rot-in-hell.2557601/?utm_source=rss&utm_medium=rss
-
-* A bit of advice on a new (to me) home cinema setup
-  AVForums | 01 Aug 16:11 UTC
-  Good morning folks, I am about half way through building a home cinema system in my living room but im unsure on a few things. would very much like to pick some brains. I currently have a nice OLED tv and Panasonic 4k player, a pair of B&W CM9, will be buying a pair of rear speakers and centre channel in a week or so. Im trying to do this on a bit of a budget so im looking at used equipment. Been ...
-  https://www.avforums.com/threads/a-bit-of-advice-on-a-new-to-me-home-cinema-setup.2556853/?utm_source=rss&utm_medium=rss
-
-* Kill Bill: Volume 1 & 2 / The Whole Bloody Affair (2003-2025) 4K UHD
-  AVForums | 01 Aug 16:11 UTC
-  Kill Bill: The Whole Bloody Affair Links: TBA Release date: TBC 2026 (UK) Artwork TBA Kill Bill: Volume 1: Amazon.co.uk - HMV - Zavvi Kill Bill: Volume 2: Amazon.co.uk - HMV - Zavvi Release date: 12/05/2025 US releases... Kill Bill: The Whole Bloody Affair (Deluxe Edition) Link: Lionsgate Limited (Exclusive) Release date: 28/07/2026 (US) Note: They do not ship to the UK so... Click to expand... Re...
-  https://www.avforums.com/threads/kill-bill-volume-1-2-the-whole-bloody-affair-2003-2025-4k-uhd.2458709/?utm_source=rss&utm_medium=rss
-
-* XGIMI Titan Noir Max impressions/testing and comparisons
-  AVForums | 01 Aug 16:11 UTC
-  I figured now that a couple of us on the forum have received one of these for testing and comparison purposes it's a good idea to create a separate thread for us to post our thoughts and pictures/videos so that way all the impressions are here and don't get lost in the other threads. ill repost my initial impressions here too. First Impressions Some of my thoughts after watching a few movies last ...
-  https://www.avforums.com/threads/xgimi-titan-noir-max-impressions-testing-and-comparisons.2552650/?utm_source=rss&utm_medium=rss
-
-* The © LEGO Thread
-  AVForums | 01 Aug 16:09 UTC
-  Apart from the 'show off the stuff you bought' thread, where lots of people seem to be buying Lego, I couldn't find a dedicated Lego thread. (Apologies if there is already one running - I am happy to be directed to it and close this one) My Lego collection is primarily Technic. I 'played' with Lego town sets as a kid and also had some of the early Technic sets. I guess I no longer play with it - r...
-  https://www.avforums.com/threads/the-%C2%A9-lego-thread.1948894/?utm_source=rss&utm_medium=rss
-
-* Samsung S26 ultra 512gb
-  AVForums | 01 Aug 16:08 UTC
-  S26 Ultra 512gb Cobalt Violet Perfect condition screen protector and case from new sale includes a samsung case and £60 pitaka case 100% battery life warranty march 2028 includes box and charging cable Bought this from a friend - was originally purchased outright from Samsung direct Receipt as proof of purchase rrp £1449
-  https://www.avforums.com/threads/samsung-s26-ultra-512gb.2557856/?utm_source=rss&utm_medium=rss
-
-* iPhone 12/13/14
-  AVForums | 01 Aug 16:06 UTC [also carried by: The Verge]
-  I’m after an iPhone 12/13/14 for my son. Preferably a Pro model, black or grey, with at least 128gb storage, but will consider most options. Condition to be decent, not interested in anything with cracked/scratched screen or any kind of “quirky but manageable” power issues etc… If you have something suitable please let me know, along with battery health info and your best price including delivery ...
-  https://www.avforums.com/threads/iphone-12-13-14.2557798/?utm_source=rss&utm_medium=rss
-
-* World Cup Greed
-  AVForums | 01 Aug 16:02 UTC [also carried by: Africanews, Al Jazeera global, Al-Monitor, BBC Business, Channel News Asia, MercoPress, Mexico News Daily, NPR Business, The Block]
-  Aug 1 (Reuters) - FIFA President Gianni Infantino is under unprecedented fire after regional confederations UEFA and CONCACAF said on Saturday they had lost confidence in his leadership following his abandoned plan to sell a stake in World Cup commercial rights. The dramatic fallout from Infantino's scrapped $4.2-billion proposal has exposed growing unease within world soccer over his leadership s...
-  https://www.avforums.com/threads/world-cup-greed.2557693/?utm_source=rss&utm_medium=rss
-
-* The mental health thread.
-  AVForums | 01 Aug 15:59 UTC
-  Since it has been stated that we can start a new mental health thread, following the closure of the previous one, I figured I would go ahead and start one. We just need to be careful what we write if we don't want the thread to be closed again. We have been advised against talking about self-harm or suicide. If anyone is at breaking point, here is a list of resources that you may find beneficial. ...
-  https://www.avforums.com/threads/the-mental-health-thread.2477910/?utm_source=rss&utm_medium=rss
-
-* Airpods Pro 3
-  AVForums | 01 Aug 15:59 UTC
-  AirPods Pro 3 I’ve had these since launch from Argos, but I’d say they’ve been used for maybe a total of 30hrs. The case has some light scratches from being put inside the covers. AirPods themselves are clean and have been desensitised. Only 1 set of tips has been used.
-  https://www.avforums.com/threads/airpods-pro-3.2557793/?utm_source=rss&utm_medium=rss
-
-* Sony AVR Calibration
-  AVForums | 01 Aug 15:58 UTC
-  I've had a Sony TA-AN1000 for a while now and I've really enjoyed it. I've got traditional fronts and an SVS sub but I use Sony's wireless rear speakers (a compromise with the better half). I've recently upgraded these from the Sony SA-RS5's to the new SA-RS9. Naturally, I have recalibrated since upgrading to the RS9s, however the results are confusing to say the least! Cal 1 Front (L) - 0.0db Cen...
-  https://www.avforums.com/threads/sony-avr-calibration.2556621/?utm_source=rss&utm_medium=rss
+* Apple CarPlay isn't working in your car? Here's what to check first
+  Engadget | 01 Aug 16:30 UTC
+  Apple's CarPlay is a convenient way to listen to music or safely use navigation, but it can be a finnicky system that requires the occasional troubleshooting.
+  https://www.engadget.com/2225155/why-carplay-not-working-in-car-what-to-check-first/
 
 * Judge refuses xAI's request to stop a Minnesota law banning 'nudify' apps
   Engadget | 01 Aug 15:56 UTC
   xAI filed a lawsuit a few days ago to prevent Minnesota's law banning 'nudify' apps from taking effect.
   https://www.engadget.com/2228460/judge-refuses-xai-request-to-stop-minnesota-law-banning-nudify-apps/
-
-* SVS SB3000 Subwoofer - Gloss black lovely condition
-  AVForums | 01 Aug 15:55 UTC
-  SVS SB3000 subwoofer, gloss black, beautiful condition. Purchased from Richer Sounds 13th June 2025, so just under 5 years warranty remaining. Been very well looked after as you can tell from the condition. It's used as part of an AV setup in my living room and never run at anything close to reference level volume. Comes with all original accessories and original box, no marks or scratches of note...
-  https://www.avforums.com/threads/svs-sb3000-subwoofer-gloss-black-lovely-condition.2557318/?utm_source=rss&utm_medium=rss
-
-* Monitor Audio Anthra W12 Subwoofer and Marantz Cinema 60 Compatibility Issues
-  AVForums | 01 Aug 15:55 UTC
-  I purchased a Monitor Audio Anthra W12 Subwoofer to add to my MA Silver 7G 300 Floor standing and MA 250C Centre Speaker, all of which are powered by a Marantz Cinema 60 AV Receiver. I really thought this would be perfect addition and complete my audio system and provide the perfect accompaniment to my Samsung S95B OLED television (Which I plan on upgrading during the Black Friday sales) However, ...
-  https://www.avforums.com/threads/monitor-audio-anthra-w12-subwoofer-and-marantz-cinema-60-compatibility-issues.2557863/?utm_source=rss&utm_medium=rss
-
-* Splatoon Raiders
-  AVForums | 01 Aug 15:54 UTC
-  Splatoon Raiders launches July 23rd This is giving me that feeling that Kirby and the Forgotten land gave me where I just want to play and explore the worlds. Anyone else interested in this? I've never played a Splatoon but this looks different enough that I'm very interested.
-  https://www.avforums.com/threads/splatoon-raiders.2552651/?utm_source=rss&utm_medium=rss
-
-* The Weather Thread.
-  AVForums | 01 Aug 15:49 UTC
-  Maybe it’s time for something different? A thread to discuss weather as a whole. Currently it’s tipping down here!
-  https://www.avforums.com/threads/the-weather-thread.2492670/?utm_source=rss&utm_medium=rss
-
-* Sony BRAVIA 9ii (XR90M2) True RGB Owners Thread
-  AVForums | 01 Aug 15:47 UTC
-  I recently got the 75” Bravia 9 II and my impressions so far. This tv is a major major major major go!
-  https://www.avforums.com/threads/sony-bravia-9ii-xr90m2-true-rgb-owners-thread.2555489/?utm_source=rss&utm_medium=rss
-
-* Marantz SR7012 - EasyID
-  AVForums | 01 Aug 15:46 UTC
-  For Sale: Marantz SR7012 9.2 Channel AV Receiver Price: £525 ONO Delivery/Collection: Collection preferred or delivery extra Payment: Bank transfer preferred Provenance & Condition: Fully tested and working — not a faulty/parts unit. Excellent, barely-used condition throughout, no cosmetic damage. Comes from a smoke-free home. All channels and HDMI inputs individually tested and confirmed working....
-  https://www.avforums.com/threads/marantz-sr7012-easyid.2557875/?utm_source=rss&utm_medium=rss
-
-* Need setup advice: Crowson actuators + 4 subs + Dirac/ART
-  AVForums | 01 Aug 15:45 UTC
-  Current setup is an Anthem MRX 1140, 4 Rythmik FV18 subs, Crowson actuators, minidsp. Anthem has 2 sub outs but they're not independent (exact same signal on both even after EQ). One subout goes to minidsp which I've independently EQd for the 4 subs via REW. The other sub out goes to the crowson actuators. I've been advised by respected members of this community that I'd get much better sub qualit...
-  https://www.avforums.com/threads/need-setup-advice-crowson-actuators-4-subs-dirac-art.2557874/?utm_source=rss&utm_medium=rss
-
-* TEAC 500 Series: A System That Builds In Layers – EXCLUSIVE AVForums Discount Code
-  AVForums | 01 Aug 15:45 UTC
-  TEAC 500 Series: A System That Builds In Layers – EXCLUSIVE AVForums Discount Code ​ TEAC isn’t a brand that tends to shout. Founded in Tokyo in 1953, the company grew out of early tape recording engineering - initially developing reel-to-reel machines at a time when bringing studio-quality sound into the home still felt ambitious. Across the decades, that focus stayed largely unchanged: record ac...
-  https://www.avforums.com/threads/teac-500-series-a-system-that-builds-in-layers-%E2%80%93-exclusive-avforums-discount-code.2554155/?utm_source=rss&utm_medium=rss
 
 * Honda has a new partner for the advancement of solid-state battery technology
   Engadget | 01 Aug 15:30 UTC
@@ -3199,11 +2903,6 @@ Every item below is dated. Check each date against today before treating anythin
   Engadget | 31 Jul 16:41 UTC
   Sony responded to widespread criticism of its plan to discontinue games on discs in its latest earnings call.
   https://www.engadget.com/2228005/sony-will-move-forward-with-its-plans-to-stop-making-ps5-discs-despite-backlash/
-
-* This new drone spins so fast the human eye can barely see it
-  Engadget | 31 Jul 16:30 UTC
-  "Invisible" drones have been in the works for years, and researchers have finally designed one that gets close.
-  https://www.engadget.com/2222974/phantom-twist-drone-spins-so-fast-human-eye-barely-see/
 
 --- Aviation (19) ---
 
@@ -3302,7 +3001,12 @@ Every item below is dated. Check each date against today before treating anythin
   Hello from Spain, as I just flew Riyadh Air’s Boeing 787-9 business class on the six hour flight from Riyadh (RUH) to Madrid (MAD), as I continue the return portion of my review trip. Obviously I was very much looking forward to this flight, given that Riyadh Air recently launched commercial operations, has huge growth plans, and has promised to be premium, with an obsessive attention to detail.
   https://onemileatatime.com/insights/riyadh-air-787-business-class/
 
---- Cameras (11) ---
+--- Cameras (12) ---
+
+* The Best compact zoom cameras in 2026
+  DPReview | 01 Aug 16:32 UTC
+  If you want a compact camera that produces great quality photos without the hassle of changing lenses, there are plenty of choices available for every budget. Read on to find out which portable enthusiast compacts are our favorites.
+  https://www.dpreview.com/reviews/buying-guide-best-compact-zoom-cameras/
 
 * Behind the Curtain at KEH: Countless Cameras and a World-Class Repair Center
   PetaPixel | 01 Aug 14:01 UTC
@@ -3389,7 +3093,7 @@ Every item below is dated. Check each date against today before treating anythin
   https://www.archdaily.com/1148798/riera
 
 * Catalan farmhouse designed as "a passage through the land"
-  Dezeen | 01 Aug 10:00 UTC [also carried by: Dezeen]
+  Dezeen | 01 Aug 10:00 UTC
   Spanish studio NUA Arquitectures has completed Casa Juià, a farmhouse in Catalonia that draws on the craftsmanship of the surrounding region. Located in the village of Juià, at the foot of the Gavarres mountain range in Spain, the 283-square-metre home comprises three parallel wings wrapped in porches and galleries. Casa Juià reinterprets the region's traditional farmhouse The post Catalan farmhou...
   https://www.dezeen.com/2026/08/01/casa-juia-nua-arquitectures-catalonia-spain/
 
@@ -3399,7 +3103,7 @@ Every item below is dated. Check each date against today before treating anythin
   https://www.archdaily.com/1181752/lecomte-apartment-atelier-orzan
 
 * Dezeen's top five houses of July 2026
-  Dezeen | 01 Aug 09:00 UTC [also carried by: Dezeen]
+  Dezeen | 01 Aug 09:00 UTC
   A large multi-generational home in India and a low-lying stone farmhouse in rural Scotland are among the mix of residences in this eclectic edition of Dezeen's houses of the month. Also on the list of the five most popular houses featured on Dezeen in July are a gridded forest dwelling in the Netherlands, a rammed-earth The post Dezeen's top five houses of July 2026 appeared first on Dezeen .
   https://www.dezeen.com/2026/08/01/top-houses-july-2026/
 
@@ -3414,7 +3118,7 @@ Every item below is dated. Check each date against today before treating anythin
   https://www.archdaily.com/1181460/modernist-harmony-in-a-historic-villa-lbwa
 
 * This week we revealed heated Nike slides
-  Dezeen | 01 Aug 05:00 UTC [also carried by: Dezeen]
+  Dezeen | 01 Aug 05:00 UTC
   This week on Dezeen, we unveiled a pair of slides that heat up and vibrate feet to help athlete's recover. Created by sportswear company Nike and health technology company Hyperice, the slides contain a device in their straps that can heat and massage the top of feet. Continuing our Future Stadium series we investigated why The post This week we revealed heated Nike slides appeared first on Dezeen...
   https://www.dezeen.com/2026/08/01/nike-heated-slide-this-week/
 
@@ -3429,7 +3133,7 @@ Every item below is dated. Check each date against today before treating anythin
   https://www.archdaily.com/1181746/casa-mezcal-barde-plus-vanvoltt
 
 * Martin Hopp Architect puts generosity over spectacle at mass-timber school in New York
-  Dezeen | 31 Jul 17:00 UTC [also carried by: Dezeen]
+  Dezeen | 31 Jul 17:00 UTC
   New York City studio Martin Hopp Architect has completed a building with a mass-timber structure for a school in Hempstead, New York, prioritising healthy living spaces and materials on a tight budget. Evergreen Charter School opened in 2025 on a suburban site on Long Island in New York state. The K-12 school comprises 89,000 square The post Martin Hopp Architect puts generosity over spectacle at ...
   https://www.dezeen.com/2026/07/31/martin-hopp-architect-mass-timber-k-12-school-new-york/
 
@@ -3455,10 +3159,10 @@ Every item below is dated. Check each date against today before treating anythin
   Blending space exploration, cyberpunk body mods, cosmic horror, and tactical turn-based RPG combat, Quasimorph 1.0 has just hit Steam.
   https://www.pcgamesn.com/quasimorph/dark-cyberpunk-rpg-out-now
 
-* Decaying Winter codes (August 2026)
-  PCGamesN | 01 Aug 14:13 UTC [also carried by: PCGamesN]
+* A Quiet Place Deadzone codes (August 2026)
+  PCGamesN | 01 Aug 14:13 UTC
   Jump straight to player level three and earn some easy rewards when you redeem these new A Quiet Place Deadzone codes for free EXP and more.
-  https://www.pcgamesn.com/decaying-winter-codes
+  https://www.pcgamesn.com/a-quiet-place-deadzone-codes
 
 * What if Stop Killing Games win? Anthem, SpaceCraft and Warframe devs on the "massive undertaking" of reverse engineering an always-online game
   Rock Paper Shotgun | 01 Aug 13:04 UTC
@@ -3521,7 +3225,7 @@ Every item below is dated. Check each date against today before treating anythin
   Kyrgyzstan Tajikistan and Laos Emerging Frontier Tourism Trends for Adventure Travelers in 2026 Nomad Lawyer
   https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzZuUDk5cVF5UTBTNVM3Ymo4Wm9yZ0lyZ0VJRndFUVdnclVFci1aSkpmdWl2YUxqMWtabGVRaXZaRUx5Q01kNXNLdWo4LWI0SURvSUZoWnlvQi1mZExEZmFsa2xial83eWhlNnBFYmRxTHpoRmJtN2JPMkJVczl2c1R5azJ3TGFKWDZkUFZ4Tk12RnhfU0puUDZjTGNJeWFQV0VYN0VsMGJwUTZ3TTdtRHdn?oc=5
 
---- Employers (4) ---
+--- Employers (3) ---
 
 * MP checks out Bridgwater gym after £370,000 refurbishment - The Somerset Leveller
   Google News PureGym | 01 Aug 04:02 UTC
@@ -3538,17 +3242,28 @@ Every item below is dated. Check each date against today before treating anythin
   PureGym confirms Derby city centre exit as relocation plans revealed Derbyshire Live
   https://news.google.com/rss/articles/CBMioAFBVV95cUxNeklfQ2lTM3RyQm5TRHhlOFZfeTZvU3BoVlU2bHRaOUtYdHdBcEkxcndvNElTY1JITHhuRHRVTFVNdy1qSm93VEhTbkREZjlEem5DU2x3N3ZPSWNSeUl4NkktVzJQUkdxQTdjMlhTejhOWHhPeEp1V1J2WlFwOTdZTGJIQ3kwcnpVaGQ1UjRRZlJibDRIRmswZDNhVGNzN1FC0gGmAUFVX3lxTE95cmhCektYdEdXRjFzdjZRRzd0WUN4QTF5RGNQTEJGcjJ4TTRHSC1PT29LbG5iSEo3b2lJY1lGQ3k2RzVnRzUwckFjMXNVRXk1YkJmekloc1liWHNqWDdfT0FkV1ZxWTRma3pBVHZSYnZFb0c1V3p2NG5wZVFXVG5hc3VSTXRZUzZaRERKTEgwalhnWHVFREZTVGZIOC1iTzUzS2RqVGc?oc=5
 
-* Jemma Newton takes over as EY’s new Perth managing partner - Consultancy.com.au
-  Google News Newton | 27 Jul 09:55 UTC
-  Jemma Newton takes over as EY’s new Perth managing partner Consultancy.com.au
-  https://news.google.com/rss/articles/CBMioAFBVV95cUxNcUdfaWp3dHNncEZPUl9PWFp0dVV2NmlRbm9EM2pKdjEyeGJBRnJSUzNabTBYek1LWlFlRGx4bzdsRGNBUm94SVFyREhnLVVOYW80ZGZwdWZiNUFOY19KQy16Z29fMVVtWmVZOVkyLXgteXk3WlpmVU5JU1hFX3hhcVBIbnVibEJqalJubGlMTldTYmR0LVlIUFFHQTFuU2JS0gGmAUFVX3lxTE9SUG5vbzloRUNSQWlVdV9hdWttUU5la1BveVRpcVBDMDJHRmZHRGxSWGp4QnBVMGJwVjFKYjVpZ1Nmc251eE1CQkVRaFdvT2thRWdJZzdqZVpSdTNUZWg2Sl85UGZ3R1pWOTJyTHhWWHRUVFlRRFhQcmZ6SzJadHd1V3ZwRUtSaVJZbEJhRm1sMUlKR0lCVWI0d3RRNjJUOC1KZ0FfSXc?oc=5
+======================================================================
+FULL TEXT UNAVAILABLE
+======================================================================
+These were flagged for full-text analysis but only the summary could be retrieved, usually a paywall. Do not treat the summary as the whole article:
+  - Decrypt: CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: '
+  - Decrypt: The More Americans Know About AI, the Less They Like It: Gal
+  - Decrypt: AI Music Company Suno Loses Copyright Case in Germany
+  - Decrypt: US Is Banning Foreign Robots—Even Roombas
+  - Decrypt: Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Ho
 
 ======================================================================
 SOURCES THAT FAILED TODAY
 ======================================================================
 These produced nothing. Treat the lanes they cover as unverified rather than quiet:
-  - GN Clean Food Group (Agronomics): stale: newest item 59 days old
-  - Lawfare (Conflict): HTTP 403 - refused all three identities, likely datacenter IP blocking
+  - Euronews (Europe): feed returned zero items
+  - GN Clean Food Group (Agronomics): stale: newest item 100 days old
+  - GN Onego Formo (Agronomics): stale: newest item 63 days old
+  - Google News Newton (Employers): stale: newest item 298 days old
+  - Google News Newton alt (Employers): stale: newest item 375 days old
+  - Google News UST projector (Projectors): stale: newest item 14 days old
+  - Projector Central (Projectors): HTTP 404
+  - Rest of World (Editorial): HTTP 429 (rate limited) after 3 attempts
   - Travel Weekly (Trends): feed returned zero items
 
-Digest ends. Built 2026-08-01T16:17:28.147465+00:00
+Digest ends. Built 2026-08-01T16:32:20.245818+00:00
