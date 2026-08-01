@@ -129,7 +129,8 @@ Agronomics | Google News cultivated meat | https://news.google.com/rss/search?q=
 OriginTrail | Google News OriginTrail | https://news.google.com/rss/search?q=%22OriginTrail%22+OR+%22TRAC+token%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Employers | Google News PureGym | https://news.google.com/rss/search?q=%22PureGym%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Employers | Google News Ascenti | https://news.google.com/rss/search?q=%22Ascenti%22+physiotherapy&hl=en-GB&gl=GB&ceid=GB:en | QUIET
-Employers | Google News Newton | https://news.google.com/rss/search?q=Newton+Impact+consulting&hl=en-GB&gl=GB&ceid=GB:en | QUIET
+Employers | Google News Newton | https://news.google.com/rss/search?q=%22Newton+Impact%22+OR+%22Newton+Europe%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
+Employers | Google News Newton alt | https://news.google.com/rss/search?q=%22Newton+Impact%22+operations+consultancy&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Chainlink | Google News Chainlink | https://news.google.com/rss/search?q=%22Chainlink%22+crypto+OR+oracle&hl=en-GB&gl=GB&ceid=GB:en |
 
 ## REPLACEMENTS FOR THIN LANES
@@ -149,16 +150,15 @@ Built environment | Dezeen | https://www.dezeen.com/feed/ |
 E-commerce | Retail Dive | https://www.retaildive.com/feeds/news/ |
 ## THIRD ROUND ADDITIONS
 Trends | Skift Meetings | https://meetings.skift.com/feed/ |
-Projectors | AVForums | https://www.avforums.com/forums/-/index.rss |
-Conflict | Lawfare | https://www.lawfaremedia.org/feeds/all.rss |
 Conflict | Long War Journal | https://www.longwarjournal.org/feed |
 
 ## AGRONOMICS PORTFOLIO AND SECTOR
 Agronomics | GN BlueNalu | https://news.google.com/rss/search?q=BlueNalu+cultivated+seafood&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Agronomics | GN Mosa Meat | https://news.google.com/rss/search?q=%22Mosa+Meat%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
-Agronomics | GN Clean Food Group | https://news.google.com/rss/search?q=%22Clean+Food+Group%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
+Agronomics | GN Clean Food Group | https://news.google.com/rss/search?q=%22Clean+Food+Group%22+yeast+oil&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Agronomics | GN Liberation Bio | https://news.google.com/rss/search?q=%22Liberation+Bioindustries%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
-Agronomics | GN Solar Foods Onego | https://news.google.com/rss/search?q=%22Solar+Foods%22+OR+%22Onego+Bio%22+OR+%22Formo%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
+Agronomics | GN Solar Foods | https://news.google.com/rss/search?q=%22Solar+Foods%22+protein+fermentation&hl=en-GB&gl=GB&ceid=GB:en | QUIET
+Agronomics | GN Onego Formo | https://news.google.com/rss/search?q=%22Onego+Bio%22+OR+%22Formo+GmbH%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Agronomics | GN EVERY Co | https://news.google.com/rss/search?q=%22EVERY+Co%22+egg+protein&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Agronomics | GN Meatly SuperMeat | https://news.google.com/rss/search?q=%22Meatly%22+OR+%22SuperMeat%22+OR+%22All+G%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Agronomics | GN precision fermentation | https://news.google.com/rss/search?q=precision+fermentation&hl=en-GB&gl=GB&ceid=GB:en | QUIET
@@ -166,3 +166,6 @@ Agronomics | GN cellular agriculture | https://news.google.com/rss/search?q=cell
 Agronomics | GN alt protein regulation | https://news.google.com/rss/search?q=alternative+protein+regulatory+approval+FSA+OR+FDA&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Agronomics | Green Queen | https://www.greenqueen.com.hk/feed/ |
 Agronomics | AgFunderNews | https://agfundernews.com/feed |
+Projectors | Google News UST projector | https://news.google.com/rss/search?q=%22ultra+short+throw%22+projector+lumens&hl=en-GB&gl=GB&ceid=GB:en |
+Projectors | Projector Central | https://www.projectorcentral.com/rss/news.xml |
+Conflict | Defense One | https://www.defenseone.com/rss/all/ |
