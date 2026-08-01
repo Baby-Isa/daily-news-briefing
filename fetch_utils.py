@@ -20,12 +20,45 @@ Most sites want a plain feed request. A handful want to see a browser.
 Escalating for everyone breaks the majority to please the few.
 """
 
+import threading
 import time
+from urllib.parse import urlparse
 
 import requests
 
 TIMEOUT = 25
 ATTEMPTS = 3
+
+# Per-domain rate limiting.
+#
+# Every Google News feed failed with 503 in one run while succeeding
+# individually in another. That is rate limiting, not blocking: eight
+# parallel workers hitting one host looks like abuse from a single
+# datacenter address. Some hosts need requests spaced out, so we hold a
+# per-domain lock and enforce a minimum gap.
+MIN_INTERVAL = {
+    "news.google.com": 5.0,
+    "www.travelweekly.co.uk": 3.0,
+}
+_last_request = {}
+_rate_lock = threading.Lock()
+
+
+def _throttle(url):
+    """Wait if this domain needs spacing between requests."""
+    host = urlparse(url).netloc
+    gap = MIN_INTERVAL.get(host)
+    if not gap:
+        return
+    while True:
+        with _rate_lock:
+            now = time.monotonic()
+            last = _last_request.get(host, 0.0)
+            wait = gap - (now - last)
+            if wait <= 0:
+                _last_request[host] = now
+                return
+        time.sleep(wait)
 
 # Level 1: what a feed reader sends. This is what worked for 106 feeds.
 # Note the deliberate absence of Accept-Encoding.
@@ -87,6 +120,7 @@ def fetch(url):
 
     for attempt in range(ATTEMPTS):
         try:
+            _throttle(url)
             resp = requests.get(url, headers=FEED_HEADERS, timeout=TIMEOUT,
                                 allow_redirects=True)
 
@@ -104,6 +138,12 @@ def fetch(url):
                     pass
                 return resp, "warning: response looks like HTML, not a feed"
 
+            if resp.status_code == 429:
+                # Explicitly "slow down". Wait properly and retry.
+                last = "HTTP 429 (rate limited)"
+                time.sleep(min(30, 8 * (2 ** attempt)))
+                continue
+
             if resp.status_code in BLOCKED_CODES:
                 for label, hdrs in (("feed-reader", READER_HEADERS),
                                     ("browser", BROWSER_HEADERS)):
@@ -117,9 +157,24 @@ def fetch(url):
                 return None, (f"HTTP {resp.status_code} - refused all three "
                               f"identities, likely datacenter IP blocking")
 
+            # 415 means the server disliked our Accept header. Retry
+            # once asking for anything at all.
+            if resp.status_code == 415:
+                try:
+                    bare = {"User-Agent": FEED_HEADERS["User-Agent"]}
+                    alt = requests.get(url, headers=bare, timeout=TIMEOUT,
+                                       allow_redirects=True)
+                    if alt.status_code == 200:
+                        return alt, "ok (server rejected the Accept header)"
+                except requests.RequestException:
+                    pass
+                return None, "HTTP 415 - server rejected our Accept header"
+
             if resp.status_code >= 500:
                 last = f"HTTP {resp.status_code} (server error)"
-                time.sleep(2 * (attempt + 1))
+                # Exponential, not linear: a 503 from a busy host needs
+                # real time, not two seconds.
+                time.sleep(min(30, 5 * (2 ** attempt)))
                 continue
 
             return None, f"HTTP {resp.status_code}"
