@@ -207,22 +207,32 @@ def fetch_feed(feed):
 def deduplicate(items):
     """Collapse the same story reported by several outlets into one entry."""
     items.sort(key=lambda i: i["when"], reverse=True)
-    kept = []
+    groups = []
     for item in items:
-        tokens = title_tokens(item["title"])
-        item["_tokens"] = tokens
+        item["_tokens"] = title_tokens(item["title"])
         match = None
-        for k in kept:
-            if is_duplicate(tokens, k["_tokens"]):
-                match = k
+        for g in groups:
+            if is_duplicate(item["_tokens"], g[0]["_tokens"]):
+                match = g
                 break
         if match:
-            match.setdefault("also_in", []).append(item["outlet"])
-            # Keep whichever version carries more detail.
-            if len(item["summary"]) > len(match["summary"]):
-                match["summary"] = item["summary"]
+            match.append(item)
         else:
-            kept.append(item)
+            groups.append([item])
+
+    kept = []
+    for group in groups:
+        # Canonical = the version with the most substance, not merely the
+        # newest. Otherwise a forum thread quoting a wire story outranks
+        # the wire story itself, which happened on the first run.
+        canonical = max(group, key=lambda i: (len(i.get("fulltext") or ""),
+                                              len(i["summary"])))
+        others = sorted({i["outlet"] for i in group
+                         if i["outlet"] != canonical["outlet"]})
+        if others:
+            canonical["also_in"] = others
+        kept.append(canonical)
+    kept.sort(key=lambda i: i["when"], reverse=True)
     return kept
 
 
@@ -250,8 +260,14 @@ def main():
     print(f"Fetching full text for {len(wanted)} articles...", file=sys.stderr)
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as pool:
         bodies = list(pool.map(lambda i: fetch_fulltext(i["link"]), wanted))
+    fulltext_failed = []
     for item, body in zip(wanted, bodies):
         item["fulltext"] = body
+        if not body:
+            fulltext_failed.append(f"{item['outlet']}: {item['title'][:60]}")
+    if fulltext_failed:
+        print(f"Full text failed for {len(fulltext_failed)} of {len(wanted)}",
+              file=sys.stderr)
 
     lines = []
     lines.append("=" * 70)
@@ -292,6 +308,17 @@ def main():
                     lines.append(f"  FULL TEXT: {i['fulltext']}")
                 if i["link"]:
                     lines.append(f"  {i['link']}")
+
+    if fulltext_failed:
+        lines.append("")
+        lines.append("=" * 70)
+        lines.append("FULL TEXT UNAVAILABLE")
+        lines.append("=" * 70)
+        lines.append("These were flagged for full-text analysis but only the "
+                     "summary could be retrieved, usually a paywall. Do not "
+                     "treat the summary as the whole article:")
+        for f in fulltext_failed[:20]:
+            lines.append(f"  - {f}")
 
     lines.append("")
     lines.append("=" * 70)
