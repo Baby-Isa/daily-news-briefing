@@ -3,7 +3,7 @@
 # Flags: DISPUTED = Cowork reported failure via unreliable tooling, re-verify
 #        FULLTEXT = fetch full article body for this feed
 #        QUIET    = low publication volume, staleness is normal not failure
- 
+
 ## GEOGRAPHIC
 UK | Sky News | https://feeds.skynews.com/feeds/rss/uk.xml |
 UK | Guardian UK | https://www.theguardian.com/uk-news/rss |
@@ -31,13 +31,12 @@ East Africa | NPR Africa | https://feeds.npr.org/1126/rss.xml |
 Sub-Saharan Africa | Africanews | https://www.africanews.com/feed/rss |
 Sub-Saharan Africa | Daily Maverick | https://www.dailymaverick.co.za/rss |
 Sub-Saharan Africa | France 24 Africa | https://www.france24.com/en/africa/rss |
-Sub-Saharan Africa | ISS Africa | https://issafrica.org/rss | DISPUTED
 North Africa | Maghrebi | https://maghrebi.org/feed/ |
 North Africa | Morocco World News | https://www.moroccoworldnews.com/feed |
 South Asia | Dawn | https://www.dawn.com/feeds/home |
 South Asia | BBC India | https://feeds.bbci.co.uk/news/world/asia/india/rss.xml |
 South Asia | NPR Asia | https://feeds.npr.org/1125/rss.xml |
-South Asia | Guardian South Asia | https://www.theguardian.com/world/south-asia/rss |
+South Asia | Guardian India | https://www.theguardian.com/world/india/rss |
 East Asia | SCMP | https://www.scmp.com/rss/91/feed |
 East Asia | Guardian China | https://www.theguardian.com/world/china/rss |
 East Asia | NYT AsiaPacific | https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml |
@@ -46,16 +45,15 @@ Southeast Asia | Channel News Asia | https://www.channelnewsasia.com/api/v1/rss-
 Southeast Asia | DW Asia | https://rss.dw.com/xml/rss-en-asia |
 Southeast Asia | The Diplomat | https://thediplomat.com/feed/ |
 Central Asia | Times of Central Asia | https://timesca.com/feed |
-Central Asia | Diplomat Crossroads Asia | https://thediplomat.com/regions/crossroads-asia/feed/ | DISPUTED
 Central Asia | RFE/RL Kazakhstan | https://www.rferl.org/api/zriiml-vomx-tpeogm_ |
-Eastern Europe | Kyiv Independent | https://kyivindependent.com/feed/ |
+Eastern Europe | Kyiv Independent | https://kyivindependent.com/rss/ |
 Eastern Europe | Meduza | https://meduza.io/rss/en/all |
 Eastern Europe | Guardian Ukraine | https://www.theguardian.com/world/ukraine/rss |
 Eastern Europe | Balkan Insight | https://balkaninsight.com/feed/ |
 Pacific | RNZ | https://www.rnz.co.nz/rss/national.xml |
 Pacific | Guardian Australia | https://www.theguardian.com/australia-news/rss |
 Pacific | ABC Australia | https://www.abc.net.au/news/feed/51120/rss.xml | DISPUTED
- 
+
 ## DOMAIN
 Politics | Politico Europe | https://www.politico.eu/feed/ |
 Politics | Foreign Policy | https://foreignpolicy.com/feed/ | FULLTEXT
@@ -64,7 +62,7 @@ Politics | CSM Politics | https://rss.csmonitor.com/feeds/politics |
 Science | Nature | https://www.nature.com/nature.rss |
 Science | Science AAAS | https://www.science.org/rss/news_current.xml |
 Science | NPR Science | https://feeds.npr.org/1007/rss.xml |
-Science | CSM Science | https://rss.csmonitor.com/feeds/science |
+Science | CSM Sci-Tech | https://rss.csmonitor.com/feeds/scitech |
 Space | Space.com | https://www.space.com/feeds/all |
 Space | NYT Space | https://rss.nytimes.com/services/xml/rss/nyt/Space.xml |
 Space | NPR Space | https://feeds.npr.org/1026/rss.xml |
@@ -94,18 +92,17 @@ Society and culture | CSM Culture | https://rss.csmonitor.com/feeds/theculture |
 Conflict | War on the Rocks | https://warontherocks.com/feed/ |
 Conflict | Crisis Group | https://www.crisisgroup.org/rss.xml |
 Conflict | NPR National Security | https://feeds.npr.org/1122/rss.xml |
- 
+
 ## WATCHLIST
 Arsenal | Guardian Arsenal | https://www.theguardian.com/football/arsenal/rss |
 Arsenal | Arseblog | https://arseblog.com/feed/ |
-Arsenal | Arseblog News | https://news.arseblog.com/feed/ |
+Arsenal | Arseblog News | https://news.arseblog.com/feed |
 Chainlink | Decrypt | https://decrypt.co/feed | FULLTEXT
 Chainlink | The Block | https://www.theblock.co/rss.xml |
 Chainlink | The Defiant | https://thedefiant.io/feed |
 Chainlink | CoinDesk | https://www.coindesk.com/arc/outboundfeeds/rss/ |
 OriginTrail | Medium OriginTrail | https://medium.com/feed/origintrail | QUIET
-Agronomics | Reddit r/Agronomics | https://www.reddit.com/r/Agronomics/new/.rss?limit=25 | DISPUTED QUIET
- 
+
 ## SPECIAL INTERESTS
 Projectors | FlatPanelsHD | https://www.flatpanelshd.com/rss |
 Projectors | Engadget | https://www.engadget.com/rss.xml |
@@ -127,11 +124,31 @@ Longevity | Peter Attia | https://peterattiamd.com/feed/ |
 E-commerce | Modern Retail | https://www.modernretail.co/feed/ |
 E-commerce | Marketplace Pulse | https://www.marketplacepulse.com/articles/recent.atom |
 Trends | Skift | https://skift.com/feed/ |
-Employers | Leisure Opportunities | https://rss.leisureopportunities.co.uk/rss_news.cfm?section=HAF | QUIET
-Employers | Newton Impact | https://newtonimpact.com/feed/ | QUIET
- 
+
 ## EDITORIAL
 Editorial | Longreads | https://longreads.com/feed/ | FULLTEXT
 Editorial | Rest of World | https://restofworld.org/feed/ | FULLTEXT
 Editorial | New Lines | https://newlinesmag.com/feed/ | FULLTEXT
 Editorial | Aeon | https://aeon.co/feed.rss | FULLTEXT
+
+## ENTITY SEARCH FEEDS (Google News, for lanes with no dedicated publication)
+Agronomics | Google News Agronomics | https://news.google.com/rss/search?q=%22Agronomics%22+OR+%22ANIC%22+cultivated+meat&hl=en-GB&gl=GB&ceid=GB:en | QUIET
+Agronomics | Vox Markets ANIC | https://www.voxmarkets.co.uk/rss/announcements/ANIC/ | QUIET
+OriginTrail | Google News OriginTrail | https://news.google.com/rss/search?q=%22OriginTrail%22+OR+%22TRAC+token%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
+Employers | Google News PureGym | https://news.google.com/rss/search?q=%22PureGym%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
+Employers | Google News Ascenti | https://news.google.com/rss/search?q=%22Ascenti%22+physiotherapy&hl=en-GB&gl=GB&ceid=GB:en | QUIET
+Employers | Google News Newton | https://news.google.com/rss/search?q=%22Newton+Impact%22+OR+%22Newton+Europe%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
+Chainlink | Google News Chainlink | https://news.google.com/rss/search?q=%22Chainlink%22+crypto+OR+oracle&hl=en-GB&gl=GB&ceid=GB:en |
+
+## REPLACEMENTS FOR THIN LANES
+North Africa | Ahram Online | https://english.ahram.org.eg/rss/Al-Ahram-Weekly.aspx |
+North Africa | Al-Monitor | https://www.al-monitor.com/rss |
+North Africa | France 24 Africa | https://www.france24.com/en/africa/rss |
+Law | SCOTUSblog | https://www.scotusblog.com/feed/ |
+Law | JURIST | https://www.jurist.org/news/feed/ |
+Projectors | Projector Reviews | https://www.projectorreviews.com/feed/ |
+Projectors | Digital Trends Home Theater | https://www.digitaltrends.com/home-theater/feed/ |
+Trends | PhocusWire | https://www.phocuswire.com/rss |
+Trends | Lonely Planet | https://www.lonelyplanet.com/news/feed |
+Central Asia | Eurasianet articles | https://eurasianet.org/rss.xml | DISPUTED
+Sub-Saharan Africa | Semafor Africa | https://www.semafor.com/rss/africa.xml | DISPUTED
