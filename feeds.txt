@@ -46,7 +46,6 @@ Southeast Asia | DW Asia | https://rss.dw.com/xml/rss-en-asia |
 Southeast Asia | The Diplomat | https://thediplomat.com/feed/ |
 Central Asia | Times of Central Asia | https://timesca.com/feed |
 Central Asia | RFE/RL Kazakhstan | https://www.rferl.org/api/zriiml-vomx-tpeogm_ |
-Eastern Europe | Kyiv Independent | https://kyivindependent.com/rss/ |
 Eastern Europe | Meduza | https://meduza.io/rss/en/all |
 Eastern Europe | Guardian Ukraine | https://www.theguardian.com/world/ukraine/rss |
 Eastern Europe | Balkan Insight | https://balkaninsight.com/feed/ |
@@ -60,9 +59,9 @@ Politics | Foreign Policy | https://foreignpolicy.com/feed/ | FULLTEXT
 Politics | NPR Politics | https://feeds.npr.org/1014/rss.xml |
 Politics | CSM Politics | https://rss.csmonitor.com/feeds/politics |
 Science | Nature | https://www.nature.com/nature.rss |
-Science | Science AAAS | https://www.science.org/rss/news_current.xml |
+Science | Phys.org | https://phys.org/rss-feed/
+Science | ScienceDaily | https://www.sciencedaily.com/rss/all.xml |
 Science | NPR Science | https://feeds.npr.org/1007/rss.xml |
-Science | CSM Sci-Tech | https://rss.csmonitor.com/feeds/scitech |
 Space | Space.com | https://www.space.com/feeds/all |
 Space | NYT Space | https://rss.nytimes.com/services/xml/rss/nyt/Space.xml |
 Space | NPR Space | https://feeds.npr.org/1026/rss.xml |
@@ -96,7 +95,6 @@ Conflict | NPR National Security | https://feeds.npr.org/1122/rss.xml |
 ## WATCHLIST
 Arsenal | Guardian Arsenal | https://www.theguardian.com/football/arsenal/rss |
 Arsenal | Arseblog | https://arseblog.com/feed/ |
-Arsenal | Arseblog News | https://news.arseblog.com/feed |
 Chainlink | Decrypt | https://decrypt.co/feed | FULLTEXT
 Chainlink | The Block | https://www.theblock.co/rss.xml |
 Chainlink | The Defiant | https://thedefiant.io/feed |
@@ -132,12 +130,12 @@ Editorial | New Lines | https://newlinesmag.com/feed/ | FULLTEXT
 Editorial | Aeon | https://aeon.co/feed.rss | FULLTEXT
 
 ## ENTITY SEARCH FEEDS (Google News, for lanes with no dedicated publication)
-Agronomics | Google News Agronomics | https://news.google.com/rss/search?q=%22Agronomics%22+OR+%22ANIC%22+cultivated+meat&hl=en-GB&gl=GB&ceid=GB:en | QUIET
-Agronomics | Vox Markets ANIC | https://www.voxmarkets.co.uk/rss/announcements/ANIC/ | QUIET
+Agronomics | Google News Agronomics | https://news.google.com/rss/search?q=Agronomics+ANIC&hl=en-GB&gl=GB&ceid=GB:en | QUIET
+Agronomics | Google News cultivated meat | https://news.google.com/rss/search?q=cultivated+meat+investment&hl=en-GB&gl=GB&ceid=GB:en |
 OriginTrail | Google News OriginTrail | https://news.google.com/rss/search?q=%22OriginTrail%22+OR+%22TRAC+token%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Employers | Google News PureGym | https://news.google.com/rss/search?q=%22PureGym%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Employers | Google News Ascenti | https://news.google.com/rss/search?q=%22Ascenti%22+physiotherapy&hl=en-GB&gl=GB&ceid=GB:en | QUIET
-Employers | Google News Newton | https://news.google.com/rss/search?q=%22Newton+Impact%22+OR+%22Newton+Europe%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
+Employers | Google News Newton | https://news.google.com/rss/search?q=Newton+Impact+consulting&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Chainlink | Google News Chainlink | https://news.google.com/rss/search?q=%22Chainlink%22+crypto+OR+oracle&hl=en-GB&gl=GB&ceid=GB:en |
 
 ## REPLACEMENTS FOR THIN LANES
@@ -150,5 +148,12 @@ Projectors | Projector Reviews | https://www.projectorreviews.com/feed/ |
 Projectors | Digital Trends Home Theater | https://www.digitaltrends.com/home-theater/feed/ |
 Trends | PhocusWire | https://www.phocuswire.com/rss |
 Trends | Lonely Planet | https://www.lonelyplanet.com/news/feed |
-Central Asia | Eurasianet articles | https://eurasianet.org/rss.xml | DISPUTED
-Sub-Saharan Africa | Semafor Africa | https://www.semafor.com/rss/africa.xml | DISPUTED
+## SECOND ROUND REPLACEMENTS
+Trends | Travel Weekly | https://www.travelweekly.co.uk/feed |
+Trends | Google News travel trends | https://news.google.com/rss/search?q=travel+tourism+trends&hl=en-GB&gl=GB&ceid=GB:en |
+North Africa | Google News North Africa | https://news.google.com/rss/search?q=Morocco+OR+Algeria+OR+Tunisia+OR+Libya+politics&hl=en-GB&gl=GB&ceid=GB:en |
+Sub-Saharan Africa | AllAfrica | https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf |
+Cameras | DPReview | https://www.dpreview.com/feeds/news.xml |
+Games | Eurogamer | https://www.eurogamer.net/feed |
+Built environment | Dezeen | https://www.dezeen.com/feed/ |
+E-commerce | Retail Dive | https://www.retaildive.com/feeds/news/ |
