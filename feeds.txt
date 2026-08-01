@@ -20,7 +20,6 @@ North America | CSM USA | https://rss.csmonitor.com/feeds/usa |
 Latin America | MercoPress | https://en.mercopress.com/rss/ |
 Latin America | BBC Latin America | https://feeds.bbci.co.uk/news/world/latin_america/rss.xml |
 Latin America | Mexico News Daily | https://mexiconewsdaily.com/feed/ |
-Latin America | Buenos Aires Herald | https://buenosairesherald.com/feed |
 Middle East | Middle East Eye | https://www.middleeasteye.net/rss |
 Middle East | France 24 ME | https://www.france24.com/en/middle-east/rss |
 Middle East | NPR Middle East | https://feeds.npr.org/1009/rss.xml |
@@ -31,8 +30,6 @@ East Africa | NPR Africa | https://feeds.npr.org/1126/rss.xml |
 Sub-Saharan Africa | Africanews | https://www.africanews.com/feed/rss |
 Sub-Saharan Africa | Daily Maverick | https://www.dailymaverick.co.za/rss |
 Sub-Saharan Africa | France 24 Africa | https://www.france24.com/en/africa/rss |
-North Africa | Maghrebi | https://maghrebi.org/feed/ |
-North Africa | Morocco World News | https://www.moroccoworldnews.com/feed |
 South Asia | Dawn | https://www.dawn.com/feeds/home |
 South Asia | BBC India | https://feeds.bbci.co.uk/news/world/asia/india/rss.xml |
 South Asia | NPR Asia | https://feeds.npr.org/1125/rss.xml |
@@ -83,7 +80,6 @@ Business | Guardian Business | https://www.theguardian.com/business/rss |
 Business | BBC Business | https://feeds.bbci.co.uk/news/business/rss.xml |
 Built environment | Construction Dive | https://www.constructiondive.com/feeds/news/ |
 Built environment | ENR | https://www.enr.com/rss/articles |
-Law | Just Security | https://www.justsecurity.org/feed/ |
 Law | CSM Commentary | https://rss.csmonitor.com/feeds/commentary |
 Society and culture | Aeon | https://aeon.co/feed.rss |
 Society and culture | NPR Culture | https://feeds.npr.org/1008/rss.xml |
@@ -102,7 +98,6 @@ Chainlink | CoinDesk | https://www.coindesk.com/arc/outboundfeeds/rss/ |
 OriginTrail | Medium OriginTrail | https://medium.com/feed/origintrail | QUIET
 
 ## SPECIAL INTERESTS
-Projectors | FlatPanelsHD | https://www.flatpanelshd.com/rss |
 Projectors | Engadget | https://www.engadget.com/rss.xml |
 Aviation | Simple Flying | https://simpleflying.com/feed/ |
 Aviation | One Mile at a Time | https://onemileatatime.com/feed/ |
@@ -139,15 +134,11 @@ Employers | Google News Newton | https://news.google.com/rss/search?q=Newton+Imp
 Chainlink | Google News Chainlink | https://news.google.com/rss/search?q=%22Chainlink%22+crypto+OR+oracle&hl=en-GB&gl=GB&ceid=GB:en |
 
 ## REPLACEMENTS FOR THIN LANES
-North Africa | Ahram Online | https://english.ahram.org.eg/rss/Al-Ahram-Weekly.aspx |
 North Africa | Al-Monitor | https://www.al-monitor.com/rss |
 North Africa | France 24 Africa | https://www.france24.com/en/africa/rss |
 Law | SCOTUSblog | https://www.scotusblog.com/feed/ |
 Law | JURIST | https://www.jurist.org/news/feed/ |
-Projectors | Projector Reviews | https://www.projectorreviews.com/feed/ |
 Projectors | Digital Trends Home Theater | https://www.digitaltrends.com/home-theater/feed/ |
-Trends | PhocusWire | https://www.phocuswire.com/rss |
-Trends | Lonely Planet | https://www.lonelyplanet.com/news/feed |
 ## SECOND ROUND REPLACEMENTS
 Trends | Travel Weekly | https://www.travelweekly.co.uk/feed |
 Trends | Google News travel trends | https://news.google.com/rss/search?q=travel+tourism+trends&hl=en-GB&gl=GB&ceid=GB:en |
@@ -157,3 +148,7 @@ Cameras | DPReview | https://www.dpreview.com/feeds/news.xml |
 Games | Eurogamer | https://www.eurogamer.net/feed |
 Built environment | Dezeen | https://www.dezeen.com/feed/ |
 E-commerce | Retail Dive | https://www.retaildive.com/feeds/news/ |
+## THIRD ROUND ADDITIONS
+Trends | Breaking Travel News | https://www.breakingtravelnews.com/feed/rss/ |
+Trends | Skift Meetings | https://meetings.skift.com/feed/ |
+Projectors | AVForums | https://www.avforums.com/forums/-/index.rss |
