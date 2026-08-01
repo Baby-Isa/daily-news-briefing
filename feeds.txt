@@ -118,10 +118,10 @@ E-commerce | Marketplace Pulse | https://www.marketplacepulse.com/articles/recen
 Trends | Skift | https://skift.com/feed/ |
 
 ## EDITORIAL
-Editorial | Longreads | https://longreads.com/feed/ | FULLTEXT
-Editorial | Rest of World | https://restofworld.org/feed/ | FULLTEXT
-Editorial | New Lines | https://newlinesmag.com/feed/ | FULLTEXT
-Editorial | Aeon | https://aeon.co/feed.rss | FULLTEXT
+Editorial | Longreads | https://longreads.com/feed/ | FULLTEXT QUIET
+Editorial | Rest of World | https://restofworld.org/feed/ | FULLTEXT QUIET
+Editorial | New Lines | https://newlinesmag.com/feed/ | FULLTEXT QUIET
+Editorial | Aeon | https://aeon.co/feed.rss | FULLTEXT QUIET
 
 ## ENTITY SEARCH FEEDS (Google News, for lanes with no dedicated publication)
 Agronomics | Google News Agronomics | https://news.google.com/rss/search?q=Agronomics+ANIC&hl=en-GB&gl=GB&ceid=GB:en | QUIET
@@ -130,7 +130,6 @@ OriginTrail | Google News OriginTrail | https://news.google.com/rss/search?q=%22
 Employers | Google News PureGym | https://news.google.com/rss/search?q=%22PureGym%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Employers | Google News Ascenti | https://news.google.com/rss/search?q=%22Ascenti%22+physiotherapy&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Employers | Google News Newton | https://news.google.com/rss/search?q=%22Newton+Impact%22+OR+%22Newton+Europe%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
-Employers | Google News Newton alt | https://news.google.com/rss/search?q=%22Newton+Impact%22+operations+consultancy&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Chainlink | Google News Chainlink | https://news.google.com/rss/search?q=%22Chainlink%22+crypto+OR+oracle&hl=en-GB&gl=GB&ceid=GB:en |
 
 ## REPLACEMENTS FOR THIN LANES
@@ -166,6 +165,7 @@ Agronomics | GN cellular agriculture | https://news.google.com/rss/search?q=cell
 Agronomics | GN alt protein regulation | https://news.google.com/rss/search?q=alternative+protein+regulatory+approval+FSA+OR+FDA&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Agronomics | Green Queen | https://www.greenqueen.com.hk/feed/ |
 Agronomics | AgFunderNews | https://agfundernews.com/feed |
-Projectors | Google News UST projector | https://news.google.com/rss/search?q=%22ultra+short+throw%22+projector+lumens&hl=en-GB&gl=GB&ceid=GB:en |
-Projectors | Projector Central | https://www.projectorcentral.com/rss/news.xml |
+Projectors | Google News UST projector | https://news.google.com/rss/search?q=%22ultra+short+throw%22+projector+lumens&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Conflict | Defense One | https://www.defenseone.com/rss/all/ |
+Projectors | Google News projector review | https://news.google.com/rss/search?q=projector+review+4K+laser+lumens&hl=en-GB&gl=GB&ceid=GB:en | QUIET
+Projectors | HomeTheaterReview | https://hometheaterreview.com/feed/ |
