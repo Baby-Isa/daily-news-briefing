@@ -1,0 +1,26 @@
+name: Staleness diagnostic
+ 
+# workflow_dispatch puts a "Run workflow" button in the Actions tab so you
+# can trigger this by hand. There is deliberately no schedule here: this is
+# a one-off test, not a recurring job.
+on:
+  workflow_dispatch:
+ 
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the code
+        uses: actions/checkout@v4
+ 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+ 
+      - name: Install the libraries the script needs
+        run: pip install -r requirements.txt
+ 
+      - name: Run the diagnostic
+        run: python diagnostic.py
+ 
