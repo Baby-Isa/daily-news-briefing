@@ -37,8 +37,9 @@ ATTEMPTS = 3
 # datacenter address. Some hosts need requests spaced out, so we hold a
 # per-domain lock and enforce a minimum gap.
 MIN_INTERVAL = {
-    "news.google.com": 5.0,
-    "www.travelweekly.co.uk": 3.0,
+    "news.google.com": 3.0,
+    "www.travelweekly.co.uk": 10.0,
+    "restofworld.org": 10.0,
 }
 _last_request = {}
 _rate_lock = threading.Lock()
