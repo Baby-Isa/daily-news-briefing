@@ -2,15 +2,33 @@ name: Build digest
 
 on:
   schedule:
-    # 05:10 UTC daily. Deliberately not on the hour: GitHub's scheduler is
-    # busiest then and delays are common. Runs early because a scheduled
-    # job can still slip by 10-30 minutes.
-    - cron: "10 5 * * *"
+    # GitHub delivers `schedule` events on a best-effort basis. They are
+    # routinely delayed and are sometimes dropped altogether, worst around
+    # round minutes when a large share of the platform tries to fire at once.
+    # This repo has the receipts: with a single "10 5 * * *" trigger, the
+    # 2 Aug run landed at 10:53 UTC (5h43m late) and the 3 Aug run never
+    # arrived at all.
+    #
+    # So instead of one trigger we ask three times, at deliberately odd
+    # minutes, spread across the early morning. Whichever attempt GitHub
+    # actually delivers first does the work; the guard in the job below
+    # turns the later ones into ~15-second no-ops. Times are UTC, so during
+    # British Summer Time these are 05:37, 06:23 and 07:11 local.
+    - cron: "37 4 * * *"
+    - cron: "23 5 * * *"
+    - cron: "11 6 * * *"
   workflow_dispatch:
 
 # Needed so the job can commit the digest back into the repository.
 permissions:
   contents: write
+
+# If a later attempt starts while an earlier one is still building, queue it
+# rather than letting both race to push a commit to main. By the time the
+# queued run starts it will check out the finished digest and skip.
+concurrency:
+  group: build-digest
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -19,19 +37,54 @@ jobs:
       - name: Get the code
         uses: actions/checkout@v4
 
+      - name: Decide whether today's digest still needs building
+        id: decide
+        run: |
+          set -euo pipefail
+          # A manual run always rebuilds: if you pressed the button you want
+          # a fresh digest, even if one was already built earlier today.
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Manual run - building regardless of what is committed."
+            echo "build=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          # build_digest.py writes "NEWS DIGEST for Monday 03 August 2026"
+          # into the header, so matching that tells us whether one of the
+          # earlier scheduled attempts already succeeded today.
+          today="$(date -u '+%A %d %B %Y')"
+          # Read the header into a variable rather than piping into grep, so
+          # that pipefail cannot trip over head being SIGPIPEd by an early
+          # grep exit. A missing digest.txt yields an empty string and builds.
+          header="$(head -5 digest.txt 2>/dev/null || true)"
+          case "${header}" in
+            *"NEWS DIGEST for ${today}"*)
+              echo "Digest for ${today} is already committed - nothing to do."
+              echo "build=false" >> "$GITHUB_OUTPUT"
+              ;;
+            *)
+              echo "No digest for ${today} yet - building."
+              echo "build=true" >> "$GITHUB_OUTPUT"
+              ;;
+          esac
+
       - name: Set up Python
+        if: steps.decide.outputs.build == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
       - name: Install the libraries the script needs
+        if: steps.decide.outputs.build == 'true'
         run: pip install -r requirements.txt
 
       - name: Build the digest
+        if: steps.decide.outputs.build == 'true'
         run: python build_digest.py
 
       - name: Save the digest back to the repository
+        if: steps.decide.outputs.build == 'true'
         run: |
+          set -euo pipefail
           git config user.name "digest-bot"
           git config user.email "digest-bot@users.noreply.github.com"
           git add digest.txt
@@ -39,4 +92,7 @@ jobs:
           # which also keeps the scheduled workflow alive: GitHub disables
           # schedules on repositories with no activity for 60 days.
           git commit --allow-empty -m "Digest $(date -u +%Y-%m-%d)"
+          # Someone may have pushed to main while the feeds were being
+          # fetched, which would otherwise reject this push.
+          git pull --rebase origin "${GITHUB_REF_NAME}"
           git push
