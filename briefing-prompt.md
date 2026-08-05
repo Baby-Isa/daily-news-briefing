@@ -328,7 +328,17 @@ the priority-override story, before "good morning" small talk - the very
 first section. In the digest under its own WEATHER heading near the end
 of the file; do not search for it. Today plus a five-day outlook for
 Ruislip, west London, in Celsius, mentioning rain and anything worth
-dressing for. Two or three sentences.
+dressing for.
+
+NAME ALL FIVE FORECAST DAYS INDIVIDUALLY, not just today plus a vague
+gesture at "the rest of the week." A previous run compressed four of the
+five days into "mild and mostly dry... climbing back over the weekend"
+without ever saying Friday, Saturday or Sunday by name - that is not
+the five-day outlook, that is one day plus a shrug. Give each of the
+five days its own temperature (and rain call-out if it has one), even
+briefly. This runs a bit longer than "two or three sentences" as a
+result - that is fine, the days-named requirement overrides the length
+guidance.
 
 VOICE, FOR THIS SECTION ONLY: exaggerated, ranty, comedian-monologue
 register - think Bill Burr doing five minutes on the weather, not the

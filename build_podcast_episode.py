@@ -3,30 +3,32 @@
 TURN briefing.txt INTO A PODCAST EPISODE.
 
 Reads the plain-text briefing (written by the Cowork Routine each
-morning), renders it to speech with Piper (a local, offline neural TTS
-engine), stitches the pieces into one MP3 with ffmpeg, and updates a
-podcast RSS feed in a site directory ready to publish via GitHub Pages.
+morning), renders it to speech with edge-tts, stitches the pieces into
+one MP3 with ffmpeg, and updates a podcast RSS feed in a site directory
+ready to publish via GitHub Pages.
 
 This runs in GitHub Actions, not in the Claude Code Remote sandbox: it
-needs ffmpeg, which the sandbox can't reliably install over its proxy.
-The briefing text itself is produced upstream by a Claude session,
-which is the part that actually needs judgement; this script is purely
-mechanical.
+needs ffmpeg (the sandbox can't reliably install it over its proxy) and
+direct internet access (the sandbox's proxy injects a self-signed cert
+that edge-tts's websocket connection won't trust).
 
 Design decisions worth knowing:
 
-- Piper, not a cloud TTS API. It runs entirely offline once the voice
-  model is downloaded, so there's no account, no billing, no quota,
-  and nothing that can rate-limit or silently break an unattended
-  daily job. The trade is a voice that's good but a notch more
-  synthetic than a commercial neural API - worth it for something that
-  has to "just work" every morning with no one watching.
+- edge-tts, not Piper. It calls Microsoft Edge's "Read Aloud" service
+  (unofficial, reverse-engineered, no API key) for genuinely natural
+  commercial-grade neural voices, chosen over Piper specifically for
+  voice quality after a user comparison. The known trade-off: this is
+  an unofficial service Microsoft could rate-limit or block without
+  warning, a real reliability risk for something unattended. If it
+  ever starts failing consistently, Piper (offline, zero network
+  dependency) or a paid API (Google Cloud TTS, OpenAI) are the fallback
+  paths already evaluated for this pipeline.
 
-- No hard chunk-size limit to respect (Piper has none), but the text
-  is still split on paragraph boundaries so each synthesis call stays
-  small: a bad chunk fails cheaply, and per-paragraph calls keep
-  memory bounded on the runner. The sentence-level fallback for an
-  overlong paragraph is kept as a defensive backstop.
+- Conservative chunk size (8000 bytes, well under Piper's old 20000).
+  edge-tts has no publicly documented per-request limit since it isn't
+  an official API, so this stays cautious: smaller chunks fail cheaper
+  and keep any single request from being the one that takes down the
+  whole run.
 
 - The gh-pages branch is rebuilt as a fresh orphan commit every run,
   keeping only the retained episodes. Without this, deleted MP3s would
@@ -39,24 +41,22 @@ import datetime
 import os
 import subprocess
 import sys
+import tempfile
 import xml.etree.ElementTree as ET
 
-MAX_CHUNK_BYTES = 20000  # generous; Piper has no request-size limit to respect
-RETENTION_DAYS = 14      # how many episodes stay in the feed
+MAX_CHUNK_BYTES = 8000  # conservative; edge-tts has no documented request-size limit
+RETENTION_DAYS = 14     # how many episodes stay in the feed
 
 PODCAST_TITLE = "Daily Morning Briefing"
 PODCAST_DESCRIPTION = "A personal daily news briefing, read aloud."
 PODCAST_LANGUAGE = "en-gb"
 PODCAST_AUTHOR = "Daily News Briefing"
 
-# PIPER_MODEL_PATH / PIPER_CONFIG_PATH point at the .onnx + .onnx.json the
-# workflow downloads and caches. Voice tier is being A/B'd between
-# en_GB-cori-medium (confirmed ~82s to render a ~4,500-word briefing on
-# GitHub's shared runners, from real step timestamps) and en_GB-cori-high
-# (better quality, timing not yet confirmed) - see whichever is currently
-# wired up in podcast.yml.
-LENGTH_SCALE = os.environ.get("PIPER_LENGTH_SCALE", "1.0")        # >1 slower, <1 faster
-SENTENCE_SILENCE = os.environ.get("PIPER_SENTENCE_SILENCE", "0.3")  # seconds of pause between sentences
+# en-TZ-ImaniNeural: English (Tanzania), female - user's pick after comparing
+# it against Podcast Addict's built-in voices.
+VOICE = os.environ.get("EDGE_TTS_VOICE", "en-TZ-ImaniNeural")
+RATE = os.environ.get("EDGE_TTS_RATE", "+0%")      # e.g. "+10%" for faster
+PITCH = os.environ.get("EDGE_TTS_PITCH", "+0Hz")
 
 
 def chunk_text(text, max_bytes=MAX_CHUNK_BYTES):
@@ -101,35 +101,46 @@ def chunk_text(text, max_bytes=MAX_CHUNK_BYTES):
     return chunks
 
 
-def synthesize_chunk(text, model_path, config_path, out_path):
-    subprocess.run(
-        [
-            "piper",
-            "--model", model_path,
-            "--config", config_path,
-            "--output_file", out_path,
-            "--length-scale", LENGTH_SCALE,
-            "--sentence-silence", SENTENCE_SILENCE,
-        ],
-        input=text, capture_output=True, text=True, check=True,
-    )
+def synthesize_chunk(text, work_dir, out_path):
+    # --file rather than --text: avoids any argument-encoding surprises with
+    # long text full of punctuation, em dashes, curly quotes, etc.
+    with tempfile.NamedTemporaryFile(
+        "w", dir=work_dir, suffix=".txt", delete=False, encoding="utf-8"
+    ) as f:
+        f.write(text)
+        text_path = f.name
+    try:
+        subprocess.run(
+            [
+                "edge-tts",
+                "--voice", VOICE,
+                "--rate", RATE,
+                "--pitch", PITCH,
+                "--file", text_path,
+                "--write-media", out_path,
+            ],
+            capture_output=True, text=True, check=True,
+        )
+    finally:
+        os.remove(text_path)
 
 
-def synthesize_episode(briefing_text, model_path, config_path, work_dir, episode_mp3_path):
+def synthesize_episode(briefing_text, work_dir, episode_mp3_path):
     chunks = chunk_text(briefing_text)
     if not chunks:
         raise RuntimeError("briefing.txt produced no text chunks to synthesize")
-    print(f"Synthesizing {len(chunks)} chunk(s) with Piper ({os.path.basename(model_path)})...")
+    print(f"Synthesizing {len(chunks)} chunk(s) with edge-tts (voice {VOICE})...")
 
     chunk_paths = []
     for i, chunk in enumerate(chunks):
-        out_path = os.path.join(work_dir, f"chunk_{i:03d}.wav")
-        synthesize_chunk(chunk, model_path, config_path, out_path)
+        out_path = os.path.join(work_dir, f"chunk_{i:03d}.mp3")
+        synthesize_chunk(chunk, work_dir, out_path)
         chunk_paths.append(out_path)
         print(f"  chunk {i + 1}/{len(chunks)}: {len(chunk)} chars -> {out_path}")
 
-    # Always route through ffmpeg, even for a single chunk: Piper only
-    # ever produces WAV, and the episode needs to end up as MP3.
+    # Always route through ffmpeg, even for a single chunk: re-encoding
+    # multiple independently-fetched mp3 segments into one clean file is
+    # more reliable than raw byte concatenation.
     concat_list_path = os.path.join(work_dir, "concat_list.txt")
     with open(concat_list_path, "w") as f:
         for p in chunk_paths:
@@ -227,8 +238,6 @@ def main():
     briefing_path = sys.argv[1] if len(sys.argv) > 1 else "briefing.txt"
     site_dir = sys.argv[2] if len(sys.argv) > 2 else "_site"
     pages_base_url = os.environ["PAGES_BASE_URL"].rstrip("/")  # e.g. https://baby-isa.github.io/daily-news-briefing
-    model_path = os.environ["PIPER_MODEL_PATH"]
-    config_path = os.environ["PIPER_CONFIG_PATH"]
 
     if not os.path.exists(briefing_path):
         print(f"No {briefing_path} found - nothing to do.")
@@ -247,7 +256,7 @@ def main():
 
     work_dir = "_tts_work"
     os.makedirs(work_dir, exist_ok=True)
-    synthesize_episode(briefing_text, model_path, config_path, work_dir, episode_path)
+    synthesize_episode(briefing_text, work_dir, episode_path)
 
     duration = get_duration_seconds(episode_path)
     size_bytes = os.path.getsize(episode_path)
