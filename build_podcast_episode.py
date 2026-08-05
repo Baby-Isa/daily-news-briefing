@@ -50,11 +50,11 @@ PODCAST_LANGUAGE = "en-gb"
 PODCAST_AUTHOR = "Daily News Briefing"
 
 # PIPER_MODEL_PATH / PIPER_CONFIG_PATH point at the .onnx + .onnx.json the
-# workflow downloads and caches (voice: en_GB-cori-medium). Started as
-# cori-high, but a live run took 13+ minutes just to synthesize one
-# briefing on GitHub's shared 2-vCPU runners and was cancelled mid-run -
-# medium is the same speaker, a third of the model size, and fast enough
-# for a job that needs to be done before anyone wakes up.
+# workflow downloads and caches. Voice tier is being A/B'd between
+# en_GB-cori-medium (confirmed ~82s to render a ~4,500-word briefing on
+# GitHub's shared runners, from real step timestamps) and en_GB-cori-high
+# (better quality, timing not yet confirmed) - see whichever is currently
+# wired up in podcast.yml.
 LENGTH_SCALE = os.environ.get("PIPER_LENGTH_SCALE", "1.0")        # >1 slower, <1 faster
 SENTENCE_SILENCE = os.environ.get("PIPER_SENTENCE_SILENCE", "0.3")  # seconds of pause between sentences
 

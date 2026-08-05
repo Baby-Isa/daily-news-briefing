@@ -38,22 +38,22 @@ jobs:
       - name: Confirm ffmpeg is available
         run: ffmpeg -version && ffprobe -version
 
-      # The voice model is ~64MB; cached so most runs don't re-download it.
+      # The voice model is ~114MB; cached so most runs don't re-download it.
       - name: Cache the Piper voice model
         id: voice-cache
         uses: actions/cache@v4
         with:
           path: models
-          key: piper-voice-en_GB-cori-medium-v1
+          key: piper-voice-en_GB-cori-high-v1
 
       - name: Download the Piper voice model if not cached
         if: steps.voice-cache.outputs.cache-hit != 'true'
         run: |
           set -euo pipefail
           mkdir -p models
-          base="https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_GB/cori/medium"
-          curl -sSL -o models/en_GB-cori-medium.onnx "$base/en_GB-cori-medium.onnx"
-          curl -sSL -o models/en_GB-cori-medium.onnx.json "$base/en_GB-cori-medium.onnx.json"
+          base="https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_GB/cori/high"
+          curl -sSL -o models/en_GB-cori-high.onnx "$base/en_GB-cori-high.onnx"
+          curl -sSL -o models/en_GB-cori-high.onnx.json "$base/en_GB-cori-high.onnx.json"
 
       - name: Pull in the existing published episodes, if any
         run: |
@@ -66,8 +66,8 @@ jobs:
 
       - name: Render today's episode and update the feed
         env:
-          PIPER_MODEL_PATH: models/en_GB-cori-medium.onnx
-          PIPER_CONFIG_PATH: models/en_GB-cori-medium.onnx.json
+          PIPER_MODEL_PATH: models/en_GB-cori-high.onnx
+          PIPER_CONFIG_PATH: models/en_GB-cori-high.onnx.json
           PAGES_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
         run: python build_podcast_episode.py briefing.txt _site
 
