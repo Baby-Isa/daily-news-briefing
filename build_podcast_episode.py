@@ -3,29 +3,30 @@
 TURN briefing.txt INTO A PODCAST EPISODE.
 
 Reads the plain-text briefing (written by the Cowork Routine each
-morning), renders it to speech with Google Cloud Text-to-Speech,
-stitches the pieces into one MP3 with ffmpeg, and updates a podcast
-RSS feed in a site directory ready to publish via GitHub Pages.
+morning), renders it to speech with Piper (a local, offline neural TTS
+engine), stitches the pieces into one MP3 with ffmpeg, and updates a
+podcast RSS feed in a site directory ready to publish via GitHub Pages.
 
-This runs in GitHub Actions, not in the Claude Code Remote sandbox:
-it needs ffmpeg and reliable outbound network access to Google's API,
-neither of which the sandbox can be relied on for. The briefing text
-itself is produced upstream by a Claude session, which is the part
-that actually needs judgement; this script is purely mechanical.
+This runs in GitHub Actions, not in the Claude Code Remote sandbox: it
+needs ffmpeg, which the sandbox can't reliably install over its proxy.
+The briefing text itself is produced upstream by a Claude session,
+which is the part that actually needs judgement; this script is purely
+mechanical.
 
 Design decisions worth knowing:
 
-- Google's text:synthesize endpoint caps input at 5000 bytes. The
-  briefing is split on paragraph boundaries (falling back to sentence
-  boundaries for an overlong paragraph) into chunks safely under that,
-  so no split ever lands mid-sentence.
+- Piper, not a cloud TTS API. It runs entirely offline once the voice
+  model is downloaded, so there's no account, no billing, no quota,
+  and nothing that can rate-limit or silently break an unattended
+  daily job. The trade is a voice that's good but a notch more
+  synthetic than a commercial neural API - worth it for something that
+  has to "just work" every morning with no one watching.
 
-- A Standard voice, not WaveNet/Neural2, is the default. Standard
-  voices get 4 million free characters a month on Google's free tier;
-  Neural2/WaveNet only get 1 million, and a long news day could push
-  a month of daily briefings close to that ceiling. Standard is the
-  safe choice for staying free; swap GOOGLE_TTS_VOICE if you'd rather
-  trade the free-tier headroom for a more natural voice.
+- No hard chunk-size limit to respect (Piper has none), but the text
+  is still split on paragraph boundaries so each synthesis call stays
+  small: a bad chunk fails cheaply, and per-paragraph calls keep
+  memory bounded on the runner. The sentence-level fallback for an
+  overlong paragraph is kept as a defensive backstop.
 
 - The gh-pages branch is rebuilt as a fresh orphan commit every run,
   keeping only the retained episodes. Without this, deleted MP3s would
@@ -34,30 +35,25 @@ Design decisions worth knowing:
   kept," never "every episode ever published."
 """
 
-import base64
 import datetime
-import glob
 import html
-import json
 import os
 import subprocess
 import sys
 import xml.etree.ElementTree as ET
 
-import requests
-
-MAX_CHUNK_BYTES = 4500  # safely under Google's 5000-byte limit
-RETENTION_DAYS = 14     # how many episodes stay in the feed
-TIMEOUT = 30
+MAX_CHUNK_BYTES = 20000  # generous; Piper has no request-size limit to respect
+RETENTION_DAYS = 14      # how many episodes stay in the feed
 
 PODCAST_TITLE = "Daily Morning Briefing"
 PODCAST_DESCRIPTION = "A personal daily news briefing, read aloud."
 PODCAST_LANGUAGE = "en-gb"
 PODCAST_AUTHOR = "Daily News Briefing"
 
-VOICE_NAME = os.environ.get("GOOGLE_TTS_VOICE", "en-GB-Standard-B")
-VOICE_LANGUAGE_CODE = os.environ.get("GOOGLE_TTS_LANGUAGE_CODE", "en-GB")
-SPEAKING_RATE = float(os.environ.get("GOOGLE_TTS_SPEAKING_RATE", "1.0"))
+# PIPER_MODEL_PATH / PIPER_CONFIG_PATH point at the .onnx + .onnx.json the
+# workflow downloads and caches (voice: en_GB-cori-high).
+LENGTH_SCALE = os.environ.get("PIPER_LENGTH_SCALE", "1.0")        # >1 slower, <1 faster
+SENTENCE_SILENCE = os.environ.get("PIPER_SENTENCE_SILENCE", "0.3")  # seconds of pause between sentences
 
 
 def chunk_text(text, max_bytes=MAX_CHUNK_BYTES):
@@ -102,38 +98,35 @@ def chunk_text(text, max_bytes=MAX_CHUNK_BYTES):
     return chunks
 
 
-def synthesize_chunk(text, api_key, out_path):
-    url = f"https://texttospeech.googleapis.com/v1/text:synthesize?key={api_key}"
-    payload = {
-        "input": {"text": text},
-        "voice": {"languageCode": VOICE_LANGUAGE_CODE, "name": VOICE_NAME},
-        "audioConfig": {"audioEncoding": "MP3", "speakingRate": SPEAKING_RATE},
-    }
-    resp = requests.post(url, json=payload, timeout=TIMEOUT)
-    if resp.status_code != 200:
-        raise RuntimeError(f"Google TTS request failed ({resp.status_code}): {resp.text[:500]}")
-    audio_b64 = resp.json()["audioContent"]
-    with open(out_path, "wb") as f:
-        f.write(base64.b64decode(audio_b64))
+def synthesize_chunk(text, model_path, config_path, out_path):
+    subprocess.run(
+        [
+            "piper",
+            "--model", model_path,
+            "--config", config_path,
+            "--output_file", out_path,
+            "--length-scale", LENGTH_SCALE,
+            "--sentence-silence", SENTENCE_SILENCE,
+        ],
+        input=text, capture_output=True, text=True, check=True,
+    )
 
 
-def synthesize_episode(briefing_text, api_key, work_dir, episode_mp3_path):
+def synthesize_episode(briefing_text, model_path, config_path, work_dir, episode_mp3_path):
     chunks = chunk_text(briefing_text)
     if not chunks:
         raise RuntimeError("briefing.txt produced no text chunks to synthesize")
-    print(f"Synthesizing {len(chunks)} chunk(s) with voice {VOICE_NAME}...")
+    print(f"Synthesizing {len(chunks)} chunk(s) with Piper ({os.path.basename(model_path)})...")
 
     chunk_paths = []
     for i, chunk in enumerate(chunks):
-        out_path = os.path.join(work_dir, f"chunk_{i:03d}.mp3")
-        synthesize_chunk(chunk, api_key, out_path)
+        out_path = os.path.join(work_dir, f"chunk_{i:03d}.wav")
+        synthesize_chunk(chunk, model_path, config_path, out_path)
         chunk_paths.append(out_path)
         print(f"  chunk {i + 1}/{len(chunks)}: {len(chunk)} chars -> {out_path}")
 
-    if len(chunk_paths) == 1:
-        os.replace(chunk_paths[0], episode_mp3_path)
-        return
-
+    # Always route through ffmpeg, even for a single chunk: Piper only
+    # ever produces WAV, and the episode needs to end up as MP3.
     concat_list_path = os.path.join(work_dir, "concat_list.txt")
     with open(concat_list_path, "w") as f:
         for p in chunk_paths:
@@ -231,7 +224,8 @@ def main():
     briefing_path = sys.argv[1] if len(sys.argv) > 1 else "briefing.txt"
     site_dir = sys.argv[2] if len(sys.argv) > 2 else "_site"
     pages_base_url = os.environ["PAGES_BASE_URL"].rstrip("/")  # e.g. https://baby-isa.github.io/daily-news-briefing
-    api_key = os.environ["GOOGLE_TTS_API_KEY"]
+    model_path = os.environ["PIPER_MODEL_PATH"]
+    config_path = os.environ["PIPER_CONFIG_PATH"]
 
     if not os.path.exists(briefing_path):
         print(f"No {briefing_path} found - nothing to do.")
@@ -250,7 +244,7 @@ def main():
 
     work_dir = "_tts_work"
     os.makedirs(work_dir, exist_ok=True)
-    synthesize_episode(briefing_text, api_key, work_dir, episode_path)
+    synthesize_episode(briefing_text, model_path, config_path, work_dir, episode_path)
 
     duration = get_duration_seconds(episode_path)
     size_bytes = os.path.getsize(episode_path)
