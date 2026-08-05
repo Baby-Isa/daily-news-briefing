@@ -83,7 +83,10 @@ jobs:
           git checkout --orphan gh-pages-new
           git rm -rf . > /dev/null
           cp -r _site/. .
-          rm -rf _site _tts_work
+          # Everything that isn't the published site itself: the voice
+          # model download, TTS scratch files, and whatever main's own
+          # tracked files left in the working tree.
+          rm -rf _site _tts_work models
           git add -A
           git commit -m "Podcast update $(date -u +%Y-%m-%d)"
           git branch -M gh-pages-new gh-pages

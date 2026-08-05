@@ -36,7 +36,6 @@ Design decisions worth knowing:
 """
 
 import datetime
-import html
 import os
 import subprocess
 import sys
@@ -262,7 +261,10 @@ def main():
     description_snippet = briefing_text[:280].rsplit(" ", 1)[0] + "…"
     new_item = {
         "title": f"Briefing — {weekday_date}",
-        "description": html.escape(description_snippet),
+        # Raw text, not html.escape()'d: ElementTree XML-escapes .text content
+        # itself on write, so escaping it here too would double-escape it
+        # (a real bug this caught: "It's" became "It&amp;#x27;s" in the feed).
+        "description": description_snippet,
         "pubDate": datetime.datetime.now(datetime.timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000"),
         "guid": f"daily-briefing-{date_str}",
         "url": f"{pages_base_url}/audio/{episode_filename}",
