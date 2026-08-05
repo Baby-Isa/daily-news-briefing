@@ -1,0 +1,69 @@
+name: Publish podcast episode
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "briefing.txt"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Only one publish should run at a time, and a queued run should just
+# pick up whatever briefing.txt looks like when it starts rather than
+# both racing to force-push gh-pages.
+concurrency:
+  group: publish-podcast
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install the libraries the script needs
+        run: pip install requests
+
+      - name: Confirm ffmpeg is available
+        run: ffmpeg -version && ffprobe -version
+
+      - name: Pull in the existing published episodes, if any
+        run: |
+          set -euo pipefail
+          mkdir -p _site
+          if git ls-remote --exit-code --heads origin gh-pages > /dev/null 2>&1; then
+            git fetch origin gh-pages:refs/remotes/origin/gh-pages
+            git archive origin/gh-pages | tar -x -C _site
+          fi
+
+      - name: Render today's episode and update the feed
+        env:
+          GOOGLE_TTS_API_KEY: ${{ secrets.GOOGLE_TTS_API_KEY }}
+          PAGES_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+        run: python build_podcast_episode.py briefing.txt _site
+
+      - name: Publish gh-pages as a fresh orphan commit
+        run: |
+          set -euo pipefail
+          git config user.name "podcast-bot"
+          git config user.email "podcast-bot@users.noreply.github.com"
+          # Orphan branch, then clear every file main had tracked. _site/
+          # is untracked so git rm never touches it - only main's source
+          # files (workflow, scripts, digest.txt, ...) get cleared, which
+          # is what we want: gh-pages should hold only the published site.
+          git checkout --orphan gh-pages-new
+          git rm -rf . > /dev/null
+          cp -r _site/. .
+          rm -rf _site _tts_work
+          git add -A
+          git commit -m "Podcast update $(date -u +%Y-%m-%d)"
+          git branch -M gh-pages-new gh-pages
+          git push --force origin gh-pages
