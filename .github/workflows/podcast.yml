@@ -29,14 +29,32 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install edge-tts
-        run: pip install edge-tts
+      - name: Install Kokoro (local, offline TTS - no account or key needed)
+        run: pip install kokoro-onnx soundfile
 
       - name: Install ffmpeg
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
 
       - name: Confirm ffmpeg is available
         run: ffmpeg -version && ffprobe -version
+
+      # Model + voice bank are ~350MB combined; cached so most runs don't
+      # re-download them.
+      - name: Cache the Kokoro model
+        id: model-cache
+        uses: actions/cache@v4
+        with:
+          path: models
+          key: kokoro-model-v1.0
+
+      - name: Download the Kokoro model if not cached
+        if: steps.model-cache.outputs.cache-hit != 'true'
+        run: |
+          set -euo pipefail
+          mkdir -p models
+          base="https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0"
+          curl -sSL -o models/kokoro-v1.0.onnx "$base/kokoro-v1.0.onnx"
+          curl -sSL -o models/voices-v1.0.bin "$base/voices-v1.0.bin"
 
       - name: Pull in the existing published episodes, if any
         run: |
@@ -49,7 +67,10 @@ jobs:
 
       - name: Render today's episode and update the feed
         env:
-          EDGE_TTS_VOICE: en-TZ-ImaniNeural
+          KOKORO_VOICE: bf_isabella
+          KOKORO_LANG: en-gb
+          KOKORO_MODEL_PATH: models/kokoro-v1.0.onnx
+          KOKORO_VOICES_PATH: models/voices-v1.0.bin
           PAGES_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
         run: python build_podcast_episode.py briefing.txt _site
 
@@ -65,9 +86,12 @@ jobs:
           git checkout --orphan gh-pages-new
           git rm -rf . > /dev/null
           cp -r _site/. .
-          # Everything that isn't the published site itself: TTS scratch
-          # files and whatever main's own tracked files left behind.
-          rm -rf _site _tts_work
+          # Everything that isn't the published site itself: the Kokoro
+          # model download, TTS scratch files, and whatever main's own
+          # tracked files left behind. (A version of this exact leak - the
+          # model directory ending up published to gh-pages - happened once
+          # already with Piper; don't repeat it.)
+          rm -rf _site _tts_work models
           git add -A
           git commit -m "Podcast update $(date -u +%Y-%m-%d)"
           git branch -M gh-pages-new gh-pages

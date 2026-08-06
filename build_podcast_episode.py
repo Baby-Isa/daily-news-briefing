@@ -3,32 +3,31 @@
 TURN briefing.txt INTO A PODCAST EPISODE.
 
 Reads the plain-text briefing (written by the Cowork Routine each
-morning), renders it to speech with edge-tts, stitches the pieces into
-one MP3 with ffmpeg, and updates a podcast RSS feed in a site directory
-ready to publish via GitHub Pages.
+morning), renders it to speech with Kokoro (kokoro-onnx, a small local
+open-weight neural TTS model), converts to MP3 with ffmpeg, and updates
+a podcast RSS feed in a site directory ready to publish via GitHub
+Pages.
 
 This runs in GitHub Actions, not in the Claude Code Remote sandbox: it
-needs ffmpeg (the sandbox can't reliably install it over its proxy) and
-direct internet access (the sandbox's proxy injects a self-signed cert
-that edge-tts's websocket connection won't trust).
+needs ffmpeg, which the sandbox can't reliably install over its proxy.
 
 Design decisions worth knowing:
 
-- edge-tts, not Piper. It calls Microsoft Edge's "Read Aloud" service
-  (unofficial, reverse-engineered, no API key) for genuinely natural
-  commercial-grade neural voices, chosen over Piper specifically for
-  voice quality after a user comparison. The known trade-off: this is
-  an unofficial service Microsoft could rate-limit or block without
-  warning, a real reliability risk for something unattended. If it
-  ever starts failing consistently, Piper (offline, zero network
-  dependency) or a paid API (Google Cloud TTS, OpenAI) are the fallback
-  paths already evaluated for this pipeline.
+- Kokoro, not edge-tts or Piper. It's Apache 2.0 (no license questions),
+  runs entirely offline once its ~350MB of model+voice-bank files are
+  downloaded (no account, no per-request network call, nothing an
+  upstream service can rate-limit or block), and it topped the TTS
+  Arena leaderboard in early 2026 - genuinely better quality than
+  either prior engine by most accounts, at a real CPU cost (measured
+  locally at roughly 0.4x real-time: about 9-10 minutes to render a
+  full ~3,500-word briefing on a shared 2-vCPU runner). Voice is
+  bf_isabella (British English, female) - user's pick.
 
-- Conservative chunk size (8000 bytes, well under Piper's old 20000).
-  edge-tts has no publicly documented per-request limit since it isn't
-  an official API, so this stays cautious: smaller chunks fail cheaper
-  and keep any single request from being the one that takes down the
-  whole run.
+- No manual chunking. Kokoro's own .create() call already splits long
+  text into <=510-phoneme batches internally (preferring punctuation
+  boundaries) and concatenates the results before returning - the
+  chunk_text() logic every previous engine needed here is simply not
+  necessary with Kokoro's API.
 
 - The gh-pages branch is rebuilt as a fresh orphan commit every run,
   keeping only the retained episodes. Without this, deleted MP3s would
@@ -41,122 +40,45 @@ import datetime
 import os
 import subprocess
 import sys
-import tempfile
 import xml.etree.ElementTree as ET
 
-MAX_CHUNK_BYTES = 8000  # conservative; edge-tts has no documented request-size limit
-RETENTION_DAYS = 14     # how many episodes stay in the feed
+RETENTION_DAYS = 14  # how many episodes stay in the feed
 
 PODCAST_TITLE = "Daily Morning Briefing"
 PODCAST_DESCRIPTION = "A personal daily news briefing, read aloud."
 PODCAST_LANGUAGE = "en-gb"
 PODCAST_AUTHOR = "Daily News Briefing"
 
-# en-TZ-ImaniNeural: English (Tanzania), female - user's pick after comparing
-# it against Podcast Addict's built-in voices.
-VOICE = os.environ.get("EDGE_TTS_VOICE", "en-TZ-ImaniNeural")
-RATE = os.environ.get("EDGE_TTS_RATE", "+0%")      # e.g. "+10%" for faster
-PITCH = os.environ.get("EDGE_TTS_PITCH", "+0Hz")
-
-
-def chunk_text(text, max_bytes=MAX_CHUNK_BYTES):
-    """Split into pieces under max_bytes, breaking on paragraph then
-    sentence boundaries so no chunk ever cuts off mid-sentence."""
-    paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
-    chunks = []
-    current = ""
-
-    def fits(candidate):
-        return len(candidate.encode("utf-8")) <= max_bytes
-
-    for para in paragraphs:
-        candidate = (current + "\n\n" + para).strip() if current else para
-        if fits(candidate):
-            current = candidate
-            continue
-        # Current chunk is full; flush it.
-        if current:
-            chunks.append(current)
-            current = ""
-        if fits(para):
-            current = para
-            continue
-        # A single paragraph is itself too long: split on sentences.
-        sentences = para.replace("\n", " ").split(". ")
-        piece = ""
-        for i, sentence in enumerate(sentences):
-            s = sentence if sentence.endswith(".") or i == len(sentences) - 1 else sentence + "."
-            candidate = (piece + " " + s).strip() if piece else s
-            if fits(candidate):
-                piece = candidate
-            else:
-                if piece:
-                    chunks.append(piece)
-                piece = s
-        if piece:
-            current = piece
-
-    if current:
-        chunks.append(current)
-    return chunks
-
-
-def synthesize_chunk(text, work_dir, out_path):
-    # --file rather than --text: avoids any argument-encoding surprises with
-    # long text full of punctuation, em dashes, curly quotes, etc.
-    with tempfile.NamedTemporaryFile(
-        "w", dir=work_dir, suffix=".txt", delete=False, encoding="utf-8"
-    ) as f:
-        f.write(text)
-        text_path = f.name
-    try:
-        subprocess.run(
-            [
-                "edge-tts",
-                "--voice", VOICE,
-                "--rate", RATE,
-                "--pitch", PITCH,
-                "--file", text_path,
-                "--write-media", out_path,
-            ],
-            capture_output=True, text=True, check=True,
-        )
-    finally:
-        os.remove(text_path)
+# bf_isabella: British English, female - user's pick. Full voice list at
+# https://huggingface.co/hexgrad/Kokoro-82M/blob/main/VOICES.md
+VOICE = os.environ.get("KOKORO_VOICE", "bf_isabella")
+LANG = os.environ.get("KOKORO_LANG", "en-gb")
+SPEED = float(os.environ.get("KOKORO_SPEED", "1.0"))
+MODEL_PATH = os.environ.get("KOKORO_MODEL_PATH", "models/kokoro-v1.0.onnx")
+VOICES_PATH = os.environ.get("KOKORO_VOICES_PATH", "models/voices-v1.0.bin")
 
 
 def synthesize_episode(briefing_text, work_dir, episode_mp3_path):
-    chunks = chunk_text(briefing_text)
-    if not chunks:
-        raise RuntimeError("briefing.txt produced no text chunks to synthesize")
-    print(f"Synthesizing {len(chunks)} chunk(s) with edge-tts (voice {VOICE})...")
+    # Imported here, not at module level, so the rest of this script (feed
+    # logic, retention pruning) stays importable/testable without kokoro_onnx
+    # and its heavier dependencies (onnxruntime, soundfile) installed.
+    from kokoro_onnx import Kokoro
+    import soundfile as sf
 
-    chunk_paths = []
-    for i, chunk in enumerate(chunks):
-        out_path = os.path.join(work_dir, f"chunk_{i:03d}.mp3")
-        synthesize_chunk(chunk, work_dir, out_path)
-        chunk_paths.append(out_path)
-        print(f"  chunk {i + 1}/{len(chunks)}: {len(chunk)} chars -> {out_path}")
+    print(f"Loading Kokoro model (voice {VOICE}, lang {LANG})...")
+    kokoro = Kokoro(MODEL_PATH, VOICES_PATH)
 
-    # Always route through ffmpeg, even for a single chunk: re-encoding
-    # multiple independently-fetched mp3 segments into one clean file is
-    # more reliable than raw byte concatenation.
-    concat_list_path = os.path.join(work_dir, "concat_list.txt")
-    with open(concat_list_path, "w") as f:
-        for p in chunk_paths:
-            f.write(f"file '{os.path.abspath(p)}'\n")
+    print(f"Synthesizing {len(briefing_text)} characters...")
+    samples, sample_rate = kokoro.create(briefing_text, voice=VOICE, speed=SPEED, lang=LANG)
+
+    wav_path = os.path.join(work_dir, "episode.wav")
+    sf.write(wav_path, samples, sample_rate)
 
     subprocess.run(
-        [
-            "ffmpeg", "-y", "-f", "concat", "-safe", "0",
-            "-i", concat_list_path,
-            "-c:a", "libmp3lame", "-q:a", "4",
-            episode_mp3_path,
-        ],
+        ["ffmpeg", "-y", "-i", wav_path, "-c:a", "libmp3lame", "-q:a", "4", episode_mp3_path],
         check=True,
     )
-    for p in chunk_paths:
-        os.remove(p)
+    os.remove(wav_path)
 
 
 def get_duration_seconds(mp3_path):
