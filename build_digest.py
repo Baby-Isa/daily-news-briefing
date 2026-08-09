@@ -80,7 +80,7 @@ LANE_GROUPS = [
     ("WORLD: ASIA AND PACIFIC",
      ["South Asia", "East Asia", "Southeast Asia", "Central Asia", "Pacific"]),
     ("POLITICS AND CONFLICT", ["Politics", "Conflict", "Law"]),
-    ("ECONOMY AND BUSINESS", ["Economy", "Business"]),
+    ("ECONOMY AND BUSINESS", ["Economy", "Business", "Mergers and Acquisitions"]),
     ("SCIENCE AND TECHNOLOGY", ["Science", "Space", "Health", "Energy",
                                 "AI and technology", "Built environment"]),
     ("SOCIETY", ["Society and culture"]),

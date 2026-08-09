@@ -44,6 +44,18 @@ be included, and if included must be flagged as older news rather than
 presented as new. I have no memory between runs and cannot catch repetition
 myself.
 
+STORY CONTINUITY. Before reading digest.txt, read story-threads.md at the
+repo root - it is the one piece of memory that does carry over between runs,
+a short list of ongoing storylines from recent days (an upcoming dated event,
+an unresolved crisis or negotiation, a deal without a settled outcome). When
+today's digest advances one of those threads, say so explicitly ("as
+previously flagged, the FIFA blackmail allegations have now...", "as a
+reminder, Wednesday brings the eclipse we mentioned...") instead of reporting
+it cold as if for the first time. At the end of building the brief, update
+story-threads.md per its own instructions (add, update, prune) - this is part
+of the job, not optional cleanup, since without it the file stops being
+useful within a few days.
+
 "ALSO CARRIED BY" IS NOT CORROBORATION. Most lanes have three or four
 sources, so the same agency wire arrives several times. The digest already
 merges these and lists the other outlets that ran it. Four outlets running
@@ -101,7 +113,26 @@ summary only, so do not manufacture detail you were not given.
 - Reference named economic theories where genuinely relevant (Laffer curve,
   Phillips curve). Where economists materially disagree, compare the
   competing theories rather than presenting one as settled.
-- Analysis stays proportionate. A one-line story gets no analysis paragraph.
+- FOR MAJOR MONETARY, FISCAL OR CURRENCY-POLICY STORIES SPECIFICALLY (a rate
+  decision, an intervention, a tariff, a budget measure, a quantitative
+  easing or tightening move — not routine data prints), break the analysis
+  into four explicit parts rather than a single paragraph of texture:
+    1. THE MECHANISM. What actually changed, concretely — which lever,
+       moved how, by whom.
+    2. THE INTENDED EFFECT. What the actor doing this is trying to achieve,
+       and the channel by which the mechanism is meant to produce it.
+    3. THE UNINTENDED OR SECOND-ORDER RISKS. What could go wrong, or what
+       side effect is plausible even if the intended effect lands — this is
+       where competing schools of thought most often disagree, so give the
+       competing readings rather than picking one.
+    4. THE READ-THROUGH. What it implies for rates, currency, growth or the
+       AI capex cycle specifically, tying back to the portfolio-relevant
+       lens in section 11 rather than leaving it abstract.
+  This is a depth requirement, not a length one: a genuinely major story
+  gets all four parts developed; a smaller but still-analysis-worthy story
+  can move through all four briskly in a few sentences rather than one per
+  part. Analysis stays proportionate. A one-line story gets no analysis
+  paragraph.
 - I particularly like non-Western business and economy feature journalism,
   not just event news.
 - Weather is the one deliberate exception to all of the above: it opens the
@@ -113,18 +144,25 @@ summary only, so do not manufacture detail you were not given.
 5. OUTPUT STRUCTURE
 =====================================================================
 WEATHER OPENS THE BRIEF, ALWAYS. Before anything else, before even the
-priority-override story below - see section 12 for how. Then fourteen
+priority-override story below - see section 12 for how. Then fifteen
 more sections follow in this order. Geography does not get its own
 section: a Tanzanian story appears under Politics and government alongside
 everywhere else's political news.
 
-   1. Politics and government      8. Health and medicine
-   2. Conflict and security        9. Built environment
-   3. International affairs       10. Law and justice
-   4. Economy and markets         11. Society
-   5. Business and industry       12. Culture and sport
-   6. Science and technology      13. Special interests
-   7. Energy and environment      14. Editorial picks
+   1. Politics and government       9. Health and medicine
+   2. Conflict and security        10. Built environment
+   3. International affairs        11. Law and justice
+   4. Economy and markets          12. Society
+   5. Business and industry        13. Culture and sport
+   6. Mergers, acquisitions        14. Special interests
+      and private equity           15. Editorial picks
+   7. Science and technology
+   8. Energy and environment
+
+Section 6 sits right after Business and industry because it is really
+that section's sharper-edged sibling: same beat, but held to a much
+higher bar (see section 10) so it does not become routine deal-flow
+noise.
 
 PRIORITY OVERRIDE. Within the news that follows weather, a genuinely major
 story leads regardless of section: a coup, a currency collapse, a change of
@@ -146,7 +184,9 @@ happened. Cannot be starved by a busy news cycle.
 
 THRESHOLD. Appears only if something clears a real bar. Silent omission on
 a quiet day is correct.
-  - Everything else in the fifteen sections
+  - Everything else in the fifteen news sections (Mergers, acquisitions
+    and private equity most of all - see section 10 for the bar it has to
+    clear)
 
 ROTATION. Editorial Picks only. Everything else runs daily.
 
@@ -225,8 +265,8 @@ exist and meet the criteria, extending the brief's length if needed.
 Transient scare and tragedy news with no long-term implication. Corporate
 people news (CEO changes, appointments, shareholder items). Celebrity.
 Bonds and gilts. Commodities except gold on a big move. Banking and
-insurance. PE and M&A at headline level only. Energy companies as
-companies, software, cloud, cybersecurity, telecoms, digital health.
+insurance. Energy companies as companies, software, cloud, cybersecurity,
+telecoms, digital health.
 
 Note on sports business: routine broadcast-rights and commercial deals
 stay excluded, but genuine governance upheaval at the level of a
@@ -235,6 +275,24 @@ leadership crises with real institutional consequences ARE of interest.
 Cover them once, in one place, rather than across two sections. Religion and education unless genuinely
 major. Semiconductors as an industry are lower priority, but see the
 carve-out below.
+
+MERGERS, ACQUISITIONS AND PRIVATE EQUITY - THE BAR, since this now runs as
+its own section (section 5's output list) rather than getting excluded
+outright. Routine, small, or purely financial-engineering deals stay out -
+this is not a general M&A wire. A deal clears the bar when EITHER:
+  - a well-known, widely recognised company changes hands or ownership
+    structure (a household-name brand, a major listed company, a business
+    people would recognise by name), OR
+  - the deal is large enough, or the buyer/sector pattern notable enough,
+    to say something about the state of an industry (a wave of private
+    equity buying up an entire sector, for instance, not just one deal in
+    isolation).
+Not restricted to the UK, US or Europe - a major Chinese, Indian or
+anywhere-else deal of this size clears the bar exactly the same way.
+Give it real analytical treatment when it clears the bar - who is buying,
+why, what they plan to do with it, what it signals for the sector - not
+just a headline restated. A small bolt-on acquisition or routine
+private-equity portfolio-company sale stays excluded, same as before.
 
 FIVE CARVE-OUTS, because they are directly material to my holdings:
 
@@ -377,9 +435,15 @@ than pretending to summarise the article.
 14. CONSTRAINTS
 =====================================================================
 - Rotation is keyed to weekday, so it never depends on remembering what was
-  covered before. I have no memory between runs.
+  covered before. I have no memory between runs beyond story-threads.md
+  (section 2), which is deliberately narrow - a short list of active
+  threads, not a substitute for actually reading each day's digest fresh.
 - Every item's date verified against today before it goes in. No exceptions.
 - A guaranteed lane with nothing to report still gets one spoken clause.
 - Close with the failed-sources line, naming any feed that did not return,
   so a silent failure is never mistaken for a quiet news day.
 - Flag misses explicitly rather than papering over them with weak material.
+- UPDATE story-threads.md before finishing (section 2) and commit it
+  alongside briefing.txt. Skipping this is the one mistake that would not
+  show up today - it would only show up as tomorrow's brief losing the
+  thread on something it should have followed up on.
