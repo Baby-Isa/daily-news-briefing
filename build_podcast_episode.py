@@ -38,11 +38,31 @@ Design decisions worth knowing:
 
 import datetime
 import os
+import re
 import subprocess
 import sys
 import xml.etree.ElementTree as ET
 
 RETENTION_DAYS = 14  # how many episodes stay in the feed
+
+# Words Kokoro's espeak-based phonemizer reads wrong from the correct
+# spelling. Respellings chosen by testing candidates directly against
+# kokoro_onnx.tokenizer.Tokenizer.phonemize() and comparing the IPA output,
+# not by ear - e.g. "Ruislip" phonemizes to /ɹˈuːɪslˌɪp/ ("ROO-iss-lip"),
+# but "Rye-slip" phonemizes to /ɹˈaɪslˈɪp/, the correct /raɪslɪp/. This is
+# TTS-only: it's applied to a copy of the text right before synthesis, never
+# to briefing.txt itself or the RSS description, which keep the real
+# spelling. Match is whole-word and case-insensitive so it catches the word
+# wherever it appears in a sentence.
+PRONUNCIATION_FIXES = {
+    "Ruislip": "Rye-slip",
+}
+
+
+def apply_pronunciation_fixes(text):
+    for written, spoken in PRONUNCIATION_FIXES.items():
+        text = re.sub(rf"\b{re.escape(written)}\b", spoken, text, flags=re.IGNORECASE)
+    return text
 
 PODCAST_TITLE = "Daily Morning Briefing"
 PODCAST_DESCRIPTION = "A personal daily news briefing, read aloud."
@@ -68,8 +88,9 @@ def synthesize_episode(briefing_text, work_dir, episode_mp3_path):
     print(f"Loading Kokoro model (voice {VOICE}, lang {LANG})...")
     kokoro = Kokoro(MODEL_PATH, VOICES_PATH)
 
-    print(f"Synthesizing {len(briefing_text)} characters...")
-    samples, sample_rate = kokoro.create(briefing_text, voice=VOICE, speed=SPEED, lang=LANG)
+    spoken_text = apply_pronunciation_fixes(briefing_text)
+    print(f"Synthesizing {len(spoken_text)} characters...")
+    samples, sample_rate = kokoro.create(spoken_text, voice=VOICE, speed=SPEED, lang=LANG)
 
     wav_path = os.path.join(work_dir, "episode.wav")
     sf.write(wav_path, samples, sample_rate)
