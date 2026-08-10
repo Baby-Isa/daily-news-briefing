@@ -26,25 +26,52 @@ Format: one entry per thread, dated to when first flagged or last updated,
 one or two sentences of context - enough for a same-day reader to know what
 it's referring to, not a full recap.
 
-- [2026-08-09] Solar eclipse crossing Spain, Iceland and Greenland, reportedly
-  visible from London on Wednesday 12 August - confirm exact visibility and
-  timing as the date approaches.
-- [2026-08-05] FIFA governance crisis: Jordan FA president and former FIFA
-  vice-president Prince Ali publicly accused president Gianni Infantino of
-  blackmail; senior football figures (Arsène Wenger among them) have been
-  breaking ranks over Infantino's plan to sell equity stakes in the World Cup
-  itself, which Wenger called "absolutely necessary" to scrap.
-- [2026-08-05] Iran war / Strait of Hormuz: a US-Iran-Oman deal to reopen the
-  strait and restore a ceasefire has been reported as close multiple times
-  without a confirmed resolution - watch for whether it actually lands.
-- [2026-08-05] Ceuta migration crisis: a mass crossing into Spain's North
-  African enclave killed dozens; Ceuta's security services warned of a second
-  coordinated attempt planned for 15 August - watch that date.
-- [2026-08-06] Michigan Democratic Senate primary: progressive Abdul El-Sayed
-  narrowly beat AIPAC-backed Haley Stevens despite a heavily lopsided spending
-  gap - being read as a bellwether for the centrist-vs-progressive fight
-  inside the Democratic Party heading into the midterms.
+- [2026-08-10] Strait of Hormuz / Iran blockade: Iran-Oman deal on shipping
+  lanes reported "very close" again; Iran still ties full reopening to a
+  harder list of demands (end of US naval blockade, war-damage compensation,
+  release of frozen assets) which Washington reportedly already agreed to in
+  principle in the June MOU. Trump signalling a shift to "low-keying it" via
+  economic pressure rather than more strikes. Meanwhile Houthi attacks on
+  Yemen's al-Makha/Mocha and a strike on Saudi Aramco's Jazan refinery show
+  the shooting war still escalating even as diplomacy edges forward - watch
+  for whether the Oman shipping-lane deal actually lands.
+- [2026-08-10] Mecca Joint Defence Agreement (Saudi Arabia-Turkey-Pakistan):
+  new "purely defensive" pact signed 7 Aug, already being tested by a Houthi
+  strike on a Saudi refinery and floated for expansion - Turkey says Egypt
+  and others have shown interest. Read by analysts as a symptom of Gulf
+  states hedging away from the US security umbrella, with China positioning
+  to fill the gap - watch for which countries actually join.
+- [2026-08-10] Solar eclipse crossing Spain, Iceland and Greenland, due
+  Wednesday 12 August - new coverage frames it as a rare naked-eye view of
+  the sun's corona, but exact London/UK visibility still hasn't been
+  confirmed in the digest; treat any UK sighting as partial at best.
+- [2026-08-09] FIFA governance crisis: UEFA has now confirmed a "departure
+  payment" made to a woman alleged to have been president Gianni Infantino's
+  mistress during his time there, prompting FIFA to publicly defend him
+  against critics. Sits alongside the blackmail allegations from Jordan FA
+  president Prince Ali and senior figures (Wenger included) breaking ranks
+  over Infantino's now-shelved plan to sell equity stakes in the World Cup.
+- [2026-08-06/10] Michigan Democratic Senate primary and its aftermath:
+  progressive Abdul El-Sayed (narrow winner over AIPAC-backed Haley Stevens)
+  has now spoken with Obama in an apparent unity push ahead of facing
+  Republican Mike Rogers in November; some Stevens-aligned Democrats are
+  publicly refusing to back him. Rogers separately shifting toward
+  election-integrity scepticism. Being read as a bellwether for the
+  centrist-vs-progressive fight heading into the midterms - watch the
+  general election contest.
+- [2026-08-10] Bank of Japan rate path: July summary flagged upside price
+  risks and signalled a possible hike as soon as September, driven by
+  persistent yen weakness feeding import-cost inflation; Japan just posted
+  its first current-account deficit in 18 months, adding tension to the
+  timing decision. Watch the September meeting.
+- [2026-08-05] Ceuta migration crisis: mass crossing into Spain's North
+  African enclave killed dozens; security services still watching for a
+  second coordinated attempt planned for 15 August. Now also being framed as
+  a test of EU unity ahead of its autumn trade fight with China.
 - [2026-08-08] EasyJet's roughly £5.7bn takeover by US private equity firm
-  Apollo, confirmed 6 August - watch for regulatory approval steps and
-  whether other budget airlines follow (CNBC flagged PE "circling" the
-  sector after this deal).
+  Apollo, confirmed 6 August - no update in today's digest; still watch for
+  regulatory approval steps and whether other budget airlines follow.
+- [2026-08-10] White House ballroom construction: appeals court ruling has
+  put the project on a 14-day countdown, with the administration leaning on
+  a security argument (the structure is designed to protect underground
+  facilities) as courts weigh in - watch for the outcome around 23 August.
