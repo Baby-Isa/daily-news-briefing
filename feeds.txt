@@ -9,7 +9,7 @@ UK | Sky News | https://feeds.skynews.com/feeds/rss/uk.xml |
 UK | Guardian UK | https://www.theguardian.com/uk-news/rss |
 UK | BBC UK | https://feeds.bbci.co.uk/news/uk/rss.xml |
 UK | Politico London Playbook | https://www.politico.eu/newsletter/london-playbook/feed/ |
-Europe | Euronews | https://www.euronews.com/rss |
+Europe | Euronews | https://www.euronews.com/rss?level=theme&name=news |
 Europe | NYT Europe | https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml |
 Europe | Politico Europe | https://www.politico.eu/feed/ |
 North America | NYT US | https://rss.nytimes.com/services/xml/rss/nyt/US.xml |
@@ -40,7 +40,8 @@ Southeast Asia | Channel News Asia | https://www.channelnewsasia.com/api/v1/rss-
 Southeast Asia | DW Asia | https://rss.dw.com/xml/rss-en-asia |
 Southeast Asia | The Diplomat | https://thediplomat.com/feed/ |
 Central Asia | Times of Central Asia | https://timesca.com/feed |
-Central Asia | RFE/RL Kazakhstan | https://www.rferl.org/api/zriiml-vomx-tpeogm_ |
+Central Asia | Astana Times | https://astanatimes.com/feed/ |
+Central Asia | RFE/RL Kazakhstan | https://www.rferl.org/api/zriiml-vomx-tpeogm_ | QUIET
 Eastern Europe | Meduza | https://meduza.io/rss/en/all |
 Eastern Europe | Guardian Ukraine | https://www.theguardian.com/world/ukraine/rss |
 Eastern Europe | Balkan Insight | https://balkaninsight.com/feed/ |
@@ -112,7 +113,7 @@ Longevity | Fight Aging | https://www.fightaging.org/feed/ |
 Longevity | Nature Aging | https://www.nature.com/nataging.rss |
 Longevity | Peter Attia | https://peterattiamd.com/feed/ |
 E-commerce | Modern Retail | https://www.modernretail.co/feed/ |
-E-commerce | Marketplace Pulse | https://www.marketplacepulse.com/articles/recent.atom |
+E-commerce | Marketplace Pulse | https://www.marketplacepulse.com/articles/recent.atom | QUIET
 Trends | Skift | https://skift.com/feed/ |
 
 ## EDITORIAL
@@ -122,7 +123,7 @@ Editorial | New Lines | https://newlinesmag.com/feed/ | FULLTEXT QUIET
 Editorial | Aeon | https://aeon.co/feed.rss | FULLTEXT QUIET
 
 ## ENTITY SEARCH FEEDS (Google News, for lanes with no dedicated publication)
-Agronomics | Google News Agronomics | https://news.google.com/rss/search?q=Agronomics+ANIC&hl=en-GB&gl=GB&ceid=GB:en | QUIET
+Agronomics | Google News Agronomics | https://news.google.com/rss/search?q=Agronomics+ANIC&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
 Agronomics | Google News cultivated meat | https://news.google.com/rss/search?q=cultivated+meat+investment&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 OriginTrail | Google News OriginTrail | https://news.google.com/rss/search?q=%22OriginTrail%22+OR+%22TRAC+token%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Chainlink | Google News Chainlink | https://news.google.com/rss/search?q=%22Chainlink%22+crypto+OR+oracle&hl=en-GB&gl=GB&ceid=GB:en |
@@ -137,7 +138,7 @@ Projectors | Digital Trends Home Theater | https://www.digitaltrends.com/home-th
 Trends | Google News travel trends | https://news.google.com/rss/search?q=travel+tourism+trends&hl=en-GB&gl=GB&ceid=GB:en |
 North Africa | Google News North Africa | https://news.google.com/rss/search?q=Morocco+OR+Algeria+OR+Tunisia+OR+Libya+politics&hl=en-GB&gl=GB&ceid=GB:en |
 Sub-Saharan Africa | AllAfrica | https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf |
-Cameras | DPReview | https://www.dpreview.com/feeds/news.xml |
+Cameras | Digital Camera World | https://www.digitalcameraworld.com/feeds/all |
 Games | Eurogamer | https://www.eurogamer.net/feed |
 E-commerce | Retail Dive | https://www.retaildive.com/feeds/news/ |
 ## THIRD ROUND ADDITIONS
@@ -145,13 +146,13 @@ Trends | Skift Meetings | https://meetings.skift.com/feed/ |
 Conflict | Long War Journal | https://www.longwarjournal.org/feed |
 
 ## AGRONOMICS PORTFOLIO AND SECTOR
-Agronomics | GN BlueNalu | https://news.google.com/rss/search?q=BlueNalu+cultivated+seafood&hl=en-GB&gl=GB&ceid=GB:en | QUIET
-Agronomics | GN Mosa Meat | https://news.google.com/rss/search?q=%22Mosa+Meat%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
-Agronomics | GN Liberation Bio | https://news.google.com/rss/search?q=%22Liberation+Bioindustries%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
-Agronomics | GN Solar Foods | https://news.google.com/rss/search?q=%22Solar+Foods%22+protein+fermentation&hl=en-GB&gl=GB&ceid=GB:en | QUIET
-Agronomics | GN Onego Formo | https://news.google.com/rss/search?q=%22Onego+Bio%22+OR+%22Formo+GmbH%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
-Agronomics | GN EVERY Co | https://news.google.com/rss/search?q=%22EVERY+Co%22+egg+protein&hl=en-GB&gl=GB&ceid=GB:en | QUIET
-Agronomics | GN Meatly SuperMeat | https://news.google.com/rss/search?q=%22Meatly%22+OR+%22SuperMeat%22+OR+%22All+G%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
+Agronomics | GN BlueNalu | https://news.google.com/rss/search?q=BlueNalu+cultivated+seafood&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
+Agronomics | GN Mosa Meat | https://news.google.com/rss/search?q=%22Mosa+Meat%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
+Agronomics | GN Liberation Bio | https://news.google.com/rss/search?q=%22Liberation+Bioindustries%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
+Agronomics | GN Solar Foods | https://news.google.com/rss/search?q=%22Solar+Foods%22+protein+fermentation&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
+Agronomics | GN Onego Formo | https://news.google.com/rss/search?q=%22Onego+Bio%22+OR+%22Formo+GmbH%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
+Agronomics | GN EVERY Co | https://news.google.com/rss/search?q=%22EVERY+Co%22+egg+protein&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
+Agronomics | GN Meatly SuperMeat | https://news.google.com/rss/search?q=%22Meatly%22+OR+%22SuperMeat%22+OR+%22All+G%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
 Agronomics | GN precision fermentation | https://news.google.com/rss/search?q=precision+fermentation&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Agronomics | GN cellular agriculture | https://news.google.com/rss/search?q=cellular+agriculture+OR+cultivated+meat+approval&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Agronomics | GN alt protein regulation | https://news.google.com/rss/search?q=alternative+protein+regulatory+approval+FSA+OR+FDA&hl=en-GB&gl=GB&ceid=GB:en | QUIET

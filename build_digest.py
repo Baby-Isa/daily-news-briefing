@@ -182,6 +182,7 @@ def load_feeds(path="feeds.txt"):
             "lane": parts[0], "outlet": parts[1], "url": parts[2],
             "fulltext": "FULLTEXT" in flags,
             "quiet": "QUIET" in flags,
+            "rare": "RARE" in flags,
             "keywords": keywords,
         })
     return feeds
@@ -291,7 +292,17 @@ def fetch_feed(feed):
             })
 
     out["newest"] = newest
-    if newest:
+    # RARE feeds are never flagged stale. These are keyword searches for
+    # events that genuinely happen a few times a year - a named micro-cap
+    # portfolio company, a specific regulatory approval. A search returning
+    # nothing recent is that search working correctly and reporting no
+    # news; it is not a broken feed, and calling it one produced a closing
+    # "treat these lanes as unverified" line in the brief every single
+    # morning for the same four Agronomics feeds. That directly contradicts
+    # the brief's own standing instruction that Agronomics silence is
+    # signal, not failure. Genuine fetch and parse errors are still
+    # reported for RARE feeds - only the staleness clock is switched off.
+    if newest and not feed["rare"]:
         age_days = (now - newest).days
         limit = QUIET_STALE_DAYS if feed["quiet"] else NORMAL_STALE_DAYS
         if age_days > limit:
@@ -443,11 +454,28 @@ def main():
         h.append("=" * 70)
         h.append(f"NEWS DIGEST for {now.strftime('%A %d %B %Y')}  [{part_of}]")
         h.append(f"Built {now.strftime('%H:%M')} UTC")
-        h.append(f"{len(items)} unique stories from {len(feeds)} feeds")
+        demoted_n = sum(1 for i in items if i.get("demoted"))
+        h.append(f"{len(items)} unique stories from {len(feeds)} feeds "
+                 f"({len(items) - demoted_n} in full, {demoted_n} headline-only)")
         h.append("=" * 70)
         h.append("")
         h.append("Every item below is dated. Check each date against today "
                  "before treating anything as new.")
+        h.append("")
+        h.append(f"TWO TIERS. Each lane leads with its top {MAX_ITEMS_PER_LANE} "
+                 "stories in full - headline, outlet, timestamp, summary, link "
+                 "- and then ends with an 'ALSO IN <LANE>' list of further "
+                 "stories as bare headlines. Demoted is not rejected: those "
+                 "cleared the same date filter and merely ranked lower on "
+                 "cross-outlet pickup, which is a weak signal. Read them. If "
+                 "one matters, use it - but you have only the headline, so say "
+                 "only what the headline supports and invent nothing to pad it "
+                 "out. Full-text items are never demoted.")
+        h.append("")
+        h.append("LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in "
+                 "East Asia but carries US politics; Al Jazeera sits in Middle "
+                 "East but carries US domestic stories. Never infer a story's "
+                 "subject from the lane it appears under.")
         h.append("")
         return h
 
@@ -483,12 +511,13 @@ def main():
                     out.append(f"  {i['link']}")
             if demoted:
                 out.append("")
-                out.append(f"  ALSO IN {lane.upper()} ({len(demoted)}), headline only. "
-                           "These are real stories that cleared the same date "
-                           "filter as everything above; they ranked lower on "
-                           "cross-outlet pickup, which is a weak signal. If one "
-                           "matters, use it - you have the headline, so say only "
-                           "what the headline supports.")
+                # Short marker only: the explanation lives once in the file
+                # header. Repeating it here cost 330 characters x 41 lanes,
+                # more than aggressive headline deduplication could ever save
+                # (measured: re-clustering the demoted headlines merges 1.3%
+                # of them, because the global dedup pass already caught the
+                # real duplicates).
+                out.append(f"  ALSO IN {lane.upper()} ({len(demoted)}), headline only:")
                 for i in demoted:
                     out.append(f"  - {i['title']} ({i['outlet']})")
         return out
