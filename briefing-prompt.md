@@ -17,13 +17,21 @@ The file is large, roughly 250,000 characters covering around 140 feeds,
 already fetched, filtered to the last 24 hours, deduplicated and
 timestamped. It is your primary and near-total source.
 
-Each lane is capped at its twelve strongest stories, so the file is a
-filtered shortlist rather than everything that came in. Full-text feeds
-and widely-picked-up stories are the ones kept. Two consequences: a lane
-showing twelve items may have had more, so do not read item counts as a
-measure of how busy a lane was; and the material you have is already
-pre-filtered for significance, so you do not need to be sparing with it -
-be sparing with words instead.
+TWO TIERS WITHIN EACH LANE. The top twelve stories per lane get the full
+entry - headline, outlet, timestamp, summary, link. Everything past that
+is DEMOTED to a headline-only list at the end of the lane, under "ALSO IN
+<LANE>". Full-text items are never demoted.
+
+Demoted does not mean rejected. It means the story ranked low on
+cross-outlet pickup, which is a weak signal: an experiment on the 11
+August digest found 75 stories that made that day's brief would have
+been below the line. Read those lists. If something there matters, use
+it - but you have only the headline, so say only what the headline
+supports, and do not invent detail to flesh it out.
+
+Lane names describe the FEED, not the topic. SCMP sits in East Asia but
+carries US politics; Al Jazeera sits in Middle East but carries US health
+policy. Never assume a story's subject from the lane it appears under.
 
 READ IT IN CHUNKS. It exceeds the single-read token ceiling, so one read
 call will fail or return only part of it. Read sequentially with offset

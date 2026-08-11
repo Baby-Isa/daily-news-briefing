@@ -346,19 +346,37 @@ def cap_per_lane(items, cap=None):
     (Chainlink, Agronomics, Cameras, Urbanism) are untouched - a cap that
     trimmed those would defeat the point of having them.
 
-    FULL-TEXT-FLAGGED STORIES ARE EXEMPT FROM THE CAP ENTIRELY. These are
-    the economy, politics, editorial and Chainlink feeds that carry whole
-    article bodies - the fuel for the analysis, which the brief protects
-    above all other content. Counting them against the cap cut them from
-    40 articles to 13 on the first run of this function, which is exactly
-    backwards: it trimmed the most valuable third of the file. So the cap
-    governs headline-and-summary items only, and every full-text item
-    survives regardless of how many its lane has.
+    NOTHING IS DROPPED. Past the cap, items are DEMOTED - kept in the file
+    as a one-line title so the drafting step can still see the story
+    exists, just without the summary and link. This is deliberate, and it
+    is the second version of this function. The first one deleted the tail
+    outright, and an experiment against the 11 Aug digest showed exactly
+    what that cost: of the stories that actually made that morning's
+    brief, 75 would have been deleted before the drafting step ever saw
+    them.
 
-    Ranking among the capped (non-full-text) items, highest first:
-      1. Cross-outlet pickup (len of also_in). Not corroboration - see
-         the digest's own note about syndicated wire copy - but a decent
-         proxy for how much of the press thought the story mattered.
+    The reason is that LANES ARE ASSIGNED BY FEED, NOT BY TOPIC. SCMP sits
+    in the East Asia lane but carried that day's "Todd Blanche sworn in as
+    US attorney general"; Al Jazeera sits in Middle East but carried a US
+    childhood-vaccination story; Al-Monitor sits in North Africa but
+    carried Trump on Iran compensation. Capping the East Asia lane does
+    not cap East Asia news, it caps whatever SCMP happened to publish,
+    across every topic there is. Deduplication runs globally and keeps one
+    canonical copy, so a story lives in exactly one lane - meaning a lane
+    cap can be the only thing standing between a major story and oblivion.
+    Demotion removes that failure mode: worst case a story appears as a
+    bare headline instead of a headline plus summary.
+
+    FULL-TEXT-FLAGGED ITEMS ARE EXEMPT and always keep their full entry.
+    These are the economy, politics, editorial and Chainlink feeds that
+    carry whole article bodies - the fuel for the analysis, which the
+    brief protects above all other content.
+
+    Ranking among the rest, highest first:
+      1. Cross-outlet pickup (len of also_in). A weak signal - the same
+         experiment found most of the demoted-but-used stories had none -
+         which is survivable now that ranking low costs a story its
+         summary rather than its existence.
       2. Recency, as the tiebreak.
     """
     cap = MAX_ITEMS_PER_LANE if cap is None else cap
@@ -366,16 +384,18 @@ def cap_per_lane(items, cap=None):
     for item in items:
         by_lane.setdefault(item["lane"], []).append(item)
 
-    kept = []
     for lane_items in by_lane.values():
         exempt = [i for i in lane_items if i.get("wants_fulltext")]
-        capped = [i for i in lane_items if not i.get("wants_fulltext")]
-        capped.sort(key=lambda i: (len(i.get("also_in") or []), i["when"]),
-                    reverse=True)
-        kept.extend(exempt + capped[:cap])
+        rest = [i for i in lane_items if not i.get("wants_fulltext")]
+        rest.sort(key=lambda i: (len(i.get("also_in") or []), i["when"]),
+                  reverse=True)
+        for i in exempt + rest[:cap]:
+            i["demoted"] = False
+        for i in rest[cap:]:
+            i["demoted"] = True
 
-    kept.sort(key=lambda i: i["when"], reverse=True)
-    return kept
+    items.sort(key=lambda i: i["when"], reverse=True)
+    return items
 
 
 def main():
@@ -398,10 +418,10 @@ def main():
     items = deduplicate(all_items)
     print(f"{len(items)} unique stories.", file=sys.stderr)
 
-    before_cap = len(items)
     items = cap_per_lane(items)
-    print(f"{len(items)} after per-lane cap of {MAX_ITEMS_PER_LANE} "
-          f"(dropped {before_cap - len(items)}).", file=sys.stderr)
+    demoted = sum(1 for i in items if i.get("demoted"))
+    print(f"{len(items) - demoted} full entries, {demoted} demoted to "
+          f"headline-only (per-lane cap {MAX_ITEMS_PER_LANE}).", file=sys.stderr)
 
     # Full text only for flagged feeds, and only for stories that survived
     # deduplication, so we never fetch an article we are going to discard.
@@ -444,9 +464,11 @@ def main():
             lane_items = [i for i in group_items if i["lane"] == lane]
             if not lane_items:
                 continue
+            full = [i for i in lane_items if not i.get("demoted")]
+            demoted = [i for i in lane_items if i.get("demoted")]
             out.append("")
             out.append(f"--- {lane} ({len(lane_items)}) ---")
-            for i in lane_items:
+            for i in full:
                 also = ""
                 if i.get("also_in"):
                     also = f" [also carried by: {', '.join(sorted(set(i['also_in'])))}]"
@@ -459,6 +481,16 @@ def main():
                     out.append(f"  FULL TEXT: {i['fulltext']}")
                 if i["link"]:
                     out.append(f"  {i['link']}")
+            if demoted:
+                out.append("")
+                out.append(f"  ALSO IN {lane.upper()} ({len(demoted)}), headline only. "
+                           "These are real stories that cleared the same date "
+                           "filter as everything above; they ranked lower on "
+                           "cross-outlet pickup, which is a weak signal. If one "
+                           "matters, use it - you have the headline, so say only "
+                           "what the headline supports.")
+                for i in demoted:
+                    out.append(f"  - {i['title']} ({i['outlet']})")
         return out
 
     def footer():
