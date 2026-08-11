@@ -17,7 +17,19 @@ on:
     - cron: "37 4 * * *"
     - cron: "23 5 * * *"
     - cron: "11 6 * * *"
+  # An external scheduler (cron-job.org, a Cloudflare Worker, anything that
+  # can POST) pings this to work around GitHub dropping `schedule` events.
+  # Such a ping must be idempotent: it fires every morning regardless of
+  # whether one of the cron attempts above already landed, so by default it
+  # falls through to the same "is today's digest already committed?" guard
+  # the scheduled runs use, and no-ops in about fifteen seconds if so.
+  # Pressing the button by hand with force=true rebuilds regardless.
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Rebuild even if today's digest is already committed"
+        type: boolean
+        default: false
 
 # Needed so the job can commit the digest back into the repository.
 permissions:
@@ -41,10 +53,14 @@ jobs:
         id: decide
         run: |
           set -euo pipefail
-          # A manual run always rebuilds: if you pressed the button you want
-          # a fresh digest, even if one was already built earlier today.
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "Manual run - building regardless of what is committed."
+          # A FORCED manual run always rebuilds: if you deliberately asked
+          # for a fresh digest you want one, even if today's is committed.
+          # An unforced dispatch - which is what the external scheduler
+          # sends every morning - falls through to the date guard below, so
+          # it costs nothing on days GitHub's own cron actually delivered.
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] \
+             && [ "${{ inputs.force }}" = "true" ]; then
+            echo "Forced manual run - building regardless of what is committed."
             echo "build=true" >> "$GITHUB_OUTPUT"
             exit 0
           fi
