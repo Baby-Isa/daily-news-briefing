@@ -292,6 +292,20 @@ actually appeared.
     consumer preference shifts.
   - Micro Four Thirds cameras and lenses, new LUMIX and mirrorless releases.
   - Cars, especially new Chinese entrants to the UK market.
+  - BMW, MAJOR NEWS ONLY. A new model, a full generational change, a
+    reveal, or a car actually going on sale. Not facelifts, trim levels,
+    special editions, spy shots, motorsport, or anything about the
+    company as a company (plants, earnings, executives). If it would not
+    make someone say "BMW have made a new car", skip it.
+  - SEVEN-SEATERS, ANY BRAND, ANY MARKET. The standing question is
+    narrow: has a new seven-seat car arrived, or has an existing one been
+    properly redesigned? A new model, a new generation, or a seven-seat
+    variant of something that did not have one before all count. Say what
+    it is, who makes it, roughly what it costs if known, and which market
+    it is launching in - Indian and Chinese launches count as much as
+    European ones, but say which, because "on sale" often means "not
+    here". Reviews, comparisons, buyer's guides and best-of lists do not
+    count, however seven-seat their subject matter.
   - City-building games, urbanism and architecture as craft: experimental
     cities, greening projects, walkability and 15-minute city designs,
     climate-adaptive architecture. Distinct from Built Environment, which

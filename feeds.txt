@@ -104,6 +104,9 @@ Cameras | 43Rumors | https://www.43rumors.com/feed/ |
 Cameras | PetaPixel | https://petapixel.com/feed/ |
 Cars | CarNewsChina | https://www.carnewschina.com/feed/ |
 Cars | Autocar | https://www.autocar.co.uk/rss |
+Cars | GN BMW new models | https://news.google.com/rss/search?q=BMW%20%22world%20premiere%22%20OR%20%22fully%20revealed%22%20OR%20%22goes%20on%20sale%22&hl=en-GB&gl=GB&ceid=GB:en | RARE FILTER:world premiere,revealed,unveiled,goes on sale,all-new,debuts
+Cars | GN seven-seat SUVs | https://news.google.com/rss/search?q=%22seven-seat%22%20OR%20%22seven-seater%22%20OR%20%227-seater%22%20SUV%20revealed%20OR%20launch%20OR%20unveiled&hl=en-GB&gl=GB&ceid=GB:en | RARE FILTER:revealed,unveiled,debuts,all-new,goes on sale,priced,orders open,world premiere,launch
+Cars | GN three-row SUVs | https://news.google.com/rss/search?q=%22three-row%22%20SUV%20new%20OR%20redesigned%20OR%20revealed&hl=en-GB&gl=GB&ceid=GB:en | RARE FILTER:revealed,unveiled,debuts,all-new,goes on sale,priced,orders open,world premiere,launch
 Urbanism | Dezeen | https://www.dezeen.com/feed/ |
 Urbanism | ArchDaily | https://www.archdaily.com/rss/ |
 Games | Rock Paper Shotgun | https://www.rockpapershotgun.com/feed |
