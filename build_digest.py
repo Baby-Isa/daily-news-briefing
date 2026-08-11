@@ -50,6 +50,7 @@ NORMAL_STALE_DAYS = 7
 TIMEOUT = 25
 MAX_WORKERS = 8
 FULLTEXT_CHARS = 2500    # cap per article, keeps the digest usable
+MAX_ITEMS_PER_LANE = 12  # see cap_per_lane(); halves the digest's size
 
 HEADERS = {
     "User-Agent": (
@@ -330,6 +331,53 @@ def deduplicate(items):
     return kept
 
 
+def cap_per_lane(items, cap=None):
+    """Keep only the top `cap` stories in each lane.
+
+    The brief this feeds is now a ~1,500-word, under-ten-minute briefing,
+    so the drafting step needs a few dozen stories to choose from, not
+    nine hundred. Uncapped, the wire lanes swamp the file: East Asia alone
+    ran 85 items on 11 Aug against a 16-item Health lane, and the whole
+    digest came to 466,000 characters - which costs far more to read than
+    the brief it produces costs to write.
+
+    The cap is per lane, not global, so it only bites on the high-volume
+    wire lanes. All 41 lanes stay represented and the small standing lanes
+    (Chainlink, Agronomics, Cameras, Urbanism) are untouched - a cap that
+    trimmed those would defeat the point of having them.
+
+    FULL-TEXT-FLAGGED STORIES ARE EXEMPT FROM THE CAP ENTIRELY. These are
+    the economy, politics, editorial and Chainlink feeds that carry whole
+    article bodies - the fuel for the analysis, which the brief protects
+    above all other content. Counting them against the cap cut them from
+    40 articles to 13 on the first run of this function, which is exactly
+    backwards: it trimmed the most valuable third of the file. So the cap
+    governs headline-and-summary items only, and every full-text item
+    survives regardless of how many its lane has.
+
+    Ranking among the capped (non-full-text) items, highest first:
+      1. Cross-outlet pickup (len of also_in). Not corroboration - see
+         the digest's own note about syndicated wire copy - but a decent
+         proxy for how much of the press thought the story mattered.
+      2. Recency, as the tiebreak.
+    """
+    cap = MAX_ITEMS_PER_LANE if cap is None else cap
+    by_lane = {}
+    for item in items:
+        by_lane.setdefault(item["lane"], []).append(item)
+
+    kept = []
+    for lane_items in by_lane.values():
+        exempt = [i for i in lane_items if i.get("wants_fulltext")]
+        capped = [i for i in lane_items if not i.get("wants_fulltext")]
+        capped.sort(key=lambda i: (len(i.get("also_in") or []), i["when"]),
+                    reverse=True)
+        kept.extend(exempt + capped[:cap])
+
+    kept.sort(key=lambda i: i["when"], reverse=True)
+    return kept
+
+
 def main():
     feeds = load_feeds()
     now = datetime.now(timezone.utc)
@@ -349,6 +397,11 @@ def main():
     print(f"{len(all_items)} items in window, deduplicating...", file=sys.stderr)
     items = deduplicate(all_items)
     print(f"{len(items)} unique stories.", file=sys.stderr)
+
+    before_cap = len(items)
+    items = cap_per_lane(items)
+    print(f"{len(items)} after per-lane cap of {MAX_ITEMS_PER_LANE} "
+          f"(dropped {before_cap - len(items)}).", file=sys.stderr)
 
     # Full text only for flagged feeds, and only for stories that survived
     # deduplication, so we never fetch an article we are going to discard.
