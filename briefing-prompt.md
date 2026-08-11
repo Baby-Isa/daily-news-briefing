@@ -316,13 +316,45 @@ that explanation should come from the text you already have.
 
 AGRONOMICS. Daily. SILENCE IS SIGNAL, NOT FAILURE. This is a small-cap that
 routinely goes two or three weeks without an announcement, so a quiet
-stretch is normal and does not need remarking on. Cover: company RNS
-announcements; portfolio company news (BlueNalu is the largest holding,
-also Mosa Meat, Clean Food Group, Liberation Bioindustries, Solar Foods,
-Onego Bio, Formo, EVERY, Meatly, SuperMeat, All G); and sector news, which
-moves this holding more than company news does — precision fermentation,
-cellular agriculture, and regulatory approvals in any jurisdiction.
+stretch is normal and does not need remarking on. The digest no longer
+flags these feeds as stale for that reason, so their absence from the
+failed-sources line means genuinely no news, not a broken feed.
+
+Cover: company RNS announcements; portfolio company news; and sector news,
+which moves this holding more than company news does — precision
+fermentation, cellular agriculture, and regulatory approvals in any
+jurisdiction.
+
+THE FULL PORTFOLIO, each with its own feed coverage. BlueNalu is the
+largest holding; the rest are not ranked here.
+
+  Cultivated meat and seafood  BlueNalu, Mosa Meat, Umami Bioworks,
+                               CellX, SuperMeat, Meatly (pet food)
+  Precision fermentation       Formo, Onego Bio, EVERY, All G Foods,
+                               Solar Foods, Geltor, Bond Pet Foods,
+                               Clean Food Group (yeast-derived palm oil
+                               alternative), Wild Microbes
+  Plant cell culture           California Cultured (cocoa), Galy
+                               (cotton, cocoa), Tropic Biosciences
+                               (gene-edited tropical crops)
+  Plant-based                  Rebellyous Foods, LiveKindly
+  Infrastructure and other     Liberation Bioindustries (formerly
+                               Liberation Labs — both names appear in
+                               coverage), Hydgene (green hydrogen),
+                               Laverock Therapeutics (cell and gene
+                               therapy), Good (early-stage fund)
+
 Note: Meatable was dissolved in December 2025; do not report it as active.
+"Good" has no searchable news identity of its own — anything about it will
+arrive via the main Agronomics feed rather than a dedicated one.
+
+NEW AGRARIAN. Jim Mellon's other, private food-technology fund and
+Agronomics' sister company: it backs the same founders earlier and more
+cheaply, and the two co-invest (it co-led Clean Food Group's £4.5m round).
+Not directly investable, so it is not a holding — treat it as a leading
+indicator for Agronomics rather than as portfolio news. Worth a line when
+it raises, invests, or Mellon says something substantive about the sector
+through it.
 
 ORIGINTRAIL. Daily but genuinely quiet most weeks. "Nothing this week" is
 the correct and expected answer.

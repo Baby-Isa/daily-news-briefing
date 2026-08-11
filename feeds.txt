@@ -153,6 +153,15 @@ Agronomics | GN Solar Foods | https://news.google.com/rss/search?q=%22Solar+Food
 Agronomics | GN Onego Formo | https://news.google.com/rss/search?q=%22Onego+Bio%22+OR+%22Formo+GmbH%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
 Agronomics | GN EVERY Co | https://news.google.com/rss/search?q=%22EVERY+Co%22+egg+protein&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
 Agronomics | GN Meatly SuperMeat | https://news.google.com/rss/search?q=%22Meatly%22+OR+%22SuperMeat%22+OR+%22All+G%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
+Agronomics | GN Clean Food Group | https://news.google.com/rss/search?q=%22Clean%20Food%20Group%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
+Agronomics | GN Umami CellX | https://news.google.com/rss/search?q=%22Umami%20Bioworks%22%20OR%20%22CellX%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
+Agronomics | GN Rebellyous LiveKindly | https://news.google.com/rss/search?q=%22Rebellyous%20Foods%22%20OR%20%22LiveKindly%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
+Agronomics | GN Geltor Bond Pet | https://news.google.com/rss/search?q=%22Geltor%22%20OR%20%22Bond%20Pet%20Foods%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
+Agronomics | GN CalCultured Tropic | https://news.google.com/rss/search?q=%22California%20Cultured%22%20OR%20%22Tropic%20Biosciences%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
+Agronomics | GN Galy | https://news.google.com/rss/search?q=%22Galy%22%20cotton%20OR%20cocoa&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
+Agronomics | GN Wild Microbes Laverock | https://news.google.com/rss/search?q=%22Wild%20Microbes%22%20OR%20%22Laverock%20Therapeutics%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
+Agronomics | GN Hydgene | https://news.google.com/rss/search?q=%22Hydgene%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
+Agronomics | GN New Agrarian | https://news.google.com/rss/search?q=%22New%20Agrarian%22%20Mellon%20OR%20foodtech%20OR%20investment&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
 Agronomics | GN precision fermentation | https://news.google.com/rss/search?q=precision+fermentation&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Agronomics | GN cellular agriculture | https://news.google.com/rss/search?q=cellular+agriculture+OR+cultivated+meat+approval&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Agronomics | GN alt protein regulation | https://news.google.com/rss/search?q=alternative+protein+regulatory+approval+FSA+OR+FDA&hl=en-GB&gl=GB&ceid=GB:en | QUIET

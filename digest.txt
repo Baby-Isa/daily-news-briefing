@@ -1,7 +1,7 @@
 ======================================================================
 NEWS DIGEST for Tuesday 11 August 2026  [full digest]
-Built 12:19 UTC
-910 unique stories from 141 feeds (435 in full, 475 headline-only)
+Built 12:37 UTC
+955 unique stories from 150 feeds (435 in full, 520 headline-only)
 ======================================================================
 
 Every item below is dated. Check each date against today before treating anything as new.
@@ -15,7 +15,12 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 ## WORLD: EUROPE AND AMERICAS
 ######################################################################
 
---- UK (52) ---
+--- UK (53) ---
+
+* Driver who broke the sound barrier to attempt another land speed record in Utah
+  Guardian UK | 11 Aug 12:17 UTC
+  British driver Andy Green will try to beat his own record, set 20 years ago, with a hydrogen-powered car The first – and only – person to break the sound barrier in a car hits the track in Utah this week with new wheels and his eye on another record. Twenty years ago, British driver Andy Green set the land speed record for a diesel-powere...
+  https://www.theguardian.com/us-news/2026/aug/11/driver-sound-barrier-land-speed-record
 
 * Sinn Féin has 'no intention' of collapsing Stormont, says O'Dowd
   BBC UK | 11 Aug 12:16 UTC
@@ -52,11 +57,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   The replica was a training device, which was "safely removed" before roads reopened, police say.
   https://www.bbc.co.uk/news/articles/c20j88l1j40o?at_medium=RSS&at_campaign=rss
 
-* Teenager lured to park before knifepoint robbery
-  BBC UK | 11 Aug 11:35 UTC
-  Zain Khan and Nahid Ali are sentenced for attacking the victim and stealing £800 from him.
-  https://www.bbc.co.uk/news/articles/c5yw94973nlo?at_medium=RSS&at_campaign=rss
-
 * Hotel prices in Europe jump before total solar eclipse
   Guardian UK | 11 Aug 10:50 UTC [also carried by: Guardian Business]
   Rooms in Icelandic capital Reykjavík cost double usual rate and Spain also enjoying strong bookings Europe’s total solar eclipse: the best place to see it Hotel prices have surged in key European cities as hundreds of thousands of tourists flock to see the first total eclipse visible from the continent this century. Iceland’s capital, Rey...
@@ -67,37 +67,40 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Apollo, BlackRock, Goldman Sachs and KKR among those working with chipmaker to fund infrastructure Business live – latest updates Nvidia ⁠has struck a deal with six large Wall Street firms to raise ⁠more than $500bn (£370bn) to fund the datacentres, chip factories and power stations needed to fuel the artificial intelligence boom. The Nvi...
   https://www.theguardian.com/technology/2026/aug/11/nvidia-wall-street-finance-ai-infrastructure
 
-* Heathrow says need for expansion ‘clear’ as it loses title of Europe’s busiest airport
-  Guardian UK | 11 Aug 08:02 UTC [also carried by: BBC Business, BBC UK]
-  West London airport reports 7.86 million passengers in July, compared with 8.15 million for Istanbul Business live – latest updates Heathrow airport said “the case for expansion has never been clearer” after it was overtaken as Europe’s busiest airport by Istanbul. Figures published on Tuesday showed 7.86 million passengers passed through...
-  https://www.theguardian.com/uk-news/2026/aug/11/heathrow-expansion-not-europe-busiest-airport-istanbul
+* London Heathrow no longer Europe's busiest airport
+  BBC UK | 11 Aug 07:24 UTC [also carried by: BBC Business]
+  Istanbul overtakes Heathrow whose passenger numbers on Middle East routes fell 20.2% year-on-year.
+  https://www.bbc.co.uk/news/articles/cdx7kwkqqkgo?at_medium=RSS&at_campaign=rss
 
 * Rush to find solar eclipse glasses as UK high street stocks run short
   Guardian UK | 10 Aug 14:47 UTC [also carried by: BBC Business, BBC UK]
   Some online shoppers may have left it too late to order – but you can view partial eclipse indirectly without specs A frantic rush is on across the UK to find the right kind of protective eyewear ahead of Wednesday’s partial solar eclipse. High street stores are running out of eclipse glasses and online shoppers who track down a pair are ...
   https://www.theguardian.com/science/2026/aug/10/solar-eclipse-glasses-uk-high-street-shortage
 
-  ALSO IN UK (40), headline only:
+  ALSO IN UK (41), headline only:
+  - Teenager lured to park before knifepoint robbery (BBC UK)
+  - 'I won Commonwealth bronze - then went back to work at McDonald's' (BBC UK)
   - Two in court over teens' Thailand drug courier case (BBC UK)
   - Murder arrest over fatal shooting in Clapham (BBC UK)
+  - Meteor shower to reach peak hours after solar eclipse - here's where to see it (Sky News)
   - Burnham ‘increasingly confident’ PC Harper’s killers will not get early release (Guardian UK)
   - Meta glasses banned from courts in England and Wales (Guardian UK)
   - Man, 29, charged after police raid over racist traffic-cone attack (BBC UK)
   - Early prisoner releases mean pledge to cut rough sleeping ‘may fail’ (Guardian UK)
   - Call with No 10 gives us hope, PC Harper's mother says (BBC UK)
-  - 'He'll never get to meet our unborn baby': Widow of EuroMillions winner pays tribute to 'heart of gold' (Sky News)
+  - EuroMillions winner will 'never get to meet unborn baby', says widow after crash (Sky News)
   - Cocaine worth £232m found in banana shipment (BBC UK)
-  - England set to eliminate hepatitis C (BBC UK)
+  - England set to be one of the first countries to eliminate hepatitis C (BBC UK)
   - Former translator for British Army in Afghanistan jailed for raping taxi passenger (Sky News)
   - Don't use your 1999 solar eclipse glasses, public told (Sky News)
   - Could England and Wales ever run out of water? (Guardian UK)
   - Europe’s total solar eclipse: the best place to see it and how to view it safely (Guardian UK)
   - Lags on tour (Politico London Playbook)
+  - Consumer confidence at near two-year high as World Cup and UK holidaying lift summer spending (Guardian UK)
   - Car hire firm told me I was a ‘no-show’ so I lost £185 (Guardian UK)
   - Tuesday briefing: To drill or not to drill – Burnham’s first big climate test (Guardian UK)
   - England 'on the cusp' of eliminating virus (Sky News)
   - What he told me made my blood run cold - Michael Sheen investigates Wales' toxic legacy (BBC UK)
-  - Why is Holme Fen wildfire lasting days? (BBC UK)
   - My brother was found dead – but police didn't realise for days that he had been shot (BBC UK)
   - Great-grandad with cancer risks his health to help others on 460-mile journey (BBC UK)
   - Perseid meteor shower reaches peak: When and where to catch a glimpse (BBC UK)
@@ -106,7 +109,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - No evidence of data breach after Chinese-made component found in Navy drones, MoD says (BBC UK)
   - Trainee cop charged with rape after police car chase (Sky News)
   - ‘National priority’ to equip UK firefighters amid growing wildfire threat (Guardian UK)
-  - Teen arrested over assault in Thetford anti-migrant disorder (Sky News)
   - Three-quarters of England in drought as summer’s fifth heatwave looms (Guardian UK)
   - Reform backer Arron Banks urged to set out extent of surveillance of journalists (Guardian UK)
   - Amnesty International says Farage putting ‘hate and inhumanity’ over leadership with El Salvador prison plan – as it happened (Guardian UK)
@@ -115,11 +117,10 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Firefighters spend second night battling ‘devastating’ New Forest blaze (Guardian UK)
   - Thames Water’s £1m payout to finance chief is ‘unacceptable’, says government department (Guardian UK)
   - Ofcom investigates GB News over guest’s pride and paedophilia remarks (Guardian UK)
-  - ‘It’s very challenging’: how the Duke of Westminster’s farm is taking on the climate crisis (Guardian UK)
   - UK first in Europe to approve 'much cheaper' weight loss pill (Sky News)
   - Worst month for drink-drive crashes revealed (Sky News)
 
---- Europe (40) ---
+--- Europe (37) ---
 
 * Latvia discovers secret migrant tunnel at Belarus frontier
   Politico Europe | 11 Aug 11:56 UTC
@@ -176,13 +177,12 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   As comics like Ania Magliano return to the festival for the first time since the show became a surprise hit, audiences are pouring in to catch them.
   https://www.nytimes.com/2026/08/11/arts/saturday-night-live-edinburgh-fringe.html
 
-* Trump signs order calling for fewer childhood vaccines, going against medical groups’ advice
-  Euronews | 11 Aug 04:31 UTC [also carried by: ABC Australia, BBC US Canada]
-  The order recommends giving all childhood vaccinations at separate visits whenever feasible, which had earlier been blocked by a federal judge, and dividing the measles, mumps, and rubella vaccine into three distinct single injections
-  http://www.euronews.com/health/2026/08/11/trump-signs-order-calling-for-fewer-childhood-vaccines-going-against-medical-groups-advice
+* Australia's PM Anthony Albanese under fire for 'melons' gag about Japanese leader
+  Euronews | 11 Aug 08:32 UTC
+  Asked whether he would say sorry for his "disrespectful behaviour" in parliament on Tuesday, the Australian leader said: "I reject the assertion in the question."
+  http://www.euronews.com/2026/08/11/australias-pm-anthony-albanese-under-fire-for-melons-gag-about-japanese-leader
 
-  ALSO IN EUROPE (28), headline only:
-  - Australia's PM Anthony Albanese under fire for 'melons' gag about Japanese leader (Euronews)
+  ALSO IN EUROPE (25), headline only:
   - At least 132 killed and 570 injured in Colombia's biggest earthquake in years (Euronews)
   - Trump backs Infantino after fury over FIFA chief’s World Cup sale plan (Politico Europe)
   - Kazakhstan offers crypto amnesty as it seeks to bring billions in digital assets home (Euronews)
@@ -208,20 +208,18 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - State of emergency declared as 111 confirmed dead in major earthquake in Colombia (Euronews)
   - 'Chess player' Iran says Hormuz stays shut until US pays up (Euronews)
   - Saudi factory fire kills 16 Bangladeshis, Dhaka announces (Euronews)
-  - Days of heavy rain leave at least 13 dead in Philippines, rescuers say (Euronews)
-  - Firefighters battle wildfire in eastern Spain's Castellón (Euronews)
 
 --- Eastern Europe (38) ---
+
+* Spanish foreign minister says ‘every last person’ will be returned to Morocco, urging migrants to ‘not risk lives again’ – Europe live
+  Guardian Ukraine | 11 Aug 12:34 UTC
+  José Manuel Albares visited Ceuta earlier as he insisted that Madrid had it all under control Spanish foreign minister José Manuel Albares visited Ceuta earlier today, as he insisted that Madrid had it all under control despite “the most unique and complex” border arrangements there. He said Spain was in direct dialogue with the Moroccan ...
+  https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates
 
 * Russian lawmaker Vitaly Milonov claims he killed people while fighting in Ukraine
   Meduza | 11 Aug 12:11 UTC
   State Duma Deputy Vitaly Milonov, a member of the ruling United Russia party, told blogger Amiran Sardarov in an interview that he had killed people during the Russia–Ukraine war.
   https://meduza.io/en/news/2026/08/11/russian-lawmaker-vitaly-milonov-claims-he-killed-people-while-fighting-in-ukraine
-
-* Spanish foreign minister says ‘every last person’ will be returned to Morocco, urging migrants to ‘not risk lives again’ – Europe live
-  Guardian Ukraine | 11 Aug 12:06 UTC
-  José Manuel Albares visited Ceuta earlier as he insisted that Madrid had it all under control Spanish foreign minister José Manuel Albares visited Ceuta earlier today, as he insisted that Madrid had it all under control despite “the most unique and complex” border arrangements there. He said Spain was in direct dialogue with the Moroccan ...
-  https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates
 
 * Chinese auto parts deliveries to Russia up 15% over seven months, Kommersant reports
   Meduza | 11 Aug 09:10 UTC
@@ -303,6 +301,11 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 
 --- North America (37) ---
 
+* Can Immigration Agents Stop People Based on Appearance?
+  NYT US | 11 Aug 12:29 UTC
+  Jazmine Ulloa, our national reporter covering immigration, describes body-camera footage and other court evidence that federal agents used slurs and racially profiled people during immigration sweeps.
+  https://www.nytimes.com/video/us/100000011079979/can-immigration-agents-stop-people-based-on-appearance.html
+
 * U.S. Says It Revoked More Than 175,000 Visas Under Trump
   NYT US | 11 Aug 12:02 UTC
   Most visas were rescinded over criminal accusations, the State Department said, while some were revoked from people who had celebrated the assassination of Charlie Kirk.
@@ -327,11 +330,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   BBC US Canada | 11 Aug 11:10 UTC
   Two teenagers from each state are competing as part of the celebration of America's 250th anniversary.
   https://www.bbc.co.uk/news/articles/c89n5p4g38eo?at_medium=RSS&at_campaign=rss
-
-* Can Immigration Agents Stop People Based on Appearance?
-  NYT US | 11 Aug 10:40 UTC
-  Jazmine Ulloa, our national reporter covering immigration, describes body-camera footage and other court evidence that federal agents used slurs and racially profiled people during immigration sweeps.
-  https://www.nytimes.com/video/us/100000011079979/can-immigration-agents-stop-people-based-on-appearance.html
 
 * Will the Left Keep Winning in the Midwest? What to Watch in Tuesday’s Primaries.
   NYT US | 11 Aug 09:29 UTC
@@ -390,7 +388,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Still separate and unequal? Families sue Massachusetts over school segregation. (CSM USA)
   - Minnesota’s Democratic Senate Primary Pits Angie Craig Against Peggy Flanagan (NYT US)
 
---- Latin America (20) ---
+--- Latin America (19) ---
 
 * At least 132 dead in the magnitude 7.4 earthquake that struck western Colombia
   MercoPress | 11 Aug 10:51 UTC [also carried by: BBC Latin America]
@@ -452,7 +450,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   The voluntary recall of jalapeños and prepared foods containing them — all sourced in Mexico — comes just weeks after the same company removed iceberg lettuce from the market due to cyclosporiasis. The post Taylor Farms recalls its Mexico-sourced jalapeños, cuts ties with Sinaloa supplier over salmonella scare appeared first on Mexico New...
   https://mexiconewsdaily.com/news/taylor-farms-recalls-its-mexico-sourced-jalapenos/
 
-  ALSO IN LATIN AMERICA (8), headline only:
+  ALSO IN LATIN AMERICA (7), headline only:
   - Watch: Moment powerful earthquake shakes Colombia and crumbles buildings (BBC Latin America)
   - MND Local: Why is Puerto Vallarta so quiet right now? (Mexico News Daily)
   - Has Mexico reined in its inflation rate? Not yet, says Banxico chief (Mexico News Daily)
@@ -460,7 +458,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - De la Espriella gives the first earthquake toll and entrusts Colombia to Jesus Christ (MercoPress)
   - Mexico defeats Team USA 2-0 to claim its 15th U-20 Concacaf championship (Mexico News Daily)
   - Colombia records its strongest earthquake in a decade, geological service says (MercoPress)
-  - Alleged rebel leader killed in Colombia as president targets armed groups (BBC Latin America)
 
 ######################################################################
 ## WORLD: MIDDLE EAST AND AFRICA
@@ -468,9 +465,14 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 
 --- Middle East (47) ---
 
+* US fires on ship breaking its Iran blockade
+  Middle East Eye | 11 Aug 12:34 UTC
+  US fires on ship breaking its Iran blockade The US military fired on a Panama-flagged ship that attempted to break the American blockade of Iranian ports on Tuesday, the Wall Street Journal reported citing an official source. The official said a US military helicopter fired at a ship after its crew ignored warnings from American personnel...
+  https://www.middleeasteye.net/live-blog/live-blog-update/us-fires-ship-breaking-its-iran-blockade
+
 * Is the Mecca Agreement Israel's worst nightmare come true?
   Middle East Eye | 11 Aug 12:13 UTC
-  Is the Mecca Agreement Israel's worst nightmare come true? Submitted by Kamal Alam on Mon, 08/10/2026 - 16:22 Tel Aviv has been warning of a threat of 'a new Sunni axis' - it remains to be seen if this alliance is purely symbolic or a salutary warning Saudi Crown Prince Mohammed bin Salman signs a joint defence deal with the leaders of Tu...
+  Is the Mecca Agreement Israel's worst nightmare come true? Submitted by Kamal Alam on Mon, 08/10/2026 - 16:22 The move marks the culmination of a self-fulfilling prophecy for Tel Aviv. However, it remains to be seen if this alliance is purely symbolic or a salutary warning Saudi Crown Prince Mohammed bin Salman signs a joint defence deal ...
   https://www.middleeasteye.net/opinion/is-mecca-agreement-israel-worst-nightmare-come-true
 
 * Final phase of voting in Pakistan-administered Kashmir, despite security fe
@@ -508,11 +510,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Attacks in Gaza slowed sharply this week even as Netanyahu publicly rejected Trump's 15-point peace plan.
   https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap?traffic_source=rss
 
-* Baby among those rescued as hundreds feared missing after Colombia quake
-  Al Jazeera global | 11 Aug 11:26 UTC
-  A 7.4-magnitude quake devastated western Colombia, killing 132, destroying buildings and leaving hundreds missing.
-  https://www.aljazeera.com/video/newsfeed/2026/8/11/baby-among-those-rescued-as-hundreds-feared-missing-after-colombia-quake?traffic_source=rss
-
 * Qatar says Oman-Iran talks on Hormuz at advanced stage
   Middle East Eye | 11 Aug 10:46 UTC [also carried by: Euronews]
   Qatar says Oman-Iran talks on Hormuz at advanced stage Talks between Oman and Iran on the future of shipping in the Strait of Hormuz are now at an advanced stage, Qatar's foreign ministry spokesperson said in a briefing on Tuesday.
@@ -529,6 +526,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   https://www.middleeasteye.net/live-blog/live-blog-update/report-trump-boarded-secret-flight-turkey-amid-iranian-assassination
 
   ALSO IN MIDDLE EAST (35), headline only:
+  - Baby among those rescued as hundreds feared missing after Colombia quake (Al Jazeera global)
   - Colombia recognises Israeli sovereignty over Golan Heights (Middle East Eye)
   - Three killed in Houthi attack on cargo ship in Bab al-Mandab (Middle East Eye)
   - Israel pursuing ‘undeclared annexation’ of West Bank, Peace Now says (Middle East Eye)
@@ -558,14 +556,13 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Trump pivots back to sanctions for Iran as other strategies to end his war fizzle (NPR Middle East)
   - Libyan intelligence chief for Haftar's eastern-based forces assassinated: Report (Middle East Eye)
   - Iran says it is not concerned by new 'Mecca Joint Defence Agreement' (Middle East Eye)
-  - Houthis launch more attacks at Yemen’s Mocha (Middle East Eye)
   - Ancient relics in Syria face new dangers after end of civil war (NPR Middle East)
   - Turkey MPs back historic law on reintegrating Kurdish PKK militants (France 24 ME)
   - Former U.S. diplomat on Iran's latest demands (NPR Middle East)
   - Iran-backed Houthis strike Red Sea port of Mocha, threatening shipping routes (France 24 ME)
   - Despite Mideast wars, 20 million gather in Iraq for Shia pilgrimage (NPR Middle East)
 
---- East Africa (8) ---
+--- East Africa (6) ---
 
 * Libyan authorities battle big blaze at major oil refinery
   BBC Africa | 11 Aug 08:28 UTC
@@ -596,16 +593,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   BBC Africa | 10 Aug 15:09 UTC
   Kenya submits a bid to host the 2029 World Athletics Championships as it seeks to become the first African nation to stage the flagship event.
   https://www.bbc.co.uk/sport/athletics/articles/czekx3jlegro?at_medium=RSS&at_campaign=rss
-
-* Battle for Mali base has killed dozens of militants, army says
-  BBC Africa | 10 Aug 12:32 UTC
-  The army says it was involved in fierce fighting but disputes that Islamists took control of the garrison.
-  https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss
-
-* Nigeria 'still have hope' for 2027 World Cup spot
-  BBC Africa | 10 Aug 12:28 UTC
-  Nigeria must go "back to the drawing board" after missing out on automatic qualification for the 2027 Women's World Cup, says keeper Chiamaka Nnadozie.
-  https://www.bbc.co.uk/sport/football/articles/cg4d0qd33gwo?at_medium=RSS&at_campaign=rss
 
 --- Sub-Saharan Africa (78) ---
 
@@ -737,7 +724,12 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Madagascar moves to reclaim colonial-era land in sovereignty push (Africanews)
   - GROUNDUP: What happens when a shack appears in an affluent gated community? (Daily Maverick)
 
---- North Africa (20) ---
+--- North Africa (19) ---
+
+* Israel demolishes home of slain Palestinian involved in deadly West Bank clash
+  Al-Monitor | 11 Aug 12:30 UTC
+  Israeli forces on Tuesday demolished the home of a Palestinian who died in July in the most lethal clash in months in the occupied West Bank, residents and the army told AFP. The clash broke out on July 24 when a group of Israeli settlers approached the town of Tell, leaving dead one settler, one soldier and four Palestinians including Fa...
+  https://www.al-monitor.com/originals/2026/08/israel-demolishes-home-slain-palestinian-involved-deadly-west-bank-clash
 
 * Syria sentences Bashar al-Assad to death in absentia over atrocities
   Al-Monitor | 11 Aug 10:30 UTC [also carried by: ABC Australia, Al Jazeera global, Channel News Asia, Daily Maverick, Euronews, France 24 ME]
@@ -789,31 +781,25 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Abdullah Ocalan, jailed founder of the Kurdish militant PKK group, is an icon for many Kurds but a reviled terrorist for many Turks who is now at the heart of the
   https://www.al-monitor.com/originals/2026/08/ocalan-founder-kurdish-militant-pkk-who-authored-its-end
 
-* Tetteh, Egyptian Chargé d’Affaires discuss Libya’s political developments - The Libya Observer
-  Google News North Africa | 10 Aug 20:07 UTC
-  Tetteh, Egyptian Chargé d’Affaires discuss Libya’s political developments The Libya Observer
-  https://news.google.com/rss/articles/CBMipgFBVV95cUxNN2tlUURJdmZ6eTRJVEt5eWNfXzhrUjhsU1NfZ3N0U2N6X0VhZnJhd1lBY2RuSDYwMWFmMFlhODN4ODBiS1NNZWF2T2VmMnpXdkpGWkhFVlJEUmc0OGxNX1dzcnR6ZXdGaFJPZTVfcHlJbjBCSDg2RldFd0ZpTmZQMWM5dDk2a0owa3FMY1FMbExxeHpTc0g4aE4tUWlYUFRneUhyZzZB?oc=5
-
 * Turkish parliament passes landmark law to advance PKK peace process
   Al-Monitor | 10 Aug 19:46 UTC [also carried by: Balkan Insight]
   ANKARA, Aug 10 (Reuters) - Turkey's parliament passed a law on Monday establishing a legal framework for the disbandment of the outlawed Kurdistan Workers Party (PKK), a major step toward ending a decades-old conflict that has killed tens of thousands. The legislation provides legal protections for many former militants who have not commi...
   https://www.al-monitor.com/originals/2026/08/turkish-parliament-passes-landmark-law-advance-pkk-peace-process
 
-  ALSO IN NORTH AFRICA (8), headline only:
+  ALSO IN NORTH AFRICA (7), headline only:
+  - Tetteh, Egyptian Chargé d’Affaires discuss Libya’s political developments - The Libya Observer (Google News North Africa)
   - Iran’s Khamenei appoints six military commanders: What to know (Al-Monitor)
   - 'Dreams disappear' as Gaza students await evacuation to Italy (Al-Monitor)
   - The real problem with Europe’s migration politics - euractiv.com (Google News North Africa)
   - Gaza Board of Peace official says plan is still operative (Al-Monitor)
-  - Trump says Iran must pay compensation for those it has killed and wounded (Al-Monitor)
   - The far-right Vox will support Sumar's proposal to remove Morocco from the 2030 World Cup - El Constitucional (Google News North Africa)
   - Morocco demands Spain the repatriation of all its unaccompanied minors: "They must be in their country" - Demócrata (Google News North Africa)
-  - Egypt and Libya Advance $1B Tobruk-to-Alexandria Oil Pipeline Project - Pipeline Technology Journal (Google News North Africa)
 
 ######################################################################
 ## WORLD: ASIA AND PACIFIC
 ######################################################################
 
---- South Asia (31) ---
+--- South Asia (30) ---
 
 * The Pakistan the world keeps missing
   Dawn | 11 Aug 11:56 UTC
@@ -829,11 +815,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Dawn | 11 Aug 10:05 UTC
   Jamaat-i-Islami (JI) has sent a legal notice to former Federal Board of Revenue (FBR) chairman Shabbar Zaidi and sought Rs1 billion in damages over allegations that the party received money to suppress public protests, according to a statement by the JI. The statement said the legal notice was sent on July 27 through Advocate Tahir Iqbal ...
   https://www.dawn.com/news/2022128/ji-sends-rs1bn-defamation-notice-to-ex-fbr-chief-shabbar-zaidi
-
-* Ousted Syrian president Bashar al-Assad sentenced to death in absentia
-  Dawn | 11 Aug 09:42 UTC [also carried by: Africanews, Al Jazeera global, MercoPress, Middle East Eye, NPR Middle East]
-  A Syrian court on Tuesday sentenced former ruler Bashar al-Assad to death in absentia, after convicting him over charges of “war crimes” and “crimes against humanity” during the country’s civil war. The ruling against Assad, who fled with his family to Moscow as rebels closed in on Damascus in December 2024, is the first under the transit...
-  https://www.dawn.com/news/2022132/ousted-syrian-president-bashar-al-assad-sentenced-to-death-in-absentia
 
 * President Zardari approves additional judges' appointments to high courts, ending weeks-long deadlock
   Dawn | 11 Aug 08:58 UTC
@@ -860,6 +841,11 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   KARACHI: A judicial magistrate on Monday convicted a man of spreading false and fabricated information and sentenced him to one-year imprisonment. However, the court released him into the custody of a probation officer after he pleaded that he was the sole breadwinner of his family and the offence was committed due to “lack of knowledge a...
   https://www.dawn.com/news/2022016/karachi-youth-jailed-for-one-year-for-spreading-false-fabricated-information-on-social-media-to-incite-violence
 
+* Bahrain FM congratulates Dar on Makkah defence pact, expresses desire to visit Pakistan
+  Dawn | 11 Aug 07:31 UTC
+  In a phone call with Deputy Prime Minister and Foreign Minister Ishaq Dar, Bahrain’s Foreign Minister Dr Abdullatif bin Rashid Al Zayani congratulated Pakistan on the signing of the Makkah Joint Defence Agreement, the Foreign Office (FO) said on Tuesday. The joint defence agreement, signed on August 7 between Pakistan, Saudi Arabia and Tu...
+  https://www.dawn.com/news/2022117/bahrain-fm-congratulates-dar-on-makkah-defence-pact-expresses-desire-to-visit-pakistan
+
 * Bangladesh, India scramble to save white-ball series
   Dawn | 11 Aug 06:01 UTC [also carried by: Al Jazeera global]
   Bangladesh is scrambling to save a six-match cricket tour by neighbour India next month, with the foreign ministers of both nations roped in to try to salvage the series. Comprising three one-day internationals and three T20 matches, the white-ball series was originally planned for August last year but postponed after political relations ...
@@ -875,8 +861,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Days of heavy monsoon rain has caused rivers, including the Brahmaputra, to overflow, inundating communities, disrupting livelihoods and damaging infrastructure.
   https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes
 
-  ALSO IN SOUTH ASIA (19), headline only:
-  - Bahrain FM congratulates Dar on Makkah defence pact, expresses desire to visit Pakistan (Dawn)
+  ALSO IN SOUTH ASIA (18), headline only:
   - NCCIA summons 4 individuals on Sharjeel Memon's complaint in connection with Mir Raza's case (Dawn)
   - HEC’s new rules on student AI use won't work (Dawn)
   - As conflict in the Middle East intensifies, India’s relationship with Israel deepens (Guardian India)
@@ -896,94 +881,148 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Govt leaves petrol, diesel prices unchanged for Aug 11 (Dawn)
   - Police use teargas on young Indians as government jobs protest escalates (Guardian India)
 
---- East Asia (35) ---
+--- East Asia (85) ---
 
-* Colombia quake death toll climbs as civilians aid in rescue
-  Japan Times | 11 Aug 09:32 UTC
-  Colombia's new president faces his first major crisis after an earthquake killed 132, damaged over 5,000 homes and overwhelmed emergency crews.
-  https://www.japantimes.co.jp/news/2026/08/11/world/colombia-earthquake/
+* A strong China is the best hope for the ‘long peace’ to endure
+  SCMP | 11 Aug 12:30 UTC
+  The “long peace” is a term coined by Yale professor and Cold War historian John Lewis Gaddis in his 1987 book The Long Peace: Inquiries into the History of the Cold War. It refers to the fact that, from the end of World War II in 1945 into the 1980s, more than 40 years passed without a third world war between the United States and Soviet ...
+  https://www.scmp.com/opinion/china-opinion/article/3363507/strong-china-best-hope-long-peace-endure?utm_source=rss_feed
 
-* A.C. Vests and UV Parasols: East Asia Deploys Heat-Fighting Gadgets
-  NYT AsiaPacific | 11 Aug 09:02 UTC
-  The innovations include air-conditioned apparel, refrigerators for humans and hand-held fans that use the science behind semiconductors. Governments are making cooling devices central to heat adaptation.
-  https://www.nytimes.com/2026/08/11/world/asia/extreme-heat-wave-korea-japan-china-cooling.html
+* China says US tried to buy its super magnet that has ‘40% higher’ performance
+  SCMP | 11 Aug 12:00 UTC
+  A US laboratory that once dominated the field of superconducting magnets is now hoping to buy Chinese technology used in a leading particle accelerator, official Chinese media reported on Tuesday. The US Department of Energy’s Brookhaven National Laboratory once “monopolised” this type of specialised technology, according to Science and T...
+  https://www.scmp.com/news/china/science/article/3363680/china-says-us-tried-buy-superconductor-magnet-outperforms-american-ones-40?utm_source=rss_feed
 
-* Tarik Skubal remains winless since trade, but Dodgers edge Royals
-  Japan Times | 11 Aug 08:57 UTC
-  Skubal has yet to earn a win in two starts since he was acquired by LA after winning the past two American League Cy Young Awards ⁠for the Detroit Tigers.
-  https://www.japantimes.co.jp/sports/2026/08/11/baseball/mlb/tarik-skubal-winless-dodgers-royals/
+* Gut bacteria may be behind many of Japan’s colorectal cancer cases
+  Japan Times | 11 Aug 12:00 UTC
+  The team said that the toxin called colibactin is considered to be involved in carcinogenesis, or the process by which normal cells turn into cancer cells.
+  https://www.japantimes.co.jp/news/2026/08/11/japan/science-health/japan-colorectal-cancer-cases/
 
-* Trump defends Infantino as UEFA-led schism with FIFA deepens
-  Japan Times | 11 Aug 08:57 UTC
-  Infantino has faced blistering criticism after his failed plan to spin off FIFA's commercial operations in a deal involving JPMorgan Chase & Co.
-  https://www.japantimes.co.jp/sports/2026/08/11/soccer/world-cup/trump-infantino-uefa-schism-fifa/
+* Philippine VP Sara charged over Marcos assassination threat
+  SCMP | 11 Aug 11:58 UTC
+  Philippine Vice-President Sara Duterte-Carpio was hit with a criminal charge on Tuesday over an alleged death threat against the country’s president, a key part of the case against her at her ongoing Senate impeachment trial. The charge of “grave threats” was filed on Tuesday afternoon in a Quezon City courtroom, Department of Justice spo...
+  https://www.scmp.com/news/asia/southeast-asia/article/3363681/philippine-vp-sara-charged-over-marcos-assassination-threat?utm_source=rss_feed
 
-* Trump cites unproven autism risk in attack on childhood vaccines
-  Japan Times | 11 Aug 08:55 UTC
-  The proposed changes would mean parents would have to make more trips to the doctor to get the same protection against diseases for their young children.
-  https://www.japantimes.co.jp/news/2026/08/11/world/science-health/trump-autism-childhood-vaccines/
+* Alibaba tests paid AI appetite with US$30 annual QwenWork subscription
+  SCMP | 11 Aug 11:30 UTC
+  Alibaba Group Holding is asking app users to open their wallets for its artificial intelligence office assistant QwenWork, as the Chinese technology giant tests whether businesses and consumers are ready to pay for its digital assistant. The e-commerce giant’s Qwen app now offers three membership tiers for QwenWork, with annual plans rang...
+  https://www.scmp.com/tech/big-tech/article/3363656/alibaba-tests-paid-ai-appetite-us30-annual-qwenwork-subscription?utm_source=rss_feed
 
-* Severe tropical storm Chan-hom makes landfall near Tokyo
-  Japan Times | 11 Aug 08:25 UTC
-  Tokyo Electric Power Company reported roughly 640 power outages in Ibaraki Prefecture as of 6:00 p.m. Tuesday.
-  https://www.japantimes.co.jp/news/2026/08/11/japan/storm-chan-hom-tokyo-landfall/
+* Search under way for missing cruise passenger off Hong Kong mega bridge
+  SCMP | 11 Aug 11:28 UTC
+  Hong Kong authorities have launched a search in waters west of the city for a man believed to have fallen overboard from a sightseeing vessel travelling between Shekou and the Hong Kong–Macau–Zhuhai Bridge. The operator of the cruise, which had departed from Shekou in neighbouring Shenzhen for a sightseeing trip of the mega bridge, report...
+  https://www.scmp.com/news/hong-kong/society/article/3363679/search-under-way-missing-cruise-passenger-hong-kong-mega-bridge?utm_source=rss_feed
 
-* Japan mulls use of domestic AI in SDF command system
-  Japan Times | 11 Aug 07:35 UTC
-  The government hopes the move will help SDF commanders make decisions, at a time when countries around the world are rushing to adapt to new ways of warfare.
-  https://www.japantimes.co.jp/news/2026/08/11/japan/domestic-ai-sdf-command-system/
+* New Hong Kong trade office in Malaysia a bridge to Greater Bay Area: minister
+  SCMP | 11 Aug 11:20 UTC
+  Hong Kong has opened a new trade office in Malaysia, with a minister saying the move is part of a strategic push to deepen regional ties and will help position the city as a bridge between the country and the Greater Bay Area. Secretary for Commerce and Economic Development Algernon Yau Ying-wah said on Tuesday that the opening of the Eco...
+  https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3363678/opening-hong-kong-trade-office-malaysia-creates-bridge-greater-bay-area?utm_source=rss_feed
 
-* Aeon allowed workers to return to Kumamoto mall before blast
-  Japan Times | 11 Aug 07:18 UTC
-  The building was evacuated after the quake but some workers had asked to return to their shops to secure the cash registers or collect personal items such as car keys.
-  https://www.japantimes.co.jp/news/2026/08/11/japan/aeon-workers-kumamoto-mall/
+* Wife’s childhood memory inspires Chinese husband to build world’s largest hollyhock garden
+  SCMP | 11 Aug 11:18 UTC
+  A casual remark from his wife inspired a man in southwestern China to transform a barren valley into a breathtaking sea of hollyhocks spanning 80 hectares. Zhou Xiaolin and his wife, Yin Jie, now live amid the vibrant blooms in Chengdu, Sichuan province, where they personally tend to their sprawling garden. Their love story drew national ...
+  https://www.scmp.com/news/people-culture/trending-china/article/3363677/wifes-childhood-memory-inspires-chinese-husband-build-worlds-largest-hollyhock-garden?utm_source=rss_feed
 
-* China missile test deepens Pacific divide over growing militarization
-  Japan Times | 11 Aug 06:31 UTC
-  Pacific Islands ​foreign ministers have been unable to agree on a collective statement condemning Beijing's missile test, despite individual leaders expressing alarm.
-  https://www.japantimes.co.jp/news/2026/08/11/asia-pacific/politics/china-missile-test-pacific-militarization/
+* Chinese paratrooper killed in Qinghai exercise as Beijing acknowledges casualties
+  SCMP | 11 Aug 11:00 UTC
+  Beijing has confirmed that a 23-year-old paratrooper died in a training accident in northwestern China, a revelation that follows recent reports of several accidents and deaths in its military. State media said on Sunday that Xia Shiyuan, of Huaiyuan county in Anhui province, was involved in an incident shortly after leaving an airborne a...
+  https://www.scmp.com/news/china/military/article/3363673/chinese-paratrooper-killed-qinghai-exercise-beijing-acknowledges-casualties?utm_source=rss_feed
 
-* She is Russia’s richest woman. Her business empire is going up in flames.
-  Japan Times | 11 Aug 06:23 UTC
-  After months of attacks on Russian oil refineries, Kyiv has now targeted at least 23 Wildberries facilities in an attempt to bring the war home for more Russians.
-  https://www.japantimes.co.jp/business/2026/08/11/companies/russia-richest-woman-business/
-
-* Taiwan gingerly tests how it would cope if China choked its internet
-  Japan Times | 11 Aug 06:21 UTC
-  The democratically run island is testing, for the first time on a mass scale, how it might cope if a Chinese attack disrupted its communications.
-  https://www.japantimes.co.jp/news/2026/08/11/asia-pacific/taiwan-test-china-internet/
+* Syrian court sentences ousted leader Bashar al-Assad to death in absentia
+  SCMP | 11 Aug 09:59 UTC [also carried by: Africanews, Al Jazeera global, Dawn, MercoPress, Middle East Eye, NPR Middle East]
+  A Syrian court sentenced ousted leader ⁠Bashar al-Assad ⁠to death on Tuesday ⁠after a trial in absentia, convicting him of crimes including killings, torture, and arbitrary arrest during the country’s nearly 14-year war. It was the first conviction against ‌Assad, who was ousted in a rebel offensive in December 2024 that ended decades of ...
+  https://www.scmp.com/news/world/middle-east/article/3363672/syrian-court-sentences-ousted-leader-bashar-al-assad-death-absentia?utm_source=rss_feed
 
 * Chinese rocket explodes 90 seconds after take-off – video
   Guardian China | 11 Aug 04:40 UTC [also carried by: Space.com]
   A Long March 7A rocket carrying the ChinaSat-4B satellite exploded after taking off of from Wenchang space launch site in the southern island province of Hainan. The rocket had blasted off at 8.02pm Beijing time, state news agency Xinhua said, adding that an investigation of the failure was under way Continue reading...
   https://www.theguardian.com/world/video/2026/aug/11/chinese-rocket-explodes-90-seconds-after-take-off-video
 
-  ALSO IN EAST ASIA (23), headline only:
+* Trump signs order to revamp childhood vaccines, against medical groups’ guidance
+  SCMP | 10 Aug 22:59 UTC [also carried by: ABC Australia, BBC US Canada, Euronews, NYT Health]
+  US President Donald Trump on Monday signed an executive order calling for revamped childhood vaccine recommendations that promote his long-held but discredited theory that childhood vaccines should be spaced out into separate medical visits. The order advocates separating the measles, mumps and rubella (MMR) vaccine into three different s...
+  https://www.scmp.com/news/world/united-states-canada/article/3363587/trump-signs-order-revamp-childhood-vaccines-against-medical-groups-guidance?utm_source=rss_feed
+
+  ALSO IN EAST ASIA (73), headline only:
+  - ‘Islamic Nato’? Why Pakistan’s new defence pact has India on edge (SCMP)
+  - Wharf firms up balance sheet as Hong Kong home sales cushion profit slump (SCMP)
+  - Over 8,200 detained as China launches year-long crackdown on organised crime (SCMP)
+  - Colombia quake death toll climbs as civilians aid in rescue (Japan Times)
+  - A.C. Vests and UV Parasols: East Asia Deploys Heat-Fighting Gadgets (NYT AsiaPacific)
+  - China detains Japanese executives in dual-use technology export probe: report (SCMP)
+  - Gap bucks retail headwinds with massive China expansion amid localisation drive (SCMP)
+  - Thailand’s rising body count reveals a nation unable to curb gun crime (SCMP)
+  - Tarik Skubal remains winless since trade, but Dodgers edge Royals (Japan Times)
+  - Trump defends Infantino as UEFA-led schism with FIFA deepens (Japan Times)
+  - Trump cites unproven autism risk in attack on childhood vaccines (Japan Times)
+  - South Korean actress Ha Young sorry for controversy over ancestor’s pro-Japanese ties (SCMP)
+  - Power, AC outages hit estate, office building and funeral home amid heatwave (SCMP)
+  - Elderly hiker found dead on Sha Tin mountain trail after 3-day search (SCMP)
+  - Severe tropical storm Chan-hom makes landfall near Tokyo (Japan Times)
+  - Japan mulls use of domestic AI in SDF command system (Japan Times)
+  - Aeon allowed workers to return to Kumamoto mall before blast (Japan Times)
+  - Malaysia’s Anwar slams ‘political drama’ after opposition walks out of Tabung Haji debate (SCMP)
+  - Albanese refuses to say sorry for ‘insulting’ melon joke about Takaichi (SCMP)
+  - Former Guangdong governor Zhu Senlin, enforcer of southern reform, dies at 95 (SCMP)
+  - Police deploy drones, ‘stealth cars’ as 10 drivers arrested for alleged street racing (SCMP)
+  - US House panel slammed for asking if scholars lost jobs to Chinese hires (SCMP)
+  - China missile test deepens Pacific divide over growing militarization (Japan Times)
+  - Ex-Deloitte IT manager remanded for stealing 423 laptops to fund stock trading (SCMP)
+  - She is Russia’s richest woman. Her business empire is going up in flames. (Japan Times)
+  - Taiwan gingerly tests how it would cope if China choked its internet (Japan Times)
+  - Shein set to take orders for Hong Kong IPO next week, eyeing US$35b valuation: sources (SCMP)
+  - Singapore restaurant apologises after cooking seafood foraged from beach (SCMP)
+  - Despite extreme climate, China’s 2,000-year-old rock art owes survival to post-partum blood (SCMP)
   - Takaichi to forgo foreign trips this summer following Kumamoto quake (Japan Times)
+  - Brics’ ‘stiffest test’: can India, China rally bloc to resolve Strait of Hormuz crisis? (SCMP)
   - Kioxia says investment vehicle for SK Hynix is top shareholder (Japan Times)
   - What Japan’s language rules for permanent residency should look like (Japan Times)
+  - Hong Kong considers lowering heat-stress warning thresholds amid criticism (SCMP)
   - U.S. Treasury chief’s ‘whatever it takes’ vow to help yen masks limited firepower (Japan Times)
+  - South Korea aims to criminalise fictional AI pornography after man’s acquittal (SCMP)
   - Typhoon Dolphin: Beijing braces for one-third of its annual rainfall as storm sweeps China (Guardian China)
   - Indonesia races to contain fires as haze spreads (Japan Times)
+  - Man arrested over doxxing 2 former associates in failed restaurant business (SCMP)
+  - Malaysian scam kingpin walks free; Lee Kuan Yew’s pen up for auction: 7 Asia highlights (SCMP)
+  - Tesla faces uphill battle for FSD entry as China rewrites self-driving car rules: analysts (SCMP)
+  - US swaps ideology for ‘flexible realism’ and hard deterrence in Southeast Asia (SCMP)
+  - Tougher than armour, hard as diamond: China’s unbreakable crystal breakthrough (SCMP)
   - Concerns persist over salaries of lawmaker secretaries in Japan (Japan Times)
   - Japan successfully launches H3 rocket with Michibiki satellite (Japan Times)
+  - How US staged Air Force One departure to hide Trump’s secret exit from Turkey (SCMP)
+  - SCMP signs 3 MOUs in Malaysia to deepen Hong Kong-Asean regional cooperation (SCMP)
   - Fireworks event in Shiga abruptly canceled (Japan Times)
   - Farage vs. Count Binface: What to know about U.K. snap poll (Japan Times)
   - Five years after return, Afghan Taliban government builds diplomacy (Japan Times)
+  - Why did US defence official Colby avoid mention of Scarborough Shoal in Manila speech? (SCMP)
+  - Why are South Korean football fans choosing European clubs over the K League? (SCMP)
   - Ukrainians recount torture and sexual abuse meted out in Russian prisons (Japan Times)
+  - Hong Kong index compiler proposes adding 20 more stocks to main technology tracker (SCMP)
+  - Why submarine attacks may prove to be the Achilles’ heel for China’s new carrier fleet (SCMP)
   - Why did Saudi Arabia just spend billions on a video games company? – podcast (Guardian China)
+  - Chinese dad accepted into MBA programme after daughter challenges him to take exam (SCMP)
   - Gautam Adani wins dismissal of U.S. securities fraud charges (Japan Times)
   - Intel is said to near share sale upsize to raise $20 billion (Japan Times)
   - Pleasing no one: Netanyahu puts election first with Gaza decision (Japan Times)
+  - Newcastle University Medicine Malaysia graduates in limbo after UK rule change (SCMP)
+  - Can the SCO become a more influential force globally? (SCMP)
   - Trump makes sweeping new demands on Iran as deal hopes dim (Japan Times)
   - Yen erases half of intervention gains as traders test Japan and U.S. authorities (Japan Times)
+  - Hong Kong-based mediation body ‘ready to tackle state disputes, serve as Asian legal hub’ (SCMP)
+  - China’s aviation regulator steps up safety communication with foreign carriers (SCMP)
+  - South Korea faces quandary over Ukraine’s air defence system request (SCMP)
+  - 2,300-year-old wine found near Great Wall ruin reveals ancient brewing secrets (SCMP)
+  - Hong Kong’s commercial property investment growth beats peer Asia-Pacific markets (SCMP)
   - Where do foreign residents in Japan want to die? (Japan Times)
-  - Police in India Use Tear Gas to Break Youth Protest (NYT AsiaPacific)
   - Typhoon Dolphin Barrels Into China, Prompting Mass Evacuations (NYT AsiaPacific)
   - Japan shares data on foreign nationals facing deportation with local governments (Japan Times)
   - Punjabi Soldiers Who Fought for Britain in World War I Are Recognized for First Time (NYT AsiaPacific)
 
 --- Southeast Asia (32) ---
+
+* Exclusive-Sri Lanka central bank sees no need for further rate hikes this year, governor says
+  Channel News Asia | 11 Aug 12:31 UTC
+  https://www.channelnewsasia.com/business/exclusive-sri-lanka-central-bank-sees-no-need-further-rate-hikes-year-governor-says-6312276
 
 * IBM, Together AI ink $240 million deal for Nvidia-powered AI inference cluster
   Channel News Asia | 11 Aug 12:02 UTC
@@ -1026,20 +1065,19 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   The eagerly anticipated first-leg clash will take place on Aug 15 at the Jalan Besar Stadium at 9pm.
   https://www.channelnewsasia.com/singapore/singapore-asean-championship-semi-final-first-leg-thailand-sale-aug-12-6311976
 
-* Former Australia all-rounder Henriques to captain Portugal in WC qualifying
-  Channel News Asia | 11 Aug 10:48 UTC
-  https://www.channelnewsasia.com/sport/former-australia-all-rounder-henriques-captain-portugal-in-wc-qualifying-6312051
-
-* Everton, Palace complete Johnson-McNeil swap deal
-  Channel News Asia | 11 Aug 10:45 UTC
-  https://www.channelnewsasia.com/sport/everton-palace-complete-johnson-mcneil-swap-deal-6312021
-
 * Vietnam's VinSpace taps SpaceX for first satellite launches
   DW Asia | 11 Aug 09:10 UTC [also carried by: Al Jazeera global]
   Vietnam's first private space company is turning to Elon Musk's SpaceX to get its first satellites into orbit. The deal comes as Vietnam steps up efforts to build its own space industry and become a regional space power.
   https://www.dw.com/en/vietnam-s-vinspace-taps-spacex-for-first-satellite-launches/a-78315984?maca=en-rss-en-asia-5133-xml-mrss
 
+* India news: Jharkhand police use tear gas, water cannons to disperse student protesters
+  DW Asia | 10 Aug 15:06 UTC [also carried by: NYT AsiaPacific]
+  Police used force to disperse students marching towards the Jharkhand assembly, as protests over alleged irregularities in government recruitment exams entered their third week. DW has more.
+  https://www.dw.com/en/india-news-jharkhand-police-use-tear-gas-water-cannons-to-disperse-student-protesters/live-78299334?maca=en-rss-en-asia-5133-xml-mrss
+
   ALSO IN SOUTHEAST ASIA (20), headline only:
+  - Former Australia all-rounder Henriques to captain Portugal in WC qualifying (Channel News Asia)
+  - Everton, Palace complete Johnson-McNeil swap deal (Channel News Asia)
   - Fulham sign midfielder Charles from Southampton (Channel News Asia)
   - Thai PM suspends gun licences as teen shooter, grandparents cremated (Channel News Asia)
   - TSMC, Sony to invest $4.7 billion in joint venture for image sensors (Channel News Asia)
@@ -1047,8 +1085,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Mentality key to Premier League revival for Spurs, says De Zerbi (Channel News Asia)
   - More than 2,400 people caught vaping in second quarter of 2026 (Channel News Asia)
   - South Africa name Fortuin as skipper for limited-overs trip to Namibia (Channel News Asia)
-  - South Korea's Lotte Group sells car rental unit to private equity TPG for $925 million (Channel News Asia)
-  - India news: Jharkhand student leader hospitalized after police use force (DW Asia)
+  - India news: Cockroach party backs Jharkhand student leader Devendra Nath Mahto (DW Asia)
   - Indonesia’s President Nominates Central Bank Deputy as New Governor (The Diplomat)
   - Art, Surveillance, and the Politics of Memory in Southeast Asia (The Diplomat)
   - US Official Reassures Asia of Commitment, Calls for Greater Burden Sharing (The Diplomat)
@@ -1059,9 +1096,18 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - ASEAN closing ranks as cyberscam threat escalates (DW Asia)
   - India: Anger over exam irregularities spreads to Jharkhand (DW Asia)
   - Austria Says No to the Tajik Government (The Diplomat)
-  - The China-Russia-North Korea Authoritarian Axis Looms Over Wars in Ukraine and Iran (The Diplomat)
 
 --- Central Asia (17) ---
+
+* Turkmenistan Tightens Diesel Limits as Fuel Shortages Persist
+  Times of Central Asia | 11 Aug 12:32 UTC
+  Turkmenistan has halved the amount of diesel that vehicles may carry in their tanks when leaving the country, cutting the
+  https://timesca.com/turkmenistan-tightens-diesel-limits-as-fuel-shortages-persist/
+
+* AI E-Government in Kazakhstan Expands Into Jobs and Benefits
+  Times of Central Asia | 11 Aug 12:19 UTC
+  Kazakhstan is preparing a deeper overhaul of its e-government system, with artificial intelligence expected to identify which service citizens need,
+  https://timesca.com/ai-e-government-in-kazakhstan/
 
 * Etihad Flights to Uzbekistan Begin Daily as Almaty Service Moves to 2027
   Times of Central Asia | 11 Aug 12:17 UTC
@@ -1113,22 +1159,12 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   The Astana Times provides news and information from Kazakhstan and around the world. ASTANA – Kazakhstan’s external debt rose 7.5% year on year to $182.8 billion as of April 1. External liabilities of the government and state-controlled institutions jumped 39%, while private-sector debt remained virtually unchanged and intercompany debt l...
   https://astanatimes.com/2026/08/what-lies-behind-kazakhstans-external-debt/
 
-* New Security Architecture: Future of Abraham Accords and Emerging Strategic Landscape for Kazakhstan
-  Astana Times | 11 Aug 05:01 UTC
-  The Astana Times provides news and information from Kazakhstan and around the world. On July 22, Washington hosted an important hearing of the U.S. House Foreign Affairs Subcommittee on the Middle East and North Africa, titled “Building a New Regional Security Architecture: The Next Phase of the Abraham Accords.” American lawmakers, diplo...
-  https://astanatimes.com/2026/08/new-security-architecture-future-of-abraham-accords-and-emerging-strategic-landscape-for-kazakhstan/
-
-* Uzbekistan Forms Commission After Nizhnekamsk Drone Strike as Russia Puts Uzbek Death Toll at Eight
-  Times of Central Asia | 11 Aug 02:39 UTC
-  Uzbekistan has formed a special commission after its citizens were killed in a drone attack on several locations in the
-  https://timesca.com/uzbekistan-says-seven-uzbeks-among-dead-in-drone-strike-in-russia/
-
   ALSO IN CENTRAL ASIA (5), headline only:
+  - New Security Architecture: Future of Abraham Accords and Emerging Strategic Landscape for Kazakhstan (Astana Times)
+  - Uzbekistan Forms Commission After Nizhnekamsk Drone Strike as Russia Puts Uzbek Death Toll at Eight (Times of Central Asia)
   - Tajikistan’s Somon Air Adds Routes, Receives First Boeing 737 MAX (Times of Central Asia)
   - Kyrgyzstan Reverses Cremation Policy as Japarov Signs Ban (Times of Central Asia)
-  - Uzbekistan’s $5 Billion Sea Breeze Resort Awaits Environmental Review (Times of Central Asia)
   - Sport’s Next Generation Won’t Choose Sides, Says Phygital International CEO (Astana Times)
-  - Comic Con Astana 2026 Draws Game of Thrones and One Piece Stars (Times of Central Asia)
 
 --- Pacific (67) ---
 
@@ -1266,6 +1302,11 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   NPR's Leila Fadel asks Jessica Taylor of the Cook Political Report about battles between moderate and progressive candidates in Tuesday's Democratic primaries in Wisconsin and Minnesota.
   https://www.npr.org/2026/08/11/nx-s1-5927242/primaries-in-wisconsin-and-minnesota-pit-progressives-against-moderates
 
+* A year in, thousands of armed troops have quietly become a fixture of D.C. life
+  NPR Politics | 11 Aug 09:00 UTC
+  The deployment is expected to cost in the billions after it was quietly extended until Inauguration Day of 2029.
+  https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump
+
 * Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout
   NPR Politics | 11 Aug 09:00 UTC
   After Alabama redrew its congressional maps in May, voters in several districts saw their primaries pushed to August. Now, it's time to vote and there are concerns confusion will dampen voter turnout.
@@ -1275,11 +1316,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   NPR Politics | 11 Aug 09:00 UTC
   A week after the Michigan primary, tests of progressive power will play out in the Midwest, raising questions of whether far left candidates can win come November or if the GOP can pick up moderates.
   https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump
-
-* A year in, thousands of armed troops have quietly become a fixture of D.C. life
-  NPR Politics | 11 Aug 09:00 UTC
-  The deployment is expected to cost in the billions after it was quietly extended until Inauguration Day of 2029.
-  https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump
 
 * Alabama heads into a second primary election after redistricting
   NPR Politics | 10 Aug 22:43 UTC
@@ -1359,7 +1395,12 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   The US is losing leverage in Somalia as frustration with Mogadishu threatens critical African Union support and risks strengthening Al Shabaab’s hold. In Mali, renewed US airstrikes against JNIM raise a parallel concern—whether air power alone, without a ground strategy or political reform, can contain the group’s advance. Bill Roggio and...
   https://www.longwarjournal.org/archives/2026/08/generation-jihad-losing-ground-somalia-and-malis-jihad-problem.php
 
---- Law (7) ---
+--- Law (8) ---
+
+* UN experts decry July surge in civilian casualties across Gaza and West Bank as humanitarian conditions continue to decline
+  JURIST | 11 Aug 12:30 UTC
+  UN experts on Monday decried the recent surge of violence and human rights abuses against civilians across Gaza and the Occupied West Bank, voicing concern that the human rights crisis continues to deteriorate at an accelerated rate, leaving civilians with no form of protection despite international appeals. Fifteen UN experts highlighted...
+  https://www.jurist.org/news/2026/08/un-experts-decry-july-surge-in-civilian-casualties-across-gaza-and-west-bank-as-humanitarian-conditions-continue-to-decline/
 
 * Amnesty International warns of rising authoritarian risk in Zambia ahead of elections
   JURIST | 11 Aug 08:40 UTC
@@ -1520,7 +1561,12 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   ALSO IN BUSINESS (1), headline only:
   - New school uniform rules won't cut costs, says mum (BBC Business)
 
---- Mergers and Acquisitions (5) ---
+--- Mergers and Acquisitions (6) ---
+
+* 'What on earth is a bus gate? It cost me £35'
+  Sky News Business | 11 Aug 10:20 UTC
+  Do you know what a bus gate is?
+  https://news.sky.com/story/what-on-earth-is-a-bus-gate-it-cost-me-35-13571904
 
 * How investors killed AstraZeneca’s $400bn megadeal
   FT Mergers and Acquisitions | 11 Aug 05:59 UTC
@@ -1551,7 +1597,12 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 ## SCIENCE AND TECHNOLOGY
 ######################################################################
 
---- Science (43) ---
+--- Science (42) ---
+
+* Australia's plastic exports may deepen health risks in Indonesian communities
+  Phys.org | 11 Aug 12:20 UTC
+  A new commentary in BMJ Global Health, co-authored by the George Institute, reveals that Australia exported 22,333 metric tons of plastic waste to Indonesia in 2023–24 alone, part of a wider crisis that has seen the country take in more than 200,000 metric tons of imported waste it cannot safely process. Up to 80% of it ends up burned or ...
+  https://phys.org/news/2026-08-australia-plastic-exports-deepen-health.html
 
 * How barramundi research gives breeders more control
   Phys.org | 11 Aug 12:00 UTC
@@ -1608,12 +1659,8 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   A powerful 7.4 magnitude earthquake struck western Colombia on Monday, killing at least 111 people, damaging hundreds of buildings and leaving many trapped under debris while their loved ones and rescue workers searched through rubble.
   https://phys.org/news/2026-08-magnitude-quake-western-colombia-people.html
 
-* Weather prediction hits a theoretical 129-day ceiling
-  Phys.org | 11 Aug 06:32 UTC
-  Prediction is the goal and test of all science, one might argue. Meteorologists have been curious about the inherent limits of weather forecasting ever since the dawn of numerical weather prediction in the late 1950s.
-  https://phys.org/news/2026-08-weather-theoretical-day-ceiling.html
-
-  ALSO IN SCIENCE (31), headline only:
+  ALSO IN SCIENCE (30), headline only:
+  - Weather prediction hits a theoretical 129-day ceiling (Phys.org)
   - Ancient Maltese seafarers likely navigated by the stars (Phys.org)
   - Microplastics may transport hazardous plastic additives through marine environments (Phys.org)
   - Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma (Nature)
@@ -1641,10 +1688,8 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Water quality, not just scarcity, may shape future competition for a limited resource (Phys.org)
   - Common carp relatives blunt koi herpesvirus infections, offering clues to outbreak control (Phys.org)
   - Photosynthetic microorganisms achieve long-lasting and renewable chemical production (Phys.org)
-  - Uncovering how Cryptococcus shifts from silent infection to killer fungus (Phys.org)
   - New GLP-1 pill delivers up to 12% weight loss in 36 weeks (ScienceDaily)
   - 1 in 5 people may carry this hidden genetic heart risk (ScienceDaily)
-  - Scientists discover a hidden switch inside silver nanocatalysts (ScienceDaily)
 
 --- Space (9) ---
 
@@ -1763,6 +1808,11 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 
 --- Energy (7) ---
 
+* On These Motorcycles, the Thrill Is Electric
+  NYT Environment | 11 Aug 12:35 UTC
+  With gas prices high, people in developing countries are racing to buy battery-powered bikes. The Iran war has made Trump “salesman of the year,” one executive in Pakistan said.
+  https://www.nytimes.com/2026/08/11/climate/electric-motorcycles-pakistan.html
+
 * How Being Cool Is Making The Hague a Vacation Hot Spot
   NYT Environment | 11 Aug 11:50 UTC
   Looking for respite from European heat waves, summer tourists are flocking to the diplomatic hub. But city leaders are wary of overcrowding.
@@ -1772,11 +1822,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   NYT Environment | 11 Aug 09:04 UTC [also carried by: NYT Economy]
   Repeated heat waves, wildfires, droughts and storms are solidifying the understanding that new investments are unavoidable.
   https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html
-
-* The Era of Electric Motorcycles Has Arrived in Pakistan and Beyond
-  NYT Environment | 11 Aug 09:01 UTC
-  People are racing out to buy them worldwide as gasoline prices stay high. The Iran war has made Trump “salesman of the year,” said one executive in Lahore.
-  https://www.nytimes.com/2026/08/11/climate/electric-motorcycles-pakistan.html
 
 * Rare ‘super El Niño’ spikes ocean temps to new record
   CSM Environment | 10 Aug 20:49 UTC
@@ -1798,7 +1843,17 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.
   https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html
 
---- AI and technology (25) ---
+--- AI and technology (26) ---
+
+* Claude will apply invisible watermarks to AI text and images
+  The Verge | 11 Aug 12:22 UTC
+  Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. "Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadata where supported," Anthropic says on a new Claude support p...
+  https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images
+
+* The Download: the next big thing in LLMs and how AI academic research is shifting
+  MIT Tech Review | 11 Aug 12:10 UTC
+  This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become the engine inside every major large…
+  https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/
 
 * Joby flexes military muscle with $500 million defense acquisition
   The Verge | 11 Aug 12:00 UTC
@@ -1850,17 +1905,9 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Amazon announces first off-the-grid data center in race to reap AI profits.
   https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/
 
-* Zuckerberg’s superyacht ignored emergency channel, failed to aid stranded boat
-  Ars Technica | 10 Aug 20:01 UTC
-  Zuckerberg’s superyacht and support ship were slow to heed Coast Guard call.
-  https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/
-
-* AI professors are negotiating the new realities of academic research
-  MIT Tech Review | 10 Aug 20:00 UTC
-  This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI…
-  https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/
-
-  ALSO IN AI AND TECHNOLOGY (13), headline only:
+  ALSO IN AI AND TECHNOLOGY (14), headline only:
+  - Zuckerberg’s superyacht ignored emergency channel, failed to aid stranded boat (Ars Technica)
+  - AI professors are negotiating the new realities of academic research (MIT Tech Review)
   - Bluesky now lets you hide reposts from that annoying person you follow (The Verge)
   - Costco’s great Switch 2 console bundle includes over $100 in free stuff (The Verge)
   - What to expect from Google’s 2026 Pixel hardware launch event (The Verge)
@@ -1871,7 +1918,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Four takeaways from Mark Zuckerberg’s massive AI manifesto (The Verge)
   - One of China's workhorse rockets just exploded in flight (Ars Technica)
   - Dogs can tell if you're scared or sad (Ars Technica)
-  - Apple will stream Friday Night Baseball live in Vision Pro (The Verge)
   - 2026 Subaru Outback review: Great interior, refined drive, divisive looks (Ars Technica)
   - A researcher bought noreply.net. Companies started sending him secrets. (Ars Technica)
 
@@ -1964,7 +2010,12 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Welcome to another Arsecast Extra, the Arsenal podcast, with myself and James from @gunnerblog. In this episode we chat about the arrival of Bruno Guimaraes from Newcastle, after his unveiling at the stadium on Sunday. We chat about what he can bring to the team, and how we might have to let go of the […] The post Arsecast Extra Episode 7...
   https://arseblog.com/2026/08/arsecast-extra-episode-707-10-08-2026/
 
---- Chainlink (15) ---
+--- Chainlink (16) ---
+
+* Crypto Market Update August 11: Chainlink Tops Gains as XRP and Cardano Retest Support Levels - CoinGape
+  Google News Chainlink | 11 Aug 12:30 UTC
+  Crypto Market Update August 11: Chainlink Tops Gains as XRP and Cardano Retest Support Levels CoinGape
+  https://news.google.com/rss/articles/CBMirwFBVV95cUxQcEZqYllLRno0V1cwc1M2N2I2c1ZuZlRQcU4xc2w2eGNqcHB2dXhpYjl6UVJRWkNOZ2FHLTI5R3JmU2FfbDlRS0MweDVXaV90NGdGakZuLVNvUVhWa2RvWEgzTmFORVluMUZMdnM3WmVDU0lMa2VYSjJRNGZ6Qld5TlYzRnlRMGxHVUpjY1Y0U29HNjd3eUdvV0xiUVJITHlYZy1RNEZCUHpBc0FlUnAw?oc=5
 
 * Is Chainlink Crypto Ready for the Top 5? Why LINK Could Be the Next Major Altcoin to Break Out - Bitcoin Foundation
   Google News Chainlink | 11 Aug 12:04 UTC
@@ -2020,12 +2071,8 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Chainlink Lands Standard Chartered's $200 Target, Market Barely Moves Yellow.com
   https://news.google.com/rss/articles/CBMiggFBVV95cUxPMzhlRERJRDJOX1lVT0R3SFFkYzlPblk0YUFGbmtaMHNPaHBRczFWcEplay16RkFzOEx0aHcxRU5LR0drWl9fUFR6S0pfLVlFR1B4N3ZNak1lbFRIQmhMdHV0SENSWGNyVVUwM1BhU0NIeUo0THRDazJXWXpubU1DbXBB?oc=5
 
-* Standard Chartered Sees Chainlink Reaching $200 as Tokenized Assets Surge Toward $4 Trillion - Blockster
-  Google News Chainlink | 10 Aug 14:36 UTC
-  Standard Chartered Sees Chainlink Reaching $200 as Tokenized Assets Surge Toward $4 Trillion Blockster
-  https://news.google.com/rss/articles/CBMisgFBVV95cUxPbEJ3ZlpFalp6Qzg4UEhELUs3QlRFU19hQnFnUU1rekliLUFCZ19hbVdNT0VKeDdOSGJxdzZVeno1V1JjbXRjRm4xY1k1MHRGekNLNkNwajJ5YVJtWFFFc3hnb3BLSlJTUEpnRzlXbjJ3UTdxb0EyejRfLUZUNk5vaWlxcDY2RHBKaWgtQWs2Zkh1R0M1d1ZUZ2hNaTBJc1ZsMGtJVG82OE5qMkllSTk3ODZ3?oc=5
-
-  ALSO IN CHAINLINK (3), headline only:
+  ALSO IN CHAINLINK (4), headline only:
+  - Standard Chartered Sees Chainlink Reaching $200 as Tokenized Assets Surge Toward $4 Trillion - Blockster (Google News Chainlink)
   - Best Crypto to Buy in August 2026: BlockDAG, Chainlink, Hyperliquid, and Dogecoin Lead the Watchlist - Business News Nigeria (Google News Chainlink)
   - Standard Chartered sees this losing crypto coin turning around because of the tokenization wave - CNBC (Google News Chainlink)
   - ‘Owning the rails’: Standard Chartered sees LINK at $200 by 2030 as Chainlink underpins tokenized-asset boom (The Block)
@@ -2037,7 +2084,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   OriginTrail USD (TRAC-USD) stock price, news, quote and history Yahoo Finance Australia
   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ENFpNUEdIODdiUVlqSlVWMUl4X0R1SDVKTlk2a3A5MXd0V2Z6SWpJRkh1M3JXZXhJdTFUd2ZYa2FQRDVaTlNHVzZMTTNWMnBuRnRYZjdQaUhBTDBoellOc3lYNEhUWFU?oc=5
 
---- Agronomics (12) ---
+--- Agronomics (13) ---
 
 * Malaysian Sovereign Wealth Fund Invests in Animal-Free Dairy Startup All G
   Green Queen | 11 Aug 09:00 UTC [also carried by: GN Meatly SuperMeat, GN precision fermentation]
@@ -2074,6 +2121,11 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Precision Fermentation Reshapes Global Cheese Market en.edairynews.com
   https://news.google.com/rss/articles/CBMihgFBVV95cUxOY002M2h1RFdQTVBTNEJGWFg0dXNyZFZld3NkeFRnVzZhTURSYko4TjFkM0pzOWJHVFFQVmgxOW1SaWZ1LURmcVJIUUY1T3g0czMySFdFdHN3Mldzb0Y5UFdNdTZSa0N5eDVfS0JibTZRb29sXzZoTFRuaGRtSmhwSDdNLUMtZw?oc=5
 
+* AgriFood Signals: Eatable Adventures launches accelerator, Ambrook raises $30m, LIVEKINDLY acquires Dalco - AgFunderNews
+  GN Rebellyous LiveKindly | 06 Aug 20:23 UTC
+  AgriFood Signals: Eatable Adventures launches accelerator, Ambrook raises $30m, LIVEKINDLY acquires Dalco AgFunderNews
+  https://news.google.com/rss/articles/CBMixAFBVV95cUxPY2dkandqZHFJY3h5UU9ld2EtRkNOUkxKTDQzTFdaQjhUU2J0eTFfZC1leHZ1WWE0ZW5vbjBCbDJHZVozWGhkT0hwMHFNUFkzcll5aDkwanJIYTRpaFh0M0FNdlBvSGM0TTQ4YWp4bE1yUkhKalZsSjRWZDJtVnFlVlUza3N6WUZ0aVZZQkNLb3c3bkt0N1l1MDdJQnJWZm9qRG1TOUJHVnFzVGczOUhieTQ4Ujg1N3VldFVnc18yY3lSZDk3?oc=5
+
 * Smart Manufacturing and Precision Fermentation Are Redefining the Future of Agricultural Biologicals - Agrolatam
   GN precision fermentation | 06 Aug 11:38 UTC
   Smart Manufacturing and Precision Fermentation Are Redefining the Future of Agricultural Biologicals Agrolatam
@@ -2094,10 +2146,8 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Cheese with no cows The Naked Scientists
   https://news.google.com/rss/articles/CBMieEFVX3lxTE9mZWlaWkVOMHFfZ1dHbTFpbUFSV2ItODZhT1pUcXdOSUxIZ0NQdk5fZm9Oczg3WkdxdFhaUEJiZU10LWJJTjNVSVViSXVUTDJ3Y3RuVTFCWUFuZW9qWlQxbjZCcXRxekJBUUxQa1pTU0NIaGlLa0JzNQ?oc=5
 
-* C16 Biosciences Unveils Precision-Fermented Cocoa Butter & Expands Beauty Portfolio - Green Queen Media
-  GN precision fermentation | 04 Aug 13:00 UTC
-  C16 Biosciences Unveils Precision-Fermented Cocoa Butter & Expands Beauty Portfolio Green Queen Media
-  https://news.google.com/rss/articles/CBMirgFBVV95cUxQT1lXWHVEYVdwX3lZLWF2QWhyUDEyZEdpMF96ajZWWmFLR0FmeDdDS2FoaWNnUUw2dzRjOW5qbktLVTh1NVNZVzZEdkRkeDZRTnllMTJtazQtcnFrMmUzdXNZNnhTRW5LZlBYTkw3OWtvWE1GT0FfN2JTU1RCUEppVEE5NmxfcWlmeHdMS24wcjRnakY1VWpTNWhrY0NmbnYtazNCaFZLdUZlczRudVE?oc=5
+  ALSO IN AGRONOMICS (1), headline only:
+  - C16 Biosciences Unveils Precision-Fermented Cocoa Butter & Expands Beauty Portfolio - Green Queen Media (GN precision fermentation)
 
 ######################################################################
 ## SPECIAL INTERESTS
@@ -2120,7 +2170,12 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Fujifilm Launches FUJIFILM PROJECTOR ZUH12000 markets.businessinsider.com
   https://news.google.com/rss/articles/CBMipwFBVV95cUxNSS1LNGNmWVNZSEdwNVhhWFFpUGhHNDlFaXdxbmE1TzdXcUR1MERGVDhqRTBhSGNIUXFlQld4V3hLVFlNcWx2R1VPZUJlMGpWd2VGUlhFeFVnODRsdFZBRGI4Sm5NcVhtMzV3OTloTkVpUG1CRkJGakR2cWFCb3RJR0xDM0RFMVktZnptMkVjSXJ5a3FlbXlwNzNWUlJOeFRmYkpSTXI0bw?oc=5
 
---- Aviation (35) ---
+--- Aviation (32) ---
+
+* FIA 2026: Is Porter's E195-E2 Suitable For Transcontinental Flying?
+  Simple Flying | 11 Aug 12:24 UTC
+  To take a brief look at the seating inside the Embraer E195-E2, here’s Alejandro Nuñez Vicente for Simple Flying reporting from Farnborough 2026!
+  https://simpleflying.com/video/fia-2026-is-porter-s-e195-e2-suitable-for-transcontinental-flying/
 
 * Kenya Airways Asante Rewards Status Match: Valuable For SkyTeam Elite Perks
   One Mile at a Time | 11 Aug 12:15 UTC
@@ -2177,18 +2232,13 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Both American Express and Chase issue co-branded Marriott credit cards. In this post, I’d like to take a closer look at the Marriott Bonvoy Brilliant American Express Card, which is the most premium credit card in the portfolio. This card is quite compelling, and the easiest way to earn Platinum Elite status with Marriott Bonvoy. This is ...
   https://onemileatatime.com/reviews/credit-cards/american-express/marriott-bonvoy-brilliant-card/
 
-* The P-8 Poseidon Is Becoming NATO's Most Important Maritime Patrol Aircraft
-  Simple Flying | 11 Aug 08:00 UTC
-  The jet that's changing how NATO defends Europeans on the high seas.
-  https://simpleflying.com/p8-poseidon-importance-nato/
-
-  ALSO IN AVIATION (23), headline only:
+  ALSO IN AVIATION (20), headline only:
+  - The P-8 Poseidon Is Becoming NATO's Most Important Maritime Patrol Aircraft (Simple Flying)
   - British Airways Airbus A380 Flies 7 Hours To Nowhere After Weather Radar Failure (Simple Flying)
   - Why The Next Generation Of Aircraft Engines May Not Need A Revolutionary New Design (Simple Flying)
   - Air India Flights Surge 44% On Major Australian Route: New Record Set (Simple Flying)
   - Two pilots killed in S-64 Skycrane crash while fighting Utah wildfire (AeroTime)
   - Qantas Delays 1st Airbus A321XLR International Flight To 2027: Full Update Now (Simple Flying)
-  - Why Roughly 80% Of Trans-Pacific Cargo Flights Quietly Stop At This One Alaskan Airport (Simple Flying)
   - KLM Rolls Out Buy On Board In Regional Economy: I’m Disappointed, But For A Different Reason (One Mile at a Time)
   - American makes first US commercial airport delivery of synthetic jet fuel (AeroTime)
   - S7 Airlines suffers second Boeing 737 runway overrun in six weeks (AeroTime)
@@ -2203,11 +2253,13 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Lufthansa Group Rolling Out Free Starlink Wi-Fi Across Airlines, 850+ Planes (One Mile at a Time)
   - EnduroSat signs deal with Bulgaria to develop major space base near Sofia (AeroTime)
   - Emirates’ A380 makes historic first landing in Jakarta, flies AC Milan home (AeroTime)
-  - Archer to acquire Boeing’s Wisk, Insitu and SkyGrid (AeroTime)
-  - What Does Hyatt Discoverist Status Get You, And How Do You Earn It? (One Mile at a Time)
-  - Rheinmetall sets up Boeing MQ-28 Ghost Bat integration in Germany (AeroTime)
 
---- Cameras (29) ---
+--- Cameras (30) ---
+
+* Renowned Surf Photographer Hank Foto Dies at 62
+  PetaPixel | 11 Aug 12:28 UTC
+  Legendary surf photographer Hank Foto, one of the most recognizable lensman to work for Surfing Magazine, has died. [ Read More ]
+  https://petapixel.com/2026/08/11/renowned-surf-photographer-hank-foto-dies-at-62/
 
 * Earthrise: The iconic image behind Earth Day is "the most influential environmental photograph ever taken"
   Digital Camera World | 11 Aug 11:41 UTC
@@ -2264,12 +2316,8 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   I Bought a Lumix G90 in 2026… Here’s Why Today deals at Amazon, BHphoto, Adorama, Amazon DE, Amazon UK, Amazon FR, Amazon IT, FotoErhardt DE, FotoKoch DE. What if DJI makes M43 Cameras? RED35 STOP Chasing “Banger” Shots, DO THIS INSTEAD (Gary W). How to Use Compact Cameras for Event and Party Photography (Explora). Monitor…
   https://www.43rumors.com/a-bit-of-everything-2487/
 
-* GoPro launched the “best GoPro ever,” but the risk of bankruptcy remains, as CEO says the company is in the “later stages” of looking for a buyer
-  Digital Camera World | 10 Aug 23:21 UTC
-  In GoPro’s latest reports, the action camera giant has seen a 38% drop in camera sales compared to last year, but a record for subscriptions
-  https://www.digitalcameraworld.com/cameras/action-cameras/gopro-launched-the-best-gopro-ever-but-the-risk-of-bankruptcy-remains-as-ceo-says-the-company-is-in-the-later-stages-of-looking-for-a-buyer
-
-  ALSO IN CAMERAS (17), headline only:
+  ALSO IN CAMERAS (18), headline only:
+  - GoPro launched the “best GoPro ever,” but the risk of bankruptcy remains, as CEO says the company is in the “later stages” of looking for a buyer (Digital Camera World)
   - BREAKING: GoPro’s first mirrorless camera will debut in September – and GoPro has just revealed new details about the Mission 1 Pro ILS (Digital Camera World)
   - Webb Space Telescope Helps a Cosmic Lion Roar Life (PetaPixel)
   - GoPro Searches for a Lifeline as It Lost $51 Million Last Quarter (PetaPixel)
@@ -2288,12 +2336,17 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Fleeting Moments and Unusual Perspectives: Pure Street Photography Awards 2026 Winners (PetaPixel)
   - Before-and-After Photos Show the Crater Left by SpaceX Rocket on the Moon (PetaPixel)
 
---- Cars (15) ---
+--- Cars (16) ---
 
 * Volkswagen ID. Era 5S began presales in China at 17,175 USD
   CarNewsChina | 11 Aug 12:14 UTC
   The Volkswagen ID. Era 5S began presales in China as the brand’s first sedan that can steer for you on urban roads and highways. The post Volkswagen ID. Era 5S began presales in China at 17,175 USD appeared first on CarNewsChina.com .
   https://carnewschina.com/2026/08/11/volkswagen-id-era-5s-began-presales-in-china-at-17175-usd/
+
+* Public charging reliance pushes EV fleet running costs to match 50mpg petrol car
+  Autocar | 11 Aug 11:38 UTC
+  Increased expense of public chargers drove a 15% increase in fleets' EV energy costs during the first half of 2026 An increased reliance on expensive public chargers have pushed fleet EV charging costs to rise 15% since 2025, averaging 13p per mile, according to Rightcharge. The company analysed “tens of thousands” of fleet charging sessi...
+  https://www.autocar.co.uk/car-news/company-cars/public-charging-reliance-pushes-ev-fleet-running-costs-match-50mpg-petrol-car
 
 * Two years until EV pay-per-mile tax - but mileage blockers threaten scheme
   Autocar | 11 Aug 11:09 UTC
@@ -2345,12 +2398,8 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Son of 1980s tuning hero reveals road-focused take on 911-based supercar, having built 40 desert racers Marc Philipp Gemballa, the son of 1980s tuning legend Uwe Gemballa, has revealed a new road-focused, Porsche 959-inspired supercar called the Marsien GT. It's based on the Marsien, the genre-bending machine that was conceived to tackle ...
   https://www.autocar.co.uk/car-news/new-cars/new-marsien-gt-unveiled-819bhp-porsche-959-inspired-supercar
 
-* Lamborghini Diablo Roadster reimagined with 542bhp V12
-  Autocar | 10 Aug 17:00 UTC
-  Iconic 1990s supercar is reimagined with input from the man behind the Aventador and Huracán San Marino-based restomodder Eccentrica has turned its new-look Lamborghini Diablo into a V12 roadster. It has retained the underpinnings of the Diablo, including the mid-mounted engine, but entirely overhauled the 1990s supercar to bring it up to...
-  https://www.autocar.co.uk/car-news/new-cars/lamborghini-diablo-roadster-reimagined-542bhp-v12
-
-  ALSO IN CARS (3), headline only:
+  ALSO IN CARS (4), headline only:
+  - Lamborghini Diablo Roadster reimagined with 542bhp V12 (Autocar)
   - CUPRA Raval: How it spices up the small electric car formula (Autocar)
   - Gordon Murray poised to reveal new McLaren F1-inspired supercar (Autocar)
   - UK government announces £130m investment in automotive tech (Autocar)
@@ -2427,7 +2476,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Satyress designs centaur-like robot to give workers "superpowers" for dangerous jobs (Dezeen)
   - V+M House / Solange Cálio Arquitetos (ArchDaily)
 
---- Games (26) ---
+--- Games (25) ---
 
 * After a slow start, Alan Wake 2 is finally doing the numbers for Remedy and has hit another major milestone
   Eurogamer | 11 Aug 11:39 UTC
@@ -2489,7 +2538,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   As a result of a cyberattack on CEVA Logistics in early August, some personal details on select Steam account holders have been leaked.
   https://www.pcgamesn.com/steam/valve-piece
 
-  ALSO IN GAMES (14), headline only:
+  ALSO IN GAMES (13), headline only:
   - I've seen much more of 1666: Amsterdam, and the witchy game by the creator of Assassin's Creed has some surprising ideas (Eurogamer)
   - Assassin's Creed creator's dark and witchy action game 1666: Amsterdam is out in early access sooner than we expected (Eurogamer)
   - 1666 Amsterdam's early access launches this month, and I'm equal parts excited and worried (PCGamesN)
@@ -2503,7 +2552,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - As developer Arc System Works promises a fix, Marvel Tōkon's suffering PC players are creating some bizarre home remedies for its dire performance woes (Eurogamer)
   - Sean Murray suggests No Man's Sky follow-up Light No Fire is quite far along, but he's 'learned a very important lesson' about speaking too soon (Eurogamer)
   - No Man's Sky is now ten years old, and the best reminder that games deserve time to grow (PCGamesN)
-  - Valve issues warning to Steam Machine and Steam Controller customers to "expect fake messages" after its European hardware partner is hacked (Eurogamer)
 
 --- Longevity (5) ---
 
@@ -2586,6 +2634,11 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 
 --- Trends (10) ---
 
+* The Lessons of Cancún, Fifty Years Later
+  Skift | 11 Aug 12:19 UTC
+  Cancún worked because Mexico found a market first and built the resort second. Most of its copies reversed the order.
+  https://skift.com/2026/08/11/the-lessons-of-cancun-fifty-years-later/
+
 * UAE’s Hotel Divide: Abu Dhabi Holds Up While Dubai Sinks
   Skift | 11 Aug 12:11 UTC
   Dubai’s hotel economy runs on flights that haven’t come back. Abu Dhabi’s runs on an events calendar that didn’t need them to.
@@ -2630,11 +2683,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Skift | 10 Aug 13:36 UTC
   The eclipse is expected to strain Iceland’s infrastructure, but tourism leaders are betting it can also convince travelers their next trip doesn’t need to be a summer stay in Reykjavík.
   https://skift.com/2026/08/10/iceland-solar-eclipse-2026/
-
-* Ras Al Khaimah’s New Pitch to Indian Tourists: We’re Premium — Not Just Cheaper Than Dubai
-  Skift | 10 Aug 12:27 UTC
-  Ras Al Khaimah wants Indians to visit for Ras Al Khaimah, not just because it’s near Dubai.
-  https://skift.com/2026/08/10/ras-al-khaimahs-new-pitch-to-indian-tourists-were-premium-not-just-cheaper-than-dubai/
 
 ######################################################################
 ## EDITORIAL
@@ -2878,7 +2926,6 @@ Flagged for full-text analysis but only the summary could be retrieved, usually 
 ======================================================================
 SOURCES THAT FAILED TODAY
 ======================================================================
-These produced nothing. Treat the lanes they cover as unverified rather than quiet:
-  - SCMP (East Asia): HTTP 503 (server error) after 3 attempts
+None. Every feed returned current items.
 
-End of full digest. Built 2026-08-11T12:19:25.737371+00:00
+End of full digest. Built 2026-08-11T12:37:55.462210+00:00
