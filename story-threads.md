@@ -26,90 +26,97 @@ Format: one entry per thread, dated to when first flagged or last updated,
 one or two sentences of context - enough for a same-day reader to know what
 it's referring to, not a full recap.
 
-- [2026-08-12] Strait of Hormuz / Iran war: strait still effectively closed and
-  talks at a fresh impasse. Traffic fell to eight vessels (one-week low); a US
-  Navy helicopter disabled the Panama-flagged Vela Nova in the Gulf of Oman for
-  running the blockade; Tehran says it stays shut until Washington accepts its
-  conditions; Trump claims total control and frames his options as letting Iran
-  fail economically or hitting it "really, really hard". Pakistan's interior
-  minister Naqvi visited Tehran and Islamabad and Qatar both say a deal is
-  close. Watch whether the Pakistani/Qatari mediation produces anything.
-- [2026-08-12] Bab el-Mandeb as second front: Houthis killed six on an
-  Egyptian-owned cargo ship and have struck Saudi Aramco facilities and Abha
-  airport; Brent closed above $100 for the first time in this war. Analysts
-  frame it as Iran activating a second chokepoint, with a risk of drawing Saudi
-  Arabia into a ground war in Yemen. Watch for Saudi escalation and the oil price.
-- [2026-08-12] Mecca Joint Defence Agreement (Saudi-Turkey-Pakistan): Middle
-  East Eye reports Saudi Arabia itself opposed including Egypt, which explains
-  Cairo's absence. Pakistan continues reassuring Iran that the pact is not aimed
-  at Tehran. Watch for further members or a real-world test.
-- [2026-08-12] FIFA governance crisis: UEFA, the AFC and CONCACAF have renewed
-  their attack on Gianni Infantino, now specifically over a plan to privatise
-  the World Cup; Trump continues to back him publicly. Reporting also flags the
-  "flawed" funding system that keeps smaller nations sidelined in the fight.
-  Watch for a formal leadership challenge.
-- [2026-08-12] Bank of Japan / yen: Treasury Secretary Bessent and PM Takaichi
-  are now publicly split over whether the BoJ should hike, which reporting says
-  risks undermining the 31 July joint yen rescue. JGB yields are surging and
-  fund managers are chasing retail cash. Watch the September BoJ meeting and
-  whether intervention has to be repeated.
-- [2026-08-12] Nvidia's $500bn AI-infrastructure financing package: confirmed,
-  with Apollo, Blackstone, BlackRock, Brookfield, Goldman Sachs and KKR. Nvidia
-  is now financier as well as chip supplier, so AI capex is no longer capped by
-  hyperscaler cash flow - bullish for the cycle, circularity risk if demand
-  slips. Watch the structure and any first drawdowns.
-- [2026-08-12] US midterm primaries, progressive vs moderate: Wisconsin's
-  Democratic governor primary (Francesca Hong vs David Crowley) was still too
-  close to call overnight; Minnesota's Trump-endorsed Mike Lindell lost the
-  Republican governor primary to Lisa Demuth, who faces Amy Klobuchar; in
-  Connecticut, Lamont held and 12-term Rep. John Larson lost to Luke Bronin.
-  El-Sayed vs Rogers in Michigan remains the November bellwether. Watch the
-  Wisconsin call and general-election line-ups.
-- [2026-08-12] Colombia earthquake: magnitude-7.4 quake death toll has climbed
-  past 200 with roughly 3,000 unaccounted for and ~5,000 homes damaged; Bogota
-  has requested supplies but declined foreign rescue teams. First major test of
-  President Abelardo de la Espriella, inaugurated days earlier. Watch the toll
-  and the reconstruction response.
-- [2026-08-12] Zambia presidential election, Thursday 13 August: incumbent
-  Hakainde Hichilema running on his economic record against Brian Mundubile and
-  a 15-party alliance, complicated by cost-of-living anger and the Lungu burial
-  row; Amnesty has warned of rising authoritarian risk around the vote. Result
-  expected within days.
-- [2026-08-12] Russia's September 20 Duma election: the Supreme Court has now
-  formally struck Yabloko, the only registered antiwar party, off the ballot.
-  Navalnaya is urging a vote for anyone but United Russia and opposition figures
-  are organising a same-minute voting protest. Zelensky says Putin will use the
-  election as pretext for a major new mobilisation. Watch the mobilisation call.
-- [2026-08-12] Ceuta migration crisis: Spain says it has located 1,527
-  unaccompanied minors and is coordinating family returns with Morocco; the
-  enclave's leader is calling for a detention centre. Security services still
-  watching for a second coordinated crossing attempt around 15 August.
-- [2026-08-12] Tata Sons succession: chairman N Chandrasekaran has resigned amid
-  escalating tension with Noel Tata and the charitable trusts that control
-  India's largest conglomerate. Watch who replaces him and whether the trusts
-  tighten operational control.
-- [2026-08-12] AstraZeneca's $400bn deal collapse: the largest pharmaceutical
-  transaction ever attempted has unravelled after a shareholder revolt rather
-  than regulatory action. Watch whether management faces consequences or a
-  restructured version returns.
-- [2026-08-12] White House ballroom construction: appeals court ruling put the
-  project on a 14-day countdown from around 10 August, with the administration
-  arguing security grounds. No update today. Watch for the outcome around 23 August.
-- [2026-08-12] US childhood vaccine policy: Trump's third executive order in a
-  year calls for fewer childhood vaccines and splitting the MMR into separate
-  shots; the pharmaceutical industry rejected it within hours and its legal
-  force is unclear. Medicaid separately stopped funding some gender-affirming
-  care for minors. Watch for litigation and whether CDC schedules actually change.
-- [2026-08-12] Libya unification push: eastern LNA military intelligence chief
-  Fawzi al-Mansouri assassinated by car bomb, repeated drone strikes on the
-  Zawiya refinery and its power station, while Turkey's foreign minister tours
-  Tripoli and Benghazi as Washington presses a power-sharing deal. Watch whether
-  the US-backed unification track survives the violence.
-- [2026-08-12] EasyJet's ~£5.7bn takeover by Apollo, confirmed 6 August - no
-  update in today's digest. Watch for regulatory approval steps. Prune if quiet
-  by 18 August.
-- [2026-08-12] Agronomics sector watch: portfolio company All G added Malaysia's
-  sovereign fund Khazanah (via Xeraya Capital) to its pre-Series B and LiveKindly
-  acquired Dalco, but German cultivated-fat startup Cultimate Foods wound up
-  after bankruptcy. Funding, not regulation, is the sector's binding constraint
-  right now. Watch for approvals in any jurisdiction and further insolvencies.
+- [2026-08-13] Strait of Hormuz / Iran war: Trump has publicly shifted from
+  military escalation to economic strangulation ("low-keying it"), citing a
+  munitions shortfall and an unpopular war; Iran's Hormuz authority denies his
+  claim of control over the strait and says there is no progress on reviving
+  the interim deal. The Pakistani/Qatari mediation flagged on 12 August has so
+  far produced nothing. Watch whether economic pressure or mediation moves first.
+- [2026-08-13] Bab el-Mandeb as second front: Houthis have declared a naval
+  blockade of Saudi shipping and Saudi exports are "going dark" (transponders
+  off); four killed on a ship in the strait, three of them Pakistani. The
+  Pentagon told Congress US strikes in Yemen have killed 153 civilians, and
+  Yemen's presidential council chief says there will be no truce with the
+  Houthis. Watch for Saudi escalation and a return to full civil war.
+- [2026-08-13] Mecca Joint Defence Agreement (Saudi-Turkey-Pakistan): Erdogan
+  is publicly pushing to enlarge the pact and Turkish FM Fidan is in Egypt,
+  which was excluded at Saudi insistence. Foreign Policy argues it helps
+  Pakistan in the Middle East but not against India or Afghanistan. Watch for
+  new members.
+- [2026-08-13] Zambia presidential election: polls opened Thursday 13 August
+  with Hichilema seeking a second term on an IMF/austerity record against an
+  opposition regrouped out of the Patriot Front; cost of living and blackouts
+  dominate, US-China competition over copper is the outside frame. RESULT DUE
+  IN THE NEXT FEW DAYS - lead with it when it lands.
+- [2026-08-13] Clacton by-election: polls opened Thursday 13 August, Farage
+  defending the seat he resigned over his financial declarations against a
+  record-length novelty ballot. Result overnight. Watch the Reform margin.
+- [2026-08-13] Russia's September 20 Duma election: Meduza's Kremlin sources
+  say Yabloko was registered deliberately as an experiment and then struck off
+  via the Rodina lawsuit once its polling came back too strong. Zelensky still
+  says Putin will use the vote as cover for a new mobilisation. Watch the
+  mobilisation call.
+- [2026-08-13] Ukraine Black Sea / grain war: Russia is blockading Odesa and
+  striking grain terminals while Ukraine hits Novorossiysk and Russian ports;
+  both sides are now shutting each other's sea trade, with global grain supply
+  at risk. Zelensky claims 745 sq km retaken at Oleksandrivske and is short of
+  Patriot interceptors since February. Watch grain prices and interceptor supply.
+- [2026-08-13] US midterm primaries: Wisconsin called for David Crowley over
+  democratic socialist Francesca Hong, read across the party as the limit of
+  the progressive run; Lindell lost Minnesota to Lisa Demuth. El-Sayed vs
+  Rogers in Michigan remains the November bellwether. Watch general-election
+  line-ups and whether the left consolidates behind El-Sayed.
+- [2026-08-13] Bank of Japan / yen: yen back near 160 despite the 31 July joint
+  intervention; commentary now frames Washington as actively wanting the cheap
+  yen to keep funding the US tech boom, which resolves the Bessent-Takaichi
+  split towards no hike. Japanese producer prices still pressuring the BoJ.
+  Watch the September BoJ meeting and whether intervention is repeated.
+- [2026-08-13] Nvidia's $500bn AI-infrastructure financing package: FT reports
+  private capital firms are underwriting it on the assumption Nvidia chips hold
+  residual value for years - the load-bearing and contested assumption. Watch
+  first drawdowns and any secondary-market evidence on GPU depreciation.
+- [2026-08-13] Anthropic IPO: investors being marketed a $2tn valuation, which
+  would be the largest listing in history. Watch timing, banks and whether the
+  valuation holds as AI capex sentiment moves.
+- [2026-08-13] Colombia earthquake: toll now 265 with the search in its "final
+  phase" past the 72-hour mark; three days of national mourning declared, EU
+  aid pledged, Mexican rescue teams in country, China offering aid as the new
+  president tilts to Washington. Watch reconstruction and de la Espriella's
+  handling.
+- [2026-08-13] Ceuta migration crisis: Morocco says it has reinforced border
+  security after fresh social-media calls for mass crossings; Spain still
+  processing 1,527 unaccompanied minors and Rabat is hinting at suspending the
+  extradition agreement. Watch around 15 August.
+- [2026-08-13] Tata Sons succession: Chandrasekaran leaves in February; FT now
+  frames it as an open battle for control of the $280bn group (Air India,
+  Jaguar Land Rover) between the board and the charitable trusts. Watch the
+  successor and whether the trusts take operational control.
+- [2026-08-13] Congo Ebola outbreak: past 2,000 dead, second-largest ever, and
+  the WHO chief says it is on track to surpass the 2014-16 West African
+  epidemic; talks advancing on an expedited multi-arm Phase 3 vaccine trial.
+  Watch the trial launch and regional spread.
+- [2026-08-13] US childhood vaccine policy: WHO has now publicly called Trump's
+  executive order splitting the MMR shot misguided, and paediatricians say it
+  means more needles and more disease risk, as a large measles outbreak spreads
+  in Pennsylvania. Watch litigation and whether CDC schedules actually change.
+- [2026-08-13] Libya unification push: drone strikes on the Zawiya refinery and
+  its substation continue after the al-Mansouri car bombing, threatening the
+  oil revival, while Turkey works both Tripoli and Benghazi under a "1 Libya"
+  policy alongside the US power-sharing push. Watch whether the track survives.
+- [2026-08-13] FIFA governance crisis: reporting confirms Infantino abandoned
+  the World Cup privatisation plan on 31 July, apologised in Rabat and secured
+  unanimous CAF backing - Africa's 54 associations are financially dependent on
+  FIFA money. UEFA, AFC and CONCACAF criticism stands but the leadership
+  challenge has stalled. Prune if still static by 23 August.
+- [2026-08-13] White House ballroom construction: appeals court put the project
+  on a 14-day countdown from around 10 August. No update again today. Watch for
+  the outcome around 23 August; prune if nothing by then.
+- [2026-08-13] Agronomics sector watch: no company RNS. Beyond Meat hit an
+  all-time low after a one-for-thirty reverse split to keep its Nasdaq listing,
+  Sweden's Millow raised EUR2m, and Japan's Ginga launched blended half-meat
+  sausages. Funding, not regulation, remains the binding constraint. Watch for
+  approvals in any jurisdiction and further insolvencies.
+
+Removed 2026-08-13: AstraZeneca $400bn deal collapse (no follow-up since 12
+Aug and the outcome is settled); EasyJet/Apollo takeover (static since 6 Aug,
+pruned per the 18 August note as nothing moved).
