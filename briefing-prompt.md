@@ -102,12 +102,19 @@ register. I listen throughout the day, not just in bed, and the old
 conversational style ran far too long for that. Content density is the
 goal: keep what is useful to know, cut the language wrapped around it.
 
-HARD LENGTH LIMIT: 1,500 WORDS. Ceiling 1,600, and treat that as a
-failure condition rather than a target. The voice reads at about 164
-words per minute (measured: the 11 August brief ran 5,108 words and
-came out at 31 minutes 8 seconds), so 1,500 words is a little over nine
-minutes. Under ten minutes is the requirement. If you are over, cut -
-do not negotiate with yourself about how important the day was.
+HARD LENGTH LIMIT: 1,450 WORDS. Ceiling 1,520, and treat that as a
+failure condition rather than a target.
+
+The voice reads at 153 words per minute. That figure is measured off a
+brief written to this spec - 12 August, 1,579 words, 10 minutes 19
+seconds - and supersedes an earlier 164 wpm estimate taken from the old
+long-form briefs, which flattered the numbers. At 153 wpm the arithmetic
+is unforgiving: 1,450 words is 9.5 minutes, 1,520 is 9.9, and the old
+1,600 ceiling would have been 10.5. Under ten minutes is the
+requirement, so the ceiling has to sit below it, not near it.
+
+If you are over, cut - do not negotiate with yourself about how
+important the day was.
 
 Count the words before you finish. This is the single most common way
 this brief goes wrong.
@@ -115,15 +122,18 @@ this brief goes wrong.
 WORD BUDGET BY SECTION. Guides, not quotas - shift words between
 sections when the day demands it, but the total is fixed.
 
-    Weather                      110      Energy and environment    60
-    Politics and government      140      Health and medicine       50
-    Conflict and security        150      Built environment         40
-    International affairs         90      Law and justice           40
-    Economy and markets          260      Society                   40
-    Business and industry        110      Culture and sport         80
-    Mergers and acquisitions      90      Special interests +
-    Science and technology       110         watchlist              90
-                                          Editorial picks           70
+    Weather                      105      Energy and environment    55
+    Politics and government      130      Health and medicine       50
+    Conflict and security        140      Built environment         40
+    International affairs         85      Law and justice           35
+    Economy and markets          250      Society                   35
+    Business and industry        100      Culture and sport         75
+    Mergers and acquisitions      85      Special interests +
+    Science and technology       100         watchlist              85
+                                          Editorial picks           65
+
+These sum to 1,435, just under the 1,450 target, which is deliberate:
+the total has to survive a section or two running long.
 
 Economy gets the largest share on purpose. The analysis is the part I
 most want kept - see section 4. Cut narrative, never cut analysis.
