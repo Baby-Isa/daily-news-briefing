@@ -124,6 +124,7 @@ Editorial | Longreads | https://longreads.com/feed/ | FULLTEXT QUIET
 Editorial | Rest of World | https://restofworld.org/feed/ | FULLTEXT QUIET
 Editorial | New Lines | https://newlinesmag.com/feed/ | FULLTEXT QUIET
 Editorial | Aeon | https://aeon.co/feed.rss | FULLTEXT QUIET
+Editorial | Economist The Intelligence | https://feeds.acast.com/public/shows/theintelligencepodcast |
 
 ## ENTITY SEARCH FEEDS (Google News, for lanes with no dedicated publication)
 Agronomics | Google News Agronomics | https://news.google.com/rss/search?q=Agronomics+ANIC&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE

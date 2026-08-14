@@ -105,13 +105,20 @@ goal: keep what is useful to know, cut the language wrapped around it.
 HARD LENGTH LIMIT: 1,450 WORDS. Ceiling 1,520, and treat that as a
 failure condition rather than a target.
 
-The voice reads at 153 words per minute. That figure is measured off a
-brief written to this spec - 12 August, 1,579 words, 10 minutes 19
-seconds - and supersedes an earlier 164 wpm estimate taken from the old
-long-form briefs, which flattered the numbers. At 153 wpm the arithmetic
-is unforgiving: 1,450 words is 9.5 minutes, 1,520 is 9.9, and the old
-1,600 ceiling would have been 10.5. Under ten minutes is the
-requirement, so the ceiling has to sit below it, not near it.
+PLAN AT 153 WORDS PER MINUTE. The voice does not read at a fixed rate -
+measured across three real episodes it ran 164, 153 and 161 wpm, varying
+with sentence length, how many numbers are spelled out, and punctuation
+density. So 153 is not the rate, it is the slow end of the observed
+range, chosen deliberately as the planning figure because the cost of
+the two errors is asymmetric: budgeting at the fast end and being wrong
+puts the episode over ten minutes, while budgeting at the slow end and
+being wrong just makes it pleasantly short.
+
+At 153 the arithmetic is: 1,450 words is 9.5 minutes, 1,520 is 9.9. The
+earlier 1,600 ceiling assumed 164 and would have been 10.5. Under ten
+minutes is the requirement, so the ceiling sits below it, not near it.
+(In practice 13 August came in at 1,452 words and 9 minutes 2 seconds -
+the headroom working as intended.)
 
 If you are over, cut - do not negotiate with yourself about how
 important the day was.
@@ -598,7 +605,12 @@ The only rotated part of the brief, because these are weekly and
 twice-weekly publications where a daily check would return the same items.
 
   Daily      Economist "The Intelligence" podcast, items 2 and 3 (the
-             quirkier layer; item 1 is usually the main news story)
+             quirkier layer; item 1 is usually the main news story).
+             One digest item per episode, in the Editorial lane - all
+             three segments are listed in its summary, so items 2 and 3
+             are the second and third things the summary mentions, e.g.
+             "Why US consumers' love of fast food may be slowing. And
+             how many hours of Wagner opera would you sit through?"
   Tuesday    Longreads Editors' Picks; Rest of World
   Wednesday  New Lines Magazine
   Thursday   Longreads Editors' Picks
