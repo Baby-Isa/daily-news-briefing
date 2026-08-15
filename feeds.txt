@@ -62,7 +62,7 @@ Space | NYT Space | https://rss.nytimes.com/services/xml/rss/nyt/Space.xml |
 Health | STAT News | https://www.statnews.com/feed/ |
 Health | NYT Health | https://rss.nytimes.com/services/xml/rss/nyt/Health.xml |
 Health | NPR Health | https://feeds.npr.org/1128/rss.xml |
-Energy | Carbon Brief | https://www.carbonbrief.org/feed/ |
+Energy | Carbon Brief | https://www.carbonbrief.org/feed/ | FULLTEXT
 Energy | NYT Environment | https://rss.nytimes.com/services/xml/rss/nyt/Environment.xml |
 Energy | NPR Climate | https://feeds.npr.org/1167/rss.xml |
 Energy | CSM Environment | https://rss.csmonitor.com/feeds/environment |

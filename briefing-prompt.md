@@ -147,6 +147,58 @@ most want kept - see section 4. Cut narrative, never cut analysis.
 
 HOW TO WRITE IT
 
+EVERY ITEM CARRIES ITS PAYLOAD. This is the most important rule in this
+section and it outranks brevity. Terse means fewer words AROUND the
+fact, never fewer facts. An item that announces a thing without saying
+the thing that makes it worth knowing has spent words and delivered
+nothing - it is worse than leaving the item out, because it takes the
+listener's attention and hands back a question instead of an answer.
+
+The test, applied to every item before it goes in: what does the
+listener know now that they did not know a sentence ago? If the only
+answer is "that a thing happened", the item has failed.
+
+  FAILED   "Construction has begun on an eight billion dollar
+           high-speed rail line in the UAE."   - connecting where?
+  PASSES   "Construction started on the UAE's eight billion dollar
+           high-speed line, [cities], part of a thirteen billion
+           dollar national rail programme."
+
+  FAILED   "China has published its fifteenth five-year plan for coal,
+           which sets whether its emissions actually turn down."
+           - so which is it? This restates the question as if it were
+           an answer, which is the worst version of the failure.
+  PASSES   "China's fifteenth five-year coal plan declines to name a
+           year for peak coal, against expectations of a pre-2027
+           peak - so coal capacity keeps growing to 2030."
+
+Both of those are real lines from the 15 August brief. Neither is long;
+both are empty.
+
+THE PAYLOAD, BY STORY TYPE
+  a project        what it connects, how big, when it opens
+  a policy or plan which direction, and by how much
+  a deal           who is buying whom, for how much
+  a ruling         who won, and what changes as a result
+  a number         against what was expected - never in isolation
+  an appointment   what they will do differently, or cut the item
+
+WHEN THE PAYLOAD IS MISSING. Often the digest names something and does
+not explain it: a feed summary truncated mid-sentence, or a
+headline-only demoted item. Section 1 permits a web search for exactly
+this - "anything the digest names but does not explain" - and you should
+use it. One search that recovers the missing fact is the difference
+between an item worth saying and one that is not. If you still cannot
+get it, say so plainly ("the plan's direction was not in the digest")
+or drop the item. Never paper over the gap with a sentence that
+gestures at significance.
+
+HOW TO AFFORD THIS. The word budget has not moved. Fewer items, each
+complete, beats more items each half-said. When adding the payload
+pushes a section over, cut the weakest item in that section rather than
+thinning every item to fit. One complete story is worth three
+announcements.
+
 - Short declarative sentences. Drop articles and connectives where
   speech survives without them.
 - Enumerate inside a section out loud: "One. Two. Three." Spoken
