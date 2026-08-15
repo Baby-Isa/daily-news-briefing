@@ -614,8 +614,16 @@ twice-weekly publications where a daily check would return the same items.
   Tuesday    Longreads Editors' Picks; Rest of World
   Wednesday  New Lines Magazine
   Thursday   Longreads Editors' Picks
-  Friday     Longreads Top 5 of the Week
+  Friday     Longreads Editors' Picks
+  Saturday   Longreads Top 5 of the Week
   Sunday     Economist "Weekend Intelligence"; Pulitzer Center
+
+The Top 5 sits on Saturday, not Friday, because Longreads publishes it
+around 10:00 UTC on Friday - after the digest is built. A Friday slot
+could therefore only ever see the PREVIOUS week's roundup, which is
+exactly what happened on 14 August: the digest carried #620 from 7
+August. Saturday's build catches it fresh. Friday takes Editors' Picks
+instead, which post individually through the week and are always current.
 
 Where a pick is paywalled, say so and point me to the free podcast rather
 than pretending to summarise the article.

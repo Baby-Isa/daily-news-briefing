@@ -76,7 +76,8 @@ Business | Guardian Business | https://www.theguardian.com/business/rss |
 Business | BBC Business | https://feeds.bbci.co.uk/news/business/rss.xml |
 Mergers and Acquisitions | Sky News Business | https://feeds.skynews.com/feeds/rss/business.xml |
 Mergers and Acquisitions | FT Mergers and Acquisitions | https://www.ft.com/mergers-acquisitions?format=rss |
-Mergers and Acquisitions | Google News major M&A deals | https://news.google.com/rss/search?q=merger+acquisition+billion+OR+%22private+equity%22+buyout&hl=en-GB&gl=GB&ceid=GB:en |
+Mergers and Acquisitions | GN takeover bids | https://news.google.com/rss/search?q=takeover%20bid%20OR%20%22agreed%20to%20buy%22%20billion&hl=en-GB&gl=GB&ceid=GB:en |
+Mergers and Acquisitions | GN acquisitions | https://news.google.com/rss/search?q=%22to%20acquire%22%20billion%20deal&hl=en-GB&gl=GB&ceid=GB:en |
 Mergers and Acquisitions | Google News UK PE buyouts | https://news.google.com/rss/search?q=%22private+equity%22+takeover+OR+buyout+UK&hl=en-GB&gl=GB&ceid=GB:en |
 Mergers and Acquisitions | Google News China M&A | https://news.google.com/rss/search?q=China+merger+acquisition+OR+buyout+billion&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Built environment | Construction Dive | https://www.constructiondive.com/feeds/news/ |
