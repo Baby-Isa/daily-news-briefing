@@ -126,6 +126,8 @@ Editorial | Rest of World | https://restofworld.org/feed/ | FULLTEXT QUIET
 Editorial | New Lines | https://newlinesmag.com/feed/ | FULLTEXT QUIET
 Editorial | Aeon | https://aeon.co/feed.rss | FULLTEXT QUIET
 Editorial | Economist The Intelligence | https://feeds.acast.com/public/shows/theintelligencepodcast |
+Editorial | Economist Weekend Intelligence | https://feeds.acast.com/public/shows/the-weekend-intelligence | QUIET RARE
+Editorial | Pulitzer Center | https://news.google.com/rss/search?q=site%3Apulitzercenter.org&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 
 ## ENTITY SEARCH FEEDS (Google News, for lanes with no dedicated publication)
 Agronomics | Google News Agronomics | https://news.google.com/rss/search?q=Agronomics+ANIC&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE

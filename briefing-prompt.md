@@ -670,6 +670,21 @@ twice-weekly publications where a daily check would return the same items.
   Saturday   Longreads Top 5 of the Week
   Sunday     Economist "Weekend Intelligence"; Pulitzer Center
 
+Two notes on availability, so an absence is not misread as a broken feed.
+
+"The Intelligence" is a WEEKDAY podcast. No episode on Saturday or
+Sunday is normal and needs no remark. "Weekend Intelligence" is a
+separate show and has been on hiatus since roughly June 2026 - its feed
+is configured and flagged RARE, so it will simply start appearing again
+if the show returns. Until then Sunday runs on the Pulitzer Center plus
+whatever the standing editorial feeds carry.
+
+The Pulitzer Center's own site refuses datacenter IPs (HTTP 403), so it
+arrives via a Google News site: search instead. That returns its
+commissioned features but also the occasional fellowship or grant
+announcement - those are organisational notices, not journalism, and
+are not editorial picks.
+
 The Top 5 sits on Saturday, not Friday, because Longreads publishes it
 around 10:00 UTC on Friday - after the digest is built. A Friday slot
 could therefore only ever see the PREVIOUS week's roundup, which is
