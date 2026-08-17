@@ -22,13 +22,14 @@ Middle East | Middle East Eye | https://www.middleeasteye.net/rss |
 Middle East | France 24 ME | https://www.france24.com/en/middle-east/rss |
 Middle East | NPR Middle East | https://feeds.npr.org/1009/rss.xml |
 Middle East | Al Jazeera global | https://www.aljazeera.com/xml/rss/all.xml |
-East Africa | The EastAfrican | https://www.theeastafrican.co.ke/rss.xml |
+East Africa | The Standard Kenya | https://www.standardmedia.co.ke/rss/headlines.php |
+East Africa | GN Kenya Tanzania | https://news.google.com/rss/search?q=Kenya%20OR%20Tanzania%20politics%20OR%20economy%20OR%20election&hl=en-GB&gl=GB&ceid=GB:en |
 East Africa | BBC Africa | https://feeds.bbci.co.uk/news/world/africa/rss.xml |
 East Africa | NPR Africa | https://feeds.npr.org/1126/rss.xml |
 Sub-Saharan Africa | Africanews | https://www.africanews.com/feed/rss |
 Sub-Saharan Africa | Daily Maverick | https://www.dailymaverick.co.za/rss |
 Sub-Saharan Africa | France 24 Africa | https://www.france24.com/en/africa/rss |
-South Asia | Dawn | https://www.dawn.com/feeds/home |
+South Asia | Dawn | https://news.google.com/rss/search?q=site%3Adawn.com%20Pakistan&hl=en-GB&gl=GB&ceid=GB:en |
 South Asia | BBC India | https://feeds.bbci.co.uk/news/world/asia/india/rss.xml |
 South Asia | NPR Asia | https://feeds.npr.org/1125/rss.xml |
 South Asia | Guardian India | https://www.theguardian.com/world/india/rss |
