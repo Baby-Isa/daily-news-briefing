@@ -66,7 +66,7 @@ Health | NPR Health | https://feeds.npr.org/1128/rss.xml |
 Energy | Carbon Brief | https://www.carbonbrief.org/feed/ | FULLTEXT
 Energy | NYT Environment | https://rss.nytimes.com/services/xml/rss/nyt/Environment.xml |
 Energy | NPR Climate | https://feeds.npr.org/1167/rss.xml |
-Energy | CSM Environment | https://rss.csmonitor.com/feeds/environment |
+Energy | CSM Environment | https://rss.csmonitor.com/feeds/environment | QUIET
 AI and technology | MIT Tech Review | https://www.technologyreview.com/feed/ |
 AI and technology | The Verge | https://www.theverge.com/rss/index.xml |
 AI and technology | Ars Technica | https://arstechnica.com/feed/ |
