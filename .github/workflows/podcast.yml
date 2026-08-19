@@ -32,8 +32,23 @@ jobs:
       - name: Install Kokoro (local, offline TTS - no account or key needed)
         run: pip install kokoro-onnx soundfile
 
-      - name: Install ffmpeg
-        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      # ubuntu-latest already ships ffmpeg, so this is only a fallback for
+      # images that do not. It used to run unconditionally, which made it
+      # the most fragile step in the job: on 19 August apt-get hung on a
+      # stalled package mirror for 26 minutes and the episode never
+      # published, while every other step in the run had finished in 26
+      # seconds. Skipping the install when ffmpeg is already there removes
+      # the failure mode entirely on the normal path, and timeout-minutes
+      # means a bad mirror fails fast enough to re-run rather than leaving
+      # the job sitting in_progress indefinitely.
+      - name: Install ffmpeg if the runner lacks it
+        timeout-minutes: 5
+        run: |
+          if command -v ffmpeg >/dev/null && command -v ffprobe >/dev/null; then
+            echo "ffmpeg and ffprobe already present - skipping apt-get."
+          else
+            sudo apt-get update && sudo apt-get install -y ffmpeg
+          fi
 
       - name: Confirm ffmpeg is available
         run: ffmpeg -version && ffprobe -version
