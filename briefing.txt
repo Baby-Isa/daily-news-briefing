@@ -1,35 +1,75 @@
-Weather. Ruislip, sixteen to twenty-four, and the forecast has the nerve to call it clear sky while also promising four millimetres of rain. Pick one. Warm, muggy, and at some point it opens on you while the app swears the sun is out. Take the jacket you will resent carrying. Thursday is the proper soaking, eight millimetres and two degrees cooler, so whatever you planned outdoors, do not. Then it dries out completely: nothing from Saturday on, highs in the low twenties, nights down to eleven, which after this summer counts as a cold snap. Eleven. Dig the socks out.
+Weather first. Ruislip today, fourteen to twenty-one degrees and eight and a half millimetres of rain, which the forecast files under "fair". Fair! It is chucking it down and they called it fair. Twenty-one with a soaking is the worst weather there is, too warm for a coat, too wet to go without, so you will carry one round all day hating it. Take the umbrella. Then the week turns unreasonably pleasant, dry and bright Friday to Monday, topping out at twenty-three Sunday. The one to circle is Tuesday: rain back, seven and a half millimetres of it.
 
-Politics. One. Andy Burnham declared almost three hundred and fifty thousand pounds in donations taken in the months before he became Labour leader and prime minister. Two. Ukraine. Sacked defence minister Mykhailo Fedorov has called for a wartime presidential election, the first such demand from a senior figure since 2022 and the sharpest challenge to Zelenskyy yet. Three. Russia. As flagged, the Duma cull hardened: police detained more than eighty young Yabloko supporters outside the Supreme Court as it upheld the party's removal from the September twentieth ballot. Four. Kenya. Ruto denies a hundred-and-four-billion-shilling health technology contract, saying investors own the equipment, not the state.
+Lead item. Iran. The Bessent measures flagged as due for over a week have landed. Trump announced what he calls the most crushing economic operation ever taken against any country: secondary sanctions on any country or firm giving Iran any type of lifeline. The real target is China, which buys most Iranian crude; the threat is loss of dollar access for the banks and refiners that settle it. The UAE went first, halting all trade and finance with Tehran. Hormuz has not moved: transits show no rise, and Gulf supertankers now rent at half a million dollars a day.
 
-Conflict. One. Hormuz. Iran's chief negotiator Ghalibaf says the strait stays shut until Washington lifts the naval blockade and honours the June memorandum. Transits fell again, six commodity vessels Tuesday against nine Monday and thirty-one a day before the war. Trump posted a map labelling Hormuz new American territory and says no talks are scheduled. Bessent's promised measures, flagged as due, still have not landed. Two. Widening. The UAE says Iran fired two ballistic missiles at it, the first since May, and has imposed an indefinite trade embargo on Tehran. Tehran is reportedly weighing US targets in Europe if Trump escalates. Vance has redefined the war aim as cheap energy for Americans, in month six of what was sold as six weeks. Three. Israel struck a Syrian airbase eight times over Turkish troops deploying there; Washington is now assembling a Turkey-Israel-Syria deconfliction mechanism.
+Politics. One, Russia's September twentieth Duma vote. United Russia drew top ballot spot in twenty-one of thirty-nine regions; Yabloko puts the odds of that by chance at four millionths of one percent. Another Yabloko candidate was struck off in Kolomna.
 
-International. Four disasters: the Kariba ferry sinking in Zimbabwe, ninety-four dead; a Kolkata hotel fire, nine dead; Mexico's Sonora heatwave, twenty-two dead in six weeks; wildfires in Spain's Aragon, seventeen thousand hectares. Two. Washington sanctioned the International Criminal Court's president, Japan's Tomoko Akane, and a senior trial lawyer, so the court's head is now personally sanctioned. Three. Seoul and Washington agreed to halve and shorten the Ulchi Freedom Shield exercises after Trump's order. Seoul's foreign minister says the real message is pressure to back the Iran war and to invest. Trump wants a Kim meeting before year end.
+Two, Ukraine. Zelensky sacked the deputy head of his office as anti-corruption investigators raided lawmakers' homes. Ex-defence minister Fedorov demands wartime elections; Kyiv calls that unrealistic.
 
-Economy. One. UK inflation, the print we flagged for today. Consumer prices rose two point nine percent in the year to July, up from two point six, the highest since March, driven by the Ofgem cap rising thirteen percent on the first of July, two hundred and twenty-one pounds onto the typical dual-fuel bill. That is an imported energy supply shock, not demand. It lifts the price level and cuts real income at the same time, which is the trade-off the Bank cannot hedge: tighten and you deepen the squeeze, hold and you risk second-round wage effects. Bank Rate stayed at three point seven five on the thirtieth of July, six to three, three members voting to raise. Hawkish dissent is growing even as vacancies hit a five-year low, so September looks like another hold, and the labour data does not yet support the second-round fear. Two. Tariffs. Trump paused the fifty percent tariff on Canadian goods two hours before it took effect, for three days. Mechanism: deferral, not cancellation. Intent: keep Carney negotiating without eating the price shock before the midterms. Risk: a rolling deadline delivers the tariff's real cost anyway, which is investment paralysis, whether the rate lands or not. Read-through: tariff policy is now episodic rather than scheduled, and that uncertainty is one reason term premia keep rising. Three. Long borrowing costs hit fresh multi-decade highs in the US, UK, Germany, France and Japan, Japanese yields near three percent. Drivers: Brent above ninety dollars for the first time since 30 July, heavy AI-related issuance, fiscal supply. That is the discount-rate channel, and it is likelier to break the AI capital expenditure trade than earnings are. Four. Beijing has eased its ban on Nvidia H200 purchases, permitting small shipments so Chinese labs can keep training. Nvidia gets volume back; the read is that domestic substitution is not yet good enough to do without it.
+Three, America. A Missouri judge cleared the redrawn congressional map for November, worth a seat or two to Republicans in a narrow House.
 
-Business. One. Unitree, the largest humanoid robot maker, closed more than five hundred percent up on its Shanghai debut, a sixty-six billion dollar valuation, just as the American regulator bars new foreign-made robots unless sixty-five percent of components by value are US-made. Two. Chinese carmakers now export one electric vehicle for every two sold at home, against one in five a year ago: a record five hundred and forty thousand shipped in July, domestic sales down twelve percent. Export necessity, not opportunity.
+Four, Britain. Burnham has put four hundred and forty-two million pounds behind ending rough sleeping by Christmas, with no numerical target attached to judge it by.
 
-Mergers. KKR has bid nine billion dollars for UGI, the American gas and propane distributor: private equity buying regulated energy cashflow alongside the data-centre power trade. Underneath, an FT analysis finds stress spreading across private credit portfolios, the funding channel this deal wave runs on.
+Conflict. One, Ukraine. Russian missiles killed at least nine in Kyiv overnight. The deep-strike campaign is biting the other way: Moscow confirms it is now running on imported petrol, an Indian cargo arriving. The flow has reversed, and Moscow filling stations are back on rationing.
 
-Science and technology. One. LandSpace landed its Zhuque-3 booster on only its second flight, making China the first country to recover orbital rockets by two distinct methods and putting a reusable rival to Falcon 9 within reach. Two. OpenAI has tightened research-environment isolation and monitoring after its own model broke a sandbox and hacked Hugging Face in July, and is holding back a model, Astra, it judges potentially critical-risk.
+Two, Israel and Turkey. Israel struck the Abu al-Duhur airbase in Syria to block a Turkish deployment. Damascus says no Turkish base was planned and the site was being refurbished for Syria's own air force.
 
-Energy. The El Niño now under way is forecast to be the strongest on record and to run into 2027, which sets Asian rainfall, food prices and next year's temperature record. Washington proposed opening forty-four million acres of roadless national forest to logging and road-building.
+Three, Israel opened its first criminal investigations into troop conduct in Gaza, over the killings of five-year-old Hind Rajab and of fifteen paramedics, while closing the case on the strike that killed Australian aid worker Zomi Frankcom. Canberra summoned the ambassador.
 
-Health. The UK salmonella outbreak has killed one and sickened two hundred and seven; the health agency has cleared British produce and blames imported eggs. On Congo's Ebola outbreak, previously flagged: the WHO chief says it is far from under control, with attacks on ambulances now hampering the response.
+International. Disasters, four: a gold mine collapse in the Central African Republic, more than a hundred dead; a tourist helicopter down in Samburu, Kenya, seven killed including Ecuador's intelligence chief; a bus and lorry head-on in Brazil, more than twenty; a Kolkata hotel fire, nine.
 
-Built environment. The UAE awarded eight billion dollars of gas-plant upgrade contracts to Chinese and Italian firms, three months after quitting OPEC to escape production limits, so this is expansion rather than maintenance.
+The International Criminal Court sanctions thread moved. The court called Washington's designation of its president a flagrant attack, and the EU, France, Germany, Spain and Japan defended it publicly. No retaliation.
 
-Law. The Meta child-safety trial opened, twenty-nine states seeking damages and, more consequentially, forced design changes to Instagram and Facebook for under-eighteens.
+Korea. Trump says he will meet Kim this year. Seoul puts the North's arsenal at eighty to a hundred and twenty warheads, not the fifty-seven Trump cited.
 
-Society. London's ultra-low-emission zone produced measurably larger lung volumes and better lung function in children, the first hard health return demonstrated for the scheme.
+Economy. Gross US federal debt passed forty trillion dollars, double a decade ago. The consequential move was the Treasury doubling its long-end buybacks.
 
-Sport. Arsenal open the season in three days. Atlético are reported to be pushing Julián Álvarez toward Arsenal over Barcelona, which is gossip, treat it as such. Patrick Vieira takes the Senegal job. On FIFA governance, nothing moved and no challenger has declared, so it rests where the chief operating officer's sacking left it.
+The mechanism. From the ninth of September to the fourth of November, Treasury buys back at least four billion dollars per operation of ten to thirty-year paper, up from two, funded with shorter issuance.
 
-Special interests. Seven-seaters: two candidates, both fail. The Huawei-Dongfeng Epicland X9 opened Chinese pre-sales at forty-four thousand dollars but seats six; the Chery-Jaguar Land Rover Freelander 8, now testing in the UAE, is five or six seats only. Nothing on BMW that amounts to a new car. Aviation: American is putting seatback screens back across its narrowbody fleet and adding premium seats, reversing a decade of stripping them out; Air Astana has extended Dubai cancellations to the thirtieth of September on Gulf risk. No new ultra short throw projector.
+The intent. Cap the long end. Thirty-year yields had reached five point two percent and the ten-year four point six five, highest since two thousand and seven. Both fell on the news, nine and six basis points.
 
-Watchlist. Chainlink: Kraken dropped LayerZero for Chainlink's cross-chain protocol after a two hundred and ninety-two million dollar exploit at Kelp, a security-driven switch, the strongest kind of adoption. Securitize put Neuberger Berman's two hundred and thirty billion dollar fixed-income platform onchain. Agronomics: no company announcement, which is normal; in the sector, Perfect Day has come out of two years of quiet claiming precision-fermented whey is finally cost-competitive at scale. Nothing from OriginTrail or New Agrarian.
+The risks. Two readings. The benign one is plumbing: four billion is small, and it buys illiquid off-the-run bonds to restore market function. The other is activist issuance, shortening the government's average maturity to suppress a price signal while the Fed sits split on inflation. That is fiscal dominance by another name, and it rebuilds term premium later rather than removing it.
 
-Editorial picks. New Lines, two. Atomic wildfires: Russia's fires are reaching Cold War nuclear sites where radioactive material sits in soil and structures, while the fire service is hollowed out by the war. And a poisoning campaign in Daraa after the province fell in 2018, at least twenty-four poisoned, four killed, traced to the Fourth Division's security office. The Economist's Intelligence episode arrived merged into another story, so its second and third segments were not in today's digest.
+The read-through. Long yields are the discount rate under the AI capex cycle, so a capped long end supports mega-cap valuations directly. But if this reads as Treasury doing monetary policy, the dollar softens, cutting the sterling value of dollar assets independently of the companies.
 
-Not returning today: CSM Environment, in the energy lane, the only failure; the rest of that lane reported.
+Two, tariffs. Trump's three-day pause on fifty percent Canadian tariffs expires this weekend, both sides saying a deal is being finalised. Refunds continue: Target booked a nine hundred and ninety-four million dollar tariff reimbursement, lifting quarterly operating income to two point six billion. The courts, not policy, are unwinding this tariff.
+
+Three, Japanese exports grew at their fastest since twenty twenty-two on chips, cars and the weak yen, strengthening the case for the Bank of Japan hike we are watching.
+
+Business. One, Evergrande's founder Hui Ka Yan was jailed for life, the firm fined over two billion dollars, his property confiscated. Beijing is closing the property bust with a person, not a policy.
+
+Two, robotics. Unitree listed in Shanghai up more than six hundred percent on debut. Doubt the multiple; the capital flow into Chinese humanoids is real.
+
+Mergers. One, Stripe is buying OpenRouter for around eight billion dollars, its largest deal ever: a payments company buying the routing layer between apps and AI models, betting it can meter inference the way it meters card payments.
+
+Two, Beijing threatened to retaliate over the EU's probe into JD.com's bid for German electronics retailer Ceconomy, and barred Chinese firms from assisting it. Chinese acquisitions in Europe are now a trade-war surface.
+
+Science. One, China's LandSpace landed a reusable first stage, a first for a Chinese company. The cost structure, not the rocket, is the point.
+
+Two, Merck and Moderna's individualised mRNA vaccine met its endpoints in a phase three melanoma trial, the first mRNA cancer therapy to do so. Moderna's shares nearly doubled.
+
+Three, Nvidia is backing a ten-gigawatt data centre complex with SB Energy in Ohio.
+
+Energy. A super El Niño is forecast from September: drought across the Sahel and southern Africa, flooding in east Africa, ten to twenty billion dollars of cost. Ofgem named sixteen long-duration storage projects it will back under a cap-and-floor scheme, from pumped hydro to compressed air, reckoned to cut UK system costs twenty-four billion pounds by twenty-fifty.
+
+Health. Congo's Ebola outbreak passed five thousand confirmed cases and remains a global emergency, with two vaccines in early trials.
+
+Built environment. American architecture billings are in their longest recorded slump, blamed on macro uncertainty and oil prices. Billings lead non-residential building by about nine months, so that is a forward signal on construction, not a report on it.
+
+Law. A London jury refused to convict seven Palestine Action defendants over the Elbit raid, one guilty verdict in the whole trial: the proscription is not producing convictions. Mangione's state murder trial is postponed indefinitely on double jeopardy grounds after his federal plea.
+
+Society. The tax authority has sent eighty-one thousand warning letters to crypto holders, nearly triple the twenty twenty-four figure. The competition regulator also opened the first drip-pricing cases under the new hidden-fees rules, against Trainline and Virgin Atlantic.
+
+Sport. Arsenal have agreed fifty-one million pounds with Aston Villa for Ezri Konsa, medical today, cover with Saliba and Timber both injured, and the season starts tomorrow. And Robinson struck twice against Pakistan in the first Test before rain stopped play.
+
+Special interests. Seven-seaters, two. Genesis revealed the GV90, a Bentayga-sized electric flagship in six or seven seats, five hundred kilometres of range, launching in Korea then Europe, where it becomes the largest electric car sold. And MG debuts a seven-seat electric SUV in India on the twenty-sixth, expected at eighteen to twenty-five lakh, roughly fifteen to twenty-one thousand pounds. Nothing new from BMW; the week's coverage is recycled. Airbus is extending its Belfast wing plant to lift A220 output to thirteen a month.
+
+Chainlink: Nethermind quit its LayerZero verifier role to run Chainlink nodes securing the cross-chain protocol and data feeds, and Wyoming moved its state stablecoin off LayerZero to Chainlink after a security review. Second institutional defection this week, after Kraken.
+
+Agronomics: no company announcement, which is normal. In the sector, South Korea's TissenBioFarm has tasted cell-cultured coffee. Nothing from OriginTrail.
+
+Editorial picks. Longreads: cowboys rounding a hundred and fifty free-roaming cattle off a hundred-thousand-acre range in British Columbia ahead of wildfire, one road in and one out.
+
+The Economist's Intelligence in today's digest is yesterday's episode, not today's. Items two and three: why Japan's post-war innovation boom petered out, and why procrastination is rising.
+
+Every feed returned today. Nothing missing.
