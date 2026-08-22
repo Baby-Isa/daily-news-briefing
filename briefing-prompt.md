@@ -692,6 +692,14 @@ exactly what happened on 14 August: the digest carried #620 from 7
 August. Saturday's build catches it fresh. Friday takes Editors' Picks
 instead, which post individually through the week and are always current.
 
+THE TOP 5 IS NOT PUBLISHED EVERY WEEK. Longreads ran #621 on 14 August
+and then skipped the following Friday entirely. When it is not in the
+digest, do NOT report its absence - it is a roundup of pieces that are
+themselves in the digest as individual Longreads items, so the material
+is not missing, only the packaging. Use the strongest individual picks
+and say nothing about the roundup. Absence is only worth mentioning when
+something actually went unreported.
+
 Where a pick is paywalled, say so and point me to the free podcast rather
 than pretending to summarise the article.
 
