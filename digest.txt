@@ -1,7 +1,7 @@
 ======================================================================
 NEWS DIGEST for Sunday 23 August 2026  [full digest]
-Built 00:00 UTC
-522 unique stories from 158 feeds (310 in full, 212 headline-only)
+Built 06:35 UTC
+526 unique stories from 158 feeds (298 in full, 228 headline-only)
 ======================================================================
 
 Every item below is dated. Check each date against today before treating anything as new.
@@ -15,71 +15,79 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 ## WORLD: EUROPE AND AMERICAS
 ######################################################################
 
---- UK (38) ---
+--- UK (41) ---
+
+* Police officers killed in wrong-way crash mourned in 'unimaginable loss'
+  BBC UK | 23 Aug 06:23 UTC
+  PC Matthew Blades, PC Tom Clough and five teenagers were killed when a car carrying the teens drove the wrong way on the A66 and struck the police vehicle.
+  https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss
+
+* Baby whose parents feared had just days to live is 'thriving' after life-saving heart operation
+  BBC UK | 23 Aug 06:13 UTC
+  Doctors have told mum and dad Catrin and Dylan it could take years for a donor to materialise.
+  https://www.bbc.co.uk/news/articles/c5y6npz7zy0o?at_medium=RSS&at_campaign=rss
+
+* Nine out of 10 unsolved murders in London linked to non-white victims
+  Guardian UK | 23 Aug 06:00 UTC
+  Exclusive: analysis risks deepening perception of ‘unequal protection under the law’ Killers who take the lives of black people have a greater chance of getting away with their crimes than those who target white people, new research shows. Analysis of unsolved homicides in London between 2019 and 2023 found non-white British people made u...
+  https://www.theguardian.com/law/2026/aug/23/nine-out-of-10-unsolved-murders-in-london-linked-to-non-white-victims
+
+* Onshore windfarm applications hit 10-year high in England
+  Guardian UK | 23 Aug 06:00 UTC
+  Surge in proposals follows Labour’s lifting of de facto ban, with about 45 plans submitted in the year to March Plans for new onshore windfarms in England have reached their highest annual level in a decade, after the government overturned the Conservatives’ de facto ban in 2015. About 45 applications for new onshore windfarms were submit...
+  https://www.theguardian.com/environment/2026/aug/23/onshore-windfarm-applications-10-year-high-england
 
 * The Papers: 'Power to block nimby protests' and Meghan 'deal could be off'
-  BBC UK | 22 Aug 23:40 UTC
+  BBC UK | 23 Aug 05:07 UTC
   New mayoral powers and continued reporting on the Duchess of Sussex's television role lead Sunday's papers.
   https://www.bbc.co.uk/news/articles/cy070jv944po?at_medium=RSS&at_campaign=rss
 
-* Fitness coach had stroke weeks after giving birth
-  BBC UK | 22 Aug 23:26 UTC
-  Becki Barratt says she never imagined she would hear the words - "you've had a stroke" – at her age.
-  https://www.bbc.co.uk/news/articles/c89nzjx8v8zo?at_medium=RSS&at_campaign=rss
+* Burnham expected to give mayors new powers over local planning decisions
+  Guardian UK | 23 Aug 05:00 UTC [also carried by: BBC UK]
+  Move would allow mayors to greenlight large-scale developments and have more say on national housing funding Andy Burnham is expected to give mayors new powers to take control of local planning decisions and greenlight large-scale developments in proposals to be presented next week. The move would allow mayors to “call in” the decisions a...
+  https://www.theguardian.com/society/2026/aug/23/burnham-expected-to-give-mayors-new-powers-over-local-planning-decisions
 
-* Why we can't look away from hoarder home clean-ups
-  BBC UK | 22 Aug 23:22 UTC
-  Videos of extreme cleaning posted on social media often go viral and are watched millions of times.
-  https://www.bbc.co.uk/news/articles/cy743vpj3dlo?at_medium=RSS&at_campaign=rss
+* British corporation continued trafficking of enslaved Africans to Guyana 40 years after abolition
+  Guardian UK | 23 Aug 05:00 UTC
+  Letter written in 1847 to Sandbach, Tinne and Company’s Liverpool office reveals it engaged in practice after receiving taxpayer-funded compensation, book says When Britain abolished slavery, plantation owners from powerful families notoriously received huge sums in compensation, while those who were enslaved got nothing. Now evidence has...
+  https://www.theguardian.com/news/2026/aug/23/british-corporation-continued-trafficking-of-enslaved-africans-to-guyana-40-years-after-abolition-reveals-letter
 
-* How a new era of heatwaves could shake up the school calendar
-  BBC UK | 22 Aug 23:16 UTC
-  Teachers warn it could be increasingly difficult for classrooms to function during the hottest months.
-  https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss
+* Drill, Burnham, drill? The oil basin that is a totem for Trump - and a headache for Britain’s new PM
+  Guardian UK | 23 Aug 05:00 UTC
+  North Sea oil, once the driving force of the UK economy, may be dwindling but it remains a symbol of prestige and a rich resource for political debate When oil was first discovered off the north-east coast of Scotland in September 1969, industry folklore has it that the duty superintendent on the rig carefully poured it into a pickle jar ...
+  https://www.theguardian.com/environment/ng-interactive/2026/aug/23/drill-burnham-north-sea-oil-basin-totem-trump-headache-britain
 
-* Fear and fallout three months on from Northern Ireland's race riots
-  BBC UK | 22 Aug 23:01 UTC
-  Northern Ireland saw consecutive nights of violence following a knife attack - but how are victims faring now?
-  https://www.bbc.co.uk/news/articles/c0ej0edzddjo?at_medium=RSS&at_campaign=rss
+* Two police officers killed in North Yorkshire crash named
+  Guardian UK | 23 Aug 04:38 UTC
+  Watchdog launches inquiry into collision in which seven people died involving police car and another vehicle Two police officers who died in a car crash near Middlesbrough in the early hours of Saturday have been named. Police constables Matthew Blades and Tom Clough were among seven people killed after their marked police car collided wi...
+  https://www.theguardian.com/uk-news/2026/aug/22/people-die-in-crash-involving-police-vehicle-and-car-in-north-yorkshire
+
+* Mayors to be given powers to take control of planning decisions and force through developments
+  Sky News | 23 Aug 04:01 UTC
+  Andy Burnham is set to hand mayors new powers to overrule councils and take control of local planning decisions
+  https://news.sky.com/story/pm-andy-burnham-to-give-mayors-power-to-take-control-of-planning-decisions-and-force-through-developments-13576173
 
 * Struggling households need more help with bills, energy industry says
   BBC UK | 22 Aug 23:00 UTC [also carried by: BBC Business]
   Industry body Energy UK says the current support for households most in need does not go far enough.
   https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss
 
-* Violent and sexual offenders to be confined to zones of 'a few miles' after release from prison
-  Sky News | 22 Aug 22:01 UTC
-  Prisoners jailed for violent and sexual offences may be confined to zones of a few miles when they are released.
-  https://news.sky.com/story/violent-and-sexual-offenders-to-be-confined-to-zones-of-a-few-miles-after-release-from-prison-13576137
-
-* Davis 'grateful' for support over cancer diagnosis
-  BBC UK | 22 Aug 21:50 UTC
-  The Office star was appearing at convention in London, less than two weeks after announcing her condition.
-  https://www.bbc.co.uk/news/articles/cd9w9l9v8w8o?at_medium=RSS&at_campaign=rss
-
-* Two police officers killed in North Yorkshire crash named
-  Guardian UK | 22 Aug 16:09 UTC [also carried by: Al Jazeera global, BBC UK]
-  Watchdog launches inquiry into collision in which seven people died involving police car and another vehicle Two police officers who died in a car crash near Middlesbrough in the early hours of Saturday have been named. Police constables Matthew Blades and Tom Clough were among seven people killed after their marked police car collided wi...
-  https://www.theguardian.com/uk-news/2026/aug/22/people-die-in-crash-involving-police-vehicle-and-car-in-north-yorkshire
-
-* Two men arrested on suspicion of manslaughter after death of soldier released on bail
+* Two bailed after being arrested on suspicion of manslaughter after death of soldier
   Sky News | 22 Aug 13:53 UTC [also carried by: BBC UK]
   Two men arrested on suspicion of manslaughter after the death of a 22-year-old soldier, whose disappearance on a night out triggered a major search, have been released on bail.
   https://news.sky.com/story/two-men-arrested-on-suspicion-of-manslaughter-after-death-of-22-year-old-soldier-released-on-bail-13575853
 
-* Former British and French diplomats urge action over Israel’s ‘erasure’ of Palestine
-  Guardian UK | 22 Aug 09:00 UTC [also carried by: France 24 ME]
-  In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade ban More than 100 French and British former diplomats have said Palestine is being erased in front of the world’s eyes and called for urgent action including trade and arms sales bans to press Israel to acc...
-  https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine
-
-* AC Milan-owner RedBird Capital pitches PREM Rugby investment
-  Sky News | 22 Aug 06:45 UTC [also carried by: Sky News Business]
-  The sports and media investment group which owns the Italian football giants AC Milan has begun exploring a deal to become a major backer of English domestic professional rugby.
-  https://news.sky.com/story/ac-milan-owner-redbird-capital-pitches-prem-rugby-deal-13575696
-
-  ALSO IN UK (26), headline only:
+  ALSO IN UK (29), headline only:
+  - Restriction zone scheme for offenders to start in October (BBC UK)
+  - Heathrow expansion ‘is threat to England’s largest surviving medieval barn’ (Guardian UK)
+  - Mother of UK woman shot dead by father in Texas to go to US in bid to get case reopened (Sky News)
+  - Fitness coach had stroke weeks after giving birth (BBC UK)
+  - Why we can't look away from hoarder home clean-ups (BBC UK)
+  - How a new era of heatwaves could shake up the school calendar (BBC UK)
+  - Fear and fallout three months on from Northern Ireland's race riots (BBC UK)
+  - Violent and sexual offenders to be confined to zones of 'a few miles' after release from prison (Sky News)
+  - Davis 'grateful' for support over cancer diagnosis (BBC UK)
   - Meghan’s casting in The Gentlemen reportedly withdrawn (Guardian UK)
-  - Baby whose parents feared had just days to live is 'thriving' after life-saving heart operation (BBC UK)
   - Video appears to show police chase minutes before fatal A66 crash (BBC UK)
   - Blue plaque unveiled at home of Paddington creator (BBC UK)
   - Badenoch says Reform defectors ‘some of the most dishonest people I have met’ (Guardian UK)
@@ -99,23 +107,33 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Unions worry Labour’s plan for zero-hours contracts may break manifesto pledge (Guardian UK)
   - Usain Bolt set to play Sunday league football (Sky News)
   - Hidden museum gallery to reopen after 83 years (BBC UK)
-  - Teen blinded by firework wants ban on public sales (BBC UK)
-  - Battery fires at recycling centres are costing UK £1bn a year, figures show (Guardian UK)
-  - ‘We fear lessons will not be learned’: Chloe Moffat’s parents on their fight to hold Treasury to account (Guardian UK)
-  - Premium bonds: more chance of win as NS&I ups prize fund rate again (Guardian UK)
-  - Brief break from rain as sunshine returns for weekend (BBC UK)
 
---- Europe (12) ---
+--- Europe (14) ---
+
+* Canadian PM Carney says new US tariffs are 'designed to hurt us and divide us'
+  Euronews | 23 Aug 06:15 UTC
+  "We cannot accept what they've offered, and we will not give what they've asked," Carney said during a speech outlining Canada's position on the trade dispute with the US.
+  http://www.euronews.com/2026/08/23/canadian-pm-carney-says-new-us-tariffs-are-designed-to-hurt-us-and-divide-us
+
+* Latest news bulletin | August 23rd, 2026 – Morning
+  Euronews | 23 Aug 05:00 UTC
+  Catch up with the most important stories from around Europe and beyond this August 23rd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.
+  http://www.euronews.com/video/2026/08/23/latest-news-bulletin-august-23rd-2026-morning
+
+* Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.
+  NYT Europe | 23 Aug 04:01 UTC
+  The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.
+  https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html
+
+* Return of Harry and Meghan to U.K. Renews Questions About Their Security Fears
+  NYT Europe | 23 Aug 03:27 UTC
+  The couple lost their publicly funded security after deciding to leave Britain in 2020, deepening their split with the royal family.
+  https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html
 
 * How Two British Historians Made a Smash Hit Podcast
   NYT Europe | 22 Aug 21:03 UTC
   They took on topics as diverse as fall of the Aztecs, the French Revolution, the assassination of Abraham Lincoln, and history’s greatest monkeys. The rest is history.
   https://www.nytimes.com/2026/08/22/world/europe/rest-is-history-podcast-sandbrook-holland.html
-
-* Latest news bulletin | August 22nd, 2026 – Evening
-  Euronews | 22 Aug 16:00 UTC
-  Catch up with the most important stories from around Europe and beyond this August 22nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.
-  http://www.euronews.com/video/2026/08/22/latest-news-bulletin-august-22nd-2026-evening
 
 * Close and Loving, or Oppressive? A Novelist Takes Aim at Italian Families.
   NYT Europe | 22 Aug 15:22 UTC
@@ -142,54 +160,58 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   One effect of moving back is that Archie and Lilibet now have the opportunity to be schooled as Britons. Here’s what that might look like.
   https://www.nytimes.com/2026/08/22/world/europe/harry-meghan-children-schools.html
 
+* White House ballroom will cost nearly $400m as Supreme Court allows work to continue
+  Euronews | 22 Aug 10:18 UTC
+  US President Donald Trump says the project is being funded by private donors and companies.
+  http://www.euronews.com/2026/08/22/white-house-ballroom-will-cost-nearly-400m-as-supreme-court-allows-work-to-continue
+
 * Former EU Commissioner Siim Kallas dies at 77
   Politico Europe | 22 Aug 09:09 UTC
   A key figure in Estonia's European trajectory, Kallas was the Baltic country's first ever commissioner.
   https://www.politico.eu/article/former-estonia-eu-commissioner-siim-kallas-dies-at-77/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
 
-* TikTok agrees to pay $400 million to settle US children's privacy lawsuit
-  Euronews | 22 Aug 09:08 UTC
-  “This settlement is a major victory for American children and parents,” associate Attorney General Stanley Woodward Jr. said.
-  http://www.euronews.com/2026/08/22/tiktok-agrees-to-pay-400-million-to-settle-us-childrens-privacy-lawsuit
+  ALSO IN EUROPE (2), headline only:
+  - TikTok agrees to pay $400 million to settle US children's privacy lawsuit (Euronews)
+  - Yvette Roudy, France’s First Minister for Women’s Rights, Dies at 97 (NYT Europe)
 
-* Yvette Roudy, France’s First Minister for Women’s Rights, Dies at 97
-  NYT Europe | 22 Aug 09:02 UTC
-  Maintaining that access to abortion was as much a matter of economic equality as women’s rights, she successfully championed state reimbursement for abortions.
-  https://www.nytimes.com/2026/08/22/world/europe/yvette-roudy-dead.html
+--- Eastern Europe (2) ---
 
-* US ambassador to Belgium defends controversial academic who scrutinized late Cambridge professor
-  Politico Europe | 22 Aug 05:10 UTC
-  Nathan Cofnas was suspended from Ghent University in Belgium pending an investigation following the death of Jason Arday.
-  https://www.politico.com/news/2026/08/21/us-ambassador-to-belgium-defends-controversial-academic-who-scrutinized-late-cambridge-professor-01046267?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+* The ‘ordinary’ woman accused of assassinating a Russian commander in Crimea
+  Guardian Ukraine | 23 Aug 04:00 UTC
+  Friends close to Margarita Reutt are shocked she could allegedly plant bomb that killed Ukrainian defector Robert Shageev, while others recall a stubborn grit to see any plan through It was just after dawn in Sevastopol when a powerful explosion tore through a quiet square in a residential district of the Russian-occupied Crimean port cit...
+  https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea
 
-* Ein Spaziergang mit Sven Schulze
-  Politico Europe | 22 Aug 03:05 UTC
-  Am 6. September steht Sachsen-Anhalt vor einer historischen Landtagswahl, bei der die AfD erstmals stärkste Kraft werden könnte. Ministerpräsident Sven Schulze liegt in Umfragen deutlich hinter seinem Herausforderer Ulrich Siegmund zurück. Gordon Repinski begleitet den CDU-Politiker auf einem Spaziergang durch den härtesten Wahlkampf des ...
-  https://www.politico.eu/podcast/berlin-playbook-podcast/ein-spaziergang-mit-sven-schulze/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+* Ukraine war briefing: Macron focuses on delivery of missile interceptors as Russian attacks intensify
+  Guardian Ukraine | 23 Aug 01:04 UTC
+  French president is working on European alternatives to US Patriot missile system and expresses ‘horror’ at deadly attack on shopping centre in Kryvyi Rih. What we know on day 1,642 French president Emmanuel Macron has promised to strengthen support for Ukraine with the delivery of interceptor missiles after a call with President Volodymy...
+  https://www.theguardian.com/world/2026/aug/23/ukraine-war-briefing-macron-focuses-on-delivery-of-missile-interceptors-as-russian-attacks-intensify
 
---- Eastern Europe (3) ---
+--- North America (25) ---
 
-* As Russian missiles rain down on Kyiv, casualties mount and the mood darkens
-  Guardian Ukraine | 22 Aug 04:00 UTC
-  Ukraine’s military has run out of US Patriot interceptors to repel ballistic attacks, which have one aim, the capital’s mayor says: to destroy morale Viktor, 23, Sofiia, 18, and their dog, Teddy, were bedding down for the night on Thursday at the Dorohozhychi metro station three stops from Kyiv’s city centre. The couple have sheltered her...
-  https://www.theguardian.com/world/2026/aug/22/russian-missiles-kyiv-ukraine-casualties-mood-darkens
-
-* Ukraine war briefing: Zelenskyy vows response to Russia’s deadly shopping centre attack
-  Guardian Ukraine | 22 Aug 03:14 UTC
-  Ukrainian president calls strikes on home town Kryvyi Rih an ‘absolute Russian atrocity’ and says world must ‘not remain silent’. What we know on day 1,641 Volodymyr Zelenskyy has vowed to hit back at Russia after its deadly attack on a shopping centre in central Ukraine. At least 16 people were killed and more than 130 wounded, authoriti...
-  https://www.theguardian.com/world/2026/aug/22/ukraine-war-briefing-zelenskyy-vows-response-to-russias-deadly-shopping-centre-attack
-
-* Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief
-  Guardian Ukraine | 22 Aug 01:12 UTC
-  Kaja Kallas, the EU’s top diplomat, threatens harshest sanctions yet on Russia after strike on Kryvyi Rih, the home town of Volodymyr Zelenskyy Russian drones have slammed into a busy shopping centre in central Ukraine, killing 16 people in an attack that Volodymyr Zelenskyy condemned as “cynical and despicable”. The EU’s foreign policy c...
-  https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih
-
---- North America (28) ---
+* Two Phoenix Police Officers Fired and Arrested After Violent Traffic Stop
+  NYT US | 23 Aug 05:54 UTC
+  The officers are accused of beating a couple and shocking them with a stun gun during an unreported traffic stop this month.
+  https://www.nytimes.com/2026/08/23/us/phoenix-police-arrests-traffic-stop.html
 
 * ‘It’s Been Terrible’: Thousands in Indiana Remain Without Power
-  NYT US | 22 Aug 23:30 UTC
+  NYT US | 23 Aug 04:06 UTC
   Gov. Mike Braun called on the local utility to “match the urgency” of Gary area residents who have had to endure an outage approaching its second week.
   https://www.nytimes.com/2026/08/22/us/gary-indiana-11-day-power-outage.html
+
+* Jackie Kennedy Onassis’ Private Beach on Martha's Vineyard Is Open to All. But It’s a Hike.
+  NYT US | 23 Aug 04:01 UTC
+  Caroline Kennedy and her family sold more than 330 acres of coastal land on Martha’s Vineyard to conservation groups. It comes with some caveats.
+  https://www.nytimes.com/2026/08/23/us/kennedy-estate-marthas-vineyard-conservation.html
+
+* Officials Investigating Postal Worker in Assault on a Peacock
+  NYT US | 23 Aug 01:25 UTC
+  A video appears to show a U.S. Postal Service worker striking a beloved all-white peacock named Sugar in a Pasadena, Calif., neighborhood.
+  https://www.nytimes.com/2026/08/22/us/pasadena-peacock-attack-postal-worker.html
+
+* Violent Extremist Who Targeted Young People Online Is Sentenced to 77 Years
+  NYT US | 22 Aug 23:57 UTC
+  Kyle William Spitze was part of an online extremist movement that coerces young people to do self-harm, officials said. Two of his victims died by suicide.
+  https://www.nytimes.com/2026/08/22/us/kyle-spitze-764-group-sentenced.html
 
 * Judge Denies New Trial for Karmelo Anthony in Texas Teen’s Killing
   NYT US | 22 Aug 23:14 UTC
@@ -200,11 +222,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   NYT US | 22 Aug 20:28 UTC
   A moderate Republican from Kansas, she served three terms before tiring of political strife. “I couldn’t get elected today,” she said in 2013.
   https://www.nytimes.com/2026/08/22/us/politics/nancy-kassebaum-dead.html
-
-* Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse
-  BBC US Canada | 22 Aug 20:10 UTC
-  Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs as he accused the US of starting a trade war.
-  https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss
 
 * Carney faces crucial test after walking away from Trump's deal
   BBC US Canada | 22 Aug 20:02 UTC
@@ -226,27 +243,14 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   As Republicans have embraced tough measures to clear the streets, no group has led the way more than the Cicero Institute, founded by the venture capitalist Joe Lonsdale.
   https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html
 
-* Postal Service Publishes Finalized Plan to Restrict Mail Ballots
-  NYT US | 22 Aug 17:31 UTC
-  The plan, which complies with President Trump’s executive order to curtail mail voting, will only go into effect if the Supreme Court rules in the order’s favor.
-  https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html
-
-* US military newspaper editor voices censorship fears after being fired
-  BBC US Canada | 22 Aug 16:57 UTC
-  Erik Slavin believes he was fired for saying in an interview that "in a hypothetical situation, censorship would be a red line".
-  https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss
-
 * Military’s arrest power at southern border grows. What’s behind the change?
   CSM USA | 22 Aug 09:00 UTC [also carried by: CSM Politics]
   President Trump expanded the U.S. military’s role in immigration enforcement, and a new legal opinion gives the Pentagon greater arrest powers at the southern border.
   https://www.csmonitor.com/USA/Politics/2026/0822/national-defense-areas-military-arrests?icid=rss
 
-* Alfalfa Sprouts Linked to Illnesses in 15 States, F.D.A. Says
-  NYT US | 22 Aug 02:07 UTC [also carried by: NYT Health]
-  Officials are investigating after multiple strains of E. coli and a type of salmonella sickened dozens of people across the United States. Two people were infected with both salmonella and E. coli.
-  https://www.nytimes.com/2026/08/21/us/alfalfa-sprouts-recall-salmonella-ecoli.html
-
-  ALSO IN NORTH AMERICA (16), headline only:
+  ALSO IN NORTH AMERICA (13), headline only:
+  - Postal Service Publishes Finalized Plan to Restrict Mail Ballots (NYT US)
+  - US military newspaper editor voices censorship fears after being fired (BBC US Canada)
   - Police Chief in Mississippi Regularly Used Racist Slurs, Private Text Messages Reveal (NYT US)
   - Harry and Meghan See Their California Dreams, and Riches, Fade Away (NYT US)
   - These 5 People Spent Decades Behind Bars. Here Are Their Stories. (NYT US)
@@ -258,11 +262,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - In Ohio, Haitians Feel Shaken by Ankle Monitors and Increased ICE Presence (NYT US)
   - From ‘bean to bar,’ boutique chocolate makers tell a new story (CSM USA)
   - With Midterms Approaching, Trump Implores Republicans: Pretend I’m on the Ballot! (NYT US)
-  - Mother suffering 'command hallucination' when she killed children, court hears (BBC US Canada)
-  - 'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters? (BBC US Canada)
-  - Pentagon Fires Editor and Publisher of Independent Military Publication (NYT US)
-  - Drawing on His Rust Belt Roots, Vance Campaigns for Republicans (NYT US)
-  - Trump Accounts Get an Unlikely Endorser: Gavin Newsom (NYT US)
 
 --- Latin America (10) ---
 
@@ -320,69 +319,90 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 ## WORLD: MIDDLE EAST AND AFRICA
 ######################################################################
 
---- Middle East (40) ---
+--- Middle East (45) ---
 
-* Gharibabadi says London, Paris ‘deliberately’ participating in Israeli crimes
-  Middle East Eye | 22 Aug 23:36 UTC
-  Gharibabadi says London, Paris ‘deliberately’ participating in Israeli crimes Iran’s deputy foreign minister for legal and international affairs, Kazem Gharibabadi, said London and Paris were making a “deliberate choice” to participate and collaborate in crimes committed by Israel by “continuing to send” it weapons and “provide any kind o...
-  https://www.middleeasteye.net/live-blog/live-blog-update/gharibabadi-says-london-paris-deliberately-participating-israeli-crimes
+* Morning recap
+  Middle East Eye | 23 Aug 06:24 UTC
+  Morning recap Good morning Middle East Eye readers. If you're just joining us, here are key developments from across the region: • Tehran has warned that any state joining US sanctions against Iran will be considered an enemy, threatening to block oil exports through Hormuz. • US president Donald Trump, meanwhile, again posted an image on...
+  https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-156
 
-* Iran warns nearby nations against joining US ‘economic war’ efforts
-  Al Jazeera global | 22 Aug 23:26 UTC
-  The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
-  https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss
+* Kazakhstan parliamentary elections begin: What’s at stake?
+  Al Jazeera global | 23 Aug 05:55 UTC
+  The Central Asian country heads to the polls on August 23.
+  https://www.aljazeera.com/news/2026/8/23/kazakhstan-parliamentary-elections-begin-whats-at-stake?traffic_source=rss
 
-* Hamas says not obligated to implement Trump Gaza deal unless Israel accepts it
-  Middle East Eye | 22 Aug 23:14 UTC
-  Hamas says not obligated to implement Trump Gaza deal unless Israel accepts it Hamas leader Osama Hamdan said the group told US envoy Jared Kushner that it would not consider itself obligated to implement any part of president Trump’s Gaza peace deal unless Israel publicly accepts it and begins implementing its obligations, including halt...
-  https://www.middleeasteye.net/live-blog/live-blog-update/hamas-says-not-obligated-implement-trump-gaza-deal-unless-israel-accepts
+* Israeli forces close only entrance to West Bank village, report says
+  Middle East Eye | 23 Aug 05:52 UTC
+  Israeli forces close only entrance to West Bank village, report says Israeli forces closed the western entrance to Al-Mughayyir village, northeast of Ramallah in the occupied West Bank, preventing residents from entering or leaving, Wafa reported. The forces fired tear gas canisters towards approaching vehicles and subjected a number of c...
+  https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-close-only-entrance-west-bank-village-report-says
 
-* Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds
-  Al Jazeera global | 22 Aug 22:29 UTC
-  For the second week in a row, Hawaii Island, also known as the Big Island, faces threats from an intensifying storm.
-  https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss
+* Iranian hackers shut down UK power plant for four days, The Telegraph reports
+  Middle East Eye | 23 Aug 05:35 UTC [also carried by: BBC UK]
+  Iranian hackers shut down UK power plant for four days, The Telegraph reports Iranian hackers shut down a British power plant for four days in an unprecedented cyber attack, according to British newspaper The Telegraph. This is for the first time that Iranian hackers have succeeded in closing down such a facility in the UK, the newspaper ...
+  https://www.middleeasteye.net/live-blog/live-blog-update/iranian-hackers-shut-down-uk-power-plant-four-days-telegraph-reports
 
-* Evening recap
-  Middle East Eye | 22 Aug 22:28 UTC
-  Evening recap Good evening, Middle East Eye readers. If you're just joining us, here are key developments from the day: Tehran warned that it would target the interests of any countries that help the US sanctions against Iran, threatening to block oil exports through Hormuz. Israeli attacks across villages in southern Lebanon continued th...
-  https://www.middleeasteye.net/live-blog/live-blog-update/evening-recap-605
+* Hussein al-Sheikh: Decision to hold Palestinian elections in November stands
+  Middle East Eye | 23 Aug 05:26 UTC
+  Hussein al-Sheikh: Decision to hold Palestinian elections in November stands Palestinian vice president Hussein al-Sheikh has said the decision to hold legislative elections in November will not be reversed, while ruling out Hamas’ participation as enshrined in the Gaza disarmament plan, Palestinian media reports said. Al-Sheikh said that...
+  https://www.middleeasteye.net/live-blog/live-blog-update/hussein-al-sheikh-decision-hold-palestinian-elections-november-stands
 
-* Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return
-  Al Jazeera global | 22 Aug 21:55 UTC
-  Carlos Espi scores late to snatch a win for Real Madrid after Alex Calatrava had levelled Jude Bellingham's opener.
-  https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss
+* Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide
+  Al Jazeera global | 23 Aug 05:10 UTC
+  Ex-Colombian President, Gustavo Petro, says restoring ties with Israel amounts to applauding the Gaza genocide.
+  https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss
 
-* Open-air cinema brings movie nights back to Khartoum
-  Al Jazeera global | 22 Aug 21:27 UTC
-  Families are returning to the movies at an open-air cinema in Khartoum, offering residents a brief escape from war.
-  https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss
+* Disabled, elderly Palestinian beaten with club by Israeli settler
+  Middle East Eye | 23 Aug 04:46 UTC
+  Disabled, elderly Palestinian beaten with club by Israeli settler An elderly, disabled Palestinian man was beaten by an Israeli settler with a club in Hebron, in the occupied West Bank, according to Quds News Network. QNN released footage showing the settler repeatedly hitting Saeed Al-Omour as he tried to walk away on his crutches. Al-Om...
+  https://www.middleeasteye.net/live-blog/live-blog-update/disabled-elderly-palestinian-beaten-club-israeli-settler
 
-* Iran threatens to block Hormuz if neighbours join US sanctions
-  Middle East Eye | 22 Aug 20:53 UTC
-  Iran threatens to block Hormuz if neighbours join US sanctions Tehran would target the interests of countries that help the United States in its economic pressure campaign against Iran , the secretary of Iran's Supreme National Security Council, Mohsen Rezaei, stated on Saturday. "We are telling all nearby countries not to join the US eco...
-  https://www.middleeasteye.net/live-blog/live-blog-update/iran-threatens-block-hormuz-if-neighbours-join-us-sanctions
+* Six EU countries urge windfall tax on energy firms as profits soar due to Iran war
+  Middle East Eye | 23 Aug 04:36 UTC
+  Six EU countries urge windfall tax on energy firms as profits soar due to Iran war Six European Countries are stepping up calls for a bloc-wide windfall tax on oil companies as profits soar due to the Middle East war, according to a letter seen by AFP. The finance ministers of Germany, Italy, Austria, Poland and Portugal, along with Spain...
+  https://www.middleeasteye.net/live-blog/live-blog-update/six-eu-countries-urge-windfall-tax-energy-firms-profits-soar-due-iran
 
-* US Postal Service shares mail-in ballot restrictions despite court ruling
-  Al Jazeera global | 22 Aug 20:49 UTC
-  US President Donald Trump has called for restrictions on mail-in voting as part of bid to exert control over elections.
-  https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss
+* US set to remove Syria from 'sponsors of terrorism' list
+  Middle East Eye | 23 Aug 04:03 UTC
+  US set to remove Syria from 'sponsors of terrorism' list Syria is set to be removed from the US State Sponsors of Terrorism list after nearly 47 years. A mandatory 45-day congressional review period expired on 22 August without reported action to block the move. The remaining step is formal publication of the rescission in the Federal Reg...
+  https://www.middleeasteye.net/live-blog/live-blog-update/us-set-remove-syria-sponsor-terrorism-list
 
-* Israel continues attacks in southern Lebanon
-  Middle East Eye | 22 Aug 19:50 UTC
-  Israel continues attacks in southern Lebanon Israeli attacks on civilian-populated areas in southern Lebanon continued throughout Saturday, according to Lebanese media. Two villages, Majdal Zoun in Tyre and Konin in Bint Jbeil, were struck by Israeli forces, Lebanon's National News Agency reported. Other strikes hit residential buildings ...
-  https://www.middleeasteye.net/live-blog/live-blog-update/israel-continues-attacks-southern-lebanon
+* ‘You just can’t trust Trump’: Canadian premiers fire back in trade war
+  Al Jazeera global | 23 Aug 03:42 UTC
+  Provincial premiers have joined Canada’s Prime Minister Mark Carney, firing back after US President imposed tariffs.
+  https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss
 
-* Why is Israel building new illegal settlements?
-  Al Jazeera global | 22 Aug 19:40 UTC
-  Israel opens construction bids for new illegal housing units in the occupied West Bank.
-  https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss
+* Palestinian commission: Illegal Israeli settlements in West Bank reach 592 by July
+  Middle East Eye | 23 Aug 03:25 UTC
+  Palestinian commission: Illegal Israeli settlements in West Bank reach 592 by July The number of illegal Israeli settlements and outposts in the occupied West Bank has reached 592 by the end of July, according to the Palestinian Wall and Settlement Resistance Commission. The sites comprise 192 settlements and 400 outposts, including 231 p...
+  https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-commission-illegal-israeli-settlements-west-bank-reach-592
 
-* Israeli forces, settlers injure and arrest Palestinians across West Bank
-  Middle East Eye | 22 Aug 17:16 UTC [also carried by: Al Jazeera global]
-  Israeli forces, settlers injure and arrest Palestinians across West Bank Israeli forces shot and wounded three Palestinians near the separation barrier in al-Ram, north of Jerusalem, according to the Jerusalem Governorate. All three were taken to hospital for treatment, Wafa news agency reported. The Palestinian Red Crescent said two peop...
-  https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-settlers-injure-and-arrest-palestinians-across-west-bank
+* Canada to hit US with retaliatory tariffs as trade war escalates
+  Al Jazeera global | 23 Aug 02:34 UTC [also carried by: Dawn]
+  Mark Carney says Canada will impose tariffs starting September 8 on imports of US steel, electronics and other products.
+  https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss
 
-  ALSO IN MIDDLE EAST (28), headline only:
+  ALSO IN MIDDLE EAST (33), headline only:
+  - In rural Chad, solar kiosks bring healthcare closer (Al Jazeera global)
+  - Aipac told to stay away from pro-Israel Mike Rogers' campaign, report says (Middle East Eye)
+  - Macron to host Saudi crown prince for talks on Middle East, energy (Middle East Eye)
+  - Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid (Al Jazeera global)
+  - Tear gas shelling, detentions, property theft reported during West Bank raids (Middle East Eye)
+  - 'Palestinian state already a reality', says Arab Israeli leader Mansour Abbas (Middle East Eye)
+  - Trump posts map showing Hormuz as 'new US territory' (Middle East Eye)
+  - GCC, Abu Dhabi-based Muslim Council of Elders condemn Israeli settlement plans (Middle East Eye)
+  - Iran war live: Tehran warns neighbours against joining US economic war (Al Jazeera global)
+  - Iran threatens countries that join US ‘economic D-Day’ (Al Jazeera global)
+  - Gharibabadi says London, Paris ‘deliberately’ participating in Israeli crimes (Middle East Eye)
+  - Hamas says not obligated to implement Trump Gaza deal unless Israel accepts it (Middle East Eye)
+  - Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds (Al Jazeera global)
+  - Evening recap (Middle East Eye)
+  - Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return (Al Jazeera global)
+  - Open-air cinema brings movie nights back to Khartoum (Al Jazeera global)
+  - Israeli army and settlers injure several Palestinians across West Bank (Al Jazeera global)
+  - Iran threatens to block Hormuz if neighbours join US sanctions (Middle East Eye)
+  - US Postal Service shares mail-in ballot restrictions despite court ruling (Al Jazeera global)
+  - Israel continues attacks in southern Lebanon (Middle East Eye)
+  - Why is Israel building new illegal settlements? (Al Jazeera global)
   - More than 200,000 newly displaced in Sudan’s Kordofan region (Al Jazeera global)
   - Israeli strikes kill two and injure others as Gaza attacks continue (Al Jazeera global)
   - Putin warns Ukraine has opened ‘Pandora’s box’, rejects peace proposals (Al Jazeera global)
@@ -390,43 +410,32 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Israel has no intention of escalating tensions with Turkey, foreign minister says (Middle East Eye)
   - Israel, Turkiye and the new regional reordering (Al Jazeera global)
   - Swedish police identify 17-year-old girl as victim in school sword attack (Al Jazeera global)
-  - US 'economic terrorism' will not break people's will: Iranian Vice President (Middle East Eye)
-  - Armed men kidnap dozens in attacks on Nigerian villages (Al Jazeera global)
-  - Israel’s Chief Rabbi says Palestinians are not a people and have no rights (Al Jazeera global)
-  - Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr (Al Jazeera global)
-  - ‘Not a small issue’: People deported by US to Liberia face uncertain future (Al Jazeera global)
-  - Blast on security forces’ bus near Damascus causes injuries (Middle East Eye)
-  - South Korea sending first container ship through Arctic route (Al Jazeera global)
-  - Sanctioned by EU, Israeli settler steals and kills Palestinian donkey (Al Jazeera global)
-  - How is the pro-Israel lobby influencing US elections? (Al Jazeera global)
-  - Guilt, grief and strength: Gaza’s ‘sole survivor’ children face life alone (Middle East Eye)
   - 102 senior diplomats urge West Bank action against Israeli 'ethnic cleansing' (France 24 ME)
-  - Iran says repair of South Pars refinery 70 percent complete (Middle East Eye)
-  - Syria condemns Israeli strike on 'civilian vehicle' near Damascus (Middle East Eye)
-  - Israel says Syria air base strike motivated by alleged Turkish plans to deploy forces there (Middle East Eye)
-  - Two Palestinians wounded in Israeli raid near Nablus, settlers and troops storm towns in Ramallah and Jenin (Middle East Eye)
-  - 'After Israel's annihilation of Gaza, can I ever return home?' Opinion by Bahzad al Akhras (Middle East Eye)
-  - Israeli army claims attack in southern Syria (Middle East Eye)
   - 102 UK, French ex-ambassadors accuse Israel of ethnic cleansing in open letter (France 24 ME)
-  - Over 350,000 people in need of medicines in Gaza: Palestinian Medical Relief Society (Middle East Eye)
   - Iran warns states joining US sanctions will be considered enemies (France 24 ME)
+  - More than 100 former French and UK diplomats urge action against Israeli settlement policies (France 24 ME)
   - Israeli settlers kill Palestinian teen in the occupied West Bank (France 24 ME)
 
---- East Africa (6) ---
+--- East Africa (5) ---
+
+* Worst Mistake: Murkomen's reckless remarks expose his aloofness
+  The Standard Kenya | 23 Aug 04:00 UTC
+  Murkomen is under intense public scrutiny following remarks dismissing public alarm over the rising political violence, by claiming that a goon crisis was non-existent in the country
+  https://www.standardmedia.co.ke/article/2001555957/worst-mistake-murkomen-s-reckless-remarks-expose-his-aloofness
+
+* Gachagua faces fresh threats to his grip on Mt Kenya - Daily Nation
+  GN Kenya Tanzania | 23 Aug 03:00 UTC
+  Gachagua faces fresh threats to his grip on Mt Kenya Daily Nation
+  https://news.google.com/rss/articles/CBMipAFBVV95cUxQYkJMWmxoWWlFYnFfem1MTG1lT2czdFVNZDhQOF9iSThGc2VRU0dzSTRmVVdmMmtPN3ZXd3FsVndYNERBVWh5dHUyX2dWN0sydjVuYjZmcUN6Ul9BZzA0eC1Mbm1rNnI5MHlydlNrQVZyMklzaFZRQWh5b05mUTdidG1OX3dhNnVheFYyM1RjT1Q1M2dZYVhUQUxRaHdfVVh0QXJfRQ?oc=5
 
 * Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?
   BBC Africa | 22 Aug 23:22 UTC
   Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.
   https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss
 
-* Worst Mistake: Murkomen's reckless remarks expose his aloofness
-  The Standard Kenya | 22 Aug 21:00 UTC
-  Murkomen is under intense public scrutiny following remarks dismissing public alarm over the rising political violence, by claiming that a goon crisis was non-existent in the country
-  https://www.standardmedia.co.ke/article/2001555957/worst-mistake-murkomen-s-reckless-remarks-expose-his-aloofness
-
-* The soda defence: How Government is selling Kenya's economic recovery - standardmedia.co.ke
+* The soda defence: How government is selling Kenya's economic recovery - standardmedia.co.ke
   GN Kenya Tanzania | 22 Aug 21:00 UTC
-  The soda defence: How Government is selling Kenya's economic recovery standardmedia.co.ke
+  The soda defence: How government is selling Kenya's economic recovery standardmedia.co.ke
   https://news.google.com/rss/articles/CBMixgFBVV95cUxQdG43Q2RjdU5pMEhLdnotQ1JCTGtHaUNNTmZTV1RNTUZPaFRwajZmbHRzS1l4dHhGd2daU1V5MkdCdnJOWVNwSmFHN0NBOUI5VWt2SGc0UDd4Wk5HeUpjVkIyRk9KWkhTSVZXNENabVhXdXhfUTdsV0pDWTJPakN4bGJzVmQtYmUxSHVMeEtGY1MxSnU3MkNSSVBTVVlWVlJJR2pLSFRRWTNtc2F1azZ3dzFKQXMzWU9McnRNSFNqVEFNSHp0U2c?oc=5
 
 * Gachagua: I will block Ruto’s plans to split Mt Kenya - Daily Nation
@@ -434,17 +443,12 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Gachagua: I will block Ruto’s plans to split Mt Kenya Daily Nation
   https://news.google.com/rss/articles/CBMipAFBVV95cUxQcnF4Yzg1QktvZVFhd0EzeFNCY09wbFhYekVpT3g4Y2p2OHZOblBNS3lsZllDXzdUXzVncldRcE5rRGVuX0ZoeG5pWW9UaVlxZlZwUWZzbXl3UjRBOWktdlNNakNRQm8tWnVJOU42U0JhU2tVd2t1M2xHQmlYNEZxT21yaHVqUnZtV2Z2WTlBb2NzeWRaQ01SbjczN0xYM1k4RURzSA?oc=5
 
-* Fault lines beneath Mulembe's United Opposition
-  The Standard Kenya | 22 Aug 08:17 UTC
-  A heated political exchange at Gloria Khalwales burial exposed growing tensions among Mulembe leaders over loyalty, leadership and who should carry the oppositions 2027 presidential ambitions.
-  https://www.standardmedia.co.ke/article/2001555923/fault-lines-beneath-mulembe-s-united-opposition
+--- Sub-Saharan Africa (21) ---
 
-* Kariuki warns against divisive politics as Mt Kenya weighs 2027 direction - standardmedia.co.ke
-  GN Kenya Tanzania | 22 Aug 03:01 UTC
-  Kariuki warns against divisive politics as Mt Kenya weighs 2027 direction standardmedia.co.ke
-  https://news.google.com/rss/articles/CBMizgFBVV95cUxPb2w5dEJkZ3RtMmxid3U5X2tQMGtud1pVSUtMUkxBMWdFbWo4anhmbjlaQTljZ3R2M3V1UkRyUDE3d2k2RGRTRUlWRXZsZ3EyZjg3aDg2eHdHN0ZGeHZjODZLNFUtZUUtejNza1ZGUWdodm9qS19wZTFpczFUdnhIenNHVFI3UUxkcFdRVHJEUFh6ZFdNRVlPUU5xRUFrRmpzWlFOYU5hbWNKdkNxdTdEcU9uNjlGUmhsdU9aRGlhTHNtLS1JeExVWWpINktBdw?oc=5
-
---- Sub-Saharan Africa (20) ---
+* RESILIENT RECOVERY: Kruger National Park prepares to ‘build back better’ after R1bn flood damage
+  Daily Maverick | 23 Aug 07:24 UTC
+  After January’s extreme weather exposed serious vulnerabilities and resulted in the evacuation of more than 500 guests, the famed game reserve is rethinking its roads, bridges and other infrastructure.
+  https://www.dailymaverick.co.za/article/2026-08-23-kruger-national-park-prepares-to-build-back-better-after-r1bn-flood-damage/
 
 * FIRST BLOOD: Ruthless All Blacks punish error-strewn Springboks to take charge of series
   Daily Maverick | 22 Aug 21:00 UTC
@@ -501,12 +505,8 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Across the country, farmland that could feed the world's largest hunger crisis many times over lies fallow, as weary farmers once again find themselves in the crosshairs of faraway destruction
   http://www.africanews.com/2026/08/22/sudan-farms-lie-barren-as-el-nino-leaves-nile-banks-dry/
 
-* DR Congo receives Ebola vaccines in face of 'exponential' outbreak
-  France 24 Africa | 22 Aug 12:47 UTC
-  The Democratic Republic of Congo has received more than 16,000 doses of an Ebola vaccine, as authorities step up efforts against the ongoing outbreak. More than 2,500 people have already died and health officials from the WHO are warning this epidemic could surpass the deadliest on record – that occurred between 2014 and 2016 and caused o...
-  https://www.france24.com/en/dr-congo-receives-ebola-vaccines-in-face-of-exponential-outbreak
-
-  ALSO IN SUB-SAHARAN AFRICA (8), headline only:
+  ALSO IN SUB-SAHARAN AFRICA (9), headline only:
+  - DR Congo receives Ebola vaccines in face of 'exponential' outbreak (France 24 Africa)
   - Antwerp's 'human zoo': Belgium confronts shame of colonial past (France 24 Africa)
   - US returns dozens of smuggled artifacts from three different eras to Egypt (Africanews)
   - Ethiopia uncorks a wine boom, Bordeaux vines driving exports and local demand (France 24 Africa)
@@ -516,12 +516,22 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Ebola: DRC receives shipment of more than 16,000 vaccine doses (Africanews)
   - Tanzania: Tundu Lissu denounces 'political case' as treason trial starts (Africanews)
 
---- North Africa (9) ---
+--- North Africa (8) ---
+
+* Macron hosts Saudi's MBS for visit ranging from esports to Mideast
+  Al-Monitor | 23 Aug 02:30 UTC
+  French President Emmanuel Macron welcomes Saudi crown prince and de facto ruler Mohammed bin Salman on Sunday for a two-day visit set to range from esports to the war in the Middle East. Several agreements on health, transport and energy will be signed on the second day of the visit on Monday, according to a French presidential official, ...
+  https://www.al-monitor.com/originals/2026/08/macron-hosts-saudis-mbs-visit-ranging-esports-mideast
 
 * Morocco demands Spain the repatriation of living and deceased migrants after the attempt to enter Ceuta. - Demócrata
   Google News North Africa | 22 Aug 14:44 UTC
   Morocco demands Spain the repatriation of living and deceased migrants after the attempt to enter Ceuta. Demócrata
   https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRW15Umc4MWZpbmZidlgtQTRSdkpQdDVXRkhGbHlab0dMX3JCc21ZblN2cTNGRkx1SDFFbzZJVENXQ0RfdzFnZGdHMVpVRkpWN0xGbFB4bWdOVDdhX1dza3VNUl93R0RjZVhzM1pLeGUwaEFaSTI2Tm9OWWxJWnNnWlJ6TmdKeDNvVFhIZjlRZnZoRFBHdTV3MngtOG5mNkZtZVpuTzZTNWFFcENpeERCN3ZJRl8zRTZTN1NQN0c4RWNHMEZSRmdISVNCR0t6YmZfcjl6R3UyWmHSAd4BQVVfeXFMT0dGZmw4Y2dMa29xYW1TWEstemkxejFrN0lZTGpiUHlhY3ZHQ1pYY0JOM2c2TW5ZeDE5dlRUX1dRQV9nVmtaNlFib1VhVDg5UjZ5ZFVMZ2VLbmpPNFJMZldlNHdQYTZsc1FCWThSbmNlZjNIWmZ3cWpJTDR5d0hIMW1VMzdoMERtd2I5c3BLa2NuZm9VUUFuZ1h4T3NnSE1Tb3FhdnFSZzhTNzFtU2R6bXNDM01ZOUNuNEp4ak14cjBQZ2lzZk9lNjh6bGdIY2hnMkR2RGxHTXBscEF1dk9B?oc=5
+
+* Morocco’s Youth Turn to Digital Tools to Reshape Political Engagement - The North Africa Post
+  Google News North Africa | 22 Aug 13:20 UTC
+  Morocco’s Youth Turn to Digital Tools to Reshape Political Engagement The North Africa Post
+  https://news.google.com/rss/articles/CBMiqwFBVV95cUxPazlKNFhfb2lUSWtEdkwyY3ltU2M2aEhBRjhnMVFJRlFoaDl2NDFsSUZpUV9TdGxydVEyYV9Ldy1hRGVyZ29XNXVxVTU0R014ODUyVWdySVBuZjRNekE3R0F0YzQ5cUdaQTZlN3lyZ0h0NnRXWlZsemU1anR2YWlDLXAwMGpwek9ab0k2TUh1SDlEMVpEV3BaT3NpclZ6ZUt1TmhNVUFjRUZpR00?oc=5
 
 * UN envoy, French official discuss Libya political roadmap - The Libya Observer
   Google News North Africa | 22 Aug 12:51 UTC
@@ -548,31 +558,31 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Aug 22 (Reuters) - Iran has granted permission for a number of Iraqi oil tankers to pass through the Strait of Hormuz following repeated requests from Baghdad through various channels, Iran’s state news agency IRNA reported on Saturday. IRNA said obtaining special permission for Iraqi tankers was one of Baghdad’s main requests during Iran...
   https://www.al-monitor.com/originals/2026/08/iran-grants-permission-number-iraqi-oil-tankers-pass-through-hormuz
 
-* Analysis-Trump heads into midterms short on foreign policy wins
-  Al-Monitor | 22 Aug 05:46 UTC [also carried by: Japan Times]
-  By Humeyra Pamuk, Andrea Shalal and Steve Holland WASHINGTON, Aug 22 (Reuters) - With the Iran war now at a costly standoff and crises from Ukraine to Gaza still unresolved, President Donald Trump's ambitious foreign policy agenda appears stuck as he heads into November's midterm elections. The setbacks are striking for a president who re...
-  https://www.al-monitor.com/originals/2026/08/analysis-trump-heads-midterms-short-foreign-policy-wins
-
-* US judge strikes down policy suspending immigrant visa processing for 75 nations
-  Al-Monitor | 22 Aug 01:46 UTC [also carried by: Dawn]
-  By Kanishka Singh and Nate Raymond WASHINGTON, Aug 21 (Reuters) - A U.S. judge on Friday struck down a Trump administration policy suspending the issuance of immigrant visas to applicants from 75 countries, saying that the policy exceeded Secretary of State Marco Rubio's statutory authority.
-  https://www.al-monitor.com/originals/2026/08/us-judge-strikes-down-policy-suspending-immigrant-visa-processing-75-nations
-
-* Trump says Iran not ready to make the 'right deal'
-  Al-Monitor | 22 Aug 01:46 UTC
-  By Kanishka Singh and Ismail Shakil WASHINGTON, Aug 21 (Reuters) - U.S. President Donald Trump said on Friday he thought Tehran was not ready to make the "right deal" and that Washington was observing "what happens" in the Iran war. QUOTES AND DETAILS: • "It just means that we're seeing what happens," Trump told reporters when asked if U....
-  https://www.al-monitor.com/originals/2026/08/trump-says-iran-not-ready-make-right-deal
-
 ######################################################################
 ## WORLD: ASIA AND PACIFIC
 ######################################################################
 
---- South Asia (9) ---
+--- South Asia (11) ---
+
+* No court without trust - Dawn
+  Dawn | 23 Aug 03:06 UTC
+  No court without trust Dawn
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wT1Y5clpMbDh2Zk5hWFVnNi13cWc4Wlc2R212SXoyTlk0OWZkeVRNZE15X215WC13cVZzRnFvR0pVckFvUEprVEFiNzFqbW40WXVaVklReTFZbWlua3QtUnNYekozUFnSAU5BVV95cUxPOUpCVGVGWFVQbDNuU3RnWnVkckJpcHNudGxUSXRiWkN0Zi1OdmZDamdJNjdseHVNTFhPX0poRE5xbVhTTWNGY0RVS1RuSWc?oc=5
+
+* Troops in Rawalpindi okayed for six months - Dawn
+  Dawn | 23 Aug 02:08 UTC
+  Troops in Rawalpindi okayed for six months Dawn
+  https://news.google.com/rss/articles/CBMiSEFVX3lxTE81R0RUR1dvc1pKbVlzd2lkRkI5bXRZaEY5QkJYR291UFZySkk0YUxJYmxWMHJOdEV4aEQ3ZWZ3UVl1OXRjYldiSNIBTkFVX3lxTE95SkEwRUVZNlhHUUNOV3lKSmhlMVM0U1NYZmZCdUJ0dldOSWMxdy1KLTA2WFJtaHlqYkFkNjNZWXZ4dzZFNnJ1TTFfRkNBQQ?oc=5
 
 * Say hello to Nu.WAV, Coke Studio's new platform for 'the next wave of Pakistani music and culture' - Dawn Images
   Dawn | 22 Aug 17:39 UTC
   Say hello to Nu.WAV, Coke Studio's new platform for 'the next wave of Pakistani music and culture' Dawn Images
   https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RYWpJWC1ySDNhUFhYRlRXVEU2dFNCbWtCWmQ3dGx0TE5hTkJrbTZrTWJzRHJ0WGpwT3oyT1VQVGhXQzA2VHp5T1ZFYzjSAVJBVV95cUxPVzNlZ0w5Q2tXcjAwbU1vYjJjREFRRFE2Ym5pVndpc1g4RHcyMFpacWV5Y0xoMkNRdlQxVnBBSGxrQi1feHJQRGVSWDZ2ejZPLU9n?oc=5
+
+* AJK PM Rathore urges dialogue to resolve crisis, calls for end to ‘base camp’ mindset - Dawn
+  Dawn | 22 Aug 17:26 UTC
+  AJK PM Rathore urges dialogue to resolve crisis, calls for end to ‘base camp’ mindset Dawn
+  https://news.google.com/rss/articles/CBMiSEFVX3lxTE05cHVHUnEzQ2g0alYtaWJ3aWRLbFJPNWJmSm9VMG1oQzYtZHFNSXlMNEdsbVoxLTBReWw5dXhxVGVrcldKREk5atIBTkFVX3lxTFBNTEM1dUNyaDBSSG5BUlFhbVBuU2hlclBMNkZvSU1OQ19VSXpFa1NCcGpsTUdaZzk0WkZObThsdjhWRFlYUTBibWJGZzA5UQ?oc=5
 
 * Islamabad chief commissioner seeks early hearing of review petition against order to shift Imran to private hospital - Dawn
   Dawn | 22 Aug 15:23 UTC
@@ -584,10 +594,10 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   PM Shehbaz takes notice of non-functional CTA machine at PIMS cardiology dept; Imran's related test not performed Dawn
   https://news.google.com/rss/articles/CBMiSEFVX3lxTE5kS2xNdktrOWN4bmxiR21udlZYbndpRVlLY0oyS2FTd2xBZGJwT2RKbm1KVGFfSlBwbEJCV2FvWHdMZTg0UWZBatIBTkFVX3lxTFBPSkRXa1ExRUNQcHo0UGlxQXFCY0VLVjF5NGpvQWVSS0F6VUY0OFRkUHh5LVdscUZVRUFLWFBvcUNpT3J2bFFUU3QyNWcwdw?oc=5
 
-* Ben Cohen of Ben & Jerry's calls on Bollywood's Kareena Kapoor to end ties with Unilever for Palestine - Dawn Images
-  Dawn | 22 Aug 10:34 UTC
-  Ben Cohen of Ben & Jerry's calls on Bollywood's Kareena Kapoor to end ties with Unilever for Palestine Dawn Images
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NN19fS19IWllzWGZnY1k5RnZma1VvdXNvbnZHcWI4ZVlIRldSd2xocTRiY2NNaWtEckg3WEZNY1g2dlhPdkRYYWdGRVfSAVJBVV95cUxPbHMzYnNhSGJkbER6SjBqczN0UVdxdGxxcGxoUENwcUZMZ0pmbVhSVFpJemVET1Nxc1NBYzFoOWRacEdwRF9NQTVJbW5GYWlQYmpn?oc=5
+* US says intelligence behind Israeli strike on Syria air base was wrong - Dawn
+  Dawn | 22 Aug 12:16 UTC
+  US says intelligence behind Israeli strike on Syria air base was wrong Dawn
+  https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PVFFXdmt0T0w5VzBuUC1aR3dsYmo5V21HT0NhWHZHblpBSlRwVE5WZzRwSGgtN2FqeDQtTUh2dXFjY1lkS3VIOdIBTkFVX3lxTE5DaUJGR3d2OTNfMWxOYnVzUmNBcHNkOEZGN2xQNVVWUkRiaUpPd0F0eWkzUEJnY2ZncDZCQjFPemZ3YWJMWDN5bm9veElIdw?oc=5
 
 * Case registered after woman found dead, bound in Rawalpindi - Dawn
   Dawn | 22 Aug 10:31 UTC
@@ -609,55 +619,55 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   'Completely choreographed drama': PTI's Salman Akram Raja slams govt over failure to follow SC order Dawn
   https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCZUNMYVhmQi1xWktSVm5QZk5DVWZDdm53T3lPSjVCSXg1cE5ZRzVlQUpoT2k3aUN6NGxldWk2OHczcnNVWXBzMtIBTkFVX3lxTE1taWcwcHh3ajVnYXNlTVkyR19ER29yLWdBVllwRDlDbUFoMTBPNGxqVjBjT20zc2Z0ei0xU3hWak5wVzFmSXBkVzJxM0tFUQ?oc=5
 
-* SHC directs Sindh censors to 'reconsider' decision barring screenings of Ghost School - Dawn Images
-  Dawn | 22 Aug 05:29 UTC
-  SHC directs Sindh censors to 'reconsider' decision barring screenings of Ghost School Dawn Images
-  https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SM1p2Vkd2bmJEX25nVS1Xb0t6NzhXUi1kQ0xUVzUwTllRalgyOHRTQ2t0amMxTnoxWEpWa2E3RjVXanlqc3c2MWtreFXSAVJBVV95cUxOS252MXFpSWhJTk9lLU5VREVCQTRIYWJpeFppNjZ3OW5DSGxxRDV4ZS1nNlZ2dWhKeS1GdUpfcTF4dWFGdjhTTjdRYzJvZjI2ZHpn?oc=5
+--- East Asia (78) ---
 
---- East Asia (71) ---
+* Nadeshiko Japan’s Saki Kumagai hoping to encourage more girls to play soccer
+  Japan Times | 23 Aug 06:30 UTC
+  Kumagai says she hopes her organization, Nadeshiko Care, will inspire young players to set their sights on joining the national team.
+  https://www.japantimes.co.jp/sports/2026/08/23/soccer/saki-kumagai-soccer-inspire-girls/
 
-* In Malaysia, voter anger fuels a third force against Anwar
-  SCMP | 23 Aug 00:00 UTC
-  Malaysian politics runs on grudges and few illustrate that better than the one nursed by Rafizi Ramli. A year after losing the deputy presidency of Prime Minister Anwar Ibrahim’s People’s Justice Party (PKR), he has built a vehicle for the disaffected, aimed squarely at the coalition of which he was once part. Parti Bersama Malaysia – or ...
-  https://www.scmp.com/week-asia/politics/article/3364866/malaysia-voter-anger-fuels-third-force-against-anwar?utm_source=rss_feed
+* South Koreans ‘intoxicated by stocks’ swarmed market frenzy – and lost everything
+  SCMP | 23 Aug 06:01 UTC
+  It was a ⁠vision to give South Korea a stock market that reflected its true economic ⁠dynamism, by shedding regulatory taboos and encouraging bolder bets – instead, it created an investor trauma that could take years to shake. The ⁠30 per cent decline in the Kospi benchmark since its June 19 peak has hurt President Lee Jae Myung’s governm...
+  https://www.scmp.com/news/asia/east-asia/article/3364962/south-koreans-intoxicated-stocks-swarmed-market-frenzy-and-lost-everything?utm_source=rss_feed
 
-* Panama Canal to reduce shipping over El Nino-fuelled drought
-  SCMP | 22 Aug 23:11 UTC
-  The Panama Canal will cut the number of ships passing through it starting next month because of drought caused by the El Nino phenomenon, the operator of the strategic waterway linking the Atlantic and Pacific said on Thursday. From September 3, the number of vessels allowed through each day will fall from 36 to 34 due to low water levels...
-  https://www.scmp.com/news/world/americas/article/3364947/panama-canal-reduce-shipping-over-el-nino-fuelled-drought?utm_source=rss_feed
+* Washington pushes ‘America First’ agenda in Apec talks ahead of Chinese leader’s visit
+  SCMP | 23 Aug 06:00 UTC
+  The United States has pledged to take an “America First” approach to the latest round of Asia-Pacific Economic Cooperation talks, which are taking place in China weeks before President Xi Jinping’s visit to America. The US State Department said: “US leadership in Apec is a key dimension to pursuing America First policies that foster prosp...
+  https://www.scmp.com/news/china/diplomacy/article/3364959/washington-pushes-america-first-agenda-apec-talks-ahead-chinese-leaders-visit?utm_source=rss_feed
 
-* The world loves boiled and salted edamame. But how about sweet?
-  Japan Times | 22 Aug 23:00 UTC
-  "Zundamochi" is the term for mashed edamame mixed with sugar and spread across rice flour dumplings.
-  https://www.japantimes.co.jp/life/2026/08/23/food-drink/zundamochi-recipe-edamame-japanese-dessert/
+* After gaining EV dominance, Chinese carmakers shift goal to take on full-hybrid behemoths
+  SCMP | 23 Aug 06:00 UTC
+  Chinese carmakers, already at the vanguard of electric vehicle (EV) technology and production, are looking to make a dent in international marques’ full-hybrid vehicle stronghold as they continue to disrupt the global car industry’s pecking order. Major car builders including Geely Auto and Changan Automobile have reported impressive sale...
+  https://www.scmp.com/business/china-business/article/3364906/after-gaining-ev-dominance-chinese-carmakers-shift-goal-take-full-hybrid-behemoths?utm_source=rss_feed
 
-* India launches rescue mission as Panama-flagged cargo ship sinks off east coast
-  SCMP | 22 Aug 22:31 UTC
-  India’s maritime rescue agency lost communication on Saturday with a Panama-flagged cargo vessel that sank off the coast of eastern ‌India, the Indian coastguard said. The vessel had 24 crew on board, including 20 Chinese nationals, three Myanmar nationals and one Bangladeshi, according to Commandant Amit Uniyal, a spokesman for the coast...
-  https://www.scmp.com/news/asia/south-asia/article/3364946/india-launches-rescue-mission-panama-flagged-cargo-ship-sinks-east-coast?utm_source=rss_feed
+* Why Cambodia is reviving US military drills despite close China ties
+  SCMP | 23 Aug 06:00 UTC
+  Cambodia is preparing to restart joint military exercises with the United States next year, in a move analysts described as a pragmatic reset of defence ties strained since 2017 – though not a pivot away from China. Senior officials from both countries discussed restarting the Angkor Sentinel drills last weekend, alongside expanded traini...
+  https://www.scmp.com/week-asia/politics/article/3364865/why-cambodia-reviving-us-military-drills-despite-close-china-ties?utm_source=rss_feed
 
-* How Pacific nations walk a tightrope between Western security and Chinese trade
-  SCMP | 22 Aug 22:00 UTC
-  On paper, Western countries are rushing to sign defence pacts in the South Pacific, ensuring their influence in a region long neglected as a geopolitical backwater. But on the water, the island nations are playing a very different game. Instead of taking sides, local leaders are leveraging the geopolitical tug of war between China and the...
-  https://www.scmp.com/news/china/diplomacy/article/3364908/how-pacific-nations-walk-tightrope-between-western-security-and-chinese-trade?utm_source=rss_feed
+* Taiwan president touts peace through strength on China battle anniversary
+  Japan Times | 23 Aug 05:53 UTC
+  Taiwanese President Lai Ching-te marked the 68th anniversary of the 1958 clash with Chinese forces, known as the start of the Second Taiwan Strait Crisis.
+  https://www.japantimes.co.jp/news/2026/08/23/asia-pacific/politics/lai-taiwan-kinmen-matsu-anniversary/
 
-* Nvidia customers notified of AI-related price rises above 15%
-  SCMP | 22 Aug 21:54 UTC [also carried by: Channel News Asia]
-  Some of Nvidia’s biggest customers have been told that the prices of servers containing its artificial intelligence chips are going up more than 15 per cent in many cases with memory chip costs soaring. The price rises will go into effect on systems shipped early next year and will impact systems including those with the flagship Vera Rub...
-  https://www.scmp.com/tech/big-tech/article/3364945/nvidia-customers-notified-ai-related-price-rises-above-15?utm_source=rss_feed
+* Licence to savour: Hong Kong craft brewers push for on-site beer permits
+  SCMP | 23 Aug 05:26 UTC
+  When a 100-strong South Korean tour group approached a Hong Kong craft beer manufacturer for a tour and tasting session, the operator declined their request. The refusal was not down to a lack of confidence in the product or a staff shortage. It was regulatory: the brewery simply lacked a licence to serve its beer on the premises. “It is ...
+  https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364958/licence-savour-hong-kong-craft-brewers-push-site-beer-permits?utm_source=rss_feed
 
-* Hong Kong must abandon superiority complex over mainland China
-  SCMP | 22 Aug 21:30 UTC
-  After many years in Hong Kong, with some sadness, I left the city for greener pastures, though my link with it remains an emotional one. When I moved my two dogs across the border to Shenzhen, I was told by agents, officials, even artificial intelligence, that the mainland bureaucracy would be rigid and unhelpful. My experience was the op...
-  https://www.scmp.com/opinion/hong-kong-opinion/article/3364326/hong-kong-must-abandon-superiority-complex-over-mainland-china?utm_source=rss_feed
+* Canada’s Carney refuses to take Trump’s ‘bait’, confronting US in trade war
+  SCMP | 23 Aug 01:46 UTC [also carried by: BBC US Canada, Financial Times, Politico Europe]
+  Siding with Canadians weary of provocations from Washington, Prime Minister Mark Carney stood up to US President Donald Trump, rejecting what he called an “unfair” trade deal – a gamble that could prove economically risky. “We will not allow any nation to determine our future. We will set our own course to keep building Canada strong for ...
+  https://www.scmp.com/news/world/united-states-canada/article/3364948/canadas-carney-refuses-take-trumps-bait-confronting-us-trade-war?utm_source=rss_feed
 
 * Iran condemns US plans to announce new sanctions
-  SCMP | 22 Aug 21:21 UTC [also carried by: Al-Monitor, Channel News Asia]
+  SCMP | 22 Aug 21:21 UTC [also carried by: Japan Times]
   Iran on Saturday denounced US plans to announce ⁠new sanctions that could put further strain on the Islamic Republic’s economy and have an impact on its most important trading partners including China. Iran on Saturday warned countries against taking part in the United States’ “economic war” against the Islamic Republic, saying they would...
   https://www.scmp.com/news/world/middle-east/article/3364944/iran-condemns-us-plans-announce-new-sanctions?utm_source=rss_feed
 
 * Canada’s PM hits back with new US tariffs after trade talks fail
-  SCMP | 22 Aug 17:02 UTC [also carried by: CSM USA, Dawn, Japan Times]
+  SCMP | 22 Aug 17:02 UTC [also carried by: CSM USA]
   Canadian Prime Minister Mark Carney said on Saturday he would slap retaliatory tariffs on the United States after walking away from a “bad deal” on trade, deepening the rift between the long-time allies. Negotiations between the neighbouring countries broke down on Friday in Washington, allowing new 50 per cent US tariffs impacting some U...
   https://www.scmp.com/news/world/united-states-canada/article/3364940/canadas-pm-hits-back-new-us-tariffs-after-trade-talks-fail?utm_source=rss_feed
 
@@ -667,16 +677,47 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   https://www.scmp.com/news/hong-kong/law-and-crime/article/3364929/man-38-arrested-driving-under-influence-drugs-after-3-vehicle-crash?utm_source=rss_feed
 
 * Chinese robot runs 100m sprint quicker than Usain Bolt’s world record
-  Guardian China | 22 Aug 10:25 UTC [also carried by: DW Asia]
+  Guardian China | 22 Aug 10:25 UTC [also carried by: Al Jazeera global, DW Asia]
   Lightning the humanoid ⁠robot clocks 9.32sec in Beijing Quicker than ​9.58sec men’s world record set 17 years ago A ⁠robot named Lightning ⁠has run ​the 100m in 9.32 seconds, ⁠beating the human world ⁠record, China’s ​state broadcaster ‌has reported. The humanoid, developed by the Chinese smartphone manufacturer Honor, ‌reached a peak spe...
   https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record
 
-* Supreme Court lets Trump continue work on White House ballroom for now
-  Japan Times | 22 Aug 01:47 UTC [also carried by: Euronews]
-  The court's action gives the justices additional time to consider the administration's formal request to let it continue working on the $400 million plan.
-  https://www.japantimes.co.jp/news/2026/08/22/world/politics/supreme-court-trump-white-house-ballroom/
-
-  ALSO IN EAST ASIA (59), headline only:
+  ALSO IN EAST ASIA (66), headline only:
+  - Patient arrested after bedding, restraint belts set ablaze at Hong Kong hospital (SCMP)
+  - Hong Kong may issue typhoon signal on Tuesday or Wednesday as Narra approaches (SCMP)
+  - ‘Lives at Right Angles’ offers seldom-seen portrayal of autism in Japan (Japan Times)
+  - ‘Masayume’ finds Zen in the messiness of being human (Japan Times)
+  - ‘Shiranui’: A maritime mirage inspires an anime about morality (Japan Times)
+  - Gaokao reforms could leave Chinese public vulnerable to pseudo-history, top academic warns (SCMP)
+  - Quake-prone Indonesia’s first nuclear power plant plan stokes safety fears (SCMP)
+  - Tochigi police raid Tobu Railway group firm over fatal train accident (Japan Times)
+  - Hong Kong rules out Wang Fuk Court buy-back extension as 100 owners hesitate (SCMP)
+  - Are humanoid robots the future? Chinese makers instead highlight practical design (SCMP)
+  - Bites to bytes: Thai street food app feeds into hunger for authenticity (SCMP)
+  - Tech paradox: fear of being left behind drives China non-programmers to build own AI tools (SCMP)
+  - Olympic pairs figure skating gold medalists Riku Miura and Ryuichi Kihara announce engagement (Japan Times)
+  - China builds world’s first custom plant immunity system for epidemic response (SCMP)
+  - Civic group leads efforts over 1942 undersea mine disaster (Japan Times)
+  - Hong Kong can open a lucrative new frontier as Chinese tech IP hub (SCMP)
+  - Japan and India hold first event focused on recycling of key minerals (Japan Times)
+  - Putin acknowledges economic impact from Ukraine’s refinery strikes (Japan Times)
+  - Government to support tourism in quake-hit Kyushu region (Japan Times)
+  - What Trump’s crush on Kim means for the Indo-Pacific (Japan Times)
+  - Serena Williams to play mixed doubles with Carlos Alcaraz at U.S. Open (Japan Times)
+  - How Opatra’s ‘coercive’ tactics in Hong Kong echo global ‘Dead Sea sales scams’ (SCMP)
+  - This pit bull mix is just a ‘goofy, fun-loving girl’ (Japan Times)
+  - LDP desperate for a win in Okinawa governor race (Japan Times)
+  - All Blacks in driver’s seat after beating Springboks to open four-test series (Japan Times)
+  - Trump’s economic isolation plan risks Iran strikes across Gulf (Japan Times)
+  - Hull on cloud nine after upsetting Manchester United in Premier League return (Japan Times)
+  - Canada to apply dollar-for-dollar U.S. countertariffs as trade feud escalates (Japan Times)
+  - In Malaysia, voter anger fuels a third force against Anwar (SCMP)
+  - Strong Kanto quake injures dozens, triggering warnings of similar shaking over next week (Japan Times)
+  - Panama Canal to reduce shipping over El Nino-fuelled drought (SCMP)
+  - The world loves boiled and salted edamame. But how about sweet? (Japan Times)
+  - India launches rescue mission as Panama-flagged cargo ship sinks off east coast (SCMP)
+  - How Pacific nations walk a tightrope between Western security and Chinese trade (SCMP)
+  - Nvidia customers notified of AI-related price rises above 15% (SCMP)
+  - Hong Kong must abandon superiority complex over mainland China (SCMP)
   - Israel targets ‘terrorist’ in southern Syria; Damascus condemns attack (SCMP)
   - 7 dead in UK after vehicle travelling in wrong direction hits police car (SCMP)
   - Shein, a Fast-Fashion Giant, Struggles to Grow Ahead of a Much-Delayed IPO (NYT AsiaPacific)
@@ -706,38 +747,46 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Hong Kong hits back at Western ‘slander’ over verdict on Tiananmen vigil leaders (SCMP)
   - Brazil’s Lula seeks end to ‘baseless tariffs’ in call with Trump (SCMP)
   - What’s so bad about a planned Hong Kong economy? Just look at Singapore (SCMP)
-  - Has Philippines’ Marcos missed his chance to stop the Dutertes? (SCMP)
-  - Full fee waivers rise 20-fold to 280,000 after healthcare reform, minister says (SCMP)
-  - Beyblade battles drive up sales at Hong Kong malls, but how long will the trend last? (SCMP)
-  - Why South Korea wants to rebuild a DMZ railway despite Kim’s cold shoulder (SCMP)
-  - India joins China and South Korea in push for Arctic shipping routes (SCMP)
-  - Components crunch: China’s carmakers face rising costs to keep intelligence edge (SCMP)
-  - US court strikes down Trump visa ban affecting South Asian nations (SCMP)
-  - Labour unions call for mandatory heatstroke-prevention equipment for workers (SCMP)
-  - Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not | Timothy Garton Ash (Guardian China)
-  - NASA-led study shows some Earth microbes could survive on the moon (Japan Times)
-  - U.S. and Iran keep up hostile rhetoric ahead of new sanctions (Japan Times)
-  - Japan’s crown prince honours settlers who built Paraguay ties (SCMP)
-  - Japan eyes fiscal 2027 assumed bond interest rate at 3.8% (Japan Times)
-  - U.S.-sanctioned ICC head warns against ‘demise of international rule of law’ (Japan Times)
-  - Electrochemist Liu Jiawei moves from Singapore to Hong Kong to start her own lab (SCMP)
-  - Hong Kong to assess typhoon warning as Tropical Storm Narra nears Guangdong coast (SCMP)
-  - Dozens die as dengue surges in Malaysia while vaccine uptake stalls (SCMP)
-  - Man leaves 7-year-old son alone on Mount Fuji for hours to continue hike (Japan Times)
-  - China banned ivory, but Vietnamese gangs keep the trade alive (SCMP)
-  - In U.S., rare earths extracted from coal mine wastewater (Japan Times)
-  - Takaichi takes flak for ‘weak’ responses to U.S. and Russia (Japan Times)
-  - Japan ministry ends collaboration with Netflix dating show after outcry (Japan Times)
-  - Why Chinese foreign minister’s trip to South Korea ‘dealt a low blow’ to Seoul (SCMP)
-  - Pentagon fires Stars and Stripes leaders after they criticize interference (Japan Times)
-  - China eyes bid to host 2028 U.N. climate talks (Japan Times)
-  - Trump’s environmental rollbacks are being struck down by courts (Japan Times)
-  - NATO’s eastern allies plan to cut U.S. base costs to placate Trump (Japan Times)
-  - Russian drone strikes on Ukraine shopping centre kill 16, injure 130 (SCMP)
-  - Young Chinese women dye armpit hair as fashion statement and expression of bodily autonomy (SCMP)
-  - Trump risks China blowback with plan to choke Iran’s economy (Japan Times)
+  - Trump heads into midterms short on foreign policy wins (Japan Times)
 
---- Southeast Asia (21) ---
+--- Southeast Asia (23) ---
+
+* Two rescued after bulk carrier sinks off India
+  Channel News Asia | 23 Aug 05:16 UTC
+  The Panama-flagged bulk carrier MV Ocean Winner was headed to Singapore from Paradip port in India's Odisha state, according to MarineTraffic.
+  https://www.channelnewsasia.com/asia/india-bulk-carrier-mv-ocean-winner-panana-flagged-singapore-6335636
+
+* Australia thrash Bangladesh by innings and 51 runs in Mackay to tie series
+  Channel News Asia | 23 Aug 05:13 UTC
+  https://www.channelnewsasia.com/sport/australia-thrash-bangladesh-innings-and-51-runs-in-mackay-tie-series-6335641
+
+* Bangladesh's gas crisis hits factories, homes and transport
+  Channel News Asia | 23 Aug 04:42 UTC
+  Bangladesh was largely self-sufficient in natural gas in 2018, but production declined as older fields depleted, while demand has risen.
+  https://www.channelnewsasia.com/asia/bangladesh-gas-shortage-energy-crisis-6335601
+
+* Kazakhstan's future after the elections: Russia, EU or China
+  DW Asia | 23 Aug 04:23 UTC
+  Kazakhstan, where power is being continuously consolidated in the president's hands, will have to continue its tough balancing act between the EU, Russia and China following the parliamentary elections this Sunday.
+  https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-asia-5133-xml-mrss
+
+* Man City boss Maresca targets next Rodri after midfielder's exit
+  Channel News Asia | 23 Aug 04:13 UTC
+  https://www.channelnewsasia.com/sport/man-city-boss-maresca-targets-next-rodri-after-midfielders-exit-6335571
+
+* 7-Eleven Singapore launches self-care spots at dining spaces islandwide
+  Channel News Asia | 23 Aug 04:04 UTC
+  Located in over 60 7-Eleven Singapore stores with dine-in spaces, the Take Five Spot initiative gives customers self-guided breathing exercises and mental well-being resources.
+  https://www.channelnewsasia.com/wellness/7-eleven-singapore-take-five-spot-6332681
+
+* 5.9 magnitude earthquake hits Japan, dozens injured
+  Channel News Asia | 23 Aug 03:31 UTC
+  The late-night quake disrupted regional train services in Tokyo on Sunday morning, according to East Japan Railway Company.
+  https://www.channelnewsasia.com/east-asia/japan-tokyo-earthquake-train-service-disrupted-6335551
+
+* Bangladesh 39-3 at lunch, trail by 107 runs in second test v Australia
+  Channel News Asia | 23 Aug 02:18 UTC
+  https://www.channelnewsasia.com/sport/bangladesh-39-3-lunch-trail-107-runs-in-second-test-v-australia-6335501
 
 * What actually works for knee pain? Expert advice for wear and tear, overuse and acute injuries
   Channel News Asia | 22 Aug 23:14 UTC
@@ -757,53 +806,25 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Channel News Asia | 22 Aug 22:37 UTC
   https://www.channelnewsasia.com/sport/mourinho-decries-alleged-bullying-vinicius-after-reals-win-espanyol-6335376
 
-* Milei puts himself in the driver's seat to bring F1 back to Argentina
-  Channel News Asia | 22 Aug 22:36 UTC
-  https://www.channelnewsasia.com/sport/milei-puts-himself-in-drivers-seat-bring-f1-back-argentina-6335381
-
-* Commentary: Trump’s South Korea defence flip reminds Japan it has no Plan B
-  Channel News Asia | 22 Aug 22:00 UTC
-  While alarming for Seoul, an abandonment of US guarantees could be disastrous for Tokyo, says Leo Lewis for The Financial Times.
-  https://www.channelnewsasia.com/commentary/trump-south-korea-japan-military-defence-6333256
-
-* ‘This is our home’: The women fighting a company’s land claim on Indonesia’s Pari Island
-  Channel News Asia | 22 Aug 22:00 UTC
-  Pari Island is at the centre of a decade-long land dispute which has seen local residents attempting to defend their community land rights against PT Bumi Pari Asri which says it owns about 90 per cent of the island via freehold certificates and right-to-build permits.
-  https://www.channelnewsasia.com/asia/indonesia-pari-island-women-jakarta-environment-advocacy-6332926
-
-* Substitute Espi snatches last-gasp winner in Real Madrid LaLiga opener
-  Channel News Asia | 22 Aug 21:55 UTC
-  https://www.channelnewsasia.com/sport/substitute-espi-snatches-last-gasp-winner-in-real-madrid-laliga-opener-6335351
-
-* Wins for Lens and Lyon on opening Ligue 1 weekend
-  Channel News Asia | 22 Aug 21:37 UTC
-  https://www.channelnewsasia.com/sport/wins-lens-and-lyon-opening-ligue-1-weekend-6335346
-
-* Why this Jakarta house has almost no visible windows
-  Channel News Asia | 22 Aug 21:33 UTC
-  Designed by Indonesian architect Andra Matin, this bold black house in Bintaro uses narrow openings, greenery and clever spatial planning to bring in light and air while preserving the homeowner’s privacy.
-  https://www.channelnewsasia.com/obsessions/jakarta-house-privacy-tropical-design-6325231
-
-* Springboks need to figure way back into series after loss to All Blacks
-  Channel News Asia | 22 Aug 21:18 UTC
-  https://www.channelnewsasia.com/sport/springboks-need-figure-way-back-series-after-loss-all-blacks-6335341
-
-* Tottenham's expensive rebuild begins with familiar collapse
-  Channel News Asia | 22 Aug 21:02 UTC
-  https://www.channelnewsasia.com/sport/tottenhams-expensive-rebuild-begins-familiar-collapse-6335316
-
-  ALSO IN SOUTHEAST ASIA (9), headline only:
+  ALSO IN SOUTHEAST ASIA (11), headline only:
+  - Milei puts himself in the driver's seat to bring F1 back to Argentina (Channel News Asia)
+  - Commentary: Trump’s South Korea defence flip reminds Japan it has no Plan B (Channel News Asia)
+  - ‘This is our home’: The women fighting a company’s land claim on Indonesia’s Pari Island (Channel News Asia)
+  - Substitute Espi snatches last-gasp winner in Real Madrid LaLiga opener (Channel News Asia)
+  - Wins for Lens and Lyon on opening Ligue 1 weekend (Channel News Asia)
+  - Why this Jakarta house has almost no visible windows (Channel News Asia)
+  - Springboks need to figure way back into series after loss to All Blacks (Channel News Asia)
+  - Tottenham's expensive rebuild begins with familiar collapse (Channel News Asia)
   - Bayern battle past Dortmund 2-1 to win German Supercup (Channel News Asia)
-  - Israel conducts fresh strike in Syria after US criticism (Channel News Asia)
-  - Pegula rallies past defending champion Swiatek as Fils reaches Cincinnati final (Channel News Asia)
-  - All Blacks take major advantage in South Africa series after first-test success (Channel News Asia)
-  - Inter begin title defence with win over Monza, Napoli beat Genoa (Channel News Asia)
-  - Ipswich earn cathartic win to mark Premier League return (Channel News Asia)
-  - Kazakhstan's future after the elections: Russia, EU or China (DW Asia)
   - Myanmar military airstrike kills 14 at Buddhist monastery: reports (DW Asia)
   - India news: Gandhi's handwritten notes sold for $1.7 million at Mumbai auction (DW Asia)
 
---- Central Asia (9) ---
+--- Central Asia (8) ---
+
+* Kazakhstan Opens More Than 10,000 Polling Stations for First Kurultai Election
+  Astana Times | 23 Aug 04:52 UTC
+  The Astana Times provides news and information from Kazakhstan and around the world. ALMATY – Kazakhstan opened 10,363 polling stations across the country on Aug. 23 for Kazakhstan’s first elections to the Kurultai, according to the Central Election Commission (CEC). Polling stations began operating at 7 a.m. Astana time, while 107 of the...
+  https://astanatimes.com/2026/08/kazakhstan-opens-more-than-10000-polling-stations-for-first-kurultai-election/
 
 * S&P Upgrade Highlights Kazakhstan’s Economic Resilience and Investment Potential
   Astana Times | 22 Aug 12:03 UTC
@@ -814,16 +835,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Astana Times | 22 Aug 11:10 UTC
   The Astana Times provides news and information from Kazakhstan and around the world. ASTANA — Archaeologists from across the Turkic world are moving towards a new model of cooperation that could make the region’s archaeological heritage easier to study as a single interconnected historical space. At the third meeting of the Association of...
   https://astanatimes.com/2026/08/kazakhstans-archaeological-heritage-from-ancient-steppe-discoveries-to-shared-digital-atlas/
-
-* How Tropical Greenhouse in Astana Quietly Changes Way You Think About Survival
-  Astana Times | 22 Aug 04:30 UTC
-  The Astana Times provides news and information from Kazakhstan and around the world. I had lived in Astana for years before I finally visited the greenhouse at the city’s Botanical Garden. Looking back, I’m not entirely sure why it took me so long. I’d walked through the park countless times, watched runners weave between its paths, admir...
-  https://astanatimes.com/2026/08/how-tropical-greenhouse-in-astana-quietly-changes-way-you-think-about-survival/
-
-* Exploring History of Kurultai in Steppe Civilization
-  Astana Times | 22 Aug 04:00 UTC
-  The Astana Times provides news and information from Kazakhstan and around the world. ASTANA – The Kurultai has long served as one of the defining institutions of governance across the Eurasian steppe. Long before the emergence of the Kazakh Khanate, assemblies of tribal leaders gathered to settle disputes, legitimize rulers, declare war a...
-  https://astanatimes.com/2026/08/exploring-history-of-kurultai-in-steppe-civilization/
 
 * Criminal Cases, Travel Bans: Pressure Mounts On Kazakh Journalists Ahead Of Parliamentary Vote
   RFE/RL Kazakhstan | 21 Aug 13:29 UTC
@@ -852,109 +863,109 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 
 --- Pacific (48) ---
 
-* Australia news live: Victorian Liberals announce plan for new appeals court to ensure tougher sentences
-  Guardian Australia | 22 Aug 23:54 UTC
-  New court of criminal appeal would give effect to new bail and sentencing laws, opposition leader says. Follow live A 46-year-old Melton man driving a stolen car has died following a fatal collision in East Melbourne overnight, according to Victoria police. The man was seen in the Richmond area of Melbourne on Saturday night “erratically”...
+* Flights cancelled as severe gales hit parts of the country
+  RNZ | 23 Aug 06:14 UTC
+  Air New Zealand says strong winds have impacted its operations in Wellington, Palmerston North, New Plymouth, Blenheim, Invercargill, Dunedin and Queenstown.
+  https://www.rnz.co.nz/news/weather/1084885/flights-cancelled-as-severe-gales-hit-parts-of-the-country
+
+* Ousted Te Pāti Māori MP Tākuta Ferris to stand as independent candidate
+  RNZ | 23 Aug 06:13 UTC
+  Tākuta Ferris was ousted from Te Pāti Māori in 2025 following a period of internal conflict and a public falling out with the party's leadership.
+  https://www.rnz.co.nz/news/political/1084870/ousted-te-pati-maori-mp-takuta-ferris-to-stand-as-independent-candidate
+
+* Quick hits: A Shoriful stunner amid more left-arm carnage in the 29th two-day Test
+  ABC Australia | 23 Aug 06:08 UTC
+  Mitchell Starc delivers once more but it's another left-arm seamer who delivers the ball of the series, as Test cricket is blessed with its 29th two-day match. Here are the quick hits from day two of the second Test between Australia and Bangladesh.
+  https://www.abc.net.au/news/2026-08-23/australia-vs-bangladesh-quick-hits-day-two-starc-shoriful/107065248
+
+* Swans AFLW captain says support 'just unbelievable' as record smashed
+  ABC Australia | 23 Aug 05:58 UTC
+  The women's team receive an outpouring of support including a record crowd as 16,672 fans filled the stands to watch them play.
+  https://www.abc.net.au/news/2026-08-23/sydney-swans-aflw-break-record-recieve-unbelievable-support/107068848
+
+* Man in critical condition after being hit by car in Manawatū
+  RNZ | 23 Aug 05:05 UTC
+  The man is in critical condition in Wellington Hospital. Police say there may be witnesses with video footage who are reluctant to come forward.
+  https://www.rnz.co.nz/news/crime-and-justice/1084180/man-in-critical-condition-after-being-hit-by-car-in-manawatu
+
+* Thousands line riverbank to welcome Spirit IV 'home' to Devonport
+  ABC Australia | 23 Aug 04:49 UTC
+  After years of delays and cost blowouts, Spirit of Tasmania IV has arrived in its home port of Devonport for testing ahead of October sailings.
+  https://www.abc.net.au/news/2026-08-23/spirit-iv-ferry-devonport-testing/107068364
+
+* Hundreds walk through Brookfield after alleged early morning sexual assault
+  ABC Australia | 23 Aug 04:47 UTC
+  Hundreds of people walked through the Brisbane suburb of Brookfield in a show of strength and solidarity after the alleged early morning sexual assault of a 23-year-old woman.
+  https://www.abc.net.au/news/2026-08-23/solidarity-walk-brookfield-brisbane-after-alleged-sexual-assault/107068630
+
+* Coalition wants to split Court of Appeal to focus on tougher sentences
+  ABC Australia | 23 Aug 04:33 UTC
+  The Victorian opposition says it will create a Court of Criminal Appeal if it wins the November election as part of its tough on crime policies.
+  https://www.abc.net.au/news/2026-08-23/victorian-opposition-plan-to-reform-court-of-appeal/107068548
+
+* Swans fans turn up to support women’s team – as it happened
+  Guardian Australia | 23 Aug 04:13 UTC
+  This blog is now closed Victorian Labor expands on free dental care election promise The Victorian premier, Ben Carroll , and health minister, Ingrid Stitt , have held a press conference this morning off the back of their announcement yesterday that the Labor government would open 10 free public dental clinics if re-elected in November . ...
   https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb
 
-* Live: Green the key as Australia looks to extend lead on day two
-  ABC Australia | 22 Aug 23:35 UTC
-  Cam Green is looking to combine with Australia's lower order as day two begins in Mackay, after a frenetic 18-wicket opening day against Bangladesh. Follow live.
-  https://www.abc.net.au/news/2026-08-23/australia-vs-bangladesh-live-updates-second-test-day-two/107065186
+* Almost two in three youth offenders offending on bail, government says
+  ABC Australia | 23 Aug 04:10 UTC
+  More than 60 per cent of repeat youth offenders are committing crimes while on bail, the Queensland government has said as it prepares to unveil major bail reform.
+  https://www.abc.net.au/news/2026-08-23/bail-reform-queensland/107068382
 
-* Hundreds march to mark 60th anniversary of the historic Wave Hill Walk-Off
-  ABC Australia | 22 Aug 23:14 UTC
-  On the 60th anniversary of the Wave Hill Walk-Off, more than 1,000 people have marched from Kalkarindji to the banks of the Victoria River to retrace the steps taken by hundreds of stockmen, workers and their families in a pivotal moment for Aboriginal land rights.
-  https://www.abc.net.au/news/2026-08-23/hundreds-march-in-freedom-festival-wave-hill-walk-off-60-years/107064186
+* Wrong landmark spotted on Sydney Marathon medal a week out from event
+  ABC Australia | 23 Aug 04:07 UTC
+  Runners who finish the Sydney Marathon will receive a medal featuring a football stadium in Germany instead of Moore Park due to an "unfortunate error".
+  https://www.abc.net.au/news/2026-08-23/nsw-sydney-marathon-medal-mix-up-munich-arena/107068624
 
-* $20m avocado packing shed upgrade halves workforce with robots
-  ABC Australia | 22 Aug 23:00 UTC
-  Robots replace half the casual workforce and double the output capacity at one of Australia's largest avocado packing sheds.
-  https://www.abc.net.au/news/2026-08-23/avocado-packing-shed-manjimup-robotic-upgrade/107059672
-
-* I gave birth to my twin brother's baby and saved his life in the process
-  ABC Australia | 22 Aug 23:00 UTC
-  Twins Adam Braitberg and Ellie Freeman grew up in what they describe as a loving and close-knit family in suburban Melbourne/Naarm. That bond has only grown stronger since Ellie and eldest sister Jess helped Adam and his husband Omer bring daughter Gali into the world.
-  https://www.abc.net.au/news/2026-08-23/love-story-how-ellie-helped-brother-adam-surrogacy-baby-gali/107057106
-
-* Pogačar makes ominous start at Spanish Vuelta as history beckons
-  ABC Australia | 22 Aug 22:41 UTC
-  Cycling superstar Tadej Pogačar claims the Spanish Vuelta's red jersey for the first time as he looks to make history.
-  https://www.abc.net.au/news/2026-08-23/spanish-vuelta-tadej-pogacar-claims-red-jersey/107068230
-
-* Drug testing limits police don't want drivers to know under scrutiny
-  ABC Australia | 22 Aug 22:21 UTC
-  The exact concentration of cannabis in a driver's saliva that produces a positive drug test has long been guarded closely by New South Wales Police.
-  https://www.abc.net.au/news/2026-08-23/nsw-drug-testing-limits-questioned-as-police-stay-silent/107065740
-
-* Nazi salutes, Epstein jokes: How the 'manosphere' is affecting classrooms
-  ABC Australia | 22 Aug 22:17 UTC
-  Female teachers are speaking out about how the "manosphere" is affecting classrooms, with some saying they have noticed a rise in misogynistic attitudes among students.
-  https://www.abc.net.au/news/2026-08-23/teachers-describe-rise-of-the-manosphere-in-classrooms/107062824
-
-* Teen Socceroo makes perfect EPL debut with win over Manchester United
-  ABC Australia | 22 Aug 22:16 UTC
-  Eighteen-year-old Socceroos defender Lucas Herrington makes the perfect start to his EPL career with victory over Manchester United.
-  https://www.abc.net.au/news/2026-08-23/epl-lucas-herrington-debut-hull-city-beats-manchester-united/107068206
-
-* US imposes visa bonds of up to $27k for several Pacific countries
-  ABC Australia | 22 Aug 22:12 UTC
-  Travellers in several Pacific countries will now need to pay a bond of up to $27,000 to travel to the US as that government cracks down on overstayers.
-  https://www.abc.net.au/news/2026-08-23/us-forcing-some-pacific-visitors-to-pay-up-to-27k-bond/107051660
-
-* 'Most people wouldn't even realise': Why Canberra is a data centre hotspot
-  ABC Australia | 22 Aug 22:08 UTC
-  Andrew Barr says there is no need to pause the development of new data centres in Canberra because the ACT's standards will meet or exceed proposed national rules.
-  https://www.abc.net.au/news/2026-08-23/act-data-centre-policy-already-aligned-with-national-ai-standard/106936530
-
-* Program motivates remote students to join healthcare workforce at home
-  ABC Australia | 22 Aug 22:03 UTC
-  Melinda is still finishing high school, but she is already working inside the health system and building a career that could bring her back to serve her own community.
-  https://www.abc.net.au/news/2026-08-23/deadly-start-grows-first-nations-health-workforce-north-west-qld/107053008
+* Hanson forced to intervene after One Nation MP says party’s migration target ‘not too different’ from Labor’s
+  Guardian Australia | 23 Aug 03:12 UTC [also carried by: ABC Australia]
+  David Farley says party wants 100,000 migrant rural workers in addition to the 130,000 migration target it considers the ‘true’ number Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The One Nation MP David Farley says the minor party’s net migration target is “not too di...
+  https://www.theguardian.com/australia-news/2026/aug/23/one-nation-mp-david-farley-immigration-target-net-overseas-migration-not-too-different-labor-rural-workforce
 
   ALSO IN PACIFIC (36), headline only:
-  - Man charged with murder over woman's death in Melbourne home (ABC Australia)
-  - Hundreds across Wellington, South Island without power (RNZ)
-  - Fears for sea lions as suspected bird flu spreads to breeding ground (ABC Australia)
-  - The archer who shoots a target he cannot see (ABC Australia)
-  - Meet the people working to tackle hate and foster social cohesion (ABC Australia)
-  - Election fight heats up over proposed $7.6 billion powerline through Victoria (ABC Australia)
-  - Five songs that show what the Brisbane music scene is made of (ABC Australia)
-  - Blocks smaller than tennis courts allowed under Brisbane planning changes (ABC Australia)
-  - Norris to start on pole for Dutch GP as Russell claims sprint (ABC Australia)
-  - Government to retain Labour's clean car standard for imported high-emissions vehicles (RNZ)
-  - This 50yo woman pulls a 10-tonne truck and lifts 24,000kg in an hour (ABC Australia)
+  - Liberal plan to split Victorian appeals court attacked as ‘thought bubble’ that would politicise judiciary (Guardian Australia)
+  - Live: Tigers search for a miracle against high-flying Roosters (ABC Australia)
+  - Tributes flow for 'formidable' ex-Nationals WA leader after his death (ABC Australia)
+  - Jordan caught in Iran-US-Israel war crossfire (ABC Australia)
+  - Coroner closes investigation into missing man after farmers find human remains (ABC Australia)
+  - Kojonup adds names of long-forgotten soldiers to war memorial (ABC Australia)
+  - Harry and Meghan's return from California exile a major royal plot twist (ABC Australia)
+  - 'Mainly to support AFLW': Swans fans descend on SCG amid club scandal (ABC Australia)
+  - 'Low-level' metal traces linked to WA playground closure (ABC Australia)
+  - Otago oncology professor calls ACT's cancer centre policy 'magical thinking' (RNZ)
+  - Selwyn calls early end to 'challenging' ski season (ABC Australia)
+  - Bristol City striker's stunning backheel goal in England goes viral (ABC Australia)
+  - Officials keep quiet after botched Lake Alice compensation (RNZ)
+  - Sydney Marathon admits ‘unfortunate error’ as finisher’s medal depicts Munich stadium as race highlight (Guardian Australia)
   - Hospital security appeared powerless against 'intimidating' patient, witness says (RNZ)
-  - Mansion in My Brilliant Career reboot brings buzz to rural town (ABC Australia)
-  - Traditional owners relieved they won't have to watch another Juukan Gorge disaster (ABC Australia)
+  - Live: Swans inclusions play starring roles as legends come out to support team (ABC Australia)
+  - NT government pursues Fair Work action over firefighters, corrections dispute (ABC Australia)
+  - Grafton 12yo takes campaign to politicians to fix beloved skate park (ABC Australia)
+  - Meat sector unclear what Trump's tariff's mean for New Zealand (RNZ)
+  - 'The astounding thing was the speed': Residents survey aftermath of Albert Town fire (RNZ)
+  - Father leaves 7yo son behind on Mount Fuji to continue climb (ABC Australia)
+  - Fur seal’s death marks first Australian mainland mammal fatality from spreading H5 bird flu strain (Guardian Australia)
+  - Australia records its first bird flu case in a mammal, minister says (ABC Australia)
+  - Severe Wellington winds of 168 km/h bring unseasonal warm weather (RNZ)
+  - Teens charged after fleeing driver crash left cop critically injured in Palmerston North (RNZ)
+  - WA by-election puts One Nation's growing appeal to the test (ABC Australia)
+  - Hundreds across Wellington, South Island without power (RNZ)
+  - Government to retain Labour's clean car standard for imported high-emissions vehicles (RNZ)
   - I’d heard ringing in my ears before. This time, it didn’t stop (Guardian Australia)
-  - Peter Malinauskas grabbed headlines by announcing a royal commission into AI. How genuine are his ‘nation-leading’ moves? (Guardian Australia)
-  - A new scheme is about to replace the NDIS for children with autism. Why has Queensland refused to sign up? (Guardian Australia)
   - David Pocock on the ‘real betrayal’ of Labor’s deal on gambling reforms - podcast (Guardian Australia)
-  - ‘Devastating’: Western Australia fears a black swan moment as bird flu threatens flagship species (Guardian Australia)
   - The major parties several chances to meet the moment. Instead they chose to safeguard their collective mediocrity | Zoe Daniel (Guardian Australia)
-  - The Canadian province set to vote on becoming a breakaway country (ABC Australia)
-  - 'We're all gonna make it': What gymbros are getting wrong about Zyzz (ABC Australia)
   - Firefighters working on large vegetation fire in Invercargill (RNZ)
   - Polytechs resisting attempts to keep single collective agreement for sector, union says (RNZ)
   - Strong winds hampering firefighters at large Wānaka blaze (RNZ)
   - Three hurt in Lindis Pass crash (RNZ)
   - Police investigate Far North death (RNZ)
-  - Victorian Labor promises free dental care if re-elected in Australia-first move (Guardian Australia)
-  - 'Hoping for the best': How a police officer was left fighting for his life after a car struck him (RNZ)
-  - One critically injured after Tauranga crash (RNZ)
-  - Fleeing driver in Palmerston North leaves officer in critical condition (RNZ)
-  - Southland student's curiosity earns science honours and a ticket to the US (RNZ)
-  - Motor industry calls for bipartisan approach to clean car standard (RNZ)
-  - Are currency conversion charges a rip-off? Ask Susan (RNZ)
-  - Rollers Bakery, made famous by golfer Ryan Fox, reports attempted break-in (RNZ)
-  - Christchurch city councillor calls for bed register to crack down on unapproved Airbnbs (RNZ)
 
 ######################################################################
 ## POLITICS AND CONFLICT
 ######################################################################
 
---- Politics (3) ---
+--- Politics (2) ---
 
 * The complexities of covering swing voters and what they teach us about politics
   NPR Politics | 22 Aug 21:30 UTC
@@ -966,11 +977,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Trade talks with Canada collapse hours before a new tariff deadline. President Trump threatens Iran with an "Economic D-Day" the same week the U.S. national debt surpassed $40 trillion.
   https://www.npr.org/2026/08/22/nx-s1-5937895/week-in-politics-canada-talks-collapse-u-s-economic-d-day-record-national-debt
 
-* Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8
-  NPR Politics | 22 Aug 04:36 UTC [also carried by: NPR Business]
-  The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs "dollar for dollar" next month.
-  https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs
-
 --- Conflict (1) ---
 
 * Foreign policy expert Andrew Gawthorpe on Trump's new financial war on Iran
@@ -978,7 +984,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   NPR's Scott Simon speaks with international studies professor Andrew Gawthorpe about President Trump's pattern of shifting between military and economic action against Iran.
   https://www.npr.org/2026/08/22/nx-s1-5938072/foreign-policy-expert-andrew-gawthorpe-on-trumps-new-financial-war-on-iran
 
---- Law (12) ---
+--- Law (8) ---
 
 * UN announces new initiative to protect terrorism victims from online harm and retraumatisation
   JURIST | 22 Aug 22:06 UTC
@@ -996,7 +1002,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   https://www.jurist.org/news/2026/08/us-deports-over-160-people-to-haiti-following-end-of-protected-status/
 
 * Federal judge strikes down administration’s ban on visas for immigrants from 75 countries
-  JURIST | 22 Aug 15:49 UTC [also carried by: NYT US]
+  JURIST | 22 Aug 15:49 UTC
   A judge for the US District Court for the Southern District of New York on Friday struck down a ban on immigrant visas for citizens of 75 countries. Judge Jeannette Vargas wrote that the order, from Secretary of State Marco Rubio, was “patently unlawful” and exceeded his power under the Immigration and Nationality Act (INA), […] The post ...
   https://www.jurist.org/news/2026/08/federal-judge-strikes-down-administrations-ban-on-visas-for-immigrants-from-75-countries/
 
@@ -1020,34 +1026,44 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   The Canadian Civil Liberties Association on Thursday sued Canada and Manitoba for the province’s “extremely underfunded” criminal legal aid, arguing that the underfunding violates the right to the presumption of innocence, fair trial, and is discriminatory against Indigenous people in effect. The lawsuit argued that the financial eligibil...
   https://www.jurist.org/news/2026/08/rights-group-sues-canada-and-manitoba-for-extremely-underfunded-criminal-legal-aid/
 
-* UN humanitarian chief warns increased drone use against civilians threatens Ukraine humanitarian response
-  JURIST | 22 Aug 01:26 UTC
-  UN humanitarian chief Tom Fletcher on Wednesday warned that the recent rise in the usage of drones posed a dangerous risk for aid operations, emphasizing that international humanitarian law, which prohibits attacks on humanitarian workers and civilians, continues to apply to drone warfare regardless of how sophisticated or remote the weap...
-  https://www.jurist.org/news/2026/08/un-humanitarian-chief-warns-increased-drone-use-against-civilians-threatens-ukraine-humanitarian-response/
-
-* Hong Kong court finds Tiananmen crackdown commemorators guilty of subversion
-  JURIST | 22 Aug 01:03 UTC
-  The Hong Kong Court of First Instance on Friday found Chow Hang-tung, Lee Cheuk-yan and their now-disbanded organization, the Hong Kong Alliance, guilty of a national security offense under the Beijing-imposed National Security Law (NSL). Three NSL-designated judges unanimously ruled that the defendants’ advocacy, through peaceful June 4 ...
-  https://www.jurist.org/news/2026/08/hong-kong-court-finds-tiananmen-crackdown-commemorators-guilty-of-subversion/
-
-* Amnesty International decries Argentina’s expanding AI surveillance as tool of social control
-  JURIST | 22 Aug 00:58 UTC
-  Amnesty International on Wednesday accused Argentina of building techno-authoritarian surveillance infrastructure without adequate legal safeguards as the government’s newly created AI security unit expands state monitoring powers over citizens’ online communications and physical movements. In its latest report, the rights group stated th...
-  https://www.jurist.org/news/2026/08/amnesty-international-decries-argentinas-expanding-ai-surveillance-as-tool-of-social-control/
-
-* Minnesota Attorney General files suit against Texas Governor over extradition of ICE agent
-  JURIST | 22 Aug 00:37 UTC
-  The State of Minnesota on Tuesday sued to compel Texas Governor Greg Abbott to extradite Immigration and Customs Enforcement (ICE) agent Christian Castro who faces state charges stemming from an ICE shooting in Minneapolis last January. Minnesota Attorney General Keith Ellison and Governor Tim Walz sued in the US District Court for the So...
-  https://www.jurist.org/news/2026/08/minnesota-attorney-general-files-suit-against-texas-governor-over-extradition-of-ice-agent/
-
 ######################################################################
 ## ECONOMY AND BUSINESS
 ######################################################################
 
---- Economy (12) ---
+--- Economy (10) ---
+
+* US buyers snap up Europe’s asset managers at fastest rate in decades
+  Financial Times | 23 Aug 04:30 UTC [also carried by: FT Mergers and Acquisitions]
+  European fund groups struggle as firms race to bulk up and expand globally
+  https://www.ft.com/content/dd605c6f-8a6e-4664-970b-f4c07ea7a4d2?syn-25a6b1a6=1
+
+* Are America’s vast Gulf bases worth rebuilding?
+  Financial Times | 23 Aug 04:00 UTC
+  Iran’s attacks exposed vulnerability of US military footprint spanning the region since the 1990s
+  https://www.ft.com/content/6f664a31-ca24-4a16-a6e9-5978fdf2512c?syn-25a6b1a6=1
+
+* Why is the far right so obsessed with knights?
+  Financial Times | 23 Aug 04:00 UTC
+  Medieval military monks have become a regular sight at political rallies and marches
+  https://www.ft.com/content/ef65c99c-b58c-430c-b6be-8036f042cc1e
+
+* India’s reliance on Russian oil hits all-time high
+  Financial Times | 23 Aug 04:00 UTC
+  Middle East conflict exposes New Delhi’s energy security vulnerabilities
+  https://www.ft.com/content/be3c0c6c-0a65-4add-b675-7a5876f625be?syn-25a6b1a6=1
+
+* Europe can do better than US-style air conditioning
+  Financial Times | 23 Aug 04:00 UTC
+  The instinct is to bolt a dripping box to every building but there is a smarter, cooler way
+  https://www.ft.com/content/fe9be519-ceae-4279-83b1-220f9505d6a9
+
+* Investors try to catch ‘falling knife’ with bets on risky funds during chip rout
+  Financial Times | 23 Aug 04:00 UTC
+  Leveraged single-stock ETFs attracted billions of dollars of net inflows even as they plunged during market sell-off
+  https://www.ft.com/content/5e8072a7-cb99-47a6-9478-e46e7de3b4a2?syn-25a6b1a6=1
 
 * Trump’s Top Trade Representative Details Offer That Canada Rejected
-  NYT Economy | 22 Aug 23:02 UTC [also carried by: Politico Europe]
+  NYT Economy | 22 Aug 23:02 UTC
   In an interview, Jamieson Greer, President’s Trump’s trade representative, laid out details of what the United States offered to Canada before talks crumbled.
   https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html
 
@@ -1061,55 +1077,15 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   NPR's Danielle Kurtzleben speaks with Mike Roach and Kim Osgood, owners of Paloma Clothing in Portland, Ore., about how the tariff fight between the U.S. and Canada is affecting their business.
   https://www.npr.org/2026/08/22/nx-s1-5941703/the-u-s-canada-are-fighting-over-tariffs-how-is-that-affecting-small-businesses
 
-* Russian ‘double-tap’ attack on Ukrainian shopping mall kills at least 16
-  Financial Times | 22 Aug 19:29 UTC
-  Volodymyr Zelenskyy calls on allies to pile ‘real pressure’ on Moscow to end the war
-  https://www.ft.com/content/a7837e1c-6865-42bd-9902-3d4c4b7f37ef?syn-25a6b1a6=1
-
 * Israel’s Syria strike may have been bid to provoke Turkey conflict, US envoy says
   Financial Times | 22 Aug 18:17 UTC
   Washington’s ambassador to Ankara says attack on air base could have been ‘aggressive . . . pre-election concept’ ahead of October polls
   https://www.ft.com/content/d770cdbf-46b1-4928-9ec7-e1155db679d2
 
-* Mark Carney says Canada is now ‘at war’ with US over trade
-  Financial Times | 22 Aug 17:22 UTC
-  Prime Minister says Donald Trump miscalculated by escalating his tariffs attack on the country
-  https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1
-
-* Europe’s fatal beauty
-  Financial Times | 22 Aug 04:00 UTC
-  A less seductive continent would not attract so many enemies
-  https://www.ft.com/content/ff65daca-59bb-48f2-a6d1-e177a6409459?syn-25a6b1a6=1
-
-* Trump’s challenge: $40tn debt, 6.7% mortgages and $5 diesel
-  Financial Times | 22 Aug 04:00 UTC
-  The president’s agenda is under strain as the Iran war pushes up prices and America’s finances worsen
-  https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1
-
-* Bossing the bond market around never works
-  Financial Times | 22 Aug 04:00 UTC
-  Despite Scott Bessent’s efforts, investors worry something is up
-  https://www.ft.com/content/b9e7a620-1018-4004-a3b0-3c85d494d21d?syn-25a6b1a6=1
-
-* Who counts in Trump’s America?
-  Financial Times | 22 Aug 04:00 UTC
-  Gillian Tett on the president’s bid to reform the 10-year census, and the explosive politics behind who gets included and who gets to decide
-  https://www.ft.com/content/7c9cd212-58c6-44e1-b515-022271e4390d?syn-25a6b1a6=1
-
-* Germany becomes Europe’s largest regulated cannabis market
-  Financial Times | 22 Aug 04:00 UTC
-  Critics are calling for legislation to be tightened two years after the drug was partially liberalised
-  https://www.ft.com/content/6541cb37-1bc7-4f52-a8ef-f503d13be4ce
-
-* How Germany’s doctors, lawyers and dentists got burnt by private markets bets
-  Financial Times | 22 Aug 04:00 UTC
-  Questions mount over management of mandatory pension schemes for professionals worth €300bn
-  https://www.ft.com/content/00342102-98ee-47a7-b2cf-7878b9131afd?syn-25a6b1a6=1
-
---- Business (4) ---
+--- Business (3) ---
 
 * Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods
-  Guardian Business | 22 Aug 14:04 UTC [also carried by: Al Jazeera global, BBC US Canada, Dawn, Euronews]
+  Guardian Business | 22 Aug 14:04 UTC [also carried by: Al Jazeera global, BBC US Canada]
   Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the country’s prime minister, has vowed to match them “dollar for dollar” after the collapse of trade talks. The tariffs came into force on roughl...
   https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail
 
@@ -1123,12 +1099,17 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   The schemes are in place to help people who are struggling with the cost of living.
   https://www.bbc.co.uk/news/articles/cewrv4wqvw2o?at_medium=RSS&at_campaign=rss
 
-* 'We have more work to do', says Canada negotiator as US trade deadline looms
-  BBC Business | 22 Aug 00:40 UTC
-  Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.
-  https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss
+--- Mergers and Acquisitions (5) ---
 
---- Mergers and Acquisitions (4) ---
+* ‘I don’t have any close friends in business’: Euronext CEO on a decade shaping Europe’s markets
+  FT Mergers and Acquisitions | 23 Aug 04:00 UTC
+  Stéphane Boujnah has obsessively chased acquisitions to compete with larger rivals
+  https://www.ft.com/content/72783ac2-d6d4-4507-b50f-88861506ad76?syn-25a6b1a6=1
+
+* Government Rules Out RM7.5 Billion Takeover Bid Of Datasonic From NexG - BusinessToday Malaysia
+  GN takeover bids | 23 Aug 03:54 UTC
+  Government Rules Out RM7.5 Billion Takeover Bid Of Datasonic From NexG BusinessToday Malaysia
+  https://news.google.com/rss/articles/CBMitgFBVV95cUxPbWFVR1dKSVFGSlJQR3lSYVBsWlltdHQyOHh2U2tUQlpaWk5KRDI3WUU2QUVCTldQcERxbWItX2hjaUFjUnhmM2Exbk9KajJuM09uNl9BQ2d2a2ZPbjM3WG90ZmgweERCSXk5VndralBHNzZLZ3MtQ3ZRTzlkTEpWNy1YWFhNbVBjWEJqTkhXYS0tRTJ2U2I5UXhleGlRekN5anNBU2MycEZmTjRTR1NqLXIzZU5UUQ?oc=5
 
 * Monte Dei Paschi Launches $40 Billion Of Takeover Bids For Banco BPM And Banca Generali - Pulse 2.0
   GN takeover bids | 22 Aug 15:44 UTC
@@ -1140,21 +1121,31 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Madison Air Solutions to Buy ebm-papst in $5.8B Deal, Expanding Global Airflow Reach Yahoo Finance
   https://news.google.com/rss/articles/CBMimgFBVV95cUxPMmF3Qm9MeDdMNllVdzNGZ1lEeWJIZS1IYmpHNDBFeXhRV1dERWlKdm15SlhzUDFJRExWeHhTZEFiNDd1SkE2OFI2MDNpcHBURHNTOUJlTEY2RDBSV3R0VjN4T004SDM5V3UweUdxSWtrWTliVlRSVEZuUzNzNHdxeHNsbXFoMjRHTHFiRGZUbS1lbXd4czVQZXd3?oc=5
 
-* Business UK ISP Gamma Confirms £1bn Takeover Talks with Waterland - ISPreview UK
-  Google News UK PE buyouts | 22 Aug 06:23 UTC
-  Business UK ISP Gamma Confirms £1bn Takeover Talks with Waterland ISPreview UK
-  https://news.google.com/rss/articles/CBMitgFBVV95cUxOZEFvb1U5bmVTLVVsaExFZnVhTUktZUtaVzNZcS1hM2ZialJFTDZzQ1RzdGgtaWFWdVdPYmtDVUtxRWhTLWI0dlcwNGg2RDFWY2puWGlidmlRa3Y3LWhMaXpLZk5kQ29JRHJOdU05ZUR2d0FxTU9rWnIySmtvSUkxcW9iRDBudGRJeEoyTU9IZ0NNckxQSGFGdDVWY3E0MkdfRUZscF9vQlBHS2tENUM4cDh2QVRIZw?oc=5
-
-* TikTok reaches $400m US children's privacy settlement
-  Sky News Business | 22 Aug 02:18 UTC
-  TikTok has reached a $400m (£293.2m) settlement with the US Department of Justice (DoJ), ending a 2024 lawsuit alleging the company violated federal children's privacy laws.
-  https://news.sky.com/story/tiktok-reaches-400m-us-childrens-privacy-settlement-13575677
+* AC Milan-owner RedBird Capital pitches PREM Rugby investment
+  Sky News Business | 22 Aug 06:45 UTC
+  The sports and media investment group which owns the Italian football giants AC Milan has begun exploring a deal to become a major backer of English domestic professional rugby.
+  https://news.sky.com/story/ac-milan-owner-redbird-capital-pitches-prem-rugby-deal-13575696
 
 ######################################################################
 ## SCIENCE AND TECHNOLOGY
 ######################################################################
 
---- Science (24) ---
+--- Science (22) ---
+
+* Black holes keep tearing these stars apart, but they survive
+  ScienceDaily | 23 Aug 04:08 UTC
+  Astronomers have found stars that repeatedly skim past supermassive black holes, surviving each encounter while producing a new burst of light. In some systems, those flares mysteriously fade with every return. Researchers now think the key may be stars that were already spinning extremely fast before being captured. That rapid rotation c...
+  https://www.sciencedaily.com/releases/2026/08/260822015119.htm
+
+* This shark can live 400 years. Its eyes barely seem to age
+  ScienceDaily | 23 Aug 03:14 UTC
+  Greenland sharks may live for 400 years without suffering the kind of retinal decline normally associated with aging. Researchers found healthy eye tissue and active proteins specially adapted for seeing blue light in the dim Arctic depths. DNA repair mechanisms may help keep their eyes functioning across centuries. The discovery could ev...
+  https://www.sciencedaily.com/releases/2026/08/260821012232.htm
+
+* Quitting alcohol may prime the brain for relapse
+  ScienceDaily | 23 Aug 02:46 UTC
+  Mice that developed compulsive drinking after alcohol abstinence showed more than double the activity in a brain region associated with stress and addiction. Because the signal appeared before they drank again, researchers think it could eventually help predict who is most at risk of relapse.
+  https://www.sciencedaily.com/releases/2026/08/260822015148.htm
 
 * How we found Haida Gwaii's first marbled murrelet nest in more than 30 years
   Phys.org | 22 Aug 23:00 UTC
@@ -1182,7 +1173,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   https://phys.org/news/2026-08-ai-reveals-hidden-stage-arctic.html
 
 * Heat wave-hit Europe logs over 30,000 excess summer deaths: First figures
-  Phys.org | 22 Aug 16:20 UTC [also carried by: Japan Times]
+  Phys.org | 22 Aug 16:20 UTC
   Europe saw at least 30,000 excess deaths across a blistering summer of back-to-back heat waves and drought that scientists have blamed on man-made climate change, according to provisional figures.
   https://phys.org/news/2026-08-europe-excess-summer-deaths-figures.html
 
@@ -1201,22 +1192,10 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Sometimes science throws up the unexpected. When a team of researchers set out to model river erosion in Canada's High Arctic, they did not expect the findings to defy common sense.
   https://phys.org/news/2026-08-arctic-riverbeds-erode-faster-unfrozen.html
 
-* A museum-shelf mystery reveals 6,500-year-old human tooth pendant in Serbia
-  Phys.org | 22 Aug 15:00 UTC
-  More than 6,500 years ago, someone carefully drilled a hole in a human tooth, strung it on a cord and likely used it as a necklace. Found during field surveys at the Vinča cultural site of Jablanica in Serbia, the human tooth was originally misidentified as an animal tooth bead until archaeologist Nemanja Marković and his colleague Ana Ma...
-  https://phys.org/news/2026-08-museum-shelf-mystery-reveals-year.html
-
-* Near-total lunar eclipse is coming up with the Americas in prime position
-  Phys.org | 22 Aug 14:38 UTC
-  Now it's the moon's turn to pull a disappearing act. After being shut out of this month's total solar eclipse, the Americas will have the best seats in the celestial house when Earth's shadow briefly envelops the moon. Almost the entire lunar surface will be masked Thursday night into Friday—a whopping 96%—making this an especially deep p...
-  https://phys.org/news/2026-08-total-lunar-eclipse-americas-prime.html
-
-* Peppermint oil lowers blood pressure in just 20 days
-  ScienceDaily | 22 Aug 14:08 UTC
-  Peppermint oil may have an unexpected benefit for people with mildly high blood pressure. Adults who took a small dose twice daily for 20 days saw their systolic blood pressure fall by an average of 8.5 mmHg, while a placebo group showed little change. Researchers say the inexpensive oil could eventually provide a simple additional option...
-  https://www.sciencedaily.com/releases/2026/08/260821012238.htm
-
-  ALSO IN SCIENCE (12), headline only:
+  ALSO IN SCIENCE (10), headline only:
+  - A museum-shelf mystery reveals 6,500-year-old human tooth pendant in Serbia (Phys.org)
+  - Near-total lunar eclipse is coming up with the Americas in prime position (Phys.org)
+  - Peppermint oil lowers blood pressure in just 20 days (ScienceDaily)
   - Exercise may work better for keeping weight off than losing it (ScienceDaily)
   - Multilingual people may have brains up to 13 years younger (ScienceDaily)
   - This frozen fiber makes light and sound interact 1,000x more strongly (ScienceDaily)
@@ -1224,11 +1203,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - JWST finds early galaxies may be 4 times more massive than thought (ScienceDaily)
   - Earth's magnetosphere might not protect us from superstorms after all (Phys.org)
   - This yeast supplement may boost cancer-fighting immunity (ScienceDaily)
-  - Queen bees have a disturbing way to survive pesticides (ScienceDaily)
-  - Tooth count may predict survival after pancreatic cancer surgery (ScienceDaily)
-  - Archaeologists discover mysterious 400-year-old Indigenous pot in Florida (ScienceDaily)
-  - This gut microbe may help keep you strong as you age (ScienceDaily)
-  - Bipartisan majorities in US favor banning glyphosate (Phys.org)
 
 --- Space (6) ---
 
@@ -1261,13 +1235,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Space.com | 22 Aug 10:00 UTC
   Here's where the 96% partial lunar eclipse will be visible from on Earth.
   https://www.space.com/stargazing/lunar-eclipses/where-will-the-partial-lunar-eclipse-on-aug-27-2026-be-visible-from
-
---- Health (1) ---
-
-* 5 Surprising Signs of Aging
-  NYT Health | 22 Aug 03:38 UTC
-  Hint: You may need to buy new shoes.
-  https://www.nytimes.com/2026/08/21/well/more-aging-signs.html
 
 --- Energy (2) ---
 
@@ -1360,7 +1327,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Match report – Player ratings – Arteta reaction – Quotes round-up Arsenal kicked off the new season with a comfortable 3-0 win over Coventry City last night. It was no surprise to me to see Declan Rice starting, especially as Bruno Guimaraes was absent through injury, but I was a little surprised to see Bukayo […] The post Arsenal 3-0 Cov...
   https://arseblog.com/2026/08/arsenal-3-0-coventry-familiar-faces-provide-opening-day-encouragement/
 
---- Chainlink (3) ---
+--- Chainlink (2) ---
 
 * Chainlink ETFs record five straight inflow days – Is $14 next for LINK? - AMBCrypto
   Google News Chainlink | 22 Aug 16:00 UTC
@@ -1370,11 +1337,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 * Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says
   CoinDesk | 22 Aug 14:00 UTC
   https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says
-
-* Chainlink Surges 5.4% on AI Platform Launch, Crypto Rally - CoinMarketCap
-  Google News Chainlink | 22 Aug 03:05 UTC
-  Chainlink Surges 5.4% on AI Platform Launch, Crypto Rally CoinMarketCap
-  https://news.google.com/rss/articles/CBMicEFVX3lxTE5kNHNaZDFwQUtKd1VYZnNkckU3UU93aWN6bzNKQ0lzNHd2SnlLMjJ4SzVuUU4tQnRKd0N3MWNqZmkxc1dESnljLUdCYXhjaG5JNjFuc2dWRDZldDRteWdGWG9GcFpodFF5VlhaYlFhanU?oc=5
 
 --- OriginTrail (1) ---
 
@@ -1389,6 +1351,11 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   GN Galy | 21 Aug 19:21 UTC
   GALY Advances Biomanufacturing Platform to Build a New Supply Chain for Cocoa and Other Global Commodities The AI Journal
   https://news.google.com/rss/articles/CBMixgFBVV95cUxOU0U3cWtaMlR2VXhmZ1g5Y1BQYTdXMFItNTNjUE5sOXdDZ2pXRkE4VzU3elM3UGNENnRfWU1oTTV4ZjRrR19DeTRKM3pnSDNrQy13eTlldk0zS3ROcFVsdzh0akMyZkk4RmVUa0hYNEZiWUR6Vm5XcnpPdEhiZnVSajZnUjhKaVdvLW9ZcUplcm1mcDlILWJxYmM1OW1GVEJLWXhEVFlTQUFLNG9Bd0Y2Nkg3U3JzYXJzd21ncGJ3STE5bXdqdXc?oc=5
+
+* Rumors are swirling about 'lab-grown' eggs being sold in the US. Here's what to know - Snopes
+  GN EVERY Co | 21 Aug 15:02 UTC
+  Rumors are swirling about 'lab-grown' eggs being sold in the US. Here's what to know Snopes
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZVUc4Y2VZUDNNamJuTlB4c05iVVhSZkVnV0FQRkt2RkVsSFJPRHotTXF6empwTGpCU1BzNmduUk5rWWFDa29ZM2RWSzNwU1JVeU9Xb05Id082ek5yNFloOXN3?oc=5
 
 * Food Innovators Need Trust To Win Consumer Acceptance, New EIT Food Report Finds | Newswise - Newswise
   GN precision fermentation | 21 Aug 08:30 UTC
@@ -1415,14 +1382,9 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   EIT Food report: Overcoming consumer scepticism in biotechnology foods Innovation News Network
   https://news.google.com/rss/articles/CBMinwFBVV95cUxOaFJFNzhpOS1nblVPRWVPV2FMS3F5aFg5UTlnNUhTWnJZYUhYVzBRWXE1YnFBYWNOQTZqRFBBVWpaaXh0TEFycWNGOXBIN0d4dmFTRklYR213a2dicGF1Q3dFRmFfbC1hWUVZWm9WQW5hLU9BS2ZiRkRNTm4wMEVIQUlfMndjdmVTY01QTnhoUjh1WjlaLS1xYVVjWGllUWs?oc=5
 
-* Nova Scotia invests in precision fermentation technology expansion at scale-up facility - theplantbasemag.com
-  GN precision fermentation | 19 Aug 10:35 UTC
-  Nova Scotia invests in precision fermentation technology expansion at scale-up facility theplantbasemag.com
-  https://news.google.com/rss/articles/CBMitAFBVV95cUxPQncyT0ZGakF2Q1JOZkdwSUtiQm9VQnowVkJ3WGJTSkZ4dnBlZW13bURpUjh6TTFEbE56bDJXSmhCWV9BNzRvcDRGZEtBWlotekxrX3EwTDF0S01WWVpZMS0xRmtEY3UyS3c5Z1Nkemw4LXRwSFFOemFHMlM2cEE0VTBZRS1CWmktM1l0RUs4TlBpMnBSNldfN0VQbjBBbTRCNE0wbTNZaUhramh0cmY1cWZaLUc?oc=5
-
-* Swiss Biotech CellX Biosolutions Develops Microfluidic Devices to Capture Biodegradation Products for Chemical Pollutants - Top 100 Swiss Innovations - 36Kr
+* Swiss Biotech CellX Biosolutions Develops Microfluidic Devices to Capture Biodegradation Products for Chemical Pollutants - Top 100 Swiss Innovations - 36 Kr
   GN Umami CellX | 19 Aug 04:32 UTC
-  Swiss Biotech CellX Biosolutions Develops Microfluidic Devices to Capture Biodegradation Products for Chemical Pollutants - Top 100 Swiss Innovations 36Kr
+  Swiss Biotech CellX Biosolutions Develops Microfluidic Devices to Capture Biodegradation Products for Chemical Pollutants - Top 100 Swiss Innovations 36 Kr
   https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ySDN4U2taNUhUZTVMa3FOLTRoNW5uMmhTQzJUU1A0dFpzOGZsRUlnLXRnbTRYdXc1R0RVTHk0d0tSazhRSEsxd2Nqb0hLUXd5emFJ?oc=5
 
 * Nova Scotia Puts $1.2M Into Cape Breton Precision Fermentation Plant to Add Client Capacity - Cultivated X
@@ -1452,6 +1414,16 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTUU2MFpCUmVwd3lLSXlaNXp4S0FSUmMycXlFMmN5aE45NElvRU02OWpYSDFETmYzVHFpblFoSlhCMnRWejU3bmM1QlVUaFVLQVVYRXItSnZvdUZya1lFT21TTVlYcDJwOFVPQTJCVUdieDNiQzdINW1zT1hiN1YwMWtZR1VjXzdMSXpr?oc=5
 
 --- Aviation (18) ---
+
+* "Low Usage": Air France Denies Paris Business Class Lounge Sauna Used As 'Sex Den'
+  Simple Flying | 23 Aug 05:02 UTC
+  Wood-panel sauna and Clarins treatment room at CDG became the center of viral claims that tested lounge policies.
+  https://simpleflying.com/air-france-denies-paris-business-lounge-sauna-sex-den/
+
+* 6 Airlines Ranked By What They Pay A First Officer In Their First Year
+  Simple Flying | 23 Aug 03:59 UTC
+  Checking the current industry trends for new first officers.
+  https://simpleflying.com/6-airlines-ranked-pay-first-officer-first-year/
 
 * The Real Reason Why The World's Largest Commercial Aircraft Only Has Reverse Thrust On 2 Engines
   Simple Flying | 23 Aug 00:00 UTC
@@ -1498,16 +1470,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   City and carrier reset ties after a high stakes lawsuit while flight schedules and seat counts slip by 13.5 percent.
   https://simpleflying.com/oakland-fewer-flights-dismissing-lawsuit-southwest-airlines-report/
 
-* Not Again: American Airlines Boeing 737-800 Tire Bursts At Chicago O’Hare After Landing
-  Simple Flying | 22 Aug 20:11 UTC
-  Three tire failures at busy O'Hare this week have drawn scrutiny after an AA 737 blew a tire while taxiing to the gate.
-  https://simpleflying.com/american-airlines-boeing-737-800-tire-bursts-chicago-ohare-landing/
-
-* 5 Reasons NATO Air Forces Are Retiring Fighter Jets Long Before Airframes Wear Out
-  Simple Flying | 22 Aug 20:00 UTC
-  Fighter jets can be retired early for everything from being surplus with a peace dividend, to being a burden during times of rearmament.
-  https://simpleflying.com/nato-air-forces-retiring-fighter-jets-before-airframes-wear-out/
-
 * I Have The Chase Ink Business Cash Card: Here’s Why This No Annual Fee Card Is Worth It
   One Mile at a Time | 22 Aug 18:48 UTC
   The Ink Business Cash Credit Card (learn more) is a phenomenal no annual fee business card with a welcome bonus of up to 100K points, up to 5x points bonus categories, and valuable perks, like rental car coverage. Personally I’d consider this to be one of the all-around most lucrative business credit cards, and in particular, one of the b...
@@ -1521,7 +1483,22 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Etihad Sparks Diplomatic Spat After Referring To Taiwan As Part Of China (One Mile at a Time)
   - Drink Up: Delta Crews Will Collect Pre-Departure Drinks Earlier, In “FAA-Driven” Change (One Mile at a Time)
 
---- Cameras (17) ---
+--- Cameras (18) ---
+
+* “Still one of the best bets,” this 2023 compact mirrorless camera is so popular that it’s dominating both new and used sales charts in Japan
+  Digital Camera World | 23 Aug 06:15 UTC
+  The top-trending used cameras at one retailer in Japan hint at trends for compact, capable cameras
+  https://www.digitalcameraworld.com/cameras/still-one-of-the-best-bets-this-2023-compact-mirrorless-camera-is-so-popular-that-its-dominating-both-new-and-used-sales-charts-in-japan
+
+* From picket lines to drag queen dressing rooms, these five views of Los Angeles prove that Chicano photography has always refused to stay in the same lane
+  Digital Camera World | 23 Aug 03:20 UTC
+  Five photographers, one city, and half a century of images that never settled on one way of seeing the City of Angels
+  https://www.digitalcameraworld.com/photography/galleries-and-exhibitions/from-picket-lines-to-drag-queen-dressing-rooms-these-five-views-of-los-angeles-prove-that-chicano-photography-has-always-refused-to-stay-in-the-same-lane
+
+* The forgotten photographer who put a US president in the White House – and pioneered photographic branding
+  Digital Camera World | 23 Aug 00:10 UTC
+  John Plumbe Jr not only captured the oldest existing photo of a sitting US president, but went on to pioneer the branding practices used by studios to this day
+  https://www.digitalcameraworld.com/photography/portrait-photography/the-forgotten-photographer-who-put-a-us-president-in-the-white-house-and-pioneered-photographic-branding
 
 * Using AI Slop to Sell Cameras Will Never Make Sense to Me
   PetaPixel | 22 Aug 23:39 UTC
@@ -1568,51 +1545,37 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   OM System has officially registered a new camera in Singapore. It has the code “IM042”. I still don’t know if this is going to be the successor to that entry-level Olympus camera or the first-ever OM-branded PEN camera. What would you love to see?
   https://www.43rumors.com/confirmed-new-om-camera-registered-in-singapore/
 
-* Orwellian UK government pamphlet contradicts police on photography law. Imagine if Martin Parr had been prevented from taking photos in public…
-  Digital Camera World | 22 Aug 12:30 UTC
-  UK government brochure tells asylum seekers they “could be arrested” if they photograph people in public, even though the Metropolitan Police says otherwise
-  https://www.digitalcameraworld.com/photography/street-photography/orwellian-uk-government-pamphlet-contradicts-police-on-photography-law-imagine-if-martin-parr-had-been-prevented-from-taking-photos-in-public
-
-* Magnum Photographer Spent Three Years Documenting All 42 of England’s Anglican Cathedrals
-  PetaPixel | 22 Aug 11:00 UTC
-  A remarkable exhibition brings together a late Magnum photographer's images of all 42 Anglican cathedrals in England, capturing their vast, often little-seen interiors entirely in natural light. [ Read More ]
-  https://petapixel.com/2026/08/22/magnum-photographer-spent-three-years-documenting-all-42-of-englands-anglican-cathedrals/
-
-* 3 Legged Thing Ethan 4 review: a super-strong set of carbon fiber tripod legs for professional hybrid photography and more besides
-  Digital Camera World | 22 Aug 11:00 UTC
-  The hugely strong and versatile 3 Legged Thing Ethan 4 bills itself as a pro-grade hybrid photography and tactical tripod system with bipod and monopod conversion. Sounds like a mission improbable…
-  https://www.digitalcameraworld.com/cameras/tripods/3-legged-thing-ethan-4-review
-
-  ALSO IN CAMERAS (5), headline only:
+  ALSO IN CAMERAS (6), headline only:
+  - Orwellian UK government pamphlet contradicts police on photography law. Imagine if Martin Parr had been prevented from taking photos in public… (Digital Camera World)
+  - Magnum Photographer Spent Three Years Documenting All 42 of England’s Anglican Cathedrals (PetaPixel)
+  - 3 Legged Thing Ethan 4 review: a super-strong set of carbon fiber tripod legs for professional hybrid photography and more besides (Digital Camera World)
   - 3 Legged Thing Ridley tripod kit review: the real deal, this pro-grade carbon fiber kit for hybrid photographers comes complete with a leveling base and fluid head (Digital Camera World)
   - Sony A7 V keeps throne atop Japanese sales chart – but this hybrid camera might be a better alternative, even though it didn't make the list (Digital Camera World)
   - Oppo Hasselblad 300mm Explorer Teleconverter lens review (Digital Camera World)
-  - a bit of everything… (43Rumors)
-  - Everyone bitched that the Lumix L10 is too big for a compact camera –but the perfect-sized Lumix compact already exists (Digital Camera World)
 
---- Cars (4) ---
+--- Cars (2) ---
+
+* Why you need a used Honda Civic Type R – even if it costs £40k
+  Autocar | 23 Aug 05:00 UTC
+  It's still £40k, and for maybe the zenith of hot hatches worth every penny In 2022, jaws dropped when Honda announced the starting price of the 'FL5' Civic Type R as £46,995 - £15,000 more than the ' FK8 ' had cost six years earlier. It was an example of supply economics: numbers were limited in Europe due to CO2 emissions regulations (th...
+  https://www.autocar.co.uk/car-news/used-cars/why-you-need-used-honda-civic-type-r-%E2%80%93-even-if-it-costs-%C2%A340k
 
 * I kerbed a wheel – but are car designers really to blame?
   Autocar | 22 Aug 08:00 UTC
   I feel bad, but I wasn't being careless - are car design trends putting wheels needlessly at risk? I have kerbed a wheel. Quite notably. This is something that deeply irritates and embarrasses me from a point of professional pride: not to blow my own trumpet, but I’m pretty good at parking cars. You probably are too, or you certainly woul...
   https://www.autocar.co.uk/opinion/new-cars/i-kerbed-wheel-%E2%80%93-are-car-designers-really-blame
 
-* MOT price hike: why it's worth paying more to your mechanic
-  Autocar | 22 Aug 05:00 UTC
-  The Independent Garage Association has called for MOT prices to rise to £95 – and it makes perfect sense I know what you’re thinking: motoring hacks get paid too much. What other credible reason could there be for one of their number (me) supporting a rise from £54.85 to £95 – or 72.7% – in the price of a standard annual MOT car test. Thi...
-  https://www.autocar.co.uk/opinion/consumer/mot-price-hike-why-its-worth-paying-more-your-mechanic
+--- Urbanism (10) ---
 
-* Exclusive: Mercedes boss on why car fans will love its future EVs
-  Autocar | 22 Aug 05:00 UTC
-  Its cars are becoming more electric and digital, but Merc's CEO won't lose sight of the brand's spirit Mercedes-Benz CEO Ola Källenius is clearly proud of the new C-Class Electric saloon. Proud enough to travel from Stuttgart to Helsinki to pop into the launch event and, after spending 20 minutes fielding questions from a buying pack of e...
-  https://www.autocar.co.uk/car-news/features/exclusive-mercedes-boss-why-car-fans-will-love-its-future-evs
+* Maribyrnong I House / Studio Ceravolo
+  ArchDaily | 22 Aug 21:00 UTC
+  This alterations and additions project to a Californian bungalow welcomes an abundance of natural light and celebrates the passage of time throughout the day. Briefed with renovating and extending a Californian bungalow, we opted to move away from formal expectations and create a project attuned to the present and to the needs of a young ...
+  https://www.archdaily.com/1183578/maribyrnong-i-house-studio-ceravolo
 
-* Mazda CX-6e refreshed with LiDAR “self driving”, opens pre-sales in China
-  CarNewsChina | 22 Aug 04:56 UTC
-  The CX-6e is now L2 NoA capable, and can tackle highways and urban roads with minimal driver input. Expected pricing is 23,800 USD. The post Mazda CX-6e refreshed with LiDAR “self driving”, opens pre-sales in China appeared first on CarNewsChina.com .
-  https://carnewschina.com/2026/08/22/mazda-cx-6e-refreshed-with-lidar-self-driving-opens-pre-sales-in-china/
-
---- Urbanism (11) ---
+* Estúdio Campana creates "woven jewellery box" for Tiffany & Co in São Paulo
+  Dezeen | 22 Aug 17:00 UTC
+  Brazil's Estúdio Campana has wrapped a pop-up Tiffany & Co store inside a São Paulo shopping mall in a woven wicker skin. The pop-up on the ground floor of the JK Iguatemi Mall is cloaked in an undulating facade in Tiffany & Co's signature blue, with streaks of tan running horizontally across. The collaboration with The post Estúdio Campa...
+  https://www.dezeen.com/2026/08/22/tiffany-co-pop-up-jk-iguatemi-mall-sao-paulo-estudio-campana/
 
 * Achime Bagel Store / JOJOWORKSHOP
   ArchDaily | 22 Aug 17:00 UTC
@@ -1653,21 +1616,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   ArchDaily | 22 Aug 07:30 UTC
   Nature-based solutions are a primary strategy for contemporary climate adaptation and urban ecological resilience , embraced by cities regardless of their geography or climate zone . Green roofs, urban forests, bioswales, expanding tree canopy, protected wetlands, and permeable landscapes are featured prominently in municipal adaptation p...
   https://www.archdaily.com/1182257/what-is-blue-infrastructure-rethinking-waters-role-in-city-design
-
-* Antiquity exhibition at Wawel castle / NArchitekTURA
-  ArchDaily | 22 Aug 06:00 UTC
-  The design of the exhibition 'Masterpieces from the Lanckoroński Collection: A Story of Antiquity' is an attempt to introduce unconventional, modern display methods into the historic architecture of Wawel. The concept is based on a stylistically cohesive arrangement of all the rooms, consistent in form but varied in the selection of colou...
-  https://www.archdaily.com/1183570/antiquity-exhibition-at-wawel-castle-narchitektura
-
-* This week we unveiled an IKEA collection that makes collectible design affordable
-  Dezeen | 22 Aug 05:00 UTC
-  This week on Dezeen, IKEA shared a first look at its Konstrunda collection, which elevates "everyday objects into art pieces" with contributions from seven designers, including Andu Masebo and Lisa Hilland. The 22-piece collection aims to offer an entry point for young collectors just beginning to accumulate pieces for their home, at pric...
-  https://www.dezeen.com/2026/08/22/this-week-on-dezeen-ikea-collection-collectible-design-affordable/
-
-* Shanghai Guohua Heyuejia International Senior Living Centre, Continuing Care Retirement Community / GN Architects
-  ArchDaily | 22 Aug 02:00 UTC
-  Guohua Heyuejia International Senior Living Centre is located in Taopu Smart City, Putuo District, Shanghai . The project responds to a long-standing pattern in China's senior living sector, where large, low-density communities have often been developed in suburban locations. Although these projects may offer access to nature, they can al...
-  https://www.archdaily.com/1183406/shanghai-guohua-heyuejia-international-senior-living-centre-continuing-care-retirement-community-gn-architects
 
 --- Games (19) ---
 
@@ -1747,13 +1695,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Gum recession is common, often silent, and sometimes worsened by the very habits meant to protect your teeth. The post Gum recession: a common oral health issue that often goes unnoticed appeared first on Peter Attia MD .
   https://peterattiamd.com/gum-recession/
 
---- E-commerce (1) ---
-
-* The big business of dorm decor with Urban Outfitters
-  Modern Retail | 22 Aug 04:00 UTC
-  This week on the Modern Retail podcast, Urban Outfitters' Karen Booker dives into the company's dorm room decor strategy.
-  https://www.modernretail.co/operations/the-big-business-of-dorm-decor-with-urban-outfitters/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss
-
 --- Trends (2) ---
 
 * Grocery Store Tourism: Why is exploring local supermarkets the latest travel trend? - Indulge Express
@@ -1770,13 +1711,19 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 ## EDITORIAL
 ######################################################################
 
---- Editorial (27) ---
+--- Editorial (30) ---
 
 * The End of the European Summer
   Longreads | 21 Aug 19:02 UTC
   "As extreme heat overwhelms the Continent’s great cities, they are racing to transform themselves for a climate that they were never built to withstand."
   FULL TEXT: Europe is warming more than twice as fast as the global average—a terrifying statistic made all too apparent this summer as heat wave followed heat wave. European cities were never designed for these temperatures, and public health, infrastructure, and tourism are all under strain. Eric Klinenberg arrives in Milan just as “Europe’s third heat wave of the summer entered its fiercest stretch” and sweats his way across the continent to see how trees, shade, water, and other measures are being deployed to adapt urban centers. But with this crisis set to deepen can these experiments really keep pace? Of all the problems that heat poses for Barcelona, losing some of the hundred and sixty thousand tourists who typically visit each day ranks low on the priority lists of most officials and residents. Some locals have staged protests, chanting “Tourists go home” while targeting visitors with water guns. But tourism employs more than a hundred and sixty thousand people in Barcelona and accounts for around thirteen per cent of its economic output, which explains why, despite concerns that the city gets too many visitors , more than seventy per cent of residents consider tourism beneficial. At midday, when I arrived on La Rambla, the city’s most heavily visited and photographed corridor, the street had little shade and surprisingly few people. At La Boqueria market, normally jam-packed at lunchtime, I found my way to a famously busy bar counter and took one of several open seats. “After years of decline, butterfly populations are rising—for now.” “We’ve gathered stories from all across the country detailing what happens when Big Tech’s latest monstrosities come to town.” “As rising seas swallow Louisiana’s marshes, oil companies are pretending nothing has changed — and that now floatable, fishable waters remain their private property.” “These losses—my limb, my students’ hopes, Thoreau’s mammals, the wings falling from our skies—they are not all that distinct from one another. They can’t be, because all of us, all of the material world, we are one and the same thing.” “A visit to the Falkland Islands, where the fearless seabirds navigate the rugged topography with tenacious spunk, shows the new challenges they face.”
   https://longreads.com/2026/08/21/climate-crisis-european-summer/
+
+* A dumpling shop becomes a poster child of AI adoption in China
+  Rest of World | 21 Aug 13:00 UTC
+  Business owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”
+  FULL TEXT: If you have an AI agent, you can tell it to build a website, make a slideshow, or get you a table at a popular dumpling shop in Beijing. The dumpling shop, called Jinguyuan, has made headlines in China for creating a “skill” that allows users to check out the menu, seek recommendations, or join the queue by talking to their personal AI agents — tools that can automatically carry out tasks on a phone or laptop. Skills are files that teach AI agents specific workflows. The shop owner, 41-year-old Li Bo, told me he built the AI skill in April, as he witnessed the growing popularity of agentic AI tools. Li began envisioning a world where everybody asks their AI assistant to plan daily work and life, including what to eat. Li wanted his dumpling shop to be part of that future. “Science and technology are a primary productive force,” Li told me, quoting China’s late leader Deng Xiaoping, who unleashed the historic reforms in 1978 that led to the country’s economic miracle in the following decades. “You always need to surround yourself with the most advanced productive force.” In many developed countries, AI is primarily associated with job losses, threats to creativity, and sprawling data centers invading rural communities. Outside of the tech industry, relying on AI sometimes evokes a sense of shame similar to cheating. In New York City, where I live, few small businesses advertise how much they use AI, even though on the streets, menus and posters everywhere have the telltale signs of AI-generated imagery and typography. [In China] everyone is eager to adopt AI, seeing it as an inevitable way forward. When I speak with people living in China, I find many are similarly worried about AI’s impact on the job market and the tech industry’s exploitative nature, but at the same time, everyone is eager to adopt AI, seeing it as an inevitable way forward. Crash courses on large language models flourish online. Office workers rush to experiment with new AI tools to avoid falling behind in the competitive job market. When the agentic tool OpenClaw went viral, people queued up to have it installed on their laptops. A 2025 survey by public opinion firm Ipsos found that among the 30 countries surveyed, the Chinese population expressed the highest level of excitement about AI. Li studied telecommunications engineering at the Beijing University of Posts and Telecommunications. After graduating with a master’s degree in 2010, instead of becoming an engineer like many of his cl
+  https://restofworld.org/2026/china-ai-adoption-jinguyuan/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 
 * The fog of hunger
   Aeon | 21 Aug 10:00 UTC
@@ -1820,6 +1767,12 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   FULL TEXT: I was sad last fall when I read and recommended Jaya Saxena’s final story for Eater . Saxena is a food writer the Longreads editors have followed for years, and a journalist I’ve always counted on for food writing that both informs and entertains; she goes deep on aspects of cuisine , dining , the restaurant industry , and food culture in a way that’s relatable and unpretentious. (She’s also the series editor of The Best American Food and Travel Writing anthology; you can preorder the 2026 edition now.) So I was glad to hear, earlier this year, that Saxena and other former Eater writers were cooking up something new. That something is Ravenous , a worker-owned, subscriber-supported food and culture site founded by Saxena, Amy McCarthy, Ashok Selvam, Courtney E. Smith, and Frances Dumlao. The five journalists are “sick and tired of the conversation around food being reduced to AI-generated pablum, ‘best of’ lists, and influencer-driven trends ,” and are building a home for the kind of thoughtful, curious reporting that’s become harder to publish in a broken media landscape. Or, as they put it: food media with teeth . Next week, Ravenous launches a monthlong fundraiser, so now is the perfect time to support the site . Seven dollars a month, or $70 a year, gets you access to everything they publish; higher-tier plans come with more perks. (Sign up for the Regular plan—$25 a month, or $250 a year—and you get to give the Ravenous raven a nickname, which they include in their Sunday newsletters.) If anyone can build a publication around engaging, relevant food reporting and storytelling, it’s Saxena and this crew. Have a look around Ravenous and consider subscribing. But be warned: Don’t browse when you’re hungry. I was born and raised in New York City, and aside from a brief stint in New Orleans for college, I’m still here. Except now I’m over in Queens instead of my hometown of Manhattan. Aside from my actual apartment and the one I grew up in: Various NYC beaches, the backyard of my local bar, a punk show, Ray’s Pizza & Bagel Cafe on St. Mark’s Place, and one specific rock in Central Park. For high school I went to a Quaker school in Manhattan, and though I don’t consider myself religious in any way, Quaker values began shaping my future politics then. It’s where I first started learning about the value of consensus-based community decision making, and given that this was in the early 2000s, anti-war and anti-violence politics. I even remember a teacher makin
   https://longreads.com/2026/08/20/questionnaire-jaya-saxena/
 
+* “It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”
+  Rest of World | 20 Aug 10:00 UTC
+  Observers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.
+  FULL TEXT: On August 10, Mark Zuckerberg published a letter titled “The Future for Everyone,” a manifesto laying out his vision for how superintelligence could improve people’s lives, expand human capability, and distribute the benefits of artificial intelligence more broadly. Zuckerberg advocated for wider distribution of AI access across countries and companies as “the path to a positive AI future,” sharing ways in which Meta is trying to make it happen. Rest of World spoke to six AI observers from around the world about what they made of the letter, and whether AI can really become the great equalizer Zuckerberg envisions. Some asked who gets to decide what “everyone” means. Others highlighted how access doesn’t always equal power. Their responses have been edited for length and clarity. AI infrastructure investments in African countries have yet to yield any significant tangible benefits. Kenya is pausing its Microsoft and G42-backed geothermal data center due to grid constraints, and forthcoming efforts like Cassava AI’s Nvidia-powered AI factories are likely to exacerbate grid stability concerns in countries like South Africa and Nigeria. Meta has grossly overstated the economic benefits of its data centers.” Chinasa T. Okolo, founder and scientific director of policy incubator Technecultura Meta has grossly overstated the economic benefits of its data centers, not only in this manifesto but also through extensive advertising campaigns focusing on smaller rural towns that traditionally hosted manufacturing or mining plants that have largely gone bust. The labor benefits of data centers are primarily concentrated during construction, and once operational, they employ only a small fraction of permanent workers. While there is a marginally increased impact on home prices, this benefit doesn’t translate to local wages. Data centers are also associated with negative health and environmental impacts, which are likely to be even more challenging in African countries, which have fewer protections and lack the ability for governments to oversee strict compliance if environmental laws exist. Zuckerberg’s definition of “everyone” largely excludes people at the margins of the digital ecosystem: speakers of low-resource and tribal languages, shared-device households, communities with intermittent connectivity, and populations for whom digital infrastructure remains uneven. If companies genuinely want AI to educate billions, investment cannot stop at bigger models. It has to
+  https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+
 * Dolphins and other lovers
   Aeon | 20 Aug 10:00 UTC
   The Andoque of the Amazon know what we have forgotten: the forest’s most beautiful creatures are also its most dangerous - by Eliran Arazi Read on Aeon
@@ -1837,11 +1790,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   The distinction between the private and the public, the personal and the national, has broken down in Trump’s second term. The president’s personal psychology and how he understands his own interests and well-being are now critical factors in how the U.S. conducts itself in the world. The post Target Trump: The Specter of Iran’s Revenge a...
   FULL TEXT: Before the 12-day war and the U.S.-Israeli Operation Epic Fury, President Donald Trump established the link between his personal safety and the destruction of Iran. In February 2025, when he hosted Israeli Prime Minister Benjamin Netanyahu in the Oval Office, Trump answered questions about the Iranian regime’s efforts to assassinate him. The Department of Justice had earlier released details of two separate Iranian plots to kill Trump during the 2024 presidential campaign. The first involved a Pakistani national, Asif Merchant, who was arrested on July 12, 2024, after being entrapped by FBI officials; the second, an Afghan national with U.S. citizenship named Farhad Shakeri, was charged with conspiring to organize the assassination of Trump from Iran in November 2024. Trump told the press that it would be a “terrible thing” if Iran assassinated him, not because of what would happen to him, but because of what would happen to Iran. They would be “obliterated,” he said. “I’ve left instructions.” The breakdown of the distinction between the private and the public, the personal and the national, in Trump’s second term makes the president’s perception that Iran is trying to kill him especially salient. Trump’s psychology, how he understands his personal interests and his safety are now critical factors in how the United States conducts itself in the world. According to the leading account of the lead-up to the war, many of Trump’s closest advisers and cabinet members opposed a U.S. war on Iran in February 2026, while grave risks of such a war were understood and articulated by figures such as Dan Caine, chairman of the Joint Chiefs of Staff. And yet Trump chose to launch the war anyway, even though it was generally unpopular with the public and had prominent skeptics within the MAGA movement . So why did Trump make this fateful choice — one that risks destroying his presidency, destabilizing the global economy and precipitating a humiliating strategic defeat for the U.S.? To be sure, many have pointed to the influence of Israeli intelligence in general, and of Netanyahu in particular , as answers. And yet what may have made Trump even more susceptible to such influence was his belief that Iran’s Ayatollah Khamenei was intent on killing him ; that he needed to get the ayatollah “first,” as he said on March 2, before the ayatollah got him. While this personal element in decisions of war by a U.S. president has become more accentuated during Trump’s second preside
   https://newlinesmag.com/argument/target-trump-the-specter-of-irans-revenge/
-
-* Project Soapbox & Local Letters for Global Change Workshop - Pulitzer Center
-  Pulitzer Center | 20 Aug 00:59 UTC
-  Project Soapbox & Local Letters for Global Change Workshop Pulitzer Center
-  https://news.google.com/rss/articles/CBMijgFBVV95cUxOWkpKODl5U1JMVkw1eGd2czFlQXZENmRQaG5wREdGanFvUUlLWU9aQUdQQXVfUnpYV0pzS3NwMVFqQzc5RUdTazUyeERQYTRTS2pXSzA2dkQ3eWo1M2l6SnJPS2ZkZzJjQlNzOElvMWlsQkJFLU0yLWh5bkhiWmx3Q1ltU0J5QndtY1lBTWlR?oc=5
 
 * How a Cowboy Rides When the Range is on Fire
   Longreads | 19 Aug 11:00 UTC
@@ -1878,6 +1826,12 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Oh, the places you'll go when you say yes.
   FULL TEXT: Longreads has published hundreds of original stories—personal essays, reported features, reading lists, and more—and more than 14,000 editor’s picks. And they’re all funded by readers like you. Become a member today. At one time, Rachel Hartigan edited The Washington Post’s Book World . During a 12-year stint as a writer, reporter, and editor with National Geographic , she covered everything from the genetics of persimmon trees to the long road to women’s suffrage. She spoke with Brendan O’Meara, host of The Creative Nonfiction Podcast , about being a self-taught writer, how being open to opportunity can change your career, and how editing others can help you improve your own writing. Hartigan’s first book, Lost: Amelia Earhart’s Three Mysterious Deaths and One Extraordinary Life , both a biography of the aviator’s life and a survey of the leading theories surrounding her death and disappearance, is now available. This conversation has been edited for pacing and flow. Brendan: What did your career look like in your head at the start, and how did that change? Rachel: I was not a kid with a clear version of what I wanted to do. I really like to read, to write, and to learn things. My parents were quite aggravated with me because they had spent a lot of money to educate me. I tried being a paralegal at a legal publishing company and then at the Nevada State Legislature. I was probably lounging on the sofa when my dad came in and slapped a Harper’s Magazine on me and said, “There are internships there. You should apply to that.” OK, it’s in New York. I have friends in New York, so that’s what I did, and somehow I got it. My career has not been a straight path; it’s been a lot of happenstance where I somehow get a job and figure out how to do it once I’m there. People come to me with plans and say, “I’m going to do this, this, and this,” but that’s not my mindset. I wish I was more like that. My career is always a surprise to me. Brendan: With pursuing something a bit squishy, like writing, how did you deal with the pressure of expectation and the burden to prove yourself to your peers and your parents? Rachel: My parents weren’t too bad; I was harder on myself because I never went to journalism school. I have always felt like an apprentice, like I’m still figuring it out. It’s only recently that I feel like I know how to do this. I know how to structure something. I know how to get a reader going, but I never felt like I had the right credentials. One reason I
   https://longreads.com/2026/08/18/bucking-expectations-rachel-hartigan/
+
+* Chinese carmakers now sell one EV abroad for every two at home
+  Rest of World | 18 Aug 10:00 UTC
+  Dwindling sales at home are pushing the cars toward Brazil, Thailand, and the Gulf.
+  FULL TEXT: Chinese electric-vehicle makers have lost buyers at home and found new ones in Brazil, Thailand, and the Gulf. Some 540,000 EVs left China in July, a monthly record, while about 980,000 were sold at home, according to a report from Benchmark Mineral Intelligence, a London-based research firm. That worked out to one EV exported for every two sold domestically, compared with one for every five last July. The move abroad is permanent rather than a response to one bad year, and the price war that has played out inside China for two years is following the cars overseas, Lei Xing, founder of Chinese auto industry consultancy AutoXing, told Rest of World . Chinese cars are inexpensive, widely available, and carry the technology buyers want, much like Japanese and German cars did when those countries built their own export industries, he said. “The export surge is partially due to overcapacity, but that’s not the only factor,” Lei said. Sales inside China fell 12% in the first seven months of 2026, and the International Energy Agency expects the market to end flat this year for the first time this decade. “We’ve moved from export opportunity to export necessity,” Bill Russo, founder of the Shanghai-based advisory firm Automobility, told Rest of World . “The next phase isn’t simply exporting cars. It’s localizing manufacturing, supply chains, and technology overseas.” The next phase isn’t simply exporting cars. It’s localizing manufacturing, supply chains, and technology overseas.” Bill Russo, founder of the Shanghai-based advisory firm Automobility Even Tesla is leaning on exports to make up for weak sales in China. Its Shanghai plant sold 238,955 cars inside China in the first half of this year and shipped out 228,994 , according to China Passenger Car Association figures published on August 4. EV sales outside China, Europe, and North America almost doubled to 1.7 million units in the first seven months of this year, and Chinese brands supplied half of them, up from a quarter in 2023, according to Benchmark Mineral Intelligence. “The expectation is that significantly more EVs will be sold in the rest-of-world region this year than in North America,” George Whitcombe, senior EV analyst at Benchmark, told Rest of World . In the first half of 2026, 2.4 million pure-battery and plug-in hybrid cars were exported from China, more than twice as many as a year earlier, according to China’s customs administration , the state agency that records every vehicle crossing the
+  https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 
 * In praise of zealotry
   Aeon | 18 Aug 10:00 UTC
@@ -1921,6 +1875,12 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   FULL TEXT: Earthworms do not have a discernible mouth, a means to make sound, or ears, and most spend their lives burrowing below ground, eating soil and decaying organic matter. However, their behaviours produce sounds, which can reveal a surprising amount about the subterranean world in which they live. I’ve recently found myself leaning over a box of soil in the basement of my university department, headphones clutched to my ears, revelling in the soft, Velcro-like scrapes of earthworms eating. It sounds like this: Spectrogram of an earthworm ‘scrape’ recorded in Oxfordshire grassland I have always loved earthworms. As a child on my parents’ allotment, I delighted in finding them in the soil as potatoes were dug in, fascinated by their soft, alien form wiggling in my hand. Now, I amuse my friends by ducking down in crowds at music festivals to rescue distressed earthworms from being squashed by the mob of muddy boots. Until recently, my scientific research focused on the rapid patter and chop of bat echolocation calls, monitoring how their populations were responding to largely human-driven environmental change. I didn’t consider that the same ecoacoustic approaches could be applied below ground, to understand how earthworms are affected by us surface-dwellers. Fortunately, others had. I finally had a way to connect my scientific research speciality with my ardour for earthworms in the soil. Worm munch might seem like a curiosity, but it represents a much bigger change in how we understand nature. More than just the behaviour of single creatures, such sounds can also reveal the health of whole ecosystems – and the underground is emerging as a new acoustic frontier. Sound itself is a wave, a travelling vibration. Vibrancy is a word often used to describe colour and life. A vibrant ecosystem, therefore, is one that hums with the sounds of life. While reading this essay, you can listen to a 15-minute recording of various sounds of the underground, collected in Oxfordshire in 2024: Pasture gradient sounds medley recorded in an Oxfordshire field M onitoring nature’s sounds has a long history. The ancient Greeks wrote poems and plays about birdsong and, in medieval England, the sounds of local birds gave many places their names . Today, an expert ornithologist will stand in a forest and conduct a bird survey using nothing but their eyes and ears. However, when bioacoustics researchers in the 20th century began to place microphones or hydrophones and recorders in the fie
   https://aeon.co/essays/worm-munch-matters-the-new-acoustic-ecology-of-the-soil
 
+* Ban on Chinese robots leaves U.S. startups stranded
+  Rest of World | 17 Aug 10:00 UTC
+  Three Unitree G1 humanoid robots are pictured at robotics company Unitree's first retail store in Beijing.
+  FULL TEXT: The U.S. government is forcing a rapid onshoring of robotics through a sweeping ban on foreign-made robots, even before an American supply chain exists, putting at risk the very robotics startups the policy is trying to cultivate. The Federal Communications Commission last month added “advanced robotic devices” to its list of banned devices that pose national security risks. Under the rule, new models of foreign-made humanoids, quadrupeds, and even robot vacuums as well as lawn mowers will be banned from the American market. To qualify for entry, a robot needs to be assembled in the U.S. and must have at least 65% of its components by value produced domestically. The required share of domestic parts will rise to 75% in 2029. The ban is not targeted at any single country, but is widely seen as aimed at China, which dominates robotics manufacturing. The policy does not affect devices already being sold in the U.S., and robots imported to support product development, not for sale, will continue to be allowed. Still, startup founders struggle to see how they can manufacture commercial robots without China’s comprehensive electronics supply chain. “Look at Apple, it’s made in China. How do you expect even more complicated products like robots to be built in America?” Anto Patrex, founder of CosmicBrain AI in San Francisco, told Rest of World . “I have no idea. Till now, we are all figuring it out.” Patrex’s company aims to make robots that fetch deliveries and carry laundry in apartment buildings. Like most robotics entrepreneurs in the Bay Area, he experimented with Chinese robots and had his first products assembled in China. In early 2026, sensing growing U.S. scrutiny of Chinese robots, Patrex set up an additional assembly facility in Canada, with key components coming from China, meaning these robots wouldn’t qualify for sale in the U.S. under the latest FCC rule. You need to provide the carrot as well as the stick.” Michael Perry, head of commercial strategy at Houston-based Persona AI Elizabeth Williams, the New York-based founder of Gemma, which designs home beauty cosmetics robots that apply makeup for people, told Rest of World her company was also working with a Chinese manufacturer to build its prototypes. “It would have been impossible to do that here,” Williams said. “If we’re not going to work with prototyping and iterating quickly in China, then tell us how you’re going to incentivize manufacturing firms here and robotics founders here.” America
+  https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+
 * Listen Again: How Defiance Began at Home in Assad’s Syria
   New Lines | 17 Aug 09:58 UTC
   Loubna Mrie joins Faisal Al Yafai on the podcast to discuss her experience of authoritarianism at home, obedience to the Assad regime, and joining the revolution, as detailed in her new memoir, “Defiance.” The post Listen Again: How Defiance Began at Home in Assad’s Syria appeared first on New Lines Magazine .
@@ -1937,12 +1897,12 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 ######################################################################
 
   Location: Ruislip, west London
-  TODAY: 12 to 23C, clearsky, 0.0mm rain, wind up to 5 m/s
-  Mon 24 Aug: 12 to 21C, partlycloudy, 0.7mm rain, wind up to 6 m/s
-  Tue 25 Aug: 15 to 22C, cloudy, 0.5mm rain, wind up to 6 m/s
+  TODAY: 13 to 23C, clearsky, 0.0mm rain, wind up to 5 m/s
+  Mon 24 Aug: 12 to 21C, partlycloudy, 0.4mm rain, wind up to 6 m/s
+  Tue 25 Aug: 15 to 24C, partlycloudy, 0.0mm rain, wind up to 6 m/s
   Wed 26 Aug: 16 to 25C, cloudy, 0.1mm rain, wind up to 4 m/s
   Thu 27 Aug: 18 to 24C, partlycloudy, 14.7mm rain, wind up to 3 m/s
-  Fri 28 Aug: 14 to 21C, lightrainshowers, 2.8mm rain, wind up to 5 m/s
+  Fri 28 Aug: 14 to 21C, lightrain, 2.8mm rain, wind up to 5 m/s
 
 ======================================================================
 FULL TEXT UNAVAILABLE
@@ -1955,6 +1915,5 @@ SOURCES THAT FAILED TODAY
 ======================================================================
 These produced nothing. Treat the lanes they cover as unverified rather than quiet:
   - HomeTheaterReview (Projectors): SSL certificate error
-  - Rest of World (Editorial): HTTP 429 (rate limited) after 3 attempts
 
-End of full digest. Built 2026-08-23T00:00:48.965694+00:00
+End of full digest. Built 2026-08-23T06:35:10.836906+00:00
