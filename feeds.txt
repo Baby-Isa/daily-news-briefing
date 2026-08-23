@@ -178,4 +178,3 @@ Agronomics | AgFunderNews | https://agfundernews.com/feed |
 Projectors | Google News UST projector | https://news.google.com/rss/search?q=%22ultra+short+throw%22+projector+lumens&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Conflict | Defense One | https://www.defenseone.com/rss/all/ |
 Projectors | Google News projector review | https://news.google.com/rss/search?q=projector+review+4K+laser+lumens&hl=en-GB&gl=GB&ceid=GB:en | QUIET
-Projectors | HomeTheaterReview | https://hometheaterreview.com/feed/ |
