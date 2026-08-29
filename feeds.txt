@@ -172,7 +172,7 @@ Agronomics | GN Hydgene | https://news.google.com/rss/search?q=%22Hydgene%22&hl=
 Agronomics | GN New Agrarian | https://news.google.com/rss/search?q=%22New%20Agrarian%22%20Mellon%20OR%20foodtech%20OR%20investment&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
 Agronomics | GN precision fermentation | https://news.google.com/rss/search?q=precision+fermentation&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Agronomics | GN cellular agriculture | https://news.google.com/rss/search?q=cellular+agriculture+OR+cultivated+meat+approval&hl=en-GB&gl=GB&ceid=GB:en | QUIET
-Agronomics | GN alt protein regulation | https://news.google.com/rss/search?q=alternative+protein+regulatory+approval+FSA+OR+FDA&hl=en-GB&gl=GB&ceid=GB:en | QUIET
+Agronomics | GN alt protein regulation | https://news.google.com/rss/search?q=%22precision%20fermentation%22%20OR%20%22cultivated%20meat%22%20regulatory%20approval&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
 Agronomics | Green Queen | https://www.greenqueen.com.hk/feed/ |
 Agronomics | AgFunderNews | https://agfundernews.com/feed |
 Projectors | Google News UST projector | https://news.google.com/rss/search?q=%22ultra+short+throw%22+projector+lumens&hl=en-GB&gl=GB&ceid=GB:en | QUIET
