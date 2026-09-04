@@ -141,7 +141,7 @@ North Africa | Al-Monitor | https://www.al-monitor.com/rss |
 North Africa | France 24 Africa | https://www.france24.com/en/africa/rss |
 Law | SCOTUSblog | https://www.scotusblog.com/feed/ |
 Law | JURIST | https://www.jurist.org/news/feed/ |
-Projectors | Digital Trends Home Theater | https://www.digitaltrends.com/home-theater/feed/ |
+Projectors | GN robot vacuums | https://news.google.com/rss/search?q=%22robot%20vacuum%22%20launch%20OR%20unveiled%20OR%20announced&hl=en-GB&gl=GB&ceid=GB:en |
 ## SECOND ROUND REPLACEMENTS
 Trends | Google News travel trends | https://news.google.com/rss/search?q=travel+tourism+trends&hl=en-GB&gl=GB&ceid=GB:en |
 North Africa | Google News North Africa | https://news.google.com/rss/search?q=Morocco+OR+Algeria+OR+Tunisia+OR+Libya+politics&hl=en-GB&gl=GB&ceid=GB:en |
