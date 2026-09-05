@@ -83,7 +83,8 @@ LANE_GROUPS = [
     ("POLITICS AND CONFLICT", ["Politics", "Conflict", "Law"]),
     ("ECONOMY AND BUSINESS", ["Economy", "Business", "Mergers and Acquisitions"]),
     ("SCIENCE AND TECHNOLOGY", ["Science", "Space", "Health", "Energy",
-                                "AI and technology", "Built environment"]),
+                                "AI and technology", "Consumer tech",
+                                "Built environment"]),
     ("SOCIETY", ["Society and culture"]),
     ("WATCHLIST", ["Arsenal", "Chainlink", "OriginTrail", "Agronomics"]),
     ("SPECIAL INTERESTS", ["Projectors", "Aviation", "Cameras", "Cars",
@@ -170,13 +171,24 @@ def load_feeds(path="feeds.txt"):
         if len(parts) < 3 or not parts[2].startswith("http"):
             continue
         flags = parts[3].upper() if len(parts) > 3 else ""
-        # FILTER must come LAST on the line: everything after it is taken
-        # as the comma-separated keyword list, so keywords may contain
-        # spaces. Pipes cannot be used, being the field separator.
-        keywords = []
+        # FILTER and EXCLUDE must come LAST on the line: everything after
+        # one is taken as its comma-separated keyword list, so keywords may
+        # contain spaces. Pipes cannot be used, being the field separator.
+        # For the same reason only ONE of the two can appear on a line.
+        #
+        # FILTER keeps only items matching a keyword, and looks at title
+        # and summary. EXCLUDE drops items matching a keyword, and looks
+        # at the TITLE ONLY - deliberately, because the words that mark
+        # service journalism ("how to", "best", "is it worth") show up
+        # innocently inside the summaries of real stories.
+        keywords, excludes = [], []
         if "FILTER:" in flags:
             keywords = [k.strip().lower()
                         for k in flags.split("FILTER:", 1)[1].split(",")
+                        if k.strip()]
+        if "EXCLUDE:" in flags:
+            excludes = [k.strip().lower()
+                        for k in flags.split("EXCLUDE:", 1)[1].split(",")
                         if k.strip()]
         feeds.append({
             "lane": parts[0], "outlet": parts[1], "url": parts[2],
@@ -184,6 +196,7 @@ def load_feeds(path="feeds.txt"):
             "quiet": "QUIET" in flags,
             "rare": "RARE" in flags,
             "keywords": keywords,
+            "excludes": excludes,
         })
     return feeds
 
@@ -278,6 +291,10 @@ def fetch_feed(feed):
             haystack = (entry.get("title", "") + " " +
                         entry.get("summary", "")).lower()
             if not any(k in haystack for k in feed["keywords"]):
+                continue
+        if feed.get("excludes"):
+            title = entry.get("title", "").lower()
+            if any(k in title for k in feed["excludes"]):
                 continue
         if now - when <= window:
             out["items"].append({

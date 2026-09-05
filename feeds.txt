@@ -3,6 +3,11 @@
 # Flags: DISPUTED = Cowork reported failure via unreliable tooling, re-verify
 #        FULLTEXT = fetch full article body for this feed
 #        QUIET    = low publication volume, staleness is normal not failure
+#        RARE     = publishes irregularly, staleness clock off entirely
+#        FILTER:  = keep only items matching a keyword (title + summary)
+#        EXCLUDE: = drop items matching a keyword (TITLE ONLY)
+# FILTER and EXCLUDE take everything after them as their comma-separated
+# keyword list, so each must be LAST on its line and only one can appear.
 
 ## GEOGRAPHIC
 UK | Sky News | https://feeds.skynews.com/feeds/rss/uk.xml |
@@ -68,8 +73,10 @@ Energy | NYT Environment | https://rss.nytimes.com/services/xml/rss/nyt/Environm
 Energy | NPR Climate | https://feeds.npr.org/1167/rss.xml |
 Energy | CSM Environment | https://rss.csmonitor.com/feeds/environment | QUIET
 AI and technology | MIT Tech Review | https://www.technologyreview.com/feed/ |
-AI and technology | The Verge | https://www.theverge.com/rss/index.xml |
 AI and technology | Ars Technica | https://arstechnica.com/feed/ |
+Consumer tech | The Verge | https://www.theverge.com/rss/index.xml | EXCLUDE:how to,how do,how does,what makes,is it worth,here's how,here are the,best ,deals,deal of,discount,coupon,gift guide,should you,explained,tips,guide to,everything you need,why it's important to,what happens when you
+Consumer tech | Engadget | https://www.engadget.com/rss.xml | EXCLUDE:how to,how do,how does,what makes,is it worth,here's how,here are the,best ,deals,deal of,discount,coupon,gift guide,should you,explained,tips,guide to,everything you need,why it's important to,what happens when you
+Consumer tech | Toms Hardware | https://www.tomshardware.com/feeds/all | EXCLUDE:how to,how do,how does,what makes,is it worth,here's how,here are the,best ,deals,deal of,discount,coupon,gift guide,should you,explained,tips,guide to,everything you need,why it's important to,what happens when you
 Economy | Financial Times | https://www.ft.com/rss/home |
 Economy | NYT Economy | https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml | FULLTEXT
 Economy | NPR Business | https://feeds.npr.org/1006/rss.xml |

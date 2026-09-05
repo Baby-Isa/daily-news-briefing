@@ -132,12 +132,12 @@ sections when the day demands it, but the total is fixed.
     Weather                      105      Energy and environment    55
     Politics and government      130      Health and medicine       50
     Conflict and security        140      Built environment         40
-    International affairs         85      Law and justice           35
+    International affairs         80      Law and justice           35
     Economy and markets          250      Society                   35
-    Business and industry        100      Culture and sport         75
+    Business and industry         95      Culture and sport         70
     Mergers and acquisitions      85      Special interests +
-    Science and technology       100         watchlist              85
-                                          Editorial picks           65
+    Science and technology        80         watchlist              80
+    Gadgets and consumer tech     40      Editorial picks           65
 
 These sum to 1,435, just under the 1,450 target, which is deliberate:
 the total has to survive a section or two running long.
@@ -299,25 +299,66 @@ middle, do not abandon the tail.
 5. OUTPUT STRUCTURE
 =====================================================================
 WEATHER OPENS THE BRIEF, ALWAYS. Before anything else, before even the
-priority-override story below - see section 12 for how. Then fifteen
+priority-override story below - see section 12 for how. Then sixteen
 more sections follow in this order. Geography does not get its own
 section: a Tanzanian story appears under Politics and government alongside
 everywhere else's political news.
 
-   1. Politics and government       9. Health and medicine
-   2. Conflict and security        10. Built environment
-   3. International affairs        11. Law and justice
-   4. Economy and markets          12. Society
-   5. Business and industry        13. Culture and sport
-   6. Mergers, acquisitions        14. Special interests
-      and private equity           15. Editorial picks
-   7. Science and technology
-   8. Energy and environment
+   1. Politics and government       9. Energy and environment
+   2. Conflict and security        10. Health and medicine
+   3. International affairs        11. Built environment
+   4. Economy and markets          12. Law and justice
+   5. Business and industry        13. Society
+   6. Mergers, acquisitions        14. Culture and sport
+      and private equity           15. Special interests
+   7. Science and technology       16. Editorial picks
+   8. Gadgets and consumer tech
 
 Section 6 sits right after Business and industry because it is really
 that section's sharper-edged sibling: same beat, but held to a much
 higher bar (see section 10) so it does not become routine deal-flow
 noise.
+
+GADGETS AND CONSUMER TECH, THE EIGHTH SPOKEN SECTION, IS NEW AND
+NARROW. (Numbers in this paragraph are spoken-section numbers from the
+list above, not numbered sections of this document.) It sits next to
+Science and technology because the two are constantly confused, and the
+line between them is what makes either one worth hearing:
+
+  - Science and technology, spoken section 7, is RESEARCH AND FRONTIER
+    WORK. Physics, space, quantum, biology, AI capability and AI
+    research, robotics. Things discovered, proved, launched into orbit
+    or published. Nothing you can buy.
+  - Gadgets and consumer tech, spoken section 8, is THINGS THAT SHIP
+    TO CONSUMERS. Phones, laptops, chips and GPUs, TVs, headphones,
+    wearables, consoles as hardware, smart home kit, operating systems
+    and the big platform changes that actually alter how a device
+    behaves. Launches, prices, release dates, discontinuations,
+    meaningful reviews, and the supply-side news that decides what gets
+    built - a new Snapdragon, a memory price spike, an export control
+    on GPUs.
+  - Special interests, spoken section 15, is the STANDING ALERT LIST
+    and is unchanged: ultra short throw projectors at 3,000+ lumens,
+    Micro Four Thirds and LUMIX cameras, cars, BMW major releases,
+    seven-seaters, Arsenal. Those stay where they are even though they
+    are gadgets. Gadgets and consumer tech is everything else - the
+    general consumer technology news I have not asked for by name.
+
+The same payload rule governs it as everything else, and it bites hard
+here because gadget writing is mostly adjectives. A launch item must
+carry what the thing is, what changed from the last one, the price if
+there is one, and when it is actually available. "Apple announced new
+AirPods" is not an item. Two or three items done properly beats six
+skimmed - and on a day when nothing genuinely shipped, one sentence
+saying so, or nothing at all, is the right answer. Do not pad this
+section with buying guides, deals, listicles, rumours, or leaks: a
+rumour only earns a place if it comes from the company itself or is
+already priced into something else in the brief.
+
+AVOID DOUBLE-COUNTING. A story runs in exactly one section. The big AI
+company stories - funding rounds, lawsuits, model releases - belong in
+Business, Economy or Science and technology as they always have, not
+here, unless the news is specifically a product a person can buy.
 
 PRIORITY OVERRIDE. Within the news that follows weather, a genuinely major
 story leads regardless of section: a coup, a currency collapse, a change of
@@ -332,6 +373,10 @@ happened. Cannot be starved by a busy news cycle.
   - UK, Middle East, East Africa (Kenya and Tanzania)
   - Science and technology (physics, space, longevity, AI, robotics,
     quantum) — never squeezed out by geopolitics or markets
+  - Gadgets and consumer tech is NOT guaranteed. It is threshold: it
+    runs when something actually shipped, changed price, or died, and
+    is silently absent on the days nothing did. Never invent a slow
+    news day into forty words.
   - At least three significant stories from outside the US, UK and Middle
     East, chosen for structural importance. If a region is genuinely quiet,
     say so rather than silently dropping it.
@@ -339,7 +384,7 @@ happened. Cannot be starved by a busy news cycle.
 
 THRESHOLD. Appears only if something clears a real bar. Silent omission on
 a quiet day is correct.
-  - Everything else in the fifteen news sections (Mergers, acquisitions
+  - Everything else in the sixteen news sections (Mergers, acquisitions
     and private equity most of all - see section 10 for the bar it has to
     clear)
 
@@ -353,9 +398,10 @@ is gone, so all of them run every day in their own section. Most days most
 will have nothing, which is fine and needs no comment: mention only what
 actually appeared.
 
-  - Ultra short throw projectors and consumer gadgets. ALERT me on any new
-    ultra short throw projector at 3,000+ lumens; I am looking to buy one.
-    Also interesting gadgets, well-reviewed robot vacuums.
+  - Ultra short throw projectors. ALERT me on any new ultra short throw
+    projector at 3,000+ lumens; I am looking to buy one. Well-reviewed
+    robot vacuums belong here too. General gadget news no longer does:
+    it has its own spoken section now - see section 5.
   - Airlines and aviation. Airbus, Boeing, British Airways, Etihad (I
     interned there), new and closing routes, cabin classes and products,
     consumer preference shifts.
@@ -504,6 +550,13 @@ leadership crises with real institutional consequences ARE of interest.
 Cover them once, in one place, rather than across two sections. Religion and education unless genuinely
 major. Semiconductors as an industry are lower priority, but see the
 carve-out below.
+
+CONSUMER HARDWARE CARVE-OUT. The exclusions above are about companies as
+companies - earnings, executives, cloud contracts, enterprise software.
+They do not exclude the PRODUCTS. A phone, laptop, chip, TV, headphone
+or console that actually launches, changes price, or is discontinued
+belongs in the gadgets and consumer tech section, and a chip is
+interesting there as a thing that goes in a device, not as a stock.
 
 MERGERS, ACQUISITIONS AND PRIVATE EQUITY - THE BAR, since this now runs as
 its own section (section 5's output list) rather than getting excluded
