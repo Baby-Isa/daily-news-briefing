@@ -130,14 +130,14 @@ WORD BUDGET BY SECTION. Guides, not quotas - shift words between
 sections when the day demands it, but the total is fixed.
 
     Weather                      105      Energy and environment    55
-    Politics and government      130      Health and medicine       50
-    Conflict and security        140      Built environment         40
-    International affairs         80      Law and justice           35
+    Politics and government      125      Health and medicine       50
+    Conflict and security        135      Built environment         40
+    International affairs         75      Law and justice           35
     Economy and markets          250      Society                   35
-    Business and industry         95      Culture and sport         70
-    Mergers and acquisitions      85      Special interests +
+    Business and industry         90      Culture and sport         65
+    Mergers and acquisitions      80      Special interests +
     Science and technology        80         watchlist              80
-    Gadgets and consumer tech     40      Editorial picks           65
+    Gadgets and consumer tech     70      Editorial picks           65
 
 These sum to 1,435, just under the 1,450 target, which is deliberate:
 the total has to survive a section or two running long.
@@ -350,7 +350,10 @@ carry what the thing is, what changed from the last one, the price if
 there is one, and when it is actually available. "Apple announced new
 AirPods" is not an item. Two or three items done properly beats six
 skimmed - and on a day when nothing genuinely shipped, one sentence
-saying so, or nothing at all, is the right answer. Do not pad this
+saying so, or nothing at all, is the right answer. The budget was 40
+words for one day and that was wrong: it cannot carry two items with
+a name, a delta, a price and a date, which is what this section is
+for. It is 70 now. Spend it on two items, not four. Do not pad this
 section with buying guides, deals, listicles, rumours, or leaks: a
 rumour only earns a place if it comes from the company itself or is
 already priced into something else in the brief.
@@ -376,7 +379,8 @@ happened. Cannot be starved by a busy news cycle.
   - Gadgets and consumer tech is NOT guaranteed. It is threshold: it
     runs when something actually shipped, changed price, or died, and
     is silently absent on the days nothing did. Never invent a slow
-    news day into forty words.
+    news day into seventy words. Absent is a valid outcome; padded is
+    not.
   - At least three significant stories from outside the US, UK and Middle
     East, chosen for structural importance. If a region is genuinely quiet,
     say so rather than silently dropping it.
