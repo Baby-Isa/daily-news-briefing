@@ -175,12 +175,13 @@ the date guard makes all of them idempotent.
 Observed ping times: 04:44 UTC through 5 September, **06:03 UTC from 6
 September onwards**. That leaves 24 minutes before the Routine fires.
 
-**Unresolved:** it is not confirmed whether the cron-job.org timezone
-dropdown is set to UTC or Europe/London. 06:03 UTC and 07:03 London are
-the same instant today and only diverge on 25 October, when a
-London-configured job would start firing *after* the Routine. That
-degrades gracefully - the Routine sees a stale digest and rebuilds - but
-wastes four minutes a day. Worth confirming with the owner.
+**Resolved 7 September 2026:** the owner confirmed the cron-job.org
+timezone dropdown is set to **UTC**, not Europe/London. So 06:03 stays
+06:03 UTC through the 25 October clock change and keeps its existing
+margin ahead of the Routine year-round. Nothing to do. (Had it been
+London, the job would have started firing at 07:03 UTC - after the
+Routine - which degrades gracefully, since the Routine would see a stale
+digest and rebuild, but wastes four minutes a day.)
 
 ## 7. First thing to do in the new session
 
@@ -256,9 +257,9 @@ Recently changed:
   from noise that actually appeared and tested against all 87 distinct
   Consumer tech titles before being committed.
 
-Open questions for the owner:
+Open questions for the owner (the cron-job.org timezone question was
+answered on 7 September - it is UTC; see section 6):
 
-- Confirm the cron-job.org timezone dropdown (section 6).
 - Whether to run weekdays only. Never asked, never answered.
 - Whether the gadgets section holds at 70 words or wants trimming again
   after a week of evidence.
