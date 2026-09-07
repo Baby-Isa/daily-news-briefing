@@ -263,6 +263,25 @@ answered on 7 September - it is UTC; see section 6):
 - Whether to run weekdays only. Never asked, never answered.
 - Whether the gadgets section holds at 70 words or wants trimming again
   after a week of evidence.
+- **Scheduled for 12 September 2026, 10:00 UTC** (`send_later`
+  `trig_014gnjE2QAkcBHUzkN2seRq6`): review what the drafting session
+  reads into its own context each morning. The subagent's reads are
+  discarded with it, but the parent still accumulates, and step 3 of the
+  Routine prompt - read `briefing-prompt.md` in full, ~10,800 tokens -
+  is the dominant daily cost and roughly half the parent's growth. The
+  subagent reads the spec itself anyway, so the parent's copy is largely
+  redundant. Deliberately NOT changed yet: the owner asked to run it as
+  is for a few days first, so the brief can be checked as it comes
+  through, including the new gadgets section. If this session is lost
+  before the review fires, the scheduled reminder goes with it - carry
+  the question into the next one from here.
+
+**Standing check until then (8-12 September):** each morning, read the
+drafted brief and confirm the gadgets and consumer tech section behaved -
+present with a name, a delta, a price and a date per item when something
+shipped, correctly and silently absent when nothing did, and inside its
+70 words. Say what it did in the daily report rather than only that the
+episode published.
 
 ## 10. How to work on this
 
