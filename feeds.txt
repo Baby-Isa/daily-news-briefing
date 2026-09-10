@@ -130,7 +130,7 @@ Trends | Skift | https://skift.com/feed/ |
 
 ## EDITORIAL
 Editorial | Longreads | https://longreads.com/feed/ | FULLTEXT QUIET
-Editorial | Rest of World | https://restofworld.org/feed/ | FULLTEXT QUIET
+Editorial | Rest of World | https://restofworld.org/feed/latest/ | FULLTEXT QUIET
 Editorial | New Lines | https://newlinesmag.com/feed/ | FULLTEXT QUIET
 Editorial | Aeon | https://aeon.co/feed.rss | FULLTEXT QUIET
 Editorial | Economist The Intelligence | https://feeds.acast.com/public/shows/theintelligencepodcast |
