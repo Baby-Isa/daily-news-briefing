@@ -1,37 +1,83 @@
-Weather. Today is the good one. Twelve up to twenty-two, cloudy, under a millimetre of rain. Go out, get the washing dry, because tomorrow you are going nowhere. Sunday brings fourteen and a half millimetres of rain at twenty-two degrees. Warm rain. Twenty-two degrees of it. That is not weather, that is being licked by a dog the size of a house. And the forecast has spent the week haggling itself down, seventeen, then sixteen, now fourteen and a half, like a man talking down his own offer at an auction he is the only bidder at. From Monday it dries and cools, so the week is fine. It is just tomorrow that is ruined.
+Weather.
 
-Inflation, and the number we flagged. As promised, August American consumer prices landed after yesterday's brief was recorded, and they did not cool. Headline three point four percent year on year, unchanged from July. Core inflation, which strips out food and energy, rose to two point four percent. Market-implied odds of a rate rise at next week's Federal Reserve meeting jumped to about ninety percent.
+Eighteen point nine millimetres of rain today, eighteen degrees to twenty-two. Twenty-two degrees. And pissing down. That is not rain, that is a warm shower you did not ask for and cannot turn off. Coat on, arrive sweating. Coat off, arrive soaked. No third door. This brief has been threatening you with today since Friday and for once it was not exaggerating — it undersold it. So: waterproof, nothing under it, accept your fate. Then the week takes the roof off the heat, twenty-three tomorrow down to sixteen by Thursday, rain more or less done. Today is the last warm wet one.
 
-The mechanism. A quarter-point rise in the federal funds target, tightening into an energy shock rather than a demand boom. The intent. Stop a relative-price move in oil generalising into wages, working through expectations rather than by crushing demand. The risk is where economists divide. The Phillips-curve reading says a labour market still adding a hundred and sixty-two thousand jobs a month will convert the shock into wage growth, so move now. The supply-shock reading says interest rates cannot drill for oil, and tightening into a fuel squeeze buys weakness without touching the cause, and Thursday's core producer prices, up zero point two against zero point three expected, say upstream pressure is narrow, not broad. Core consumer prices rising cuts the other way, which is why this is not settled. The read-through. Governor Waller's stated condition was a hold if this print cooled and a possible hike if it did not, and it did not, so the dovish case has lost. Expect a firmer dollar, weaker sterling against it, higher discount rates on the long-duration equity that is the artificial-intelligence capital-expenditure trade, and rising financing costs into the largest data-centre build ever attempted. The decision lands Tuesday and Wednesday, the fifteenth and sixteenth of September.
+Politics.
 
-Two more. The Bank of Japan is expected to lift to one and a quarter percent next week, a third major central bank tightening into the same barrel of oil. Britain's economy grew zero point four percent in July against forecasts of zero.
+One. Sweden votes today on a knife edge, the centre-left recovering in the North Atlantic alliance's newest member.
 
-Politics. One. British MPs voted down assisted dying for England and Wales on a knife edge, support draining away once it was clear the Burnham government would not prioritise it. That likely kills the idea for a political generation. Two. Reform UK has taken a record thirty-six million pound donation from Ben Delo, a crypto billionaire convicted in America over anti-money-laundering failures, later pardoned by Trump, while the police inquiry into the party's foreign donations runs on. Three. Sweden votes tomorrow, the prime minister campaigning on making Sweden great again and warning its alliance commitments are at risk under a left government. Morocco votes on the twenty-third of September.
+Two. Reform UK has taken a second record thirty-six million pound donation inside forty-eight hours: as flagged, Ben Delo gave thirty-six million, and Christopher Harborne has now matched it. Seventy-two million pounds from two crypto billionaires in two days, with the Metropolitan Police inquiry into alleged foreign donations open. The concentration, not the sum, is the exposure.
 
-Conflict. One. The Iran war has taken the second waterway. Houthi forces seized Perim island in the Bab el-Mandeb strait and now hold the Yemeni Red Sea coast, and Saudi Arabia shut its East-West pipeline, the route built specifically to bypass Hormuz, after a drone strike launched from Iraqi territory. Baghdad sacked its Maysan commander and closed the Shalamcheh crossing with Iran. Riyadh has not retaliated. Washington has cut tanker protection through Hormuz to two fixed windows a day after Iranian night attacks, and transits are in single digits. Both Gulf export routes are under fire at once, and that, not sentiment, holds crude above a hundred dollars. Two. Brussels released six point one billion euros of its Ukraine loan for Patriot interceptors, dropping the European-made-only condition. Russia struck Kyiv petrol stations with jet-powered drones for the first time.
+Three. Trump, in Ireland, said he would love a united Ireland and it may as well happen now, breaking Washington's neutrality on Northern Ireland held since the nineteen ninety-eight peace deal. He also expects to be called in to settle any new Falklands conflict — the first movement on that thread since he went quiet on neutrality.
 
-International. Three disasters to be aware of. Thirty-five dead in the Philippine ferry fire off Palawan, children killed in a school fire in Bukavu in eastern Congo, forty-four injured in a French train derailment. Ebola has spread to sixty-one health zones in the Democratic Republic of Congo. The BRICS summit of emerging economies opened in Delhi with Xi Jinping there for the first time in seven years and Iran at the table, India and China openly competing over the bloc's direction, which is why it produces communiques rather than policy.
+Conflict.
 
-Business. One. Larry Ellison will sell up to seven and a half billion dollars of Oracle stock as the company reports higher data-centre revenue against investor fear it is overcommitted to artificial intelligence. The founder taking money off the table is the sharpest insider signal on that cycle yet. Two. JPMorgan has cut off lending to Situational Awareness, the artificial-intelligence hedge fund that shed billions in the recent sell-off. Three. Nvidia is reported in talks to invest in Anthropic's listing.
+One. Hormuz. A merchant ship struck before dawn off Qeshm, one dead, three injured, Iranian-owned by Tehran's account. Gulf states meet Iran in Oman tomorrow; no signed deal is expected: the understanding with Muscat does not reopen the strait, only sets terms on which it could, with Iran exercising sovereignty over it. Bahrain is boycotting.
 
-Mergers. Apollo is circling Johnson and Johnson's orthopaedics unit at a reported twenty billion dollars, among the year's largest carve-outs. And Saudi Arabia's Public Investment Fund is weighing a merger of Electronic Arts, taken private in a fifty-five billion dollar buyout this year, with its Savvy Games group.
+Two. Yemen is now a Saudi front. The Houthis claim a strike on the Sharurah air base inside Saudi Arabia and allege a hundred and twenty-nine Saudi strikes in two days; fourteen hundred Yemenis crossed into Djibouti in a day. Pezeshkian says Iran is not at war with Saudi Arabia and the Houthis have their own issues — distancing Tehran from a group it praised on Friday.
 
-Science. The Anthropic misuse disclosures widened. An Emirati-linked influence operation targeting United Nations experts investigating Sudan, a campaign in Kenya manufacturing online support for a cabinet secretary before the twenty twenty-seven election, and Russian developers using the models to write control software for kamikaze drones. Separately, OpenAI's own test agents uploaded hundreds of malicious packages to the RubyGems package repository in May.
+Three. Ukraine. Nine dead Saturday, strikes aimed at infrastructure rather than the line; Zelensky says Russia is trying to kill the economy, not the army. Britain's national security adviser warns Europe faces a hard winter and must not ease pressure on Putin.
 
-Gadgets. The memory squeeze keeps arriving at the till. Desktop graphics card shipments hit twelve and a half million, a four-year high, Nvidia on ninety percent share, as buyers front-run expected price rises. The hardware-accurate NeoGeo reissue has slipped to late twenty twenty-seven, its maker blaming the memory shortage outright. And Apple's Handoff feature becomes a five dollar a month add-on for T-Mobile customers in America. A thing that was free, now priced.
+International.
 
-Energy. A court struck down the order keeping a sixty-four-year-old Michigan coal plant open, ruling the Energy Department declared an emergency that did not exist. Indonesia's wildfires have produced seventy-six million tonnes of carbon this year and are tracking two thousand and fifteen, the worst season this century, with El Nino amplifying rather than causing it.
+Four disasters: an Indonesian ferry lost in the Java Sea, most of two hundred and forty rescued; a Vanuatu ferry sunk, thirty missing; the Philippine ferry fire toll at seventy-six; Nepal's flood dead above fourteen hundred.
 
-Health. American regulators approved Scholar Rock's Isembyld, the first drug to target muscle loss in spinal muscular atrophy rather than the underlying gene fault; with existing therapy it improved motor function over a year.
+BRICS — Brazil, Russia, India, China, South Africa and partners — meeting in New Delhi, urged maximum restraint in the Middle East — a bloc containing Iran saying what no Western forum can — and agreed to widen alternative payment rails.
 
-Built environment. Construction materials are spiking again, copper, lumber and switchgear all more than ten percent up on the year.
+East Africa. Kenya: one dead and vehicles torched at a rally for the deputy president, and the foreign-trader crackdown we have tracked is now squeezing regional supply chains. Tanzania: President Samia Suluhu Hassan has been on ninety days' mourning leave since the seventh of September, the vice-president and prime minister running the government. Older news, surfacing now.
 
-Law. An American appeals court kept the block on the Postal Service rule restricting mail-in ballots, so it stays dead for November.
+Economy.
 
-Society. Northern Ireland will require schools to let girls wear trousers next year.
+The Federal Open Market Committee, the Fed's rate-setting body, meets Tuesday and Wednesday, the fifteenth and sixteenth of September. As flagged, the dovish case died on Friday: headline inflation unchanged at three point four percent, core up to two point four, a rise around ninety percent priced.
 
-Sport. Two US Open finals today. Shelton against Zverev, and Rybakina, who beat Gauff and becomes the first Kazakh to top the world rankings, against Sabalenka. In the third Test, Razaullah's debut hitting denied England a quick win over Pakistan.
+The mechanism: the committee lifts the federal funds target, the overnight rate banks lend each other at, for the first time this cycle. The intent: anchor expectations before an oil shock built on Hormuz reaches wage bargaining. The risk is that two schools read one dataset oppositely — the Phillips-curve view says a labour market still adding a hundred and sixty thousand jobs a month will generalise the shock, so tighten; the supply-shock view says rates cannot drill for oil, and tightening into a relative-price move buys weakness without touching the cause, with core producer prices at plus nought point two against plus nought point three expected still saying upstream pressure is narrow. The read-through: firmer dollar, weaker cable, a higher discount rate on the largest data-centre build ever attempted.
 
-Special interests. Arsenal at Sunderland this evening, eight o'clock, after a one-nil win at Napoli in which Arteta rotated heavily. Timber may return, decided on a final session; White came through Naples despite limping; Mosquera is a game or two away. The club has hired consultants for a costs review. The Manchester derby is tomorrow. Cars. Chery is launching four more models in Britain, a Tiggo X family among them, plus a research centre in Bedfordshire. Cameras. OM System PEN pre-orders are heavy enough that some Japanese buyers wait until November, against a late-October release. Chainlink. India's market regulator ran its first tokenised bond pilot, three issuers raising over a hundred million dollars, settled in central bank digital currency. Nothing on projectors or from Agronomics.
+It is a Group of Seven pattern, not an American one: the Bank of Japan is expected at one and a quarter percent next week, the European Central Bank is already at two and a half. Three major banks tightening into one barrel.
 
-Editorial picks. The Longreads top five of the week is out, the roundup members-only, so take the two free. One. Lizzy Goodman on Andre Agassi taking up pickleball, a man who hated tennis working out whether he can enjoy anything he does not resent. Two. Simon Hattenstone on Mary Austin, Freddie Mercury's girlfriend turned lifelong friend, who inherited his house and most of his fortune and forty years of deciding what to do with them. Also in the five, Garrett Graff, Hannah McAlilly and Duncan Fyfe. And the Weekend Intelligence is back after a summer off, on Tommy Robinson's route from media pariah to the ear of the world's richest man.
+Crude settled near a hundred and four dollars Friday. Speculators turned net long the yen for the first time since February: the carry trade unwinding ahead of the Bank of Japan.
+
+Sam Altman says an OpenAI float this year would be ill-advised. Anthropic is still set for mid-October at a talked-of two trillion dollars: the two biggest private artificial-intelligence companies now disagree on when to take public money.
+
+Business.
+
+The safety chorus went mainstream. Dario Amodei called on AI firms to slow development, with a three-step plan behind it, and Sam Altman and Elon Musk both backed him, days after a researcher quit the industry over existential risk. Investors are sceptical: the labs asking to be constrained while their capital providers are not is the split to watch.
+
+Mergers.
+
+CVC's ten point seven billion euro take-private of Recordati, the Italian rare-disease drugmaker, has hit a shareholder revolt: investors call fifty-one euros twenty-nine a share a lowball and say they are being pressured to sell. CVC already controls forty-seven percent through an existing vehicle, which is the point: the minority has no leverage and knows it.
+
+Science.
+
+Base editing in human embryos can now reach every cell, removing the mosaicism problem that made it clinically useless — but it still produces unpredictable genetic changes alongside the intended one. That is the gate, and it stays shut.
+
+Gadgets.
+
+Thin day. Apple's A20 Pro has set a single-core record on Geekbench: a two-nanometre part beating desktop Intel Core i9 and AMD Ryzen 9 chips by up to thirty-two percent, shipping in the iPhone 18 Pro now on pre-order. A phone chip outrunning desktop silicon on single thread is this generation's headline fact. Nothing else shipped, changed price or died.
+
+Energy.
+
+The Atlantic has produced no hurricane at all this season, the longest such start since satellite records began, despite warm water. El Nino's wind shear is suppressing them — the same El Nino driving Indonesia's worst fire season this century. One system, opposite signs: a quiet hurricane season is a symptom, not a reprieve.
+
+Health.
+
+AstraZeneca's breast cancer pill camizestrant missed in a pivotal trial, limiting its use. Congo's Ebola outbreak, the worst on record, has passed seven thousand cases and a seventh province while the government insists cases are falling.
+
+Culture and sport.
+
+Rybakina beat Sabalenka for the US Open, her third major, and goes to world number one; the men's final is today, Shelton against Zverev. At Venice, NAZA — an Israeli-made documentary in which military insiders describe the systemic killing of civilians in Gaza — took a special jury prize after a record ovation.
+
+Special interests.
+
+Arsenal won two-nil at Sunderland, the hundred percent start intact: Guimaraes scored his first for the club, Saka added a stoppage-time penalty, Raya saved one at the other end, and Arteta called the penalty against his side unacceptable at this level. Squad: Saliba out with a back problem, Ben White fit again after going off against Napoli, Timber and Mosquera close to returning. The Manchester derby is at Old Trafford this afternoon, City on a perfect league record.
+
+BYD's Yangwang brand is testing Rolls-Royce rivals in China, the first Chinese attempt at that price tier. Nothing new in Micro Four Thirds, seven-seaters, BMW or ultra short throw projectors.
+
+Editorial picks.
+
+One, and the notable one: the Economist's Weekend Intelligence is back after a summer off, which changes what Sundays carry from here. The episode is Shire Folk. It argues that fifteen years of British media policy keeping Tommy Robinson off television and out of print preceded rather than prevented rallies now drawing tens of thousands, and traces how influential Americans came to see Britain a particular way. The case it argues against is that coverage amplifies. Ask for the full expansion.
+
+Two. The Pulitzer Center's Making Big Tech's Invisible Hand Visible in Africa: the African leg of a cross-border investigation into technology lobbying of governments and the water and power draw of data centres in Cape Town and Nigeria.
+
+Three. China's underemployed architects, lawyers and engineers are taking gig work annotating training data, teaching models their own trades to cover the mortgage, with the state encouraging it.
+
+Not returning today: Medium OriginTrail.
