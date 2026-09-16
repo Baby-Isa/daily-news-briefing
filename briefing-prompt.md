@@ -105,14 +105,27 @@ goal: keep what is useful to know, cut the language wrapped around it.
 HARD LENGTH LIMIT: 1,450 WORDS. Ceiling 1,520, and treat that as a
 failure condition rather than a target.
 
-PLAN AT 153 WORDS PER MINUTE. The voice does not read at a fixed rate -
-measured across three real episodes it ran 164, 153 and 161 wpm, varying
-with sentence length, how many numbers are spelled out, and punctuation
-density. So 153 is not the rate, it is the slow end of the observed
-range, chosen deliberately as the planning figure because the cost of
-the two errors is asymmetric: budgeting at the fast end and being wrong
-puts the episode over ten minutes, while budgeting at the slow end and
-being wrong just makes it pleasantly short.
+PLAN AT 151 WORDS PER MINUTE. The voice does not read at a fixed rate,
+varying with sentence length, how many numbers are spelled out, and
+punctuation density. The original figure of 153 came from three
+episodes measured at 164, 153 and 161. Eight consecutive September
+episodes have since been measured at 156.5, 151.3, 161.4, 159.8, 165.1,
+164.9, 165.8 and 157.8 - a range of 151.3 to 165.8, so the true slow
+end is slightly SLOWER than the old planning figure, not equal to it.
+151 is not the rate, it is the slow end, chosen deliberately as the
+planning figure because the cost of the two errors is asymmetric:
+budgeting at the fast end and being wrong puts the episode over ten
+minutes, while budgeting at the slow end and being wrong just makes it
+pleasantly short.
+
+WHAT THAT DOES TO THE CEILING. At 151 wpm, 1,450 words is 9 minutes 34
+seconds and 1,520 is 10 minutes 2 seconds. The 1,520 ceiling was set
+assuming 153 and is therefore NOT safely under ten minutes any more -
+it is a couple of seconds over on a slow day. The reasoning behind it
+has not changed: the ceiling is supposed to sit below the limit, not
+near it. So treat 1,450 as the number that matters and 1,500 as the
+real ceiling; 1,520 survives in this document only as the older figure
+and should not be aimed at. Nothing has actually run above 1,450.
 
 At 153 the arithmetic is: 1,450 words is 9.5 minutes, 1,520 is 9.9. The
 earlier 1,600 ceiling assumed 164 and would have been 10.5. Under ten
@@ -137,10 +150,16 @@ sections when the day demands it, but the total is fixed.
     Business and industry         90      Culture and sport         65
     Mergers and acquisitions      80      Special interests +
     Science and technology        80         watchlist              80
-    Gadgets and consumer tech     70      Editorial picks           65
+    Gadgets and consumer tech     85      Editorial picks           65
 
-These sum to 1,435, just under the 1,450 target, which is deliberate:
-the total has to survive a section or two running long.
+These sum to 1,450, which is the target exactly, so the slack has to
+come from somewhere real rather than from the table. It does: Built
+environment, Law and justice and Society are threshold lanes that are
+silently absent on most days, and when they are they free 35 to 110
+words between them. That is already how this works in practice - three
+separate days in September ran with two or three of those lanes absent
+entirely - so the table now records where the words actually go instead
+of pretending to a slack it did not have.
 
 Economy gets the largest share on purpose. The analysis is the part I
 most want kept - see section 4. Cut narrative, never cut analysis.
@@ -353,7 +372,24 @@ skimmed - and on a day when nothing genuinely shipped, one sentence
 saying so, or nothing at all, is the right answer. The budget was 40
 words for one day and that was wrong: it cannot carry two items with
 a name, a delta, a price and a date, which is what this section is
-for. It is 70 now. Spend it on two items, not four. Do not pad this
+for. It went to 70, and 70 was still short: measured across the first
+nine days the section ran 81, 76, 88, 82, 73, 61, 21 and 90, and the
+only days it came in under 70 were the days almost nothing shipped.
+IT IS 85 NOW. Spend it on two items, or three when they are all
+complete. Not four.
+
+LANDMARK LAUNCHES GET MORE, UP TO ABOUT 120 WORDS. A first-of-its-kind
+product from a major maker - a company's first foldable, its first
+headset, a new console generation, a format that did not exist before -
+is not one item among three and must not be squeezed into a couple of
+clauses. Apple's first foldable phone got 26 words on 10 September,
+sharing the section with a price rise and a special-edition console.
+It carried its name, delta, price and date and was still too thin for
+what it was. On a day like that, lead the section with the landmark,
+give it room to say what is actually new about it and what it costs to
+be early, and drop the other items rather than thinning all three.
+Take the extra words from the threshold lanes above, not from the
+total, which is fixed by the ten-minute limit. Do not pad this
 section with buying guides, deals, listicles, rumours, or leaks: a
 rumour only earns a place if it comes from the company itself or is
 already priced into something else in the brief.
