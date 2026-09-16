@@ -103,7 +103,7 @@ Chainlink | Decrypt | https://decrypt.co/feed | FULLTEXT FILTER:chainlink,link t
 Chainlink | The Block | https://www.theblock.co/rss.xml | FILTER:chainlink,link token,oracle,ccip,smartcon,tokenised,tokenized,real-world asset
 Chainlink | The Defiant | https://thedefiant.io/feed | FILTER:chainlink,link token,oracle,ccip,smartcon,tokenised,tokenized,real-world asset
 Chainlink | CoinDesk | https://www.coindesk.com/arc/outboundfeeds/rss/ | FILTER:chainlink,link token,oracle,ccip,smartcon,tokenised,tokenized,real-world asset
-OriginTrail | Medium OriginTrail | https://medium.com/feed/origintrail | QUIET
+OriginTrail | Medium OriginTrail | https://medium.com/feed/origintrail | RARE
 
 ## SPECIAL INTERESTS
 Aviation | Simple Flying | https://simpleflying.com/feed/ |
