@@ -406,6 +406,23 @@ actually appeared.
     projector at 3,000+ lumens; I am looking to buy one. Well-reviewed
     robot vacuums belong here too. General gadget news no longer does:
     it has its own spoken section now - see section 5.
+
+    NAMED WATCH, ADDED 16 SEPTEMBER 2026 - THE XGIMI AURA 3 MAX. This
+    is the one I am actually buying, so it outranks the general alert
+    above. 5,700 ISO lumens, 4K at 120Hz, triple laser, announced at
+    IFA 2026 and billed as the first 4K/120Hz ultra short throw.
+    WHAT I NEED IS THE KICKSTARTER DATE. XGIMI's own product page says
+    the campaign goes live on 20 OCTOBER 2026, with a $50 refundable
+    deposit currently holding a super-early-bird price and shipping
+    expected to start in December. Note the price is NOT settled in
+    coverage: XGIMI's page says $2,199 against a $4,999 list, while
+    third-party write-ups say $2,399 for the Max and $2,199 for the
+    Pro. Say which figure you are quoting and whose number it is;
+    do not merge them into one.
+    Tell me the day the campaign actually opens. Before then, flag any
+    change to the date, the tiers or the shipping estimate - a slipped
+    date is itself the news. After it opens, the watch is closed unless
+    I say otherwise.
   - Airlines and aviation. Airbus, Boeing, British Airways, Etihad (I
     interned there), new and closing routes, cabin classes and products,
     consumer preference shifts.
