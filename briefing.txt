@@ -1,27 +1,85 @@
-Weather. Right, today is the wet one. Sixteen to twenty-one, cloud the colour of dishwater, six and a half millimetres of rain and wind up to eight metres a second, enough to turn an umbrella inside out. Waterproof, not the nice jacket. And then it stops. Completely. Not one drop for the next five days, three of them clear sky, twenty-three on Tuesday, proper warmth in the back half of September. Five dry days in a row in this country is basically a rumour. Get soaked today, and the rest of the week pays you back.
+Weather.
 
-Politics. One. Trump has signed the Russia sanctions bill two days after the House passed it: sweeping sanctions on Moscow, Iranian sanctions extended to twenty thirty-one, and power to impose additional tariffs on any country breaking the embargo. That last clause is the live one: it points at India, which buys Russian crude, and it lands days before Xi Jinping reaches Washington. Two. He has barred two American news networks and a news site from the White House for reporting what he called fake news. Three. Russia's parliamentary vote runs to Sunday; requests for emergency help leaving the country are up eightfold since July on fear of mobilisation. Four. Germany votes tomorrow in Mecklenburg-Western Pomerania, where Merz's own position rides on the result, and in Berlin, where the campaign turns on a left-wing plan to expropriate apartment blocks to force rents down. Morocco votes Wednesday.
+Twelve degrees at dawn, nineteen by mid-afternoon, clear sky, rainfall of exactly nothing. So you will leave the house in a coat and carry the bloody thing round all day like a man holding someone else's shopping. Layers. Jacket off at eleven.
 
-Conflict. One. Pakistan. A suicide bomber and gunmen stormed police headquarters at Kohat: at least thirty-one dead, including sixteen officers. Two. The Gulf. Saudi authorities issued and then withdrew danger alerts for Riyadh overnight, with explosions reported in the capital. A newspaper investigation counts twenty-two American military deaths in the Iran war, four more than the Pentagon admits; the defence secretary denies it. Three. Ukraine. Ukrainian forces say their Lyman operation has pushed Russian units off the approach to Sloviansk, and guided bombs killed two council staff in a block of flats in Sumy. Poland's Tusk warns of deliberately accidental Russian strikes on allies, meant to show that Article Five exists only on paper, and France has ordered critical infrastructure prepared for drone and cyber attack. Four. American intelligence came close to boarding a Chinese ship over cargo an analyst's chatbot had hallucinated.
+And the week does not break. Six consecutive days with essentially no rain, three of them cloudless, warming to twenty-three on Tuesday. No wet day hiding in the middle, no cold snap. Late September, in England, handing out a fortnight of holiday weather for free. Enjoy every minute, and keep one eye on the sky, because nothing this generous arrives without a bill.
 
-International. Three to be aware of: an Indonesian ferry capsized with a hundred and twenty-six missing; methanol poisoning has killed forty-nine in Nigeria; floods shut Tunis. Trump says he has an agreement with Denmark and Greenland giving Washington permanent authority over the island's security and a veto over military activity or sensitive investment by American adversaries, China among them. Copenhagen has published no terms.
+Politics and government.
 
-Economy. One. The past week's tightening is now showing up in currencies rather than in rates. Tokyo is reported to have run a rate check on the yen, the step immediately before intervention, because the Bank of Japan's move to a thirty-one-year high has not held the currency. Mexico's peso has slid toward seventeen point three to the dollar, broken by the Fed rather than anything domestic: when the risk-free dollar rate rises, capital stops paying for carry. Two. The financing of the artificial-intelligence build-out is where strain is appearing. OpenAI's own projections have it burning two hundred and eighty billion dollars by twenty thirty, funding infrastructure into falling prices; Oracle's eighteen-billion-dollar data-centre debt is under pressure; and investors ahead of Anthropic's float doubt its revenue survives cheaper rivals. The spending itself is not in doubt. The question is who carries it, and the answer is increasingly debt and vendor finance rather than cash flow, which turns an equity story into a credit one. Credit is where cycles break. Three. Britain. More than one point one million low-income renting families face a housing shortfall averaging a hundred and fifty-eight pounds a week on a typical two-bedroom home, with a call to lift the housing allowance freeze in next month's budget. The freeze is a real-terms cut that saves the Treasury more the faster rents rise, which is why it is both hard to defend and hard to give up.
+One. Germany votes today. Berlin and Mecklenburg-Western Pomerania, roughly three point eight million voters, with the hard-right Alternative for Germany pressing hard in the north. Chancellor Merz's own standing rides on that northern result.
 
-Business. One. India. The Tata Sons board is in revolt over reappointing its chairman and over a demand that it list publicly, which would open the books of the country's most powerful private conglomerate. Two. American nuclear construction is separating winners from losers. Bechtel has quit the Gates-backed reactor project and filed notice of two hundred layoffs; Holtec presses on with small modular reactors at Palisades in Michigan but has shelved the share sale meant to fund it. Investor conditions, not engineering. Three. Kenya's government has promised to investigate its state-to-state fuel import deal after Uganda's Museveni publicly named the middlemen taking a margin out of it, which bears on Kenyan fuel prices and the shilling.
+Two. The White House confiscated press passes from three news organisations on Saturday, making good on the president's ban. Seven weeks from the midterms, that is control of the room rather than of a story.
 
-Deals. One. Ingredion has agreed to buy Tate and Lyle for three point six billion dollars, taking a listed British household name and its sweetener business to an American ingredients group. Two. Paramount is in talks to settle the antitrust action by a dozen Democratic-run states, the last obstacle to its hundred and eleven billion dollar tie-up with Warner Brothers Discovery; the American communications regulator has separately cleared Saudi, Emirati and Qatari sovereign funds to hold nearly half the merged company's equity.
+Three. Trump will create an artificial intelligence force and name a czar for it. No remit, no authority, no detail, and offered instead of regulation.
 
-Science. One. NASA's lunar orbiter has photographed a crater that was not there before, roughly two hundred metres across, from an impact of a size expected about once a century, with before and after images of the same ground. Two. Google's Gemini model broke into three real companies in a security exercise, then halted on its own: the third frontier laboratory in a week to report real intrusion work by its model.
+Four. Copenhagen calls the binding American security arrangement over Greenland no threat to Danish sovereignty, but has published no terms, and Greenlanders say the silence is the problem.
 
-Gadgets. Clicks has dated the Communicator, the Android phone with a physical keyboard under a four-inch screen: shipping in December, nearly a year after it was shown. Twelve gigabytes of memory rather than eight, and Android seventeen with updates promised to Android twenty. The four-hundred-and-ninety-nine dollar launch price ends this month; after that, six hundred and forty-nine, a thirty percent rise before a unit ships. Separately, capacity is shifting away from the cheap flash memory in everyday electronics, and undersupply there is now called severe.
+Five. Britain. Badenoch told Burnham to cut welfare and fund defence with it. Michael Marra is the new Scottish Labour leader, and he backs both the Rosebank and Jackdaw fields.
 
-Energy. Saudi Aramco has told European refiners they will get no crude in October under long-term contracts, after the drone strike closed its pipeline to the Red Sea, and is routing barrels to Asia through Hormuz instead. Macron is convening an emergency Group of Seven meeting on energy prices and says France is working to reopen the strait. Set that against Thursday's Bank of England hold, explicitly conditioned on energy prices: an October shortfall in Europe is the shock that makes that hold temporary.
+Conflict and security.
 
-Health. Every American state has signed up to the plan aligning Medicaid drug prices with those paid in other rich countries, announced before the midterms with the mechanics undisclosed, which is where most-favoured-nation pricing has failed before.
+One. The Houthis fired a ballistic missile at Riyadh, the first time the Saudi capital has been targeted since this front opened. The coalition says it was intercepted; explosions and smoke were reported at King Khalid airport, and the group claims strikes on Aramco facilities at Yanbu too. Washington warns of rapid escalation and Trump cut short a Camp David weekend without explanation. Turkey has offered to meet Saudi military needs under the Mecca pact it shares with Pakistan, the first sign that arrangement does anything at all.
 
-Special interests. Arsenal are at Brighton this afternoon, three o'clock. Arteta gave nothing away: Timber, Mosquera, Hincapie and Ben White all missed Tuesday's cup win, and would only say everyone was training. Saliba's back is still counted in months. Beating Ipswich buys a fourth-round tie at League Two Fleetwood. Also today, Manchester City host Sunderland, Tottenham host Aston Villa; Chelsea lost three-nil at Brentford last night. British Airways returns to Tanzania after thirteen years away. Xpeng takes its five-metre G nine L crossover to the Paris show next month, aimed at export markets. Chainlink: a one point two billion dollar tokenised treasury fund is now open to thirty-five million retail accounts, and tokenised shares can be pledged for loans. Agronomics: nothing on the company; in the sector an Indian biotech has bought a Japanese fermentation manufacturer for capacity, and the warning that aligning British food standards with Europe costs the country its cell-agriculture lead is four days old with no government answer.
+Two. Russia's parliamentary vote ends today, day two run with observers barred and turnout claimed above forty per cent; Kyiv and the European Commission call the inclusion of annexed regions illegal.
 
-Editorial picks. The weekly top-five long-form roundup is members-only, so the individual pieces instead. One. What happened to improv: how a form that sold itself as an art rather than a party trick lost its audience and its economics. Two. Why a black hole rings like a struck bell, then forgets almost everything about what fell into it. Three. A book excerpt arguing that taxing automation redistributes more than retraining ever will, since medieval retraining did nothing for living standards. Four. Fifty years of Yousra, one of the few constants in Egyptian cinema. And from the daily current affairs podcast: why drink companies are scrambling to innovate, and the life of Gloria Steinem.
+Three. Washington approved a two point six eight billion dollar air-defence sale to Ukraine, and Zelensky has authorised new long-range operations. Russia's air campaign is now aimed at the economy rather than the front: warehouses, steel plants, ports and railways, stripping Kyiv of over one and a half billion dollars in tax revenue.
 
-Not returning today: Space dot com.
+International affairs.
+
+Three to be aware of: at least forty-eight dead and about a hundred and eighty ill in Ondo State, Nigeria, from a methanol-laced spirit; thirty-seven suspected illegal miners dead in custody in Niger State, cause disputed; and Cuba dark again in another national blackout.
+
+Leaders reach New York this week for the United Nations General Assembly, Trump at the rostrum Tuesday, Kenya's Ruto carrying an Africa-financing-Africa pitch — and, behind him, Uganda's Museveni publicly accusing the government-to-government fuel import scheme of swindling Kampala, the arrangement that sets Kenyan pump prices. Abbas, refused an American visa a second year running, addresses the hall by video.
+
+Economy and markets.
+
+One. Trump signed the Russia and Iran sanctions act on Friday, ahead of the deadline this brief was watching. The mechanism: statutory sanctions on Russia expanded, Iranian sanctions extended to twenty thirty-one, and presidential authority to tariff any country buying Russian crude at up to a hundred per cent, with thirty days to act and broad power to waive. The intent is to make Russian barrels cost more than the discount is worth, a secondary-sanctions squeeze routed through the tariff schedule rather than the banks. The risks cut both ways: India and China are the targets, and Beijing, the largest buyer, already reserves the right to take all necessary measures days before Xi reaches Washington; and applied in full it pulls several million barrels a day from a market where Europe is already short, raising the price the policy exists to deny Moscow. The read-through: it is a tariff, so it lands on American import prices too, and it tightens the energy condition the Bank of England attached to its hold at three and three-quarter per cent. One counterweight, running against the shortage story: an American commander reports Hormuz shipments at a six-month high.
+
+Two. The crash question is now asked openly: artificial intelligence capital spending increasingly funded by debt rather than cash flow, government borrowing costs at multi-decade highs, a war premium in oil. That is one story, not three. The long end prices the debt the capital spending needs, so a term-premium move does the damage before any earnings miss does.
+
+Three. Saudi Arabia has quit the China-led cross-border central bank currency platform, withdrawing last year. Trivial in flow, loud in signal: the largest holder of petrodollars declining Beijing's alternative to them.
+
+Business and industry.
+
+One. Tata Steel has asked the government for fresh funding as the Port Talbot transformation slips, the second British steelmaker in a week whose survival plan its overseers do not believe.
+
+Two. China is now Rwanda's largest export market, twenty-six per cent of exports in the first quarter against under five a year earlier, after Beijing dropped tariffs on almost all Rwandan goods. A tariff cut rerouting a country's trade inside a year, though exporters say the constraint is now volume, not access.
+
+Science and technology.
+
+One. Starship's first orbital attempt has slipped: SpaceX now targets the twenty-eighth of September, not the twenty-second, for multiple orbits across ten hours.
+
+Two. Anthropic has appointed Accenture to run third-party safety evaluations of its models, the first concrete step behind its chief executive's stated intent to slow development down.
+
+Three. Chariklo, a body some two hundred and fifty kilometres across beyond Saturn, has two rings, and they have visibly changed across a decade. Ring systems are not permanent furniture.
+
+Gadgets and consumer tech. Nothing shipped, changed price or was discontinued today.
+
+Energy and environment.
+
+Germany has cut fuel duty as Middle East supply pushes pump prices up: a fiscal offset to an imported price shock, and the pattern to watch as European governments go into winter with the Bank of England's energy condition still live.
+
+Health and medicine.
+
+The Jehovah's Witnesses have partly eased their blood prohibition, permitting blood-derived products while keeping the ban on whole-blood transfusion. That changes surgical consent for millions. In the Democratic Republic of Congo, Ebola vaccination trials have begun for frontline health workers as the outbreak reaches new areas.
+
+Law and justice. An American appeals court has restricted deportations to third countries, letting migrants contest removal to places they are not from. It is headed for the Supreme Court.
+
+Culture and sport. The Asian Games opened in Nagoya, Japan's Takumi Hojo taking the first gold in the triathlon.
+
+Special interests.
+
+Arsenal lost. Yesterday's trip to Brighton, flagged here as upcoming, ended three-nil: the hundred per cent start gone, a nine-match league winning run with it. Pascal Gross from distance on thirty-one minutes, Charalampos Kostoulas just before the interval, Chema Andres heading in a corner soon after. Arteta said Brighton deserved to win and that the side put themselves in trouble from the first whistle. Squad level: Timber started and came off at half-time alongside Guimaraes, both tactical rather than fitness, Rice shifted to right-back, and no new injuries emerged. Saliba's back is still counted in months, late November the estimate. Elsewhere Saturday: Aston Villa won three-two at Tottenham, and Coventry won one-nil at Nottingham Forest for a first top-flight win in twenty-five years. Manchester City host Sunderland today.
+
+Aviation: a turbine durability kit is certified for the engine family on the Boeing seven-three-seven MAX, its makers claiming it doubles time on wing in hot and dusty conditions. An operating-cost change across the fleet, not a specification tweak.
+
+Longevity: semaglutide extended median lifespan in female mice and improved several ageing measures. Mice, females only; the headline is running ahead of the evidence.
+
+Chainlink and OriginTrail: nothing new today.
+
+Editorial picks.
+
+The Economist's Weekend Intelligence carries Shire Folk, from last weekend: how some of the most powerful people in America came to see Britain, and Islam, through the eyes of a fringe football hooligan. Worth it for the transmission mechanism rather than the subject.
+
+And a Pulitzer-supported dispatch from inside Iran, filed this week by a correspondent based in Tehran: nearly seven months of war measured not in strikes but in soaring prices, lengthening fuel queues and a leadership hardening as sanctions bite. Ask and I will expand either.
+
+Not returning today: cellular agriculture, Space dot com.
