@@ -139,7 +139,7 @@ Editorial | Pulitzer Center | https://news.google.com/rss/search?q=site%3Apulitz
 
 ## ENTITY SEARCH FEEDS (Google News, for lanes with no dedicated publication)
 Agronomics | Google News Agronomics | https://news.google.com/rss/search?q=Agronomics+ANIC&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
-Agronomics | Google News cultivated meat | https://news.google.com/rss/search?q=cultivated+meat+investment&hl=en-GB&gl=GB&ceid=GB:en | QUIET
+Agronomics | Google News cultivated meat | https://news.google.com/rss/search?q=cultivated+meat+investment&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
 OriginTrail | Google News OriginTrail | https://news.google.com/rss/search?q=%22OriginTrail%22+OR+%22TRAC+token%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
 Chainlink | Google News Chainlink | https://news.google.com/rss/search?q=%22Chainlink%22+crypto+OR+oracle&hl=en-GB&gl=GB&ceid=GB:en |
 
@@ -177,8 +177,8 @@ Agronomics | GN Galy | https://news.google.com/rss/search?q=%22Galy%22%20cotton%
 Agronomics | GN Wild Microbes Laverock | https://news.google.com/rss/search?q=%22Wild%20Microbes%22%20OR%20%22Laverock%20Therapeutics%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
 Agronomics | GN Hydgene | https://news.google.com/rss/search?q=%22Hydgene%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
 Agronomics | GN New Agrarian | https://news.google.com/rss/search?q=%22New%20Agrarian%22%20Mellon%20OR%20foodtech%20OR%20investment&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
-Agronomics | GN precision fermentation | https://news.google.com/rss/search?q=precision+fermentation&hl=en-GB&gl=GB&ceid=GB:en | QUIET
-Agronomics | GN cellular agriculture | https://news.google.com/rss/search?q=cellular+agriculture+OR+cultivated+meat+approval&hl=en-GB&gl=GB&ceid=GB:en | QUIET
+Agronomics | GN precision fermentation | https://news.google.com/rss/search?q=precision+fermentation&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
+Agronomics | GN cellular agriculture | https://news.google.com/rss/search?q=cellular+agriculture+OR+cultivated+meat+approval&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
 Agronomics | GN alt protein regulation | https://news.google.com/rss/search?q=%22precision%20fermentation%22%20OR%20%22cultivated%20meat%22%20regulatory%20approval&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
 Agronomics | Green Queen | https://www.greenqueen.com.hk/feed/ |
 Agronomics | AgFunderNews | https://agfundernews.com/feed |
