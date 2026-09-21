@@ -63,7 +63,7 @@ Politics | CSM Politics | https://rss.csmonitor.com/feeds/politics |
 Science | Nature | https://www.nature.com/nature.rss |
 Science | Phys.org | https://phys.org/rss-feed/
 Science | ScienceDaily | https://www.sciencedaily.com/rss/all.xml |
-Space | Space.com | https://www.space.com/feeds/all |
+Space | GN Space.com | https://news.google.com/rss/search?q=site%3Aspace.com&hl=en-GB&gl=GB&ceid=GB:en |
 Space | NYT Space | https://rss.nytimes.com/services/xml/rss/nyt/Space.xml |
 Health | STAT News | https://www.statnews.com/feed/ |
 Health | NYT Health | https://rss.nytimes.com/services/xml/rss/nyt/Health.xml |
