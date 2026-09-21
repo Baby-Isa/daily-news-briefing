@@ -1,85 +1,71 @@
 Weather.
 
-Twelve degrees at dawn, nineteen by mid-afternoon, clear sky, rainfall of exactly nothing. So you will leave the house in a coat and carry the bloody thing round all day like a man holding someone else's shopping. Layers. Jacket off at eleven.
-
-And the week does not break. Six consecutive days with essentially no rain, three of them cloudless, warming to twenty-three on Tuesday. No wet day hiding in the middle, no cold snap. Late September, in England, handing out a fortnight of holiday weather for free. Enjoy every minute, and keep one eye on the sky, because nothing this generous arrives without a bill.
+Nine degrees at dawn. Twenty-one by mid-afternoon. Clear sky, no rain, no wind. Twelve degrees of swing inside one day, so the morning is Scotland in November and the afternoon is the south of France, and you have to dress for both using one body. You will leave shivering and righteous in the good coat. By two o'clock you will be carrying that coat like a hostage, sweating through a shirt you picked in the dark. Layers, you idiot. Layers. The rest of the week runs the same trick: bone dry, nothing you could honestly call rain, highs in the low twenties, warmest tomorrow.
 
 Politics and government.
 
-One. Germany votes today. Berlin and Mecklenburg-Western Pomerania, roughly three point eight million voters, with the hard-right Alternative for Germany pressing hard in the north. Chancellor Merz's own standing rides on that northern result.
+One. Germany. Merz's Christian Democrats took four point nine per cent in Mecklenburg-Western Pomerania, under the threshold, no seats. First time since the founding of the Federal Republic the party has been shut out of a state parliament. The Alternative for Germany won the state outright on thirty-eight, a second regional win in a fortnight. In Berlin the Left party led on twenty-five point seven, the Christian Democrats second on eighteen point eight. Merz calls it a disaster and says he stays. As flagged yesterday, the northern result was the one his position rested on.
 
-Two. The White House confiscated press passes from three news organisations on Saturday, making good on the president's ban. Seven weeks from the midterms, that is control of the room rather than of a story.
-
-Three. Trump will create an artificial intelligence force and name a czar for it. No remit, no authority, no detail, and offered instead of regulation.
-
-Four. Copenhagen calls the binding American security arrangement over Greenland no threat to Danish sovereignty, but has published no terms, and Greenlanders say the silence is the problem.
-
-Five. Britain. Badenoch told Burnham to cut welfare and fund defence with it. Michael Marra is the new Scottish Labour leader, and he backs both the Rosebank and Jackdaw fields.
+Two. American and Chinese officials in New York agreed on Sunday to open a dedicated artificial intelligence channel, with Washington proposing a safety notification mechanism, staged ahead of Thursday's Xi-Trump summit.
 
 Conflict and security.
 
-One. The Houthis fired a ballistic missile at Riyadh, the first time the Saudi capital has been targeted since this front opened. The coalition says it was intercepted; explosions and smoke were reported at King Khalid airport, and the group claims strikes on Aramco facilities at Yanbu too. Washington warns of rapid escalation and Trump cut short a Camp David weekend without explanation. Turkey has offered to meet Saudi military needs under the Mecca pact it shares with Pakistan, the first sign that arrangement does anything at all.
+One. Hormuz. The contradiction this brief has held open now has a count against it: twelve vessels transited the strait over the weekend, against thirty-five the weekend before. The six-month-high shipment figure stands as a snapshot; the trend runs the other way, through the channel carrying a fifth of the world's oil and gas.
 
-Two. Russia's parliamentary vote ends today, day two run with observers barred and turnout claimed above forty per cent; Kyiv and the European Commission call the inclusion of annexed regions illegal.
+Two. Trump decided on Sunday not to join Saudi Arabia in strikes on the Houthis, for now, while still needing Riyadh against Iran. The Houthis declare a blockade for blockade on the kingdom while assuring Washington American ships are safe. Saudi Arabia flew twenty-eight strikes in Yemen in a day. Iran says Washington is preparing to resume strikes.
 
-Three. Washington approved a two point six eight billion dollar air-defence sale to Ukraine, and Zelensky has authorised new long-range operations. Russia's air campaign is now aimed at the economy rather than the front: warehouses, steel plants, ports and railways, stripping Kyiv of over one and a half billion dollars in tax revenue.
+Three. Ukraine flew its largest drone attack yet on Moscow, the mayor claiming more than sixteen hundred repelled, a refinery alight and at least two dead on the final day of voting. Russia says it will intensify strikes on Kyiv, where four were killed, three of them children. The Duma result, as flagged: United Russia takes fifty-seven point eight per cent of the list and two hundred and eight of two hundred and twenty-five seats, another constitutional majority, observers barred.
 
 International affairs.
 
-Three to be aware of: at least forty-eight dead and about a hundred and eighty ill in Ondo State, Nigeria, from a methanol-laced spirit; thirty-seven suspected illegal miners dead in custody in Niger State, cause disputed; and Cuba dark again in another national blackout.
+Four to be aware of: Typhoon Dujuan closing on eastern Japan with landslide warnings across Kanto; a building collapse in Kisumu, Kenya; a mine collapse on Sudan's Red Sea coast, six dead; a fire threatening Villa de Leyva in Colombia.
 
-Leaders reach New York this week for the United Nations General Assembly, Trump at the rostrum Tuesday, Kenya's Ruto carrying an Africa-financing-Africa pitch — and, behind him, Uganda's Museveni publicly accusing the government-to-government fuel import scheme of swindling Kampala, the arrangement that sets Kenyan pump prices. Abbas, refused an American visa a second year running, addresses the hall by video.
+Macron and Carney met on Saint-Pierre and Miquelon and pledged closer ties, with a Canadian minister now urging Britain into that alignment. And Museveni has reversed himself, saying Kenyan media misrepresented him and thanking Ruto for the government-to-government fuel deal he appeared to attack on Saturday.
 
 Economy and markets.
 
-One. Trump signed the Russia and Iran sanctions act on Friday, ahead of the deadline this brief was watching. The mechanism: statutory sanctions on Russia expanded, Iranian sanctions extended to twenty thirty-one, and presidential authority to tariff any country buying Russian crude at up to a hundred per cent, with thirty days to act and broad power to waive. The intent is to make Russian barrels cost more than the discount is worth, a secondary-sanctions squeeze routed through the tariff schedule rather than the banks. The risks cut both ways: India and China are the targets, and Beijing, the largest buyer, already reserves the right to take all necessary measures days before Xi reaches Washington; and applied in full it pulls several million barrels a day from a market where Europe is already short, raising the price the policy exists to deny Moscow. The read-through: it is a tariff, so it lands on American import prices too, and it tightens the energy condition the Bank of England attached to its hold at three and three-quarter per cent. One counterweight, running against the shortage story: an American commander reports Hormuz shipments at a six-month high.
+One. The fiscal response to the war oil premium is now a pattern. Thailand is weighing a cut to oil tax, Australia's opposition wants fuel excise cut while crude is high, Britain's Liberal Democrats want ten pence off fuel duty, Germany has already cut. The mechanism is the tax wedge on motor fuel, lowered to hold the pump price down while crude carries a conflict premium. The intent is to stop an imported price shock passing into headline inflation and from there into wages. The risk is the standard one: a duty cut is a demand subsidy, so it supports consumption of the scarce thing, and it is far easier to cut than restore, so the fiscal cost outlives the shock. Read-through: it flatters headline inflation now and props it up later, and it complicates the Bank of England's hold at three and three-quarter per cent, conditioned explicitly on energy prices, five weeks from the budget.
 
-Two. The crash question is now asked openly: artificial intelligence capital spending increasingly funded by debt rather than cash flow, government borrowing costs at multi-decade highs, a war premium in oil. That is one story, not three. The long end prices the debt the capital spending needs, so a term-premium move does the damage before any earnings miss does.
+Two. The Federal Reserve and the Bank of England are both pressing prime brokers on bank exposure to trading firms, after losses at an artificial-intelligence-focused hedge fund. The concern is not the fund, it is how much bank balance sheet sits behind the artificial intelligence trade.
 
-Three. Saudi Arabia has quit the China-led cross-border central bank currency platform, withdrawing last year. Trivial in flow, loud in signal: the largest holder of petrodollars declining Beijing's alternative to them.
+Three. Japan. The yen is exposed with Tokyo on holiday after the Bank of Japan disappointed expectations. That is the headline and all of it.
+
+Four. Firmus, the Nvidia-backed Australian data-centre operator, opens an institutional bookbuild on the sixth of October to raise about five billion dollars, listing on the twenty-second. One of Australia's largest floats, and more evidence the build-out is funded by markets and debt, not cash flow. SoftBank separately seeks over eleven billion dollars of high-yield bonds against its OpenAI position.
 
 Business and industry.
 
-One. Tata Steel has asked the government for fresh funding as the Port Talbot transformation slips, the second British steelmaker in a week whose survival plan its overseers do not believe.
+One. Nvidia's chief executive rejects the slowdown case outright: zero chance, he says, of artificial intelligence destroying the world by twenty thirty, the industry should go as fast as it can, no new regulation warranted. A direct answer to the third-party safety appointment carried here yesterday.
 
-Two. China is now Rwanda's largest export market, twenty-six per cent of exports in the first quarter against under five a year earlier, after Beijing dropped tariffs on almost all Rwandan goods. A tariff cut rerouting a country's trade inside a year, though exporters say the constraint is now volume, not access.
+Two. The slowdown is also being litigated: the leading American developers face an antitrust claim that agreeing among themselves to slow development is self-serving collusion. Headline only, so the pleadings are not in hand.
 
 Science and technology.
 
-One. Starship's first orbital attempt has slipped: SpaceX now targets the twenty-eighth of September, not the twenty-second, for multiple orbits across ten hours.
+One. Venus probably ate its own moon. New modelling answers why Earth's near twin has no satellite: it captured a rocky one, which spiralled in and was absorbed.
 
-Two. Anthropic has appointed Accenture to run third-party safety evaluations of its models, the first concrete step behind its chief executive's stated intent to slow development down.
+Two. Satellite records across forty-seven years put ice loss from Greenland and Antarctica at about twelve and a half trillion tons.
 
-Three. Chariklo, a body some two hundred and fifty kilometres across beyond Saturn, has two rings, and they have visibly changed across a decade. Ring systems are not permanent furniture.
+Gadgets and consumer tech. The optical drive supply chain has killed two products outright. Naim's Uniti Star and PS Audio's Super Audio compact disc transport are discontinued because the mechanisms inside them are no longer made: the parent of Denon and Marantz stopped supplying third parties, the obvious substitute then went out of production too, and component costs have roughly doubled. Fitting another needs new control code and physical rework, which is why they died rather than changed supplier. No replacement, no price, no date. American compact disc revenue rose nearly fifty-nine per cent in the first half of this year.
 
-Gadgets and consumer tech. Nothing shipped, changed price or was discontinued today.
+Energy and environment. El Nino is hardening into a southern African harvest problem, now called a stress test for South Africa's food system and a threat to this summer's crop, with Mozambique restricting water use. Kenya's weather service warns of above-average rain from October to December: same event, opposite signs either side of the equator.
 
-Energy and environment.
+Health and medicine. The White House is drafting an executive order putting National Institutes of Health grants under review by an outside panel, redirecting billions through a body outside the agency.
 
-Germany has cut fuel duty as Middle East supply pushes pump prices up: a fiscal offset to an imported price shock, and the pattern to watch as European governments go into winter with the Bank of England's energy condition still live.
+Law and justice. Washington is preparing sanctions on the International Criminal Court, barring most transactions after a grace period of six or seven months. Eighteen suspects in the assassination of Haitian president Jovenel Moise have been sent to the United States for trial, five years on.
 
-Health and medicine.
-
-The Jehovah's Witnesses have partly eased their blood prohibition, permitting blood-derived products while keeping the ban on whole-blood transfusion. That changes surgical consent for millions. In the Democratic Republic of Congo, Ebola vaccination trials have begun for frontline health workers as the outbreak reaches new areas.
-
-Law and justice. An American appeals court has restricted deportations to third countries, letting migrants contest removal to places they are not from. It is headed for the Supreme Court.
-
-Culture and sport. The Asian Games opened in Nagoya, Japan's Takumi Hojo taking the first gold in the triathlon.
+Culture and sport. Manchester City beat Sunderland five-three at the Etihad, Brobbey taking a hat-trick for the visitors and Haaland settling it late. A fifth straight win and a three-point lead at the top going into the break. At the Asian Games in Nagoya a thirteen-year-old broke the women's two-hundred-metre butterfly record.
 
 Special interests.
 
-Arsenal lost. Yesterday's trip to Brighton, flagged here as upcoming, ended three-nil: the hundred per cent start gone, a nine-match league winning run with it. Pascal Gross from distance on thirty-one minutes, Charalampos Kostoulas just before the interval, Chema Andres heading in a corner soon after. Arteta said Brighton deserved to win and that the side put themselves in trouble from the first whistle. Squad level: Timber started and came off at half-time alongside Guimaraes, both tactical rather than fitness, Rice shifted to right-back, and no new injuries emerged. Saliba's back is still counted in months, late November the estimate. Elsewhere Saturday: Aston Villa won three-two at Tottenham, and Coventry won one-nil at Nottingham Forest for a first top-flight win in twenty-five years. Manchester City host Sunderland today.
+Arsenal. As flagged, Saturday's three-nil at Brighton ended the perfect start. No new injuries; Timber and Guimaraes came off at half-time for tactical reasons, not fitness. Saliba's back, the World Cup injury, still has him out, late November the estimate. No fixture for three weeks: the international window runs to the sixth of October with seventeen first-team players away, and Arsenal return at home to Leeds on Saturday the tenth.
 
-Aviation: a turbine durability kit is certified for the engine family on the Boeing seven-three-seven MAX, its makers claiming it doubles time on wing in hot and dusty conditions. An operating-cost change across the fleet, not a specification tweak.
+Alternative protein. Four in five consumers cannot distinguish a yeast-derived cocoa butter substitute from the real fat, most rating it equal or better. Validation for the microbial fat category the portfolio's palm oil alternative sits in.
 
-Longevity: semaglutide extended median lifespan in female mice and improved several ageing measures. Mice, females only; the headline is running ahead of the evidence.
+Chainlink. The derivatives regulator has widened introducing-broker relief to passive software, alongside the tokenised-stock exemption aired at the weekend. OriginTrail, nothing.
 
-Chainlink and OriginTrail: nothing new today.
+Editorial picks. Two from the week.
 
-Editorial picks.
+One. Countries are playing both sides of the artificial intelligence cold war rather than choosing. Saudi Arabia's flagship Arabic model runs on a Chinese open-source system while the same state-backed company buys American hardware, and from Latin America to Southeast Asia governments split the stack: chips from Washington, models from Beijing.
 
-The Economist's Weekend Intelligence carries Shire Folk, from last weekend: how some of the most powerful people in America came to see Britain, and Islam, through the eyes of a fringe football hooligan. Worth it for the transmission mechanism rather than the subject.
+Two. Why a black hole rings like a struck bell, then settles into silence, forgetting almost everything about what made it. Ask and I will expand either.
 
-And a Pulitzer-supported dispatch from inside Iran, filed this week by a correspondent based in Tehran: nearly seven months of war measured not in strikes but in soaring prices, lengthening fuel queues and a leadership hardening as sanctions bite. Ask and I will expand either.
-
-Not returning today: cellular agriculture, Space dot com.
+Not returning today: Space dot com.
