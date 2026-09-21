@@ -71,3 +71,35 @@ been re-run at least twice without this list.
 - **Denza N8L** — a SIX-seater, checked 15 September. Fails the seven-seat test.
 - **Boox Palma 3** — genuinely new but cut four times because no confirmed price has ever been published. It may run the day one exists.
 - **Skoda Peaq (electric Kodiaq)** — appeared only as a review, which the standing rule excludes; revealed in June at £51,980 with early-2027 deliveries, so not new either. Drafted and cut 21 September. **Open question for the owner: should the review exclusion be relaxed for a first drive of a genuinely new seven-seat model? As it stands a car can launch and never reach him if the only coverage is a review.**
+
+## Recently used weather angles
+
+Weather is the one section written for pleasure, and its jokes wear out faster
+than anything else in the brief. A session that starts cold each morning cannot
+feel that, so record the angle used each day here and read it before writing.
+
+**The two constructions that wore out, and the rule:**
+- *The walk-back* — "I told you X, it's Y." Ran 9, 10, 11 and 12 September, four
+  days straight, and went stale. Rested from the 13th and every opener since has
+  been better for it. It is genuinely funny about **once a fortnight**, when the
+  forecast has actually made a fool of the brief. Not otherwise.
+- *The self-contradicting label* — making "clearsky, 45.8mm rain" itself the
+  joke. Used 8 September ("somebody has stapled two days together and gone to
+  lunch") and 16 September ("the adjective and the number are written by two
+  processes that have never spoken"). Twice in eight days was already too often.
+  The data throws these up constantly; the joke should not follow every time.
+
+**Angles used, most recent first.** Do not repeat one inside a week.
+- 21 Sep — the twelve-degree daily swing; dressing for two climates in one day.
+- 20 Sep — satisfaction that the promised dry spell arrived.
+- 19 Sep — today is the wet one, straightforwardly.
+- 18 Sep — one clipped correction clause, then straight to the forecast.
+- 17 Sep — owning a real miss: "the forecast did not escalate, it evaporated."
+- 16 Sep — the self-contradicting label (see above).
+- 13 Sep — the warning was right for once, and worse than advertised.
+- 8 Sep — the self-contradicting label, first use.
+
+**Two standing rules, whatever the angle.** Lead on the rain figure rather than
+the label when they disagree - the number is what someone dresses for. And name
+a day that breaks the pattern ONLY when one genuinely does; several weeks have
+had none, and inventing one is worse than saying the week is uniform.

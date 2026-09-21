@@ -184,7 +184,7 @@ London, the job would have started firing at 07:03 UTC - after the
 Routine - which degrades gracefully, since the Routine would see a stale
 digest and rebuild, but wastes four minutes a day.)
 
-## 7. First thing to do in the new session
+## 7. FALLBACK ONLY: the self-bound handover (superseded by section 8b)
 
 The Routine is **self-bound**: it fires into the session that created
 it. That was chosen deliberately - `create_new_session_on_fire` proved
@@ -313,6 +313,112 @@ days straight and had to be rested; it is genuinely funny once a
 fortnight and a tic if used more. The same is true of making a
 self-contradictory forecast label the joke, used twice in eight days.
 Vary the angle or drop it.
+
+## 8b. FRESH-SESSION MODE - the current design, from 22 September 2026
+
+**The system no longer uses a self-bound Routine and no longer needs a manual
+handover.** From 22 September the Routine fires with
+`create_new_session_on_fire: true`, so every morning runs in a brand new
+session that starts at zero context and is discarded afterwards.
+
+**Why this changed.** A self-bound session accumulates roughly 50,000 tokens a
+day and has to be handed over by a human every two weeks. The 7-21 September
+session reached 569,000 tokens and $251 before being retired. Cost grew daily
+because every turn re-sent the whole accumulated conversation, while the actual
+work - the drafting subagent - is a flat 250,000 to 300,000 tokens a day
+regardless. Fresh sessions make the daily cost flat and remove the handover
+entirely.
+
+**Why it is safe now and was not before.** Section 7 records that
+`create_new_session_on_fire` was tried and judged "much less reliable", and the
+reason was never written down. What HAS changed is that the knowledge no longer
+lives in a conversation. Four files now hold it:
+
+| File | Holds |
+|---|---|
+| `briefing-prompt.md` | the authoritative spec |
+| `story-threads.md` | news continuity, with dated prune and revive conditions |
+| `aired-items.md` | consumer items already broadcast, and weather angles already used |
+| `HANDOFF.md` | how the machine runs, and what earlier runs learned |
+
+A cold session reading those four knows essentially what a two-week-old session
+knew. Fresh-daily was rejected when it meant amnesia; it now means a clean start
+with full notes.
+
+**THE ONE RULE THAT KEEPS THIS WORKING.** Every run must commit
+`briefing.txt`, `story-threads.md` AND `aired-items.md` together. The files are
+the memory. A run that updates the brief but not the other two leaves the next
+morning blind, and nobody will notice until a product airs twice or a thread
+goes unfollowed.
+
+**If fresh-session mode turns out to be unreliable** - firings that do not
+arrive, or sessions that start without the repository - revert to the self-bound
+design in section 7, which is known to work: fourteen consecutive episodes
+between 8 and 21 September, none missed. The cost of that fallback is the
+fortnightly manual handover, not correctness.
+
+## 8c. The fresh-session Routine prompt, verbatim
+
+Paste this as the `prompt` argument, with `create_new_session_on_fire: true`
+and no `persistent_session_id`. It is written to be completely self-contained,
+because the session reading it has no history.
+
+```
+Daily run of the news briefing and podcast pipeline. You are a FRESH session with no memory of previous runs. Everything you need is in the repository at Baby-Isa/daily-news-briefing. Trust the files, not any instinct about what happened yesterday - you were not there.
+
+FIRST: run `date -u` and state the real time. On 24 August a session woke 8.5 hours after its routine fired and reported the run as on-time because the clock was never checked. Never infer the time from the fact that this prompt just arrived.
+
+1. Checkout and pull main.
+
+2. READ THESE FOUR FILES BEFORE ANYTHING ELSE. They are the entire memory of this system.
+   - HANDOFF.md - the operating handbook. Read it in full. Section 8a records what earlier runs learned; section 5 records the failures that have cost whole days.
+   - briefing-prompt.md - the AUTHORITATIVE specification for the brief. It overrides anything in this prompt. Do not skim it.
+   - story-threads.md - ongoing news threads, with recorded prune and revive dates.
+   - aired-items.md - every consumer item already broadcast, plus the weather angles already used. This is what stops a product running twice and a joke running four days straight.
+
+3. Check digest.txt's header build time against now. An external cron builds it around 06:03 UTC each morning. Rebuild ONLY if it is genuinely stale - a different date, or more than about two hours old. If recent, USE IT; that saves four minutes. If you must rebuild, run `python3 build_digest.py` in the background (it fetches ~159 feeds and exceeds the 2-minute foreground timeout), confirm the header shows today, then commit as `Digest YYYY-MM-DD` and push. A LOCAL rebuild's failure list is unreliable - this container's IP is blocked by some publishers - so prefer the Actions-built digest before calling any lane unverified.
+
+4. Note these before delegating, because the drafting agent needs them:
+   - today's weekday and the Editorial Picks rotation it implies (spec section 13);
+   - the SOURCES THAT FAILED block at the end of digest.txt, verbatim;
+   - the WEATHER block near the end of digest.txt;
+   - any thread in story-threads.md whose prune or revive date has arrived or is within a few days;
+   - the Consumer tech lane's line number and item count.
+
+5. Delegate reading digest.txt and drafting to a general-purpose subagent. Give it, in its prompt:
+   - Instructions to read briefing-prompt.md IN FULL and follow it exactly; it is authoritative.
+   - Instructions to read story-threads.md and aired-items.md in full before drafting.
+   - The hard word limit and ceiling the spec states, and an instruction to count words before finishing.
+   - "EVERY ITEM CARRIES ITS PAYLOAD" outranks brevity: recover a missing fact by web search where the spec permits, or say the gap out loud, or cut the item. Never gesture at significance.
+   - The weather data verbatim, plus the angles already used from aired-items.md so it does not repeat one.
+   - An instruction to read digest.txt in CHUNKS with offset until it reaches the literal line "End of full digest." It is two-tier, so the "ALSO IN <LANE>" headline-only lists must be read too, saying only what a headline supports.
+   - The reminder that lane names describe the FEED, not the topic.
+   - Today's rotation, the failed feeds, and any dated threads falling due.
+   - A request to report back its word count, what it web-searched, what the gadgets section did, and its thread changes.
+
+6. VERIFY THE DRAFT YOURSELF before committing. Do not take the agent's word for any of it:
+   - `wc -w briefing.txt` against the spec's hard limit.
+   - `grep -coE "[0-9]" briefing.txt` should be 0 - this is text-to-speech input and every number and date is spelled out.
+   - No markdown, bullets or headers.
+   - The closing failed-sources line matches the digest's failed block, and is absent entirely when nothing failed.
+   - Nothing from aired-items.md has been re-run without a genuinely new fact.
+   - Nothing is asserted that has not happened yet - a decision due this afternoon, a match kicking off later, a print released after the digest was built.
+
+7. Commit briefing.txt, story-threads.md AND aired-items.md together as `Briefing YYYY-MM-DD` and push. This triggers podcast.yml. All three files must move together or tomorrow's run loses its memory.
+
+8. Verify the render WITHOUT relying on connector tools. Poll the published feed until today's episode appears:
+   curl -fsS https://Baby-Isa.github.io/daily-news-briefing/feed.xml | grep "DD Mon 2026"
+   A healthy render takes four to six minutes. Then confirm gh-pages advanced and is clean:
+   git fetch origin gh-pages && git ls-tree --name-only origin/gh-pages
+   It must contain exactly audio, feed.xml and index.html. If models, _site or _tts_work appear, the publish step has leaked the TTS model - that has happened twice and must be fixed, not ignored.
+   If the render looks stuck, judge it by STEP PROGRESSION, not elapsed time: a run whose updated_at sits seconds after created_at and never moves is stuck, not slow.
+
+9. IF THE DRAFTING AGENT FAILS ON A RATE LIMIT: do not retry immediately and do not abandon the day. The error names a reset time. IMMEDIATELY schedule a wakeup for just after it with send_later, BEFORE ending the turn or doing anything else, then retry the draft when it fires. Monday 31 August and Sunday 6 September were both lost entirely because the limit hit in the morning and nothing was scheduled to retry after the reset.
+
+10. Report briefly: episode live, duration, render time, any failed sources, notable thread changes, and anything you had to leave out or could not verify.
+
+11. Before you finish, if you changed anything about how the system runs - a feed, a budget, a rule - write it into the repository. You will not be here tomorrow and neither will your reasoning unless it is in a file.
+```
 
 ## 9. Where things stand, 7 September 2026
 
