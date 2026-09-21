@@ -52,6 +52,7 @@ drafting step is the fragile one, and it is the reason this file exists.
 | `briefing-prompt.md` | The spec. ~780 lines. Authoritative. Read it in full every day; do not skim it or work from memory of it. |
 | `feeds.txt` | 159 feeds, `lane \| outlet \| url \| flags`. |
 | `build_digest.py` | Fetches, dedupes, caps, renders `digest.txt`. |
+| `aired-items.md` | **The second memory file.** Every consumer item that has aired, so a product that ran on Monday is not re-run on Wednesday. Read at the start of every draft and checked item by item. Read its own explanation - it exists because a projector was nearly aired twice. |
 | `story-threads.md` | Continuity between days. ~17 live threads, each dated, with recorded prune and revive conditions. Read at the start of every draft, updated and committed at the end. This is the only memory the system has. |
 | `digest.txt` | Today's input. Regenerated daily, committed. |
 | `briefing.txt` | Today's output. What gets read aloud. |
@@ -196,8 +197,11 @@ Do this in order:
    `"30 6 * * *"`, no `persistent_session_id` (omitting it self-binds),
    `initiation: "human_request"`, and the prompt in section 8 verbatim.
 2. Confirm it exists with `list_triggers`.
-3. **Only then** delete the old one:
-   `delete_trigger` on `trig_01FfwTCufC7zht1Kgdoofwgn`.
+3. **Only then** delete the old one. As of 21 September 2026 the live
+   Routine is `trig_01Ump6g9urpzR8cC2i9RACVC`, bound to
+   `session_01U9cR8hx8suZHqMamQ5XLrS`. Confirm the current id with
+   `list_triggers` rather than trusting this line, which goes stale at
+   every handover.
 
 If step 3 happens first and step 1 fails, the briefing silently stops.
 
@@ -227,6 +231,7 @@ FIRST: run `date -u` and state the real time. On 24 August a session woke 8.5 ho
    - Read digest.txt in chunks to "End of full digest."; it is two-tier, so read the "ALSO IN <LANE>" headline-only lists too, saying only what a headline supports.
    - Remember lane names describe the FEED, not the topic.
    - Read story-threads.md first, reference advancing threads explicitly, act on any thread whose recorded prune or revive date has arrived, and update the file before finishing.
+   - Read aired-items.md and check EVERY gadget, camera, projector and car item against it before using one. A restatement is not news; a genuine follow-on - a missing price now published, a date confirmed, a reversal, a rumour becoming real - is, and should be said as a follow-up. Add today's consumer items to that file before finishing, and prune entries older than about a fortnight that have stopped resurfacing.
    - Report back its word count, what it web-searched, and its thread changes.
    Pass on today's weekday rotation, any dated threads due, and any feed that failed, so it can scope claims correctly.
 
@@ -238,6 +243,76 @@ FIRST: run `date -u` and state the real time. On 24 August a session woke 8.5 ho
 
 8. Report briefly: episode live, duration, render time, any failed sources, and notable thread changes.
 ```
+
+## 8a. What the 8-21 September fortnight taught
+
+Fourteen consecutive episodes, none missed, all inside ten minutes, all
+rendered first attempt. What changed and why, so none of it is relearned:
+
+**The gadgets budget is 85, not 70, with a landmark provision to ~120.**
+Measured output over nine days was 81, 76, 88, 82, 73, 61, 21, 90 - the
+only days under 70 were days when almost nothing shipped. The owner
+raised it on 16 September after Apple's first foldable got 26 words.
+The section is honest about thin days on its own - it has run 21 and 22
+words saying nothing shipped - so a higher ceiling does not invite
+padding, it stops forcing a choice between two complete items and one
+stripped one.
+
+**The voice reads at 151 wpm at the slow end, not 153.** Fourteen real
+episodes measured 151.3 to 165.8. The old figure was described as the
+slow end and was not. At 151 the 1,520 ceiling is 10:02, so the working
+ceiling is now 1,500 and 1,450 remains the number to hit.
+
+**Diagnose a failed feed before replacing it. The four failures this
+fortnight had four different causes:**
+- *Rest of World* (3 days): the URL had moved. `/feed/` now 301s to
+  `/feed/latest/`; following the redirect doubled requests against a
+  host throttling Actions egress. One-line fix, worked next morning.
+  Note it ran OPPOSITE to section 4's warning - the container fetched
+  it fine and only the Actions runner saw 429.
+- *CSM Politics* (1 day): nothing wrong. The endpoint was healthy and
+  the publisher had stopped filing. Left alone; it recovered by itself.
+  The available "fix" would have hidden a true signal.
+- *OriginTrail and three Agronomics feeds*: staleness flags that should
+  never have been armed. The spec itself says silence in those lanes is
+  expected. `RARE` silences only the staleness clock; genuine fetch and
+  parse errors still report.
+- *Space.com* (4 days): publisher-side. Serves HTTP 200 and a valid RSS
+  envelope containing zero items; three candidate URLs all returned
+  zero. Routed through Google News `site:` on 21 September - the
+  Pulitzer Center pattern. **Revert to the first-party feed if it
+  starts serving items again.**
+
+**Test a replacement for FRESHNESS, not item count.** The Google News
+route was checked for how many of its first twelve items were under 48
+hours old, because section 10 records East Africa's route looking
+healthy at 100 entries while serving month-old news.
+
+**Hold contradictions open rather than picking the tidier side.** Two
+worked examples. Hormuz: Aramco cutting European refiners off versus a
+commander reporting shipments at a six-month high - both were carried
+for two days until a vessel count (twelve this weekend against
+thirty-five the weekend before) settled it. The Mexican peso: sliding
+toward 17.3 in one source, near multi-year highs in another - asserted
+in neither direction, still open. A brief that picks early is a brief
+that is confidently wrong.
+
+**Refuse the obvious inference when the digest does not support it.**
+An Argentinian judge suspended an unnamed Falklands oil project on 17
+September. Sea Lion is the obvious candidate. Six consecutive briefs
+declined to name it because no item ever connected them.
+
+**Check figures that contradict themselves.** A MercoPress item had
+Rockhopper raising twenty million in the headline and two hundred
+million in the body. Reading the whole entry plus one search resolved
+it to twenty. A tenfold error would have been undetectable to the
+listener.
+
+**Weather gags wear out.** The "I told you X, it's Y" walk-back ran four
+days straight and had to be rested; it is genuinely funny once a
+fortnight and a tic if used more. The same is true of making a
+self-contradictory forecast label the joke, used twice in eight days.
+Vary the angle or drop it.
 
 ## 9. Where things stand, 7 September 2026
 
@@ -260,9 +335,24 @@ Recently changed:
 Open questions for the owner (the cron-job.org timezone question was
 answered on 7 September - it is UTC; see section 6):
 
-- Whether to run weekdays only. Never asked, never answered.
-- Whether the gadgets section holds at 70 words or wants trimming again
-  after a week of evidence.
+- Whether to run weekdays only. **Asked and answered on 12 September:
+  keep weekends.** Saturday carries the Longreads Top 5, which only
+  works on a Saturday build; Sunday carries the Pulitzer Center and,
+  since 13 September, the returned Weekend Intelligence. Weekdays-only
+  would cost three rotation slots.
+- **Section 5 and section 7 of briefing-prompt.md contradict each other
+  on cameras.** Section 7 says "mirrorless releases"; section 5's
+  boundary rule names only Micro Four Thirds and LUMIX. A Canon
+  full-frame launch therefore belongs in Special Interests under one
+  and Gadgets under the other. Raised with the owner on 16 September,
+  not yet answered. It ran in Gadgets that day. One line fixes it once
+  he says which he meant.
+- **Should the review exclusion be relaxed for seven-seaters?** The
+  Skoda Peaq appeared only as a review on 21 September and was cut,
+  correctly under the standing rule. But a car can launch and never
+  reach him if the only coverage is a review. Raised, not yet answered.
+- ~~Whether the gadgets section holds at 70 words.~~ **Answered: it is
+  85 now, raised by the owner on 16 September. See section 8a.**
 - **Scheduled for 12 September 2026, 10:00 UTC** (`send_later`
   `trig_014gnjE2QAkcBHUzkN2seRq6`): review what the drafting session
   reads into its own context each morning. The subagent's reads are
