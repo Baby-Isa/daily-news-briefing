@@ -44,6 +44,7 @@ been re-run at least twice without this list.
 
 ## Aired
 
+- **2026-09-22** — Google's Googlebook laptop line (five models, 4 October, from $899, new Googlebook OS, Qualcomm/MediaTek/Intel chips). Apple Mac mini with M6 chip ($899, ~$300 rise on the outgoing M4).
 - **2026-09-21** — Naim Uniti Star and PS Audio SACD transport discontinued on the optical-drive supply collapse.
 - **2026-09-19** — Clicks Communicator (December shipping, $499 launch price to end-September then $649, 12GB). NOR flash / SLC NAND severe undersupply.
 - **2026-09-18** — Bose Ultra Open second generation ($299) and Sport Open ($199), 1 October shipping. Fujifilm Instax Pal 2 ($169.95 / £144.99).
@@ -59,6 +60,7 @@ been re-run at least twice without this list.
 - **2026-09-07** — Sony WH-1000XM4C. Huawei Mate XT2. Audi A2 electric hatch. Mercedes GLB EV.
 
 ### Special Interests items
+- **2026-09-22** — Olympus E-M10 Mark Four discontinuation, no replacement confirmed (Micro Four Thirds). Ceer, Saudi Arabia's first domestic car company (PIF/Foxconn), two EVs unveiled. Renault's Bigster and Bridger seven-seaters confirmed for 2027 with hybrid engines, no price yet.
 - **2026-09-14** — Tesla Roadster reveal on 10 October. Xiaomi Skynomad.
 - **2026-09-09** — Denza Z9 GT.
 - **2026-09-07, 09, 12** — OM System PEN, three legitimate airings (see above).
@@ -90,6 +92,7 @@ feel that, so record the angle used each day here and read it before writing.
   The data throws these up constantly; the joke should not follow every time.
 
 **Angles used, most recent first.** Do not repeat one inside a week.
+- 22 Sep — mock-distrust of an unbroken seven-day dry run hitting its warmest day yet (twenty-five degrees); refusing to trust good fortune this late in September.
 - 21 Sep — the twelve-degree daily swing; dressing for two climates in one day.
 - 20 Sep — satisfaction that the promised dry spell arrived.
 - 19 Sep — today is the wet one, straightforwardly.
