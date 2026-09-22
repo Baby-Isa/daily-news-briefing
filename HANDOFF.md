@@ -60,6 +60,7 @@ drafting step is the fragile one, and it is the reason this file exists.
 | `.github/workflows/digest.yml` | Builds the digest. Has a date guard so repeat pings no-op in ~15s. |
 | `.github/workflows/podcast.yml` | Renders and publishes. Triggered by any push touching `briefing.txt`. |
 | `.claude/settings.json` | Durable permission grant so an unattended fresh session can `git push`. See section 8d - do not remove without understanding why it is there. |
+| `run-log.md` | One line per day, success or failure, written as the pipeline's last action. The record of what actually happened when nobody was watching - read this first if a day looks wrong, before guessing. |
 
 ### Feed flags
 
@@ -405,7 +406,7 @@ FIRST: run `date -u` and state the real time. On 24 August a session woke 8.5 ho
    - Nothing from aired-items.md has been re-run without a genuinely new fact.
    - Nothing is asserted that has not happened yet - a decision due this afternoon, a match kicking off later, a print released after the digest was built.
 
-7. Commit briefing.txt, story-threads.md AND aired-items.md together as `Briefing YYYY-MM-DD` and push. This triggers podcast.yml. All three files must move together or tomorrow's run loses its memory.
+7. Append one line to run-log.md following its own format (STATUS OK/PARTIAL/FAILED plus what happened). Commit briefing.txt, story-threads.md, aired-items.md AND run-log.md together as `Briefing YYYY-MM-DD` and push. This triggers podcast.yml. All four files must move together or tomorrow's run loses its memory.
 
 8. Verify the render WITHOUT relying on connector tools. Poll the published feed until today's episode appears:
    curl -fsS https://Baby-Isa.github.io/daily-news-briefing/feed.xml | grep "DD Mon 2026"
@@ -419,6 +420,8 @@ FIRST: run `date -u` and state the real time. On 24 August a session woke 8.5 ho
 10. Report briefly: episode live, duration, render time, any failed sources, notable thread changes, and anything you had to leave out or could not verify.
 
 11. Before you finish, if you changed anything about how the system runs - a feed, a budget, a rule - write it into the repository. You will not be here tomorrow and neither will your reasoning unless it is in a file.
+
+12. IF ANYTHING STOPS YOU BEFORE STEP 7 - a rate limit you cannot wait out, a subagent error, a blocked push, anything at all that stops the normal pipeline - do not just end the turn. Your last action must be `git add run-log.md`, commit and push run-log.md BY ITSELF with a STATUS FAILED line describing what happened and why, as specifically as you can. This is the only way anyone finds out something went wrong instead of guessing from a vanished notification: the 22 September run did real work, hit a push failure, and left no trace anywhere at all.
 ```
 
 ## 8d. The 22 September push failure, and the fix
@@ -465,6 +468,19 @@ section 8b - reverting to the self-bound design - should be considered
 sooner rather than after another lost day. If tomorrow succeeds, this note
 can be trimmed to a one-line fact in the files table (section 3) the next
 time this file is tidied.
+
+**Also added: `run-log.md`.** The actual gap that made today's failure hard
+to diagnose was not just the push - it was having nowhere to look. The
+session that failed was gone, the push notification's detail did not
+survive being tapped, and there was no file anywhere recording that
+anything had even been attempted. `run-log.md` now gets a line every day,
+success or failure, as close to the pipeline's last action as the prompt
+can arrange (see step 12 in section 8c) - so a bad day is a file to read,
+not a session to hunt for. It is not bulletproof: if `git push` itself is
+broken (not just unauthorised), the log entry cannot reach GitHub either,
+and the push/email notification is the only remaining channel. Email
+notifications were switched on for this Routine for that reason - a push
+notification's content can vanish when tapped; an email persists.
 
 ## 9. Where things stand, 7 September 2026
 
