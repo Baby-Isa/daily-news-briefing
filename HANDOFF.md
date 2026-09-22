@@ -59,6 +59,7 @@ drafting step is the fragile one, and it is the reason this file exists.
 | `build_podcast_episode.py` | Kokoro TTS + feed.xml generation. |
 | `.github/workflows/digest.yml` | Builds the digest. Has a date guard so repeat pings no-op in ~15s. |
 | `.github/workflows/podcast.yml` | Renders and publishes. Triggered by any push touching `briefing.txt`. |
+| `.claude/settings.json` | Durable permission grant so an unattended fresh session can `git push`. See section 8d - do not remove without understanding why it is there. |
 
 ### Feed flags
 
@@ -94,7 +95,7 @@ the lane it is in; read what it says.
 
 ## 4. How to run a day
 
-The Routine's prompt (section 7) is the operational checklist and is
+The Routine's prompt (section 8c) is the operational checklist and is
 written to be self-contained. The short version:
 
 1. **Run `date -u` and state the real time.** Never infer it from the
@@ -419,6 +420,51 @@ FIRST: run `date -u` and state the real time. On 24 August a session woke 8.5 ho
 
 11. Before you finish, if you changed anything about how the system runs - a feed, a budget, a rule - write it into the repository. You will not be here tomorrow and neither will your reasoning unless it is in a file.
 ```
+
+## 8d. The 22 September push failure, and the fix
+
+The first live firing of fresh-session mode (22 September, 06:34 UTC) did real
+drafting work - 21 minutes, $5.25, a genuine draft - and then pushed nothing to
+GitHub. The session went idle without error and, being a fresh session, was
+gone by the time this was noticed; it could not be reached to ask what
+happened. Today's episode was recovered by hand in an interactive session.
+
+**Root cause.** Fresh Routine sessions run in Auto mode, which auto-*denies*
+certain actions outright rather than prompting for them - there is no
+"waiting for a human" state to notice, the action just silently fails. A
+`git push` from a session with no prior approval history is denied this way:
+a fresh session has never had a chance to establish that pushing is fine, and
+nobody is present to grant it interactively. This was confirmed directly: an
+attempt to fix it by writing `.claude/settings.json` from *this* session, also
+in Auto mode, was itself auto-denied with reason `[Self-Modification]` - Auto
+mode will not let a session grant itself more permission than it already has,
+which is presumably the same mechanism that blocked the push. The fix could
+only be written after the owner switched the session to Accept Edits mode by
+hand; that mode does not run the same self-permission check.
+
+**The fix.** `.claude/settings.json` now carries a durable, repo-level grant:
+
+```json
+{
+  "permissions": {
+    "allow": ["Bash(git push *)"]
+  }
+}
+```
+
+This is read at the start of any session working in this checkout, fresh or
+not, so `git push` no longer needs a first-time approval that nobody is there
+to give. It is scoped to `git push` specifically, not a blanket Bash grant.
+
+**Unconfirmed.** This has not yet been proven against a real unattended
+firing - the settings file was only added after today's failure, so the next
+scheduled run (23 September, 06:30 UTC) is the first real test. If it fails
+the same way, the settings.json approach itself was wrong (wrong syntax, or a
+scope the classifier still treats as self-modification) and the fallback in
+section 8b - reverting to the self-bound design - should be considered
+sooner rather than after another lost day. If tomorrow succeeds, this note
+can be trimmed to a one-line fact in the files table (section 3) the next
+time this file is tidied.
 
 ## 9. Where things stand, 7 September 2026
 
