@@ -26,6 +26,23 @@ permission, a subagent error, something else).
 
 ## Log
 
+- 2026-09-23 — FAILED, recovered by hand — Fresh session fired at 06:41 UTC,
+  ran for seventeen minutes, spent seven dollars and around a hundred seventy
+  thousand tokens on real work (session cse_01SYbgx6tnh2LzMzVm9e8KT2, status
+  IDLE/REVIEW_READY), and again pushed nothing: no Briefing commit, and no
+  run-log.md entry either, meaning it did not even reach step 12's fallback
+  logging. Written retroactively from the owner's account, not by the session
+  itself, since that step did not run. permission_mode was "auto" throughout
+  (permission_mode_seq: "1" - never switched, unlike 22 September where a
+  human happened to intervene). The 22 September fix
+  (`.claude/settings.json` granting `Bash(git push *)`) was present in the
+  repo before this session started and should have been pulled at step one,
+  so either that fix did not actually resolve the push block, or today's
+  failure has a different cause entirely - a stuck render check, a subagent
+  error, something else. Could not be diagnosed further: the session is not
+  reachable for live messaging and no transcript/event-log tool was
+  available from this session to inspect what it actually hit. UNRESOLVED -
+  see HANDOFF.md section 8d, which will be updated once more is known.
 - 2026-09-22 — FAILED, recovered by hand — Fresh session did real drafting
   work (21 min, $5.25) but never pushed. This file did not exist yet, so
   nothing was written at the time; reconstructed after the fact from
