@@ -59,7 +59,7 @@ drafting step is the fragile one, and it is the reason this file exists.
 | `build_podcast_episode.py` | Kokoro TTS + feed.xml generation. |
 | `.github/workflows/digest.yml` | Builds the digest. Has a date guard so repeat pings no-op in ~15s. |
 | `.github/workflows/podcast.yml` | Renders and publishes. Triggered by any push touching `briefing.txt`. |
-| `.claude/settings.json` | Durable permission grant so an unattended fresh session can `git push`. See section 8d - do not remove without understanding why it is there. |
+| `.claude/settings.json` | A `git push` permission grant added 22 September for a theory that turned out to be wrong (see section 8d). Harmless, left in place, does nothing. The real push fix is step 1 of the Routine prompt (section 8c), not a file. |
 | `run-log.md` | One line per day, success or failure, written as the pipeline's last action. The record of what actually happened when nobody was watching - read this first if a day looks wrong, before guessing. |
 
 ### Feed flags
@@ -370,10 +370,12 @@ Daily run of the news briefing and podcast pipeline. You are a FRESH session wit
 
 FIRST: run `date -u` and state the real time. On 24 August a session woke 8.5 hours after its routine fired and reported the run as on-time because the clock was never checked. Never infer the time from the fact that this prompt just arrived.
 
-1. Checkout and pull main.
+1. FIRST ACTION, BEFORE ANYTHING ELSE: call add_repo with owner Baby-Isa, repo daily-news-briefing, access push. A brand new session starts with NO repository attached - this is not optional and not a one-time setup, it must run every single firing. Skipping this is exactly what silently lost 22 and 23 September: both did real drafting work and then found git push refused by the proxy with "not in this session's authorized repository set" - a 403, nothing to do with file permissions. If add_repo reports the repo is already present, that is fine, continue. Then follow its own instructions (register_repo_root if it says to) before proceeding.
+
+1b. Checkout and pull main.
 
 2. READ THESE FOUR FILES BEFORE ANYTHING ELSE. They are the entire memory of this system.
-   - HANDOFF.md - the operating handbook. Read it in full. Section 8a records what earlier runs learned; section 5 records the failures that have cost whole days.
+   - HANDOFF.md - the operating handbook. Read it in full. Section 8a records what earlier runs learned; section 5 records the failures that have cost whole days; section 8d records the 22-23 September push failures and their real cause and fix (this step).
    - briefing-prompt.md - the AUTHORITATIVE specification for the brief. It overrides anything in this prompt. Do not skim it.
    - story-threads.md - ongoing news threads, with recorded prune and revive dates.
    - aired-items.md - every consumer item already broadcast, plus the weather angles already used. This is what stops a product running twice and a joke running four days straight.
@@ -421,10 +423,42 @@ FIRST: run `date -u` and state the real time. On 24 August a session woke 8.5 ho
 
 11. Before you finish, if you changed anything about how the system runs - a feed, a budget, a rule - write it into the repository. You will not be here tomorrow and neither will your reasoning unless it is in a file.
 
-12. IF ANYTHING STOPS YOU BEFORE STEP 7 - a rate limit you cannot wait out, a subagent error, a blocked push, anything at all that stops the normal pipeline - do not just end the turn. Your last action must be `git add run-log.md`, commit and push run-log.md BY ITSELF with a STATUS FAILED line describing what happened and why, as specifically as you can. This is the only way anyone finds out something went wrong instead of guessing from a vanished notification: the 22 September run did real work, hit a push failure, and left no trace anywhere at all.
+12. IF ANYTHING STOPS YOU BEFORE STEP 7 - a rate limit you cannot wait out, a subagent error, a push still refused even after step 1's add_repo, anything at all that stops the normal pipeline - do not just end the turn. Your last action must be `git add run-log.md`, commit and push run-log.md BY ITSELF with a STATUS FAILED line describing what happened and why, as specifically as you can. This is the only way anyone finds out something went wrong instead of guessing from a vanished notification: both 22 and 23 September did real work, hit a push failure, and left no trace anywhere at all - the 23rd because the run never reached this step either. If run-log.md itself cannot be pushed, that is the one scenario nothing here can fix; say so as directly as you can in your final report, since that report may be the only surviving trace.
 ```
 
-## 8d. The 22 September push failure, and the fix
+## 8d. The 22-23 September push failures, and the real fix
+
+**Superseded below - read the 23 September update first.** The diagnosis
+this section originally recorded (Auto-mode self-permission denial, fixed by
+`.claude/settings.json`) was wrong. It was a reasonable theory from the
+evidence available on 22 September, but 23 September repeated the exact same
+symptom - real drafting work, nothing pushed - with that fix already in the
+repo and never even triggered. The transcript (finally readable directly in
+the Claude Code app, not through any tool available to the session
+investigating it) showed the actual error: `git push` was refused by the git
+proxy with "Baby-Isa/daily-news-briefing is not in this session's authorized
+repository set" - a 403, not a permission-mode block.
+
+**Real root cause.** A fresh session created by `create_new_session_on_fire`
+starts with NO repository attached. `create_trigger` has no `source_url` or
+equivalent field the way `create_session` does, so there is no way to
+pre-attach one when the Routine is created. Read access (clone, pull) works
+anyway - both the 22nd and 23rd fully cloned, read the digest, and drafted a
+complete brief - but PUSH requires an explicit session-level grant via the
+`add_repo` tool (`owner: Baby-Isa, repo: daily-news-briefing, access: push`),
+and nothing in the Routine prompt ever called it. Both failures share this
+one cause; the settings.json permission theory was never actually tested by
+either failure.
+
+**The fix.** Step 1 of the Routine prompt (section 8c) now opens with an
+explicit `add_repo` call, before checkout, before anything else, every
+single time - a fresh session cannot be assumed to have the repo attached
+just because the last one did; each firing is a new session with nothing.
+
+The `.claude/settings.json` grant from 22 September is harmless and left in
+place - it just never did anything, on either day.
+
+**ORIGINAL 22 SEPTEMBER NOTE, kept for the record - diagnosis superseded above.**
 
 The first live firing of fresh-session mode (22 September, 06:34 UTC) did real
 drafting work - 21 minutes, $5.25, a genuine draft - and then pushed nothing to
@@ -459,28 +493,32 @@ This is read at the start of any session working in this checkout, fresh or
 not, so `git push` no longer needs a first-time approval that nobody is there
 to give. It is scoped to `git push` specifically, not a blanket Bash grant.
 
-**Unconfirmed.** This has not yet been proven against a real unattended
-firing - the settings file was only added after today's failure, so the next
-scheduled run (23 September, 06:30 UTC) is the first real test. If it fails
-the same way, the settings.json approach itself was wrong (wrong syntax, or a
-scope the classifier still treats as self-modification) and the fallback in
-section 8b - reverting to the self-bound design - should be considered
-sooner rather than after another lost day. If tomorrow succeeds, this note
-can be trimmed to a one-line fact in the files table (section 3) the next
-time this file is tidied.
+**This theory turned out to be wrong.** 23 September failed the same way
+with this fix already in place and never triggered - see the top of this
+section for the real cause and fix (a missing `add_repo` call, step 1 of
+section 8c).
 
-**Also added: `run-log.md`.** The actual gap that made today's failure hard
-to diagnose was not just the push - it was having nowhere to look. The
-session that failed was gone, the push notification's detail did not
-survive being tapped, and there was no file anywhere recording that
-anything had even been attempted. `run-log.md` now gets a line every day,
-success or failure, as close to the pipeline's last action as the prompt
-can arrange (see step 12 in section 8c) - so a bad day is a file to read,
-not a session to hunt for. It is not bulletproof: if `git push` itself is
-broken (not just unauthorised), the log entry cannot reach GitHub either,
-and the push/email notification is the only remaining channel. Email
-notifications were switched on for this Routine for that reason - a push
-notification's content can vanish when tapped; an email persists.
+**Also added 22 September: `run-log.md`.** The gap that made the first
+failure hard to diagnose was not just the push - it was having nowhere to
+look. `run-log.md` gets a line every day, success or failure, as close to
+the pipeline's last action as the prompt can arrange (step 12 in section
+8c). It worked exactly as intended once for real: the 23 September entry was
+written by hand from the owner's account within the hour, instead of being
+reconstructed days later from a dead session. It is not bulletproof - if
+`git push` itself cannot reach GitHub at all (as opposed to being refused
+for a fixable reason), the log entry cannot land either, and the push
+notification, read directly in the app rather than trusted secondhand, is
+what actually broke this case open. Email notifications were considered as
+a second channel and declined (would have required deleting and recreating
+the Routine, losing its run-history bookkeeping, for a channel run-log.md
+mostly makes redundant) - the Routine stays push-only.
+
+**Two failures, one afternoon apart, taught the operational lesson worth
+keeping:** a theory formed from indirect evidence (cost, duration,
+permission_mode, an inability to reach the session) is still a guess. The
+transcript itself, read directly, found the real cause in one look. If a
+third failure ever happens, read the session's own transcript in the app
+FIRST, before theorizing from metadata again.
 
 ## 9. Where things stand, 7 September 2026
 
