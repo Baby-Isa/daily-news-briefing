@@ -26,6 +26,14 @@ permission, a subagent error, something else).
 
 ## Log
 
+- 2026-09-24 — FAILED (automated run), recovered by hand in the evening —
+  The fresh session fired at 06:41 UTC, stopped after two and a half minutes
+  and one dollar, and wrote nothing, not even this line. The add_repo step
+  added on the 23rd did not give it push access. Fresh-session mode has now
+  failed three times out of three and is ABANDONED. The Routine fires into
+  the long-lived session that has the repo attached, with subagents doing the
+  work (HANDOFF.md section 8e, daily-run.md). Today's episode was produced
+  through that new path as its first test.
 - 2026-09-23 — FAILED, recovered by hand — RESOLVED. Fresh session fired at
   06:41 UTC, drafted a real 1,420-word brief, then hit `git push` refused by
   the proxy: "Baby-Isa/daily-news-briefing is not in this session's

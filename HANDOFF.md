@@ -59,7 +59,8 @@ drafting step is the fragile one, and it is the reason this file exists.
 | `build_podcast_episode.py` | Kokoro TTS + feed.xml generation. |
 | `.github/workflows/digest.yml` | Builds the digest. Has a date guard so repeat pings no-op in ~15s. |
 | `.github/workflows/podcast.yml` | Renders and publishes. Triggered by any push touching `briefing.txt`. |
-| `.claude/settings.json` | A `git push` permission grant added 22 September for a theory that turned out to be wrong (see section 8d). Harmless, left in place, does nothing. The real push fix is step 1 of the Routine prompt (section 8c), not a file. |
+| `daily-run.md` | **The working instructions for a day** - Part A for the drafting subagent, Part B for the publishing subagent. Edit this to change how a run works. See section 8e. |
+| `.claude/settings.json` | Pre-approves exactly what the pipeline uses so an unattended firing never stalls on a permission prompt. See section 8e. |
 | `run-log.md` | One line per day, success or failure, written as the pipeline's last action. The record of what actually happened when nobody was watching - read this first if a day looks wrong, before guessing. |
 
 ### Feed flags
@@ -96,7 +97,7 @@ the lane it is in; read what it says.
 
 ## 4. How to run a day
 
-The Routine's prompt (section 8c) is the operational checklist and is
+`daily-run.md` is the operational checklist (section 8e) and is
 written to be self-contained. The short version:
 
 1. **Run `date -u` and state the real time.** Never infer it from the
@@ -186,7 +187,7 @@ London, the job would have started firing at 07:03 UTC - after the
 Routine - which degrades gracefully, since the Routine would see a stale
 digest and rebuild, but wastes four minutes a day.)
 
-## 7. FALLBACK ONLY: the self-bound handover (superseded by section 8b)
+## 7. The self-bound handover (history; the current design is section 8e)
 
 The Routine is **self-bound**: it fires into the session that created
 it. That was chosen deliberately - `create_new_session_on_fire` proved
@@ -316,7 +317,10 @@ fortnight and a tic if used more. The same is true of making a
 self-contradictory forecast label the joke, used twice in eight days.
 Vary the angle or drop it.
 
-## 8b. FRESH-SESSION MODE - the current design, from 22 September 2026
+## 8b. FRESH-SESSION MODE - ABANDONED 24 September 2026 (see section 8e)
+
+**Do not go back to this without reading 8d and 8e.** Three firings out of
+three failed to publish. Kept for the record.
 
 **The system no longer uses a self-bound Routine and no longer needs a manual
 handover.** From 22 September the Routine fires with
@@ -359,7 +363,7 @@ design in section 7, which is known to work: fourteen consecutive episodes
 between 8 and 21 September, none missed. The cost of that fallback is the
 fortnightly manual handover, not correctness.
 
-## 8c. The fresh-session Routine prompt, verbatim
+## 8c. The fresh-session Routine prompt, verbatim (retired - history only)
 
 Paste this as the `prompt` argument, with `create_new_session_on_fire: true`
 and no `persistent_session_id`. It is written to be completely self-contained,
@@ -519,6 +523,49 @@ permission_mode, an inability to reach the session) is still a guess. The
 transcript itself, read directly, found the real cause in one look. If a
 third failure ever happens, read the session's own transcript in the app
 FIRST, before theorizing from metadata again.
+
+## 8e. THE CURRENT DESIGN, from 24 September 2026: self-bound, subagents do the work
+
+**Why fresh-session mode was abandoned.** It failed to publish on all three
+days it ran (22, 23, 24 September). Two of the failures were confirmed from
+the session transcript: `git push` was refused by the git proxy because a
+brand-new session has no repository attached. Adding an `add_repo` call to the
+prompt did not fix it. On 24 September the session stopped after two and a
+half minutes, having spent one dollar, and published nothing. An unattended
+session cannot grant itself push access. The Routine tools (`create_trigger`,
+`update_trigger`) have no field for attaching a repository ahead of time, so
+there is no way to fix this from inside a session. Every attempt to push
+through it cost a lost episode.
+
+**What replaced it.** The Routine (`trig_01TVRoeXyNB2Zvyswj7LxFpf`,
+`30 6 * * *`) fires into the ONE long-lived session that was created with this
+repository attached (`session_01U9cR8hx8suZHqMamQ5XLrS`). That session has
+pushed successfully every time it was asked, including fourteen consecutive
+unattended mornings from 8 to 21 September. Nothing about access has to be set
+up per run, because it was set up once, at creation.
+
+**Why it does not balloon any more.** The old self-bound design grew about
+50,000 tokens a day because the session did the reading, verifying and
+committing itself. Now it does almost nothing. It checks the clock, launches a
+DRAFTING subagent, then a separate PUBLISHING subagent, and relays a three-line
+report. Subagent context is discarded when each one finishes. The working
+instructions live in **`daily-run.md`**, so a change to how a day runs is a
+git commit, not a Routine update. The conversation also compacts itself
+automatically, so no fortnightly manual handover is needed.
+
+**Permissions.** `.claude/settings.json` pre-approves exactly what the pipeline
+uses (git, the digest build, curl, a few read-only shell tools, file
+read/edit/write, web search/fetch, `send_later`). That way an unattended
+firing cannot stop at an approval prompt nobody is there to answer, whichever
+permission mode the session happens to be in.
+
+**If this session ever has to be replaced** (deleted, archived, or broken),
+the replacement must be a session created WITH the repository attached. On
+claude.ai/code, that means starting a new session on Baby-Isa/daily-news-briefing.
+Then, from inside that new session: create a self-bound Routine with the same
+prompt, confirm it with `list_triggers`, and only then delete the old one.
+Never go back to `create_new_session_on_fire` unless the product gains a way
+to attach a repository to the Routine itself.
 
 ## 9. Where things stand, 7 September 2026
 

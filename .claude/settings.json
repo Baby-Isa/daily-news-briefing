@@ -1,7 +1,23 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git push *)"
+      "Bash(git *)",
+      "Bash(python3 build_digest.py*)",
+      "Bash(curl -fsS *)",
+      "Bash(date *)",
+      "Bash(wc *)",
+      "Bash(grep *)",
+      "Bash(head *)",
+      "Bash(tail *)",
+      "Bash(sed -n *)",
+      "Read",
+      "Edit",
+      "Write",
+      "Glob",
+      "Grep",
+      "WebSearch",
+      "WebFetch",
+      "mcp__Claude_Code_Remote__send_later"
     ]
   }
 }
