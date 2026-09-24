@@ -44,6 +44,7 @@ been re-run at least twice without this list.
 
 ## Aired
 
+- **2026-09-24** — Meta VR Glasses (Connect 2026 landmark launch): $1,300, ships spring 2027, sits on the ears like sunglasses with compute/battery in a tethered puck, hand and eye tracking instead of a controller. Meta Muse Charm, a keychain-sized AI gadget. Ray-Ban audio glasses (camera-free) expanding to five new markets. Xiaomi 18 Pro / Pro Max go global as first phones with Snapdragon 8 Elite Gen 6 / Extreme Gen 6; China price CNY 5,999/6,999 (~$890/$1,000), global price and date not yet confirmed.
 - **2026-09-23** — Qualcomm Snapdragon 8 Elite Gen 6 and Extreme Gen 6 (improved AI processing, video capture, gaming). Motorola Signature 27, first phone with the Extreme chip, price and release date not yet announced. China's CXMT crossed a 12nm-class DRAM milestone.
 - **2026-09-22** — Google's Googlebook laptop line (five models, 4 October, from $899, new Googlebook OS, Qualcomm/MediaTek/Intel chips). Apple Mac mini with M6 chip ($899, ~$300 rise on the outgoing M4).
 - **2026-09-21** — Naim Uniti Star and PS Audio SACD transport discontinued on the optical-drive supply collapse.
@@ -61,6 +62,7 @@ been re-run at least twice without this list.
 - **2026-09-07** — Sony WH-1000XM4C. Huawei Mate XT2. Audi A2 electric hatch. Mercedes GLB EV.
 
 ### Special Interests items
+- **2026-09-24** — Turkish Airlines finalised an order for 100 Boeing 737 MAX 8 jets, options for 50 more. Impossible Foods' UK retail debut at Tesco (without its flagship heme protein, still unapproved by UK regulators; reformulated recipe). UK Biobank study: 1940s childhood sugar rationing correlates with better later-life health and slower biological aging.
 - **2026-09-23** — Caimera CAIM One, a new prototype Micro Four Thirds camera (with Noctua) built for cryptographic photo authentication against AI fakery. Qantas's new eighteen-hour nonstop Sydney-New York route, launching mid-2028, its second ultra-long-haul route after Sydney-London.
 - **2026-09-22** — Olympus E-M10 Mark Four discontinuation, no replacement confirmed (Micro Four Thirds). Ceer, Saudi Arabia's first domestic car company (PIF/Foxconn), two EVs unveiled. Renault's Bigster and Bridger seven-seaters confirmed for 2027 with hybrid engines, no price yet.
 - **2026-09-14** — Tesla Roadster reveal on 10 October. Xiaomi Skynomad.
@@ -94,6 +96,7 @@ feel that, so record the angle used each day here and read it before writing.
   The data throws these up constantly; the joke should not follow every time.
 
 **Angles used, most recent first.** Do not repeat one inside a week.
+- 24 Sep — the dry run's ending gets pushed back a day: Sunday, previously flagged as the pattern-breaker, turns out to be the lesser event (5.8mm) and Monday (14.2mm) is the one that actually drowns it — "forget Sunday."
 - 23 Sep — wry fatigue with the dry run itself ("I'm out of new ways to gloat about it") on day eight, rather than distrust of it; named Friday as the warm peak (twenty-five) and Sunday as the day that actually breaks the pattern with real rain.
 - 22 Sep — mock-distrust of an unbroken seven-day dry run hitting its warmest day yet (twenty-five degrees); refusing to trust good fortune this late in September.
 - 21 Sep — the twelve-degree daily swing; dressing for two climates in one day.
