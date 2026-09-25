@@ -26,6 +26,13 @@ permission, a subagent error, something else).
 
 ## Log
 
+- 2026-09-25 — PARTIAL — 1457 words (7 over the 1,450 hard limit, within the
+  1,500 real ceiling; not a mechanical fault so left as drafted) — Iran's
+  seven-day Hormuz ceasefire offer, Trump-Xi summit truce extended to 10
+  January with no tariff deal, Netanyahu's isolation deepening ahead of
+  Israel's 27 October election, UK mortgage rates topping 7% for the first
+  time in 20 months, and George Lucas's Museum of Narrative Art opening in
+  LA; no sources failed today.
 - 2026-09-24 — OK — 1450 words, evening publish (recovered from the morning
   automated failure below) covering Meta's Vision Pro-rivalling VR glasses,
   an FDA panel backing Grail's multi-cancer blood test, and Anthropic's
