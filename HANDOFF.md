@@ -537,12 +537,20 @@ session cannot grant itself push access. The Routine tools (`create_trigger`,
 there is no way to fix this from inside a session. Every attempt to push
 through it cost a lost episode.
 
-**What replaced it.** The Routine (`trig_01TVRoeXyNB2Zvyswj7LxFpf`,
+**What replaced it.** The Routine (`trig_01HhCAjvDB7a7rz5SQUH9Keg`,
 `30 6 * * *`) fires into the ONE long-lived session that was created with this
-repository attached (`session_01U9cR8hx8suZHqMamQ5XLrS`). That session has
-pushed successfully every time it was asked, including fourteen consecutive
-unattended mornings from 8 to 21 September. Nothing about access has to be set
-up per run, because it was set up once, at creation.
+repository attached (`session_0185VoQse63vkHmij4D2ZvLq`). The self-bound
+design has pushed successfully every time it was asked, including fourteen
+consecutive unattended mornings from 8 to 21 September. Nothing about access
+has to be set up per run, because it was set up once, at creation.
+
+**Handover of 25 September 2026.** The Routine moved to a new session using
+the procedure at the end of this section. The previous Routine
+(`trig_01TVRoeXyNB2Zvyswj7LxFpf`, bound to
+`session_01U9cR8hx8suZHqMamQ5XLrS`) was read, recreated here with its prompt
+copied word for word, confirmed with `list_triggers`, and only then deleted.
+Its last firing was 25 September at 06:36 UTC. The first firing of the new
+Routine is 26 September.
 
 **Why it does not balloon any more.** The old self-bound design grew about
 50,000 tokens a day because the session did the reading, verifying and
