@@ -44,6 +44,7 @@ been re-run at least twice without this list.
 
 ## Aired
 
+- **2026-09-27** — WiCi One, a wireless external GPU using Wi-Fi 7 instead of a cable: early access $1,999 for the Nvidia RTX 5060 Ti model, rising to $2,599 at Q4 2026 launch; a pricier RTX 5090 version to follow, price unannounced. Microsoft has quietly dropped Copilot+ branding from new laptops.
 - **2026-09-25** — Meta third-generation Ray-Ban camera glasses: $449 (up from last year's line), an hour more battery life, two new frame styles (Aviator, Zena), Dolby Atmos audio recording — distinct from the camera-free Ray-Ban Meta Audio line and the VR Glasses aired 24 September. Qualcomm Snapdragon Sound Elite Gen 2, a new sound chip building Wi-Fi 6E radio directly into earbuds/audio glasses for lossless streaming that survives phone range drops.
 - **2026-09-24** — Meta VR Glasses (Connect 2026 landmark launch): $1,300, ships spring 2027, sits on the ears like sunglasses with compute/battery in a tethered puck, hand and eye tracking instead of a controller. Meta Muse Charm, a keychain-sized AI gadget. Ray-Ban audio glasses (camera-free) expanding to five new markets. Xiaomi 18 Pro / Pro Max go global as first phones with Snapdragon 8 Elite Gen 6 / Extreme Gen 6; China price CNY 5,999/6,999 (~$890/$1,000), global price and date not yet confirmed.
 - **2026-09-23** — Qualcomm Snapdragon 8 Elite Gen 6 and Extreme Gen 6 (improved AI processing, video capture, gaming). Motorola Signature 27, first phone with the Extreme chip, price and release date not yet announced. China's CXMT crossed a 12nm-class DRAM milestone.
@@ -54,12 +55,10 @@ been re-run at least twice without this list.
 - **2026-09-17** — Snap Specs, standalone AR glasses, $2,195, America/Britain/France, first run capped at 100,000. *Used the landmark provision.*
 - **2026-09-16** — Canon EOS R8 Mark II ($1,899 body / $2,099 kit, late October). Microsoft's Windows 11 emergency fix and the 7 October Windows/Surface event.
 - **2026-09-15** — Valve Steam Frame (£889 / $1,059, no ship date published). iOS 27 and macOS 27 Golden Gate. RTX 5090 US retail shortage.
-- **2026-09-13** — Apple A20 Pro Geekbench single-core record.
-- **2026-09-12** — Desktop GPU shipments 12.5m / Nvidia 90% share. NeoGeo reissue slipping to late 2027. Apple Handoff as a $5/month T-Mobile add-on.
-- **2026-09-11** — AMD Ryzen 5 5500F ($99) and Ryzen 5 7500 ($189). Trump Mobile T1 ($499 → $749).
-- **2026-09-10** — iPhone Duo ($1,999, ships 23 October). iPhone 18 Pro / Pro Max price rise. Zelda special-edition Switch 2 ($520).
+- **2026-09-10** — iPhone Duo ($1,999, ships 23 October) — still resurfacing today as a durability/review angle (crease visibility), no new fact so not re-aired, kept here per the XWALL rule since it keeps coming back. iPhone 18 Pro / Pro Max price rise. Zelda special-edition Switch 2 ($520).
 
 ### Special Interests items
+- **2026-09-27** — Boeing disclosed it knew of a 737 MAX landing-guidance software glitch for nearly two years before warning airlines, fresh regulatory scrutiny of the MAX 7 and MAX 10 programs. BYD's second-generation Seagull (China market): switches to rear-wheel drive, adds a front trunk, major overhaul.
 - **2026-09-24** — Turkish Airlines finalised an order for 100 Boeing 737 MAX 8 jets, options for 50 more. Impossible Foods' UK retail debut at Tesco (without its flagship heme protein, still unapproved by UK regulators; reformulated recipe). UK Biobank study: 1940s childhood sugar rationing correlates with better later-life health and slower biological aging.
 - **2026-09-23** — Caimera CAIM One, a new prototype Micro Four Thirds camera (with Noctua) built for cryptographic photo authentication against AI fakery. Qantas's new eighteen-hour nonstop Sydney-New York route, launching mid-2028, its second ultra-long-haul route after Sydney-London.
 - **2026-09-22** — Olympus E-M10 Mark Four discontinuation, no replacement confirmed (Micro Four Thirds). Ceer, Saudi Arabia's first domestic car company (PIF/Foxconn), two EVs unveiled. Renault's Bigster and Bridger seven-seaters confirmed for 2027 with hybrid engines, no price yet.
@@ -93,6 +92,7 @@ feel that, so record the angle used each day here and read it before writing.
   The data throws these up constantly; the joke should not follow every time.
 
 **Angles used, most recent first.** Do not repeat one inside a week.
+- 27 Sep — a single anomalous day: Tuesday spikes to twenty-six degrees, six or seven degrees hotter than the days either side of it, before dropping straight back down by Wednesday like nothing happened — one random hot day sandwiched in an otherwise unremarkable week. No brief ran 26 September.
 - 25 Sep — the forecast eating its own words: Monday, flagged just yesterday as the day that would drown the whole run under 14.2mm, has been revised down to 0.0mm and is now the driest day of the week, while today quietly picked up a light 2.2mm instead — "trust the app about as far as you can throw it."
 - 24 Sep — the dry run's ending gets pushed back a day: Sunday, previously flagged as the pattern-breaker, turns out to be the lesser event (5.8mm) and Monday (14.2mm) is the one that actually drowns it — "forget Sunday."
 - 23 Sep — wry fatigue with the dry run itself ("I'm out of new ways to gloat about it") on day eight, rather than distrust of it; named Friday as the warm peak (twenty-five) and Sunday as the day that actually breaks the pattern with real rain.

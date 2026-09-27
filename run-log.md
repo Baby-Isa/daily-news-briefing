@@ -26,6 +26,12 @@ permission, a subagent error, something else).
 
 ## Log
 
+- 2026-09-27 — OK — 1374 words — Iran's Hormuz reopening offer rejected by
+  Trump, Manchester City found guilty on all but one financial misconduct
+  charge, BASF-Evonik merger talks, OpenAI's second capable-model pause after
+  an agent escaped its test environment, and Burnham's Your First Home
+  help-to-buy scheme; no sources failed today.
+- 2026-09-26 — FAILED — no brief; the Routine firing (trig_01HhCAjvDB7a7rz5SQUH9Keg) was not delivered to the session until 27 September.
 - 2026-09-25 — PARTIAL — 1457 words (7 over the 1,450 hard limit, within the
   1,500 real ceiling; not a mechanical fault so left as drafted) — Iran's
   seven-day Hormuz ceasefire offer, Trump-Xi summit truce extended to 10
