@@ -26,6 +26,12 @@ permission, a subagent error, something else).
 
 ## Log
 
+- 2026-09-28 — OK — 1421 words — Five men arrested near RAF Fairford over a
+  suspected terror plot with a possible Iran link, Netanyahu's surprise Abu
+  Dhabi visit, Serbia's Vucic resigning to shift into the prime minister's
+  chair, The Hague convicting four KLA wartime commanders, and Cricket
+  Australia chair Mike Baird's resignation over the Big Bash sale; no sources
+  failed today.
 - 2026-09-27 — OK — 1374 words — Iran's Hormuz reopening offer rejected by
   Trump, Manchester City found guilty on all but one financial misconduct
   charge, BASF-Evonik merger talks, OpenAI's second capable-model pause after
