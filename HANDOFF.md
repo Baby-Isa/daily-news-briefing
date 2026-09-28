@@ -552,6 +552,23 @@ copied word for word, confirmed with `list_triggers`, and only then deleted.
 Its last firing was 25 September at 06:36 UTC. The first firing of the new
 Routine is 26 September.
 
+**Backup Routine, from 28 September 2026.** The 26 September firing was
+queued but never reached the session. It was delivered only when the next
+morning's firing woke the session, so that day was lost. A second self-bound
+Routine, `trig_01EuFfazMAHARNmkBacZh5dT` (`7 9 * * *`), now fires into this
+same session at 09:07 UTC. It checks `origin/main` for today's
+`Briefing YYYY-MM-DD` commit and does nothing if the commit is there. If it is
+missing, the backup runs the whole day. If this session is ever replaced,
+recreate BOTH Routines.
+
+**Render check, from 28 September 2026.** On 27 and 28 September the
+publishing subagent pushed, then ended its turn while waiting to poll
+gh-pages. It never confirmed the render or reported back. Part B step 4 is now
+a single foreground command, `python3 tools/check_render.py YYYY-MM-DD`,
+which polls for up to nine minutes. The script also reads the duration from
+today's own feed item. The feed is not in date order, and taking the first
+`<itunes:duration>` in the file gave a wrong duration on 27 September.
+
 **Why it does not balloon any more.** The old self-bound design grew about
 50,000 tokens a day because the session did the reading, verifying and
 committing itself. Now it does almost nothing. It checks the clock, launches a

@@ -74,18 +74,25 @@ brief's content - check it, and if a check fails, fix only the mechanical fault
 3. `git add briefing.txt story-threads.md aired-items.md run-log.md`, commit as
    `Briefing YYYY-MM-DD`, `git pull --rebase origin main`, then
    `git push origin main`. This triggers the podcast render.
-4. Confirm the render. GitHub Pages' CDN lags, so check the branch itself:
-   poll `git fetch origin gh-pages && git log -1 --format=%cd origin/gh-pages`
-   every 45 seconds (never one long sleep) until it shows today, then:
-   - `git ls-tree --name-only origin/gh-pages` must list exactly `audio`,
-     `feed.xml`, `index.html`. Anything else (`models`, `_site`, `_tts_work`) is a
-     leaked TTS model - report it loudly.
-   - `git ls-tree origin/gh-pages:audio | grep <YYYY-MM-DD>` shows today's mp3.
-   - `curl -fsS https://raw.githubusercontent.com/Baby-Isa/daily-news-briefing/gh-pages/feed.xml`
-     contains today's title; read its `<itunes:duration>`.
-   A healthy render lands five to eight minutes after the push.
-5. Report back in under 150 words: pushed commit hash, word count, episode
-   duration, gh-pages clean or not, anything that failed.
+4. Confirm the render with ONE command, run in the FOREGROUND with the Bash
+   timeout set to 600000 (ten minutes):
+   `python3 tools/check_render.py YYYY-MM-DD`
+   Never run it in the background and never end your turn while waiting: a
+   subagent that ends its turn is finished, and nothing wakes it when the
+   render lands. (On 27 and 28 September the publishing subagent pushed,
+   stopped two and a half minutes later, and never confirmed the render.)
+   The script polls gh-pages every 45 seconds for up to nine minutes, then
+   checks that the branch holds exactly `audio`, `feed.xml` and `index.html`
+   (anything else is a leaked TTS model), that today's mp3 exists, and reads the
+   duration from TODAY'S feed item. The feed is not in date order, so the first
+   `<itunes:duration>` in the file is not today's. Exit 0 means rendered and
+   clean. Exit 1 means not rendered yet, so run it once more; a healthy render
+   lands five to eight minutes after the push. Exit 2 means something is wrong,
+   so report its PROBLEM lines loudly.
+5. Only after step 4 has printed a result, report back in under 150 words:
+   pushed commit hash, word count, episode duration (from the script), gh-pages
+   clean or not, anything that failed. Deliver this report. Ending without it
+   leaves the main session blind.
 
 ---
 
