@@ -26,6 +26,7 @@ permission, a subagent error, something else).
 
 ## Log
 
+- 2026-09-29 — OK — 1439 words, Burnham's first Labour conference speech as leader, Iran's Hormuz talks via Qatari mediators, the Reserve Bank of Australia's fourth hike, and the FAA pausing Seven Three Seven Max Ten certification; no sources failed.
 - 2026-09-28 — OK — 1421 words — Five men arrested near RAF Fairford over a
   suspected terror plot with a possible Iran link, Netanyahu's surprise Abu
   Dhabi visit, Serbia's Vucic resigning to shift into the prime minister's
