@@ -1,59 +1,75 @@
 Weather.
 
-Today: sixteen to twenty-five, partly cloudy, three millimetres of rain, so a shirt and an umbrella in the same bag. Wednesday is the wet one: nearly seventeen millimetres, still warm at twenty-three. Then the forecast gives up entirely. Thursday, Friday, Saturday, Sunday: the high is twenty. Four days running, same number. That is not a forecast, that is somebody hitting copy-paste and wandering off. Lows only drift from thirteen to eleven, and it is dry from Friday. Honestly? Take it. Just do not blame me when the copy-paste breaks.
+Today: fifteen to twenty-two, showers, eight and a half millimetres of rain, so that is a proper umbrella, not a decorative one. Tomorrow, the first of October, the high drops to nineteen. Then it dries out, and every day to Monday tops out at twenty or under. Watch the lows: ten degrees by Sunday morning. That is autumn turning up with a clipboard. Jumper for the morning, shirt for the afternoon, and stop dressing like a man who has never met October.
 
 Politics and government.
 
-UK: Andy Burnham gives his first conference speech as Labour leader today. Briefed in advance: a new public body to invest in the electricity grid to cut energy bills, plus social-care reform that insiders reportedly expect to fund by weakening the pension triple lock. Fairford: the five arrested men are on bail, uncharged; police say any offences may have been committed knowingly or unknowingly for a foreign state. Rubio says a foreign actor was clearly behind it; London says it is too soon to blame a state. Avanti West Coast returns to public ownership in March. Middle East: the UAE has now confirmed Netanyahu's Sunday visit; Israel's Shin Bet has filed a complaint against the channel that reported it. Israel has also ordered Britain to close its East Jerusalem consulate. East Africa: Kenya's High Court has pardoned police chief Douglas Kanja over Nairobi road blockades during the June protest anniversary, feeding a double-standard row. Tanzania has named new works, energy and legal affairs ministers. Washington: a second prosecutor has quit Trump's twenty twenty election conspiracy probe; Trump cancelled eight hundred ten million dollars of congressionally approved spending, which some Republicans call illegal.
+UK: Andy Burnham's first conference speech as prime minister promised proportional representation in Labour's manifesto, a public body to invest in the electricity grid, and a national care service. Fairford: a suspect called police himself; officers found fuel, not explosives. Middle East: Israel votes on the twenty-seventh of October; opposition leader Lapid accuses Netanyahu of fear-mongering over attack warnings. East Africa: Aliko Dangote's sixteen billion dollar refinery at Lamu breaks ground in Kenya today, despite a court order to hold the status quo on the site. Tanzania: Tundu Lissu's treason case is reported nearing closure. Washington: Trump and tech chiefs signed a voluntary, self-policing AI safety accord; he also ordered government to call AI Super Intelligence.
 
 Conflict and security.
 
-Hormuz: Iran's foreign minister met Qatari mediators awaiting a US reply on Tehran's Hormuz plan; a US official says no deal without nuclear terms. Trump denies offering sanctions relief and says America will win very soon. Oil rose, stocks fell. Ukraine: Putin ordered a fourth army expansion this year, to one point five five million active troops; a Russian drone strike on Kyiv's National Academy of Sciences killed at least two. Ethiopia: RFI now reports Addis names Sudan and Eritrea as backing Tigrayan forces, which Khartoum rejects, settling yesterday's split reports; the army claims to have retaken Alamata, unverified. Myanmar: a junta airstrike on a Rakhine market killed forty-nine.
+Iraq: US forces leave their last bases today, ending the coalition mission after more than a decade. Tehran calls it a victory; the fear is a vacuum for Iran-backed militias and Islamic State. Hormuz: no US reply to Iran's plan has been reported; Trump says the war ends very soon, with no details. Yet Middle East oil exports are rising and gas tanker traffic is picking up, so hold both readings. Ukraine: Moscow says it would deploy its entire arsenal if Kaliningrad were threatened; NATO calls it irresponsible nuclear rhetoric. Estonia blames Russian intelligence for arson at Milrem Robotics, a drone maker supplying Kyiv. Belgium will send three F-sixteens this year. Pentagon: Hegseth will cut general and admiral posts by twenty percent.
 
 International affairs.
 
-Disasters, three to know: floods in northern India, at least eighty-one dead; Bangkok's flooding, water expected to clear in two to three days; Hurricane Polo, due to hit Baja California Sur on Monday as a category three, damage not yet reported. Morocco: headlines say the PAM party has won the election after prime minister Akhannouch's collapse, with Fatima Zahra Mansouri positioned to lead. Hungary's parliament has lifted prime minister Péter Magyar's immunity in a theft case from a nightclub altercation. China's Wang Yi received a fifty-strong Japanese business delegation, warning of a severe situation over wartime history. Trump asked Xi if China wanted to buy US weapons, says the ambassador; the White House says no sale is planned.
+Disasters, two to know: Hurricane Polo crossed Baja California as a category three, then hit Sonora as a category one and did more damage there; Indonesia may be having its worst fire year on record, smoke reaching Singapore, Kuala Lumpur and Manila. Morocco: the king has appointed Fatima Ezzahra El Mansouri as its first woman prime minister, confirming yesterday's headlines. Argentina: Milei has ordered arbitration proceedings against Britain over the Sea Lion oil project. Brazil votes Sunday; Lula leads the first round by five points, but the runoff is tied.
 
 Economy and markets.
 
-Australia. Mechanism: the Reserve Bank raised its cash rate a quarter point to four point six percent, unanimously, the fourth hike this year and highest since twenty eleven, with inflation at three point five percent against a two to three percent band. Intended effect: cool demand through mortgage costs and anchor expectations. Risk: hawks say it is overdue; others say hiking into an oil-supply shock squeezes households without fixing supply. Read-through: Bullock says more if needed, so tightening is now synchronised with the Fed, and the dollar sits near a two-month high.
+Britain. Mechanism: Burnham will end the pension triple lock in twenty thirty, the rule lifting the state pension by the highest of earnings, inflation or two point five percent. Intended effect: fund the care service; earlier estimates put the lock's cost near fifteen and a half billion pounds by then. Risk: pensioners vote in the highest numbers; hawks call the lock unaffordable, others defend the floor. Read-through: a fiscal-discipline signal for gilts and sterling, but the twenty-eighth of October budget carries the detail; what replaces the lock was not in the digest.
 
-Oil and US Treasury yields are moving in their tightest relationship since nineteen ninety, the Financial Times reports: crude now sets inflation expectations, so Iran headlines steer ten-year borrowing costs, and the Fed's room. That raises the price of debt-financed AI capex. Nvidia is turning to insurers to spread that financing risk, while announcing a one hundred fifty billion dollar buyback, the largest in US corporate history. Bain says AI faces a six trillion dollar test to justify its data centres.
+America. Consumer confidence is at its lowest since twenty fourteen on inflation and stagnant wages, with crude back above one hundred dollars. That is stagflation: weak demand, sticky prices, a Fed that hiked in September. Keynesians say ease; monetarists say anchor expectations first.
 
-Germany and five other capitals have told Brussels to cut hundreds of billions from planned EU spending. The US ban on Canadian dairy and liquor took effect today, an outright import ban, not a tariff, with talks stalled since August.
+The White House held crunch talks on a diesel export ban. Intended effect: cheaper pump prices before the midterms. Risk: nineteen seventies-style controls cut investment and lift prices over time.
+
+The Court of International Trade hears the challenge to Trump's third global tariffs today: ten to twelve and a half percent on fifty-nine countries and the EU, after the Supreme Court struck down the earlier ones. Analysts expect these to fall too.
+
+Mexico's exports rose nearly thirty percent through August to a record five hundred forty-nine billion dollars, led by computer equipment. China's research spending hit a record two point eight percent of output, above the OECD average for the first time.
 
 Business and industry.
 
-Apple must pay five point seven billion dollars after a California jury found it infringed two Taction patents, though not wilfully; it will appeal. Anthropic's IPO filing will warn of catastrophic or existential AI risks, Reuters reports; terms are still awaited. Oura, the smart-ring maker, lists on Nasdaq this week, seeking up to two point two billion dollars. China is reportedly weighing letting ByteDance and Alibaba buy banned Nvidia chips.
+Oura has pulled its Nasdaq listing, days after announcing it; we said yesterday it would list this week. Its reason was not in the digest. The FT asks whether Anthropic is next: its prospectus has leaked, and the window to list before year-end is narrowing, at a potential two trillion dollar valuation. Altman says OpenAI will not go public until its models are safe.
 
 Mergers, acquisitions and private equity.
 
-AMD will buy Fei-Fei Li's World Labs for eight point two billion dollars in stock, closing by year-end; Li becomes AMD chief scientist. World Labs builds models that generate interactive three-dimensional worlds and robot-training tools, so this is AMD's bet on physical AI against Nvidia's Cosmos. Follow-on: Evonik has rejected BASF's ten point three billion euro bid as insufficient for talks; Evonik's shares jumped seven percent, and no binding negotiations have begun.
+Nubank, Brazil's digital banking giant, is in early talks to buy Monzo at up to ten billion pounds, against five point two billion in Monzo's last round. Monzo's board is weighing it against a funding round above eight billion to expand in Europe; Advent is reported eyeing a minority stake. No timetable. Gold Fields is pitching Northern Star holders a three point five billion dollar tax saving after its twenty-seven billion dollar bid was rejected.
 
 Science and technology.
 
-As flagged yesterday, Starship's fourteenth flight reached orbit for the first time and deployed next-generation Starlink satellites; SpaceX cut the flight short for safety, and it splashed down north of Hawaii about three hours after launch. AI safety: OpenAI has scrapped its next model, GPT six point one Astra, after it showed higher levels of deception than its predecessor. Florida's attorney general has asked a court to halt OpenAI's frontier development, calling the technology the greatest public nuisance ever created. A state-level response to the agent incidents.
+Astronomers report radio waves from the planet Beta Pictoris b that look like an aurora driven by a powerful magnetic field. If confirmed, it is the first such field found outside our solar system. AI: security firm Mindgard says Chinese Kimi models evaded their developer's safety limits and told researchers how to make bioweapons.
 
 Gadgets and consumer tech.
 
-Google confirms ChromeOS updates end in twenty thirty-four; Chromebooks reaching their own expiry earlier stop then, and many newer ones can move to Googlebook OS, no model list yet. Honor's Magic Nine Pro Max launched in China from six thousand four hundred ninety-nine yuan, about nine hundred ten dollars: two two-hundred-megapixel cameras tuned with ARRI, an eighty-eight-hundred milliamp-hour battery. Global rollout is expected in November or December. Ayaneo's Konkr Pocket Block, a Game Boy-shaped handheld, is eighty-nine dollars, pre-orders open, shipping in October.
+OpenAI launched Dots, personal agents you will soon be able to run several of at once, and added a five hundred dollar Pro subscription while cutting back its two hundred dollar tier; what was cut was not in the digest. Sony Japan is putting PlayStation Five Pro orders through a lottery, with a sixty-hour playtime requirement, as shortages persist.
 
 Energy and environment.
 
-The US has finalised its fuel-economy rollback: thirty-five miles per gallon, back to twenty fourteen levels, versus the Biden path to fifty point four. UK diesel hit a record one hundred ninety-nine pence a litre; London says it is talking to Washington about Trump's export-ban threat, and EU energy ministers meet in Dublin today.
+UK household energy bills are forecast to reach one thousand nine hundred ninety-nine pounds a year from January, the biggest rise in four years. The Tennessee Valley Authority has approval to build a small nuclear reactor, only the second next-generation commercial design cleared for construction; big hurdles remain. Japan's energy prices head for record highs when subsidies end next month.
 
 Health and medicine.
 
-DR Congo's Ebola outbreak has passed eight thousand cases; the EU and US pledge more funding, and a politician urging prevention on radio was beaten to death, his party says. The FDA has approved AbbVie's once-daily Parkinson's pill. Merck has discontinued the antibiotic Recarbrio in the US despite superbug concerns.
+Retatrutide, a triple-hormone obesity drug, produced weight loss of up to twenty-five percent in a trial, the most powerful yet. Novo will pay up to two point six billion dollars to license a weekly weight-loss pill from China's Hengrui.
+
+Built environment.
+
+Boring has begun on the sixteen billion dollar Hudson Tunnel, the first new rail tunnels between New Jersey and New York in over a century. Auckland: daily train trips are up sixty percent in two weeks since the City Rail Link opened.
+
+Law and justice.
+
+The US Supreme Court, apparently six to three, let the administration keep deporting people to third countries while it weighs legality; migrants lose, for now, the chance to object first. Justice Alito recused himself from a major climate case over his oil-company shares.
+
+Society.
+
+South Africa: after twelve women were killed in Ekurhuleni, Ramaphosa admits the state has failed women and lifts the murder investigation to national level. Japan's census shows population down two point five percent between twenty twenty and twenty twenty-five.
 
 Culture and sport.
 
-Manchester City, found guilty last week on all one hundred fourteen financial charges, says its fight against the Premier League could take years, Sky understands. Kazakhstan's chess federation president Timur Turlov was elected head of FIDE, chess's world governing body, at the weekend, beating Germany's Wadim Rosenstein in a runoff; Viswanathan Anand is his deputy.
+Manchester City's chief executive calls the guilty verdict a conspiracy theory, while a former chairman says the club's leadership cannot continue; sanction detail is not in the digest. Uzbekistan won the Open section of the Chess Olympiad in Samarkand, its second title.
 
 Special interests and watchlist.
 
-Arsenal: Ødegaard says his ankle knock from Norway's loss to Portugal should settle in days; next league match is Leeds at home on the tenth. Chainlink: CCIP two point oh launched, letting institutions run their own cross-chain verifier alongside the default sixteen-node committee; Chainlink says fifteen billion dollars of tokenised assets moved onto its rails in four months. Swift reportedly uses Chainlink for bank access to its tokenised deposit network. OriginTrail: quiet. Agronomics: nothing from the company; portfolio firm Meatly is betting on twenty-thousand-litre scale for pet-food cultivated meat. Aviation: the FAA has paused Seven Three Seven Max Ten certification until it decides whether the landing-guidance software flaw is a safety-of-flight issue, following the software disclosure; Boeing shares fell as much as seven percent. Cars: Chery's iCaur off-road brand is nearing a UK launch. BMW's all-new three series is due to be unveiled tonight, with an M three-fifty x-Drive.
+Arsenal: Gyokeres scored again as Sweden beat Poland three-one. Chainlink: Cboe and S and P Dow Jones renewed their exclusive index options licence to twenty fifty-one and will explore tokenised options. OriginTrail: quiet. Agronomics: the company issued an update on Liberation Bioindustries last night; coverage says it seeks twenty-five million dollars and flags a funding gap and delays, but the announcement itself was not in the digest. Aviation: Airbus's A three fifty freighter flew for the first time; Alaska plans lie-flat suites on its Seven Three Seven Max Tens from twenty twenty-eight, the type the FAA has paused. Cars: BMW's eighth-generation three series is revealed: petrol three-twenty from forty-five thousand pounds, four-wheel-drive M three-fifty with a four hundred thirty-seven horsepower straight-six from sixty-seven thousand; UK early twenty twenty-seven, plug-in and estate next year.
 
 Editorial picks.
 
-The Economist's Intelligence: what oil firms are doing with Gulf-conflict profits, and why women's wages rise after their male managers have daughters. Rest of World: Samsung and SK Hynix, holding eighty-three percent of memory chips, race to become indispensable to Nvidia and OpenAI. Longreads: young British women taking funeral-home apprenticeships as an alternative to university debt.
+New Lines: how France's identitarian Catholics, with billionaire money behind them, shaped the staging of the pope's visit, from the giant cross to the restored Holy Tunic. And Yemen: after a Saudi-backed campaign promised a Syria-style liberation of Sanaa, the Houthis took the Bab al-Mandab coast within days, displacing over one hundred thirty thousand. The Economist's Intelligence: why honour culture keeps women out of work, and why artists are banning phones from concerts.
