@@ -26,6 +26,7 @@ permission, a subagent error, something else).
 
 ## Log
 
+- 2026-10-01 — OK — 1399 words, Burnham floating a rejoin of the EU, Russia's heaviest energy strike in months on Ukraine, the US completing its Iraq withdrawal, and Tennessee's failed execution of Christa Pike; no sources failed.
 - 2026-09-30 — OK — 1428 words, Burnham's first conference speech as prime minister, US forces leaving their last Iraq bases, Dangote's Lamu refinery breaking ground, and Hurricane Polo and Indonesia's fires; no sources failed.
 - 2026-09-29 — OK — 1439 words, Burnham's first Labour conference speech as leader, Iran's Hormuz talks via Qatari mediators, the Reserve Bank of Australia's fourth hike, and the FAA pausing Seven Three Seven Max Ten certification; no sources failed.
 - 2026-09-28 — OK — 1421 words — Five men arrested near RAF Fairford over a
