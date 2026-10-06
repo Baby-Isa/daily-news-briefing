@@ -26,6 +26,10 @@ permission, a subagent error, something else).
 
 ## Log
 
+- 2026-10-06 — OK — 1437 words, Conservative conference's Britannia Shield air-defence pledge, Brazil's Flavio Bolsonaro edging Lula ahead of a runoff, US B-1 bombers pulled from RAF Fairford over an Iran drone threat, and Spain's snap election; no sources failed.
+- 2026-10-05 — FAILED — no brief; the 06:30 Routine firing and the 09:07 backup were both delivered to the session's queue but the session did not wake to run them until 6 October.
+- 2026-10-04 — FAILED — no brief; same cause (main and backup firings queued, session did not wake).
+- 2026-10-03 — FAILED — no brief; same cause (main and backup firings queued, session did not wake).
 - 2026-10-02 — OK — 1413 words, Drumcree talks collapsing, US troops and a third carrier heading for Iran, Putin ruling out a ceasefire, and Morocco's first woman prime minister; no sources failed.
 - 2026-10-01 — OK — 1399 words, Burnham floating a rejoin of the EU, Russia's heaviest energy strike in months on Ukraine, the US completing its Iraq withdrawal, and Tennessee's failed execution of Christa Pike; no sources failed.
 - 2026-09-30 — OK — 1428 words, Burnham's first conference speech as prime minister, US forces leaving their last Iraq bases, Dangote's Lamu refinery breaking ground, and Hurricane Polo and Indonesia's fires; no sources failed.
