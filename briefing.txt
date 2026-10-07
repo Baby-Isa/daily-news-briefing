@@ -1,75 +1,75 @@
 Weather.
 
-Today: thirteen to twenty, cloudy, four point six millimetres of rain. A warm-up act. Wednesday is the headliner: eighty-two point eight millimetres. That is not rain, that is a reservoir changing address, and the high drops to fifteen to match. Trainers on Wednesday? You absolute optimist. Wellies. Thursday flips to clear sky, seven degrees at dawn, jumper weather. Friday sulks with three point four millimetres, then a dry mid-teens weekend. Ark optional.
+Today: nine to fourteen, wet from breakfast to bedtime, twenty-five point two millimetres. Coat, boots, and a face like a wet Monday. Rain is on a split shift: today and Friday on, everything else off. Thursday is bone dry. Friday is the odd one out: the warmest day at eighteen, but six point two millimetres and wind up to nine metres a second, so your umbrella becomes a kite. Then a dry weekend at fourteen. Stop complaining. You live here.
 
 Politics and government.
 
-UK: the Conservative conference promises a ten billion pound air-defence system, Britannia Shield, modelled on Israel's Iron Dome, and a tax cut in every Tory budget. Greens passed a motion declaring Zionism is racism, one thousand twenty-two to eight hundred thirteen. Holborn and St Pancras votes Thursday. Brazil, as flagged: Flavio Bolsonaro took about forty-seven percent to Lula's forty-five; runoff the twenty-fifth of October. Quebec: the Parti Quebecois won a minority and promises an independence referendum after Trump leaves office; Carney says he will work with it. Spain: Sanchez called a snap election after losing housing decrees in parliament; date not in the digest. Saxony-Anhalt's parliament sits today and the AfD claims the speaker's chair. Bosnia: nationalists won on record-low turnout. United States: Trump says taxpayers will stop funding television ads featuring him; his approval hit a record low in polling. East Africa: Ruto hosted South Sudan's Kiir, backing its December election; a registration row surrounds Sifuna's new Equitable Party.
+UK: Badenoch closed the Conservative conference with a two point three billion pound plan to cut employer national insurance for young workers. She now denies planning a British Iron Dome, the phrase we repeated yesterday, though her own party's press release used it. Holborn and St Pancras votes tomorrow. Spain: Puigdemont's arrest warrant was lifted, clearing his return before a general election in November; exact date not in the digest. India: opposition lawmakers detained marching on the Election Commission over voter-list purges; reportedly one hundred thirty million names cut. United States: Trump told a Nebraska rally Iran could take out Los Angeles or San Diego; California Democrats and some Republicans rebuked him. East Africa: Kenya identified one hundred nine criminal gangs ahead of the twenty twenty-seven polls; a bill would give the electoral commission ownership of election technology, servers in Kenya.
 
 Conflict and security.
 
-Iran: the US pulled twelve B-one bombers from RAF Fairford over a reported Revolutionary Guard drone threat, officials say; Number Ten insists the base is safe. Five men were arrested nearby last week. Hormuz: about a dozen tanker attacks reported as the rial hits a record low; Iran insists it controls the strait. The near-prewar crude flows we flagged now look fragile. UN chief Guterres is in Islamabad for three days of US-Iran mediation talks. Yemen: Saudi-backed forces say they retook the coast from Bab el-Mandeb to Mocha; Houthis dispute Mocha and claim strikes on Riyadh airport. Pakistan, Saudi Arabia and Turkey agreed rapid force deployment in the kingdom. Flydubai: multiple sources say the co-pilot meant to crash into Ben Gurion airport. Ukraine: Kyiv claims half of Russia's refining capacity destroyed. Russia hit Kharkiv, three dead. Lukoil's foreign asset sale is now part of US-Russia talks.
+Iran: a seventh man, a twenty-two-year-old Briton, was arrested in Westminster over the RAF Fairford threat, on suspicion of terrorism offences. Vance says Iran must cut enrichment capacity meaningfully for a deal. Qatar says indirect message exchanges continue. Hormuz: Oman evacuated injured crew from an attacked tanker; captains reportedly earn one hundred thousand dollars a month to transit. Yemen: Houthis hit Aden airport with missiles and drones, another missile was downed over Riyadh; sources say more than two hundred seventy died in a day. Black Sea: drones struck two merchant ships off Bulgaria, the first attack on shipping in a NATO member's economic zone; one sank, sailors dead or missing. Zelenskyy blames Russia. A Ukrainian naval drone set a tanker ablaze off Sochi; Volgograd's refinery is fully shut.
 
 International affairs.
 
-Disasters: a Nigerian Air Force plane crash killed thirty-two in Ondo State; floods in Catalonia and Senegal. Ethiopia: federal forces retook Mekelle, residents say, confirming what we flagged; Abiy was sworn in for a second term and demands Red Sea access. Britain threatens to expel twenty-seven Israeli diplomats unless Israel reverses closure of the East Jerusalem consulate. Israel's Supreme Court annulled a ban on two Arab parties before the twenty-seventh of October vote. Seoul says North Korea laid the border mine that wounded two South Korean soldiers, and will demand an apology. The FBI arrested a woman for spying on Taiwan's president's family for China.
+Disasters: Nigeria's air force cut yesterday's crash toll to twenty-five from thirty-two, no survivors; a wildfire near Queenstown, New Zealand, has reached twelve hundred hectares; an explosion closed Venezuela's second-largest refinery. Mali: the army and Russia's Africa Corps retook Kidal from Tuareg separatists and jihadists. Germany arrested Hanning, former foreign-intelligence chief, on suspicion of espionage and attempted treason; he made at least seven trips to Russia after leaving office. Ethiopia: Tigray drone strikes continue; four African states urge de-escalation. Israel marked three years since October seventh; reports that Arab leaders warned Netanyahu undercut his blame of security chiefs ahead of the twenty-seventh of October election.
 
 Economy and markets.
 
-Bonds. As flagged, the sell-off is spreading. The euro hit a seventeen-month low on French debt fears; British five-year fixed mortgages averaged six percent, the first time in three years; junk-rated US borrowers now feel the Treasury rout. Mechanism: a higher term premium lifts every long rate. Risk: refinancing walls, and long-duration tech valuations. Bank of Japan sources say it may signal underlying inflation has reached two percent, a further pull on global duration.
+Rates. Mortgage rates are above seven percent and home sales are at the lowest pace since June last year: owners locked into three percent loans will not sell. Readings differ: AI capex competing for capital, or a deficit-driven term premium. Either way stocks hit records on the chip rally, with earnings forecast up twenty-seven percent.
 
-France. Nationwide strikes today as student protests spread, nearly two hundred pupils injured in clashes. The budget must cut the deficit; the street resists; a censure motion is the veto. A Spanish election adds periphery risk.
+Fuel. Mechanism: Trump deferred federal tax on road diesel to year-end, twenty-four cents off six dollars thirty-one a gallon, and weighs suspending the petrol tax. Intended: pump relief before the midterms. Risk: it adds demand to a supply shock and defers revenue; the bill comes due. It keeps headline inflation, and the Fed, pinned.
 
-Fuel. Trump eased limits on red diesel, the untaxed dyed fuel, to cool fuel inflation, calling high gas prices a small price for safety. Intended effect: more usable supply. Risk: it shifts fuel around without adding refining capacity, and China reportedly suspended October fuel exports, squeezing Asia's diesel. OPEC plus holds output steady.
+AI debt. SpaceX seeks forty billion dollars, Apollo-led, for Nvidia chips, a day after sixty billion for Broadcom and Anthropic. Marginal capex is now credit-funded: exposed to spreads, not just earnings.
 
-AI financing. Banks launched a record sixty billion dollar chip financing for Broadcom and Anthropic, testing lending appetite as AI debt worries grow. Capex is increasingly borrowed at the highest Treasury yields in a quarter-century.
+Trade. The US deficit hit a seventeen-month high despite tariffs; cause not in the summary. Saving minus investment: AI capex and the budget gap pull in imports tariffs do not touch.
 
-Brazil: São Paulo stocks jumped eight percent to a record on Bolsonaro's finish.
+Brussels weighs a levy on all large companies to catch Big Tech without singling out Americans. France: nearly five hundred arrested at school protests. China is chasing wealthy residents' offshore assets, rattling wealth managers in Hong Kong, Singapore and Tokyo.
 
 Business and industry.
 
-OpenAI's Jason Kwon told Australian lawmakers its response to agents hacking government sites was not good enough. Anthropic says its review found no breach of Australian government sites. The Pentagon stopped using Anthropic tools after labelling it a supply-chain risk in February. DeepSeek is raising at least twelve billion dollars with Tencent backing; Moonshot eyes an early twenty twenty-seven listing at fifty billion.
+Porsche: pricier cars and a quarter fewer staff as China, once a profit engine for Volkswagen, fades. Disney's lawyers told a judge the FCC's early review of ABC's station licences is a blatant constitutional violation. OpenAI will watermark ChatGPT outputs by default, only in the EU; easy to evade. Qualcomm will pay Huawei to license patents for the first time.
 
 Mergers, acquisitions and private equity.
 
-Schneider Electric will buy PTC for about twenty-two billion euros, its largest deal ever, deepening industrial software and AI, and pausing buybacks. Intesa sweetened its Monte dei Paschi bid to about thirty-five billion euros; top shareholder Delfin backs it. BT agreed to buy TalkTalk from administration; most creditors get nothing, and regulators sit back. NextEra's sixty-seven billion dollar Dominion takeover meets Virginia backlash over power bills.
+Paramount completed its takeover of Warner Bros Discovery, forming Skydance: about one hundred ten billion dollars headline value, though one outlet says eighty-one. Ellison and Kreiz run the studios, HBO Max, CNN and CBS News. HBO Max, Paramount Plus and Discovery Plus will merge into one service, which could raise prices; the logic is scale against Netflix and YouTube. Informa buys Clarion Events from Blackstone for about two point two billion pounds, spinning off its academic arm.
 
 Science and technology.
 
-Nobel medicine prize: Karl Deisseroth, Peter Hegemann and Georg Nagel for optogenetics, using light-sensitive algae channels to switch neurons on and off; it now yields experimental treatments for blindness and Alzheimer's. AI labs have announced maths breakthroughs, reportedly including a Millennium Prize problem; the digest does not say which. Astronomers found a planet born from a dying star's ashes. Draconid meteors peak this week.
+Nobel physics: Francis Halzen, for IceCube, the neutrino observatory that detected high-energy neutrinos of astrophysical origin. OpenAI released seven hundred twenty-two manuscripts on long-standing maths problems from an unreleased model, impressing and unsettling mathematicians. Crew-twelve astronauts are due home today after nearly ten months in space.
 
 Gadgets and consumer tech.
 
-Googlebooks went on sale: five laptops from Acer, Asus, Dell, HP and Lenovo, eight hundred ninety-nine to one thousand two hundred ninety-nine dollars, in the US Sunday and Britain Monday, each with a year of Google's AI Pro plan. Some pre-order stock sold out. Microsoft's Windows and Surface event is tomorrow in San Francisco with Nvidia's Jensen Huang; a Surface Laptop Ultra and Nvidia's RTX Spark chip are expected.
+Googlebook phone-linking features do not work with Samsung phones at launch: Googlebooks need Android seventeen, and Samsung's version is not ready. Amazon has removed Alexa's control of the aux input on Echo speakers with a headphone-style port; none made in six years. Tesla's Powershare home backup, Cybertruck-only until now, extends to some Model Three and Model Y owners, who need a Powerwall Three.
 
 Energy and environment.
 
-Pacific leaders in Tuvalu before the COP thirty-one climate summit say the fossil-fuel transition deal is not open for renegotiation; only two non-Pacific leaders accepted Australia's invitation. Lake Powell and the Colorado River sit at historic lows. A super El Nino has arrived.
+Google signed a twenty-year deal with Constellation to upgrade six nuclear sites, guaranteeing revenue for data-centre power. Aramco warns global oil stocks are alarmingly low, two years to rebuild. Equinor says Britain risks being uninvestable if Rosebank and Jackdaw are refused. A new island has emerged as the northern Caspian shrinks; scientists warn of an Aral Sea outcome.
 
 Health and medicine.
 
-Siberia: a plague institute worker died of pneumonia of unknown cause; a hospital is quarantined, the Kremlin says ignore rumours, the US is monitoring. Vaxcyte's pneumococcal vaccine met Phase three goals, challenging Pfizer and Merck. New York declared a measles disaster.
+Ebola: Kenya reported its first case, in Nairobi, and first death: a Kenyan back from Congo, reportedly linked to a Jambojet flight. Kenya is the fourth country hit by the Bundibugyo outbreak declared in eastern Congo in mid-May; experts call the next seventy-two hours decisive. Siberia: Trump will speak to Putin on the plague scare; Russia denies plague but quarantines hundreds. Lilly and Novo say aging clocks show patients on weight-loss drugs age more slowly; company claims only.
 
 Built environment.
 
-Saudi Arabia reportedly shelved Neom Stadium, planned for the twenty thirty-four World Cup, indefinitely. A federal injunction hits seven and a half billion dollars of Big Bend border contracts.
+Megaprojects now take one in four nonresidential construction dollars, led by power and data centres. Blackstone-backed AirTrunk will invest one billion dollars in a Japanese campus.
 
 Law and justice.
 
-The Supreme Court heard Boulder's climate suit against Exxon and Suncor: do federal rules pre-empt state claims? Alito recused; justices signalled mixed views and may lack jurisdiction. Trump ordered Nidal Hasan's execution by firing squad, the first US military execution since nineteen sixty-one. Christa Pike remains in hospital.
+The International Criminal Court unsealed warrants for four senior Taliban, including leader Akhundzada, for persecuting women and girls. A judge blocked fines of up to one point eight million dollars on migrants who fail to leave after deportation orders. Christa Pike is awake and speaking; a second attempt would be uncharted.
 
 Society.
 
-Australia's opposition vows the biggest migration cut in its history, ending six hundred fifty thousand temporary visas. Prosecutors reopened Cornell's gang-rape case on new information.
+Cornell students protested the handling of the fraternity rape allegations, damaging the administration building; the university hired Sally Yates to review its response.
 
 Culture and sport.
 
-Haaland came off injured in Norway's loss to Portugal, a scare before Man City visit Liverpool. FIFA reportedly found a Congo goalkeeper ineligible, yet let him play at the World Cup. Medvedev was disqualified from a Beijing semifinal for hitting a spectator with a ball.
+Messi scored in his farewell for Argentina, his one hundred twenty-sixth international goal. Formula One confirmed its Qatar and Abu Dhabi races go ahead, as Qatar eyes the twenty thirty-six Olympics after hosting the Asian Games.
 
 Special interests and watchlist.
 
-Projectors: the XGIMI Aura Three watch hits. Kickstarter still opens the twentieth of October. XGIMI's own figures: Max two thousand three hundred ninety-nine dollars, Pro two thousand one hundred ninety-nine, with a launch-day link taking two hundred off, so Max two thousand one hundred ninety-nine. Shipping date unannounced; the December estimate is gone. Arsenal: host Leeds Saturday at twelve-thirty; Odegaard played ninety minutes for Norway, no injury news. Chainlink: no new post; it welcomed a CFTC push to clarify crypto rules, detail not in the digest. OKX and NYSE owner ICE filed for round-the-clock trading of over sixty tokenised US stocks, no Chainlink role stated. OriginTrail: nothing. Agronomics: nothing from the company; Greenforce bought egg-alternative startup Neggst ahead of its LiveKindly merger. Aviation: British Airways unveiled retrofitted A three eighty cabins, with the world's largest business class. Cars: Britain reviews tariffs on Chinese car imports; Chery's iCaur V twenty-seven made its EU debut. No seven-seaters.
+Projectors: nothing new on the XGIMI watch; Kickstarter still the twentieth of October. Arsenal: host Leeds Saturday; Gyokeres scored for Sweden, four in a row; Calafiori scored; injury worries over Konsa and Dowman, detail not in the digest. Chainlink: no new post. Tokenised stocks grew almost four hundred percent in a year, yet only eighty-one million dollars of three point two billion supply serves as lending collateral. OriginTrail: nothing. Agronomics: nothing from the company; French ministry advisers rate precision fermentation ahead of cultivated meat and urge Paris to set a position before the EU vote. Aviation: British Airways restores a daily nonstop Heathrow to Buenos Aires from the twenty-eighth of March, continuing to Santiago, the first direct link since October twenty twenty-three. Cars: Jaguar revealed the Type Zero One, a thousand-horsepower electric grand tourer at about one hundred fifty thousand pounds; Freelander, the Chery and Jaguar Land Rover brand, confirmed UK launch. No seven-seaters.
 
 Editorial picks.
 
-The Economist's Intelligence: Americans' anger at Flock number-plate cameras, and nannying for the world's richest families. Longreads: Toadstools and Toxins, on fly agaric gummies and dangerous doses. Rest of World: the AI boom is erasing the cheapest smartphones; existing models cost fifteen percent more, new ones twenty-five.
+The Economist's Intelligence: why meatpackers struggle despite record American beef prices, and battery technology for medical diagnostics. New Lines: southern separatist fighters are driving Saudi gains against the Houthis, which complicates who benefits.

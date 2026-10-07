@@ -26,6 +26,7 @@ permission, a subagent error, something else).
 
 ## Log
 
+- 2026-10-07 — OK — 1418 words, Badenoch's youth employer national insurance cut and her Iron Dome walk-back, a seventh arrest over the RAF Fairford threat and Vance's enrichment demand on Iran, Puigdemont's warrant lifted ahead of Spain's election; no sources failed.
 - 2026-10-06 — OK — 1437 words, Conservative conference's Britannia Shield air-defence pledge, Brazil's Flavio Bolsonaro edging Lula ahead of a runoff, US B-1 bombers pulled from RAF Fairford over an Iran drone threat, and Spain's snap election; no sources failed.
 - 2026-10-05 — FAILED — no brief; the 06:30 Routine firing and the 09:07 backup were both delivered to the session's queue but the session did not wake to run them until 6 October.
 - 2026-10-04 — FAILED — no brief; same cause (main and backup firings queued, session did not wake).
