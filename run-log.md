@@ -26,6 +26,10 @@ permission, a subagent error, something else).
 
 ## Log
 
+- 2026-10-13 — OK — 1434 words, Trump's Russian diesel deal and "energy ceasefire", Houthi strikes closing Riyadh airport, the IMF outlook at 3.1 percent growth; no sources failed. First brief after a three-day gap, said so on air.
+- 2026-10-12 — FAILED — no brief; the 06:30 Routine firing and the 09:07 backup were both queued but did not reach the session until 13 October.
+- 2026-10-11 — FAILED — no brief; same cause (firings queued, session did not wake), and the account's weekly usage limit was in force until 12 October 10:00 UTC.
+- 2026-10-10 — FAILED — no brief; same cause (firings queued, session did not wake), and the account's weekly usage limit was in force until 12 October 10:00 UTC.
 - 2026-10-09 — OK — 1425 words, Labour holding Holborn and St Pancras with Polanski's Greens beaten, Trump ruling out a new Iran strike before the midterms, Spain's snap election set for 29 November; Carbon Brief stale and flagged on air. Run began 09:06 UTC, about two and a half hours late, because the 06:42 Routine firing only reached the session then.
 - 2026-10-08 — OK — 1420 words, Holborn and St Pancras by-election, Meloni's resignation threat over her electoral law, the AfD and BSW majority in Saxony-Anhalt, and Arteta's new Arsenal deal; no sources failed.
 - 2026-10-07 — OK — 1418 words, Badenoch's youth employer national insurance cut and her Iron Dome walk-back, a seventh arrest over the RAF Fairford threat and Vance's enrichment demand on Iran, Puigdemont's warrant lifted ahead of Spain's election; no sources failed.

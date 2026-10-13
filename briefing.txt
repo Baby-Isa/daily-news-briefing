@@ -1,73 +1,81 @@
 Weather.
 
-Today: eleven to eighteen degrees, nine point four millimetres of rain, wind up to nine metres a second. Waterproofs. Not those trainers, I have seen them and they are a cry for help. Saturday is nearly dry, Sunday damp and dawning at seven degrees, so layers. Then the weather checks your diary. Monday and Tuesday are the week's warmest, nineteen and twenty, landing on workdays, Monday with rain on top, because nature wants you miserable at a desk. Wednesday clears up once you have given up.
+Today: eleven to nineteen degrees, barely a millimetre of rain, wind up to eight metres a second. Light jacket, don't act surprised. Wednesday is dry. Thursday hits twenty, the last warm day for a while, so enjoy it like the final slice of cake at a funeral. Friday is the only wet one, eleven millimetres, the weather pulling the plug. Then the weekend falls off a cliff: highs of eleven and twelve, six-degree mornings, clear skies, nothing to hide behind. Dig the coat out of the loft. Yes, that one. You know what you did.
+
+No brief ran Saturday to Monday, so this reaches back across the weekend.
 
 Politics and government.
 
-UK: Labour held Holborn and St Pancras, as flagged. Sagal Abdi-Wali beat Green leader Zack Polanski, who says he stays on; activists blame the Greens' backing of a "Zionism is racism" motion, which Burnham called terrible judgement. France: student protests continue; the government pledges thousands more teachers; Amnesty wants stun grenades banned after a teenager lost a hand. Spain: the snap election is the twenty-ninth of November, called after parliament rejected two housing decrees. United States: New York's mayor will ask Trump to pull immigration agents after a driver with a child in the car was shot in the Bronx. East Africa: Uganda warns citizens against crossing into Kenya to register for twenty twenty-seven voting.
+UK: Burnham told MPs the public will be the boss in any closer EU relationship; the next EU summit is the twentieth of November. He also says Russia interfered in the Brexit referendum. Germany: labour minister Bärbel Bas quit all her offices after her stepdaughter's death, another jolt for a strained coalition. France: Raphaël Glucksmann won the left's primary crushingly but needs allies. Pakistan: Islamabad suspended Khyber Pakhtunkhwa's provincial government amid protests demanding Imran Khan's release. India: over a hundred and thirty million names have been cut from the voter rolls; opposition parties marched on the Supreme Court and hundreds were detained, as flagged. East Africa: Kenya's lecturers' strike escalated as pay talks collapsed; Tanzania is quiet. United States: Trump says he is looking at firing his Greece ambassador, Kimberly Guilfoyle. Elon Musk has given Republican groups at least two hundred seventy-six million dollars since July.
 
 Conflict and security.
 
-Iran: Trump rules out a new strike before the midterms, citing productive talks. The Guard navy says it punishes violating vessels in Hormuz every night; tankers reportedly struck outside the strait. Washington sanctioned seventeen more shadow-fleet vessels. Yemen: a third Houthi strike on Riyadh's airport damaged at least one plane; Lufthansa and Air India suspended flights. The coalition claims eighteen hundred sixty Houthi fighters neutralised since Monday's counteroffensive; the Houthis deny gains and besiege Taiz. Ukraine: a Russian bomb hit two buses in Kramatorsk, killing at least thirty-three; over seventy dead in two days. Zelensky accuses Washington of inaction. Britain: two Latvians arrested inside RAF Molesworth, a US and NATO intelligence base; a Royal Navy intelligence specialist is charged with trying to pass secrets to Russia.
+Ukraine. Trump announced a Russian diesel deal after a call with Putin: over three hundred thousand tons at once, five hundred thousand in November, a million after, by his own post; Treasury issued a temporary licence. Seven senators from both parties call it unlawful; Merz says Germany and the EU will not follow. Moscow says diesel exports could return to three and a half million tons a month, undoing Ukraine's refinery campaign. Trump also declared an energy ceasefire; Zelensky called it news to him and strikes continued. Trump says Ukraine needs a new president; Zelensky offers elections if Putin accepts sixty days of ceasefire, which the Kremlin rejects.
+
+Saudi Arabia: four Houthi strikes on Riyadh airport have killed at least eighteen and wounded over three hundred. It stays shut; Saudi warning alerts were silent. The coalition is striking Yemen; the Houthis threaten the US if it joins. Iran offers to mediate.
+
+Iran: Burnham says Revolutionary Guard command almost certainly directed the Fairford airbase plot; Miliband summoned Iran's ambassador.
 
 International affairs.
 
-Disasters, three to know: Hurricane Isaias, now category two, is forecast to make landfall on the Florida Panhandle, Alabama or Mississippi coast late Friday or early Saturday; floods in Santiago, Albania and Montenegro; unhealthy haze across Singapore and Malaysia, schools shut. The World Meteorological Organization says El Nino peaks in December, potentially the strongest since nineteen fifty. Britain's East Jerusalem consulate stays open, rebranded a UK mission, most diplomats leaving. Ethiopia: drones reportedly struck Eritrean forces near Adigrat as Tigray slides toward war. India: authorities detained Cockroach party members before Saturday's Delhi rally demanding the election chief's resignation over voter-roll changes.
+Disasters, to know: Hurricane Isaias hit the Florida Panhandle near Destin on Saturday as a category two, leaving over six hundred thousand customers without power; Hurricane Simon, category two, is forecast to hit Mexico's Pacific coast near Puerto Vallarta on Wednesday, five dead from Simon and Rachel so far; El Niño floods closed Iguazú Falls; Nepal floods strand over a hundred foreign trekkers. Israel votes on the twenty-seventh; Trump has not endorsed Netanyahu. Congo: ex-president Kabila, sentenced to death in absentia, allied with M twenty-three rebels. Ethiopia: federal forces retook Adwa in Tigray. Morocco: Mansouri, its first female head of government, sealed a four-party coalition. Spain: three in four say Morocco threatens its territory after the Ceuta crisis.
 
 Economy and markets.
 
-Rates. India raised its repo rate twenty-five basis points to five and a half percent, the first hike since twenty twenty-three, and moved to calibrated tightening. Intended: pull inflation, four point eight percent in August against a four percent target, back down and defend a weak rupee against dear oil. Risk: this is a supply shock; hawks say it anchors expectations, others say hiking against imported fuel and a failed monsoon costs growth for little disinflation. Read-through: another central bank tightening into an oil shock; the global rate cycle is still turning up.
+IMF outlook. Global growth is forecast at three point one percent this year, up from three, and inflation at four point seven. AI investment offsets the war's energy shock; only thirty-two countries now generate ninety-five percent of growth. The risk: if AI profit hopes are reassessed as yields rise, global output falls one point one percent by twenty twenty-eight, America's one point eight. It also warns of the biggest deficits among top economies since Covid.
 
-Bonds. Pimco warns the US ten-year yield could reach six percent, first since two thousand, as investors unwind losing bets; American mortgage rates hit seven point four percent. The Bank of England governor urges John Healey to use the twenty-eighth of October budget to calm bond fears. Deficits plus hawkish central banks lift term premia, with France the weak link.
+Diesel tax. Trump suspended federal diesel taxes temporarily. Mechanism: a per-gallon levy removed. Intended: cheaper farm and freight costs before the midterms. Risk: lost revenue widens a deficit already pushing yields up, and on a supply-constrained fuel the gain may accrue to producers; farmers call it marginal. Read-through: fiscal loosening against hawkish central banks keeps term premia high.
 
-AI capex. Financing is fraying while demand holds. Default-swap costs for AI borrowers are rising; OpenAI told investors annualised revenue was near fifty billion dollars in September, not the seventy billion reported; SoftBank seeks one hundred billion from Gulf investors; Nvidia-backed Firmus pulled its Australian listing. Yet the World Trade Organization says AI goods spending more than offset the war's drag on trade, and Lumentum is sold out of AI server parts until twenty twenty-nine. Read-through: hardware demand is intact; the risk is leverage.
+Bonds. Treasury yields sit at multi-decade highs, yet record money flows into bond funds and ten-year demand was strong: buyers are being paid to absorb deficits.
+
+Chips. Broadcom's chief Hock Tan said many AI investors have no clue what they are buying, likening it to a casino. Samsung and SK Hynix fell, dragging the Kospi. Chinese tech giants are buying Nvidia gaming chips for AI capacity, the FT reports.
+
+UK. The IMF raised growth but sees sharper inflation; the Institute for Fiscal Studies says Healey needs a thirty-five billion pound top-up at the twenty-eighth of October budget. Nobel economics went to Robert Hall and Michael Woodford for stabilisation models.
 
 Business and industry.
 
-Washington suspended Microsoft, Adobe, Infosys and other large IT firms from the programme sponsoring foreign workers for green cards, citing alleged fraud and aiming to push hiring of Americans. Meta banned ByteDance's TikTok ads across its platforms in seven countries including the US and Japan. Taiwan indicted ten for smuggling US military-grade chips to China on forged defence-institute orders.
+Getty Images will file a prepackaged bankruptcy and go private after its New York delisting. Character.AI filed for bankruptcy, selling some assets for twenty million dollars. China approved a local clearing organisation for Visa, letting it settle domestic yuan payments on its own network.
 
 Mergers, acquisitions and private equity.
 
-Starbucks has explored buying Chipotle, the Financial Times reports; no deal. It would reunite chief executive Brian Niccol with the chain he ran; the FT's view is the overlap is too thin to justify a premium. Boots, as flagged: Fairfax Financial is committing two point three billion dollars toward a stake. Monzo has abandoned Nubank and turned to selling a stake to private equity.
+BT is buying TalkTalk out of administration for about four hundred million pounds, taking it to nearly a third of retail broadband against under a fifth for Virgin Media O two; rivals call it a stitch-up, and the regulator reports by the nineteenth. Starbucks, as flagged, now says it is not buying Chipotle. Amazon is reportedly in talks for Israeli AI start-up Decart at about seven billion dollars; nothing signed. Steris is buying Xodus Medical for two point one billion dollars.
 
 Science and technology.
 
-Crew-twelve splashed down, as flagged, after nearly eight months. Physicists entangled a suspended glass bead with light, possibly a route to quantum memory. The Pentagon unveiled a three hundred fifty million dollar quantum computing push. Webb helped detect the most distant fast radio burst yet; its source surprised astronomers. OpenAI shut down Russian and Iranian influence operations, including a fake think tank with real employees.
+Anthropic warns small AI models may be able to self-replicate on home devices within months, without a data centre. Perseverance set an off-planet driving record on Mars. Amazon now runs over a million robots.
 
 Gadgets and consumer tech.
 
-Apple has announced an event for the thirteenth of October, expected to show smart home devices. Amazon's new Alexa tablets drop the Fire name and run Android with Google Play, since Amazon killed its own app store; price and date were not in the digest. IDC says worldwide PC shipments fell twenty percent year on year in the third quarter and warns conditions get worse before better. AMD says its FSR four upscaler comes officially to handhelds by year's end.
+Google's Fitbit Edge, a tracker with a screen and GPS, replaces the Charge: one hundred seventy-nine dollars ninety-nine, replaceable battery, up to a week of battery life, pre-orders open, in stores the twenty-seventh. OnePlus unveiled the sixteen in China only: a nine-thousand milliamp-hour battery and a two-hundred-megapixel main camera; price unconfirmed, and OnePlus left Europe and North America in July. Apple's smart-home event is today.
 
 Energy and environment.
 
-EU gas storage is depleted ahead of winter; Washington and Moscow have discussed selling gas to Europe through Nord Stream. France will release ten million barrels of diesel from reserves. Oil jumped five percent on Middle East tension and the hurricane threat, then eased on Trump's no-strike remark. Finland ordered Google to stop work on two AI data centres over alleged deforestation.
+The biodiversity COP seventeen opens in Yerevan on the nineteenth; countries are off track on twenty-two of twenty-three targets. British heating-oil customers face a hard winter despite promised regulation.
 
 Health and medicine.
 
-Ebola: the Wajir patient tested negative for Ebola, positive for malaria; Kenya's first case and its quarantined contacts are still being traced. Siberia's governor declared an all-clear after the plague-institute worker's death; the cause is unpublished. Robert Kennedy opened an NIH clinic to study vaccine injuries. The FDA's mifepristone safety review runs into next year. A UK government review warns ADHD and autism services risk system failure as demand soars.
+Kenya declared Bundibugyo Ebola a formidable epidemic disease with new screening and quarantine rules; no new cases since the first death. The WHO says Siberia's lab-worker death lacks a cause, the key uncertainty. Pope Leo has surgery this week on a lung nodule; his South America tour stands.
 
 Built environment.
 
-Hong Kong's first privately built starter-homes project hit trouble over shoddy steelwork; developer CK Asset will demolish three blocks, and lawmakers want tougher inspection and a contractor blacklist. Oxford Street closes to traffic later this month.
+Riyadh's airport expansion, a seven-billion-dollar project with a third runway, was damaged in the attacks. Hong Kong's revamped Huanggang Port opened to brisk crowds. Saronic's three point two billion dollar Texas yard is America's first greenfield shipyard since the Second World War.
 
 Law and justice.
 
-A London judge ruled search warrants against Andrew Mountbatten-Windsor unlawful, citing a significant error. The Pentagon will live-stream Nidal Hasan's firing-squad execution, unprecedented. Duterte is ruled fit for trial at the International Criminal Court.
+US agents searched Congresswoman Ilhan Omar's home in an immigration-document probe; Trump calls her crooked. A judge ordered a halt to taxpayer-funded pro-Trump ads. A Catholic archbishop says soldiers should not join Nidal Hasan's firing squad; Albanese opposes the livestream.
 
 Society.
 
-South Africa: ten cars torched in Soweto, and one person reportedly shot at a Durban anti-immigrant march. Piddington, facing a plan to house twelve hundred fifty asylum seekers, held a symbolic vote to leave Britain. Racial and religious hate crimes in England and Wales hit a record.
+South Africa arrested thirty after anti-immigrant violence. Guadalajara's contaminated-water protest left dozens hurt; Sheinbaum pledged federal help and questioned Jalisco's crackdown. Belgian student protests saw nine minors arrested.
 
 Culture and sport.
 
-Anne Carson wins the Nobel Prize in literature. The Court of Arbitration for Sport will rule on Senegal's stripped Afcon title, Morocco in line, with no quick verdict. Manchester City, reportedly found guilty on all but one of one hundred fifteen financial charges, visit Anfield with sanctions undecided.
+Manchester City beat Liverpool three-nil at Anfield after Gravenberch's red card. Correction: the league confirmed City's guilty verdict on the twenty-ninth of September; sanctions are undecided and City will appeal. The Nobel Peace Prize went to Navi Pillay. Eliud Kipchoge broke the Melbourne Marathon record.
 
 Special interests and watchlist.
 
-Projectors: nothing new on XGIMI; Kickstarter still the twentieth of October, shipping unconfirmed. Arsenal host Leeds at half past twelve Saturday; Havertz reportedly out with a hamstring injury from Germany duty, Konsa a doubt. Chainlink: no new official post; CCIP vault adapters launched, per headlines. OriginTrail: nothing. Agronomics: nothing from the company; Europe's food safety authority wants in-house cultivated meat and precision fermentation expertise before applications arrive. Aviation: the FAA ordered Airbus A-three-eighty engine repairs after an uncontained failure. Cameras: nothing Micro Four Thirds. Cars: nothing major from BMW; a three-row electric Lexus TZ is confirmed for Australia. No seven-seaters.
+Projectors: nothing new on XGIMI; Kickstarter opens next Tuesday. Arsenal face Lille tonight without Zubimendi and Hincapié, ankle injuries from the Leeds warm-down. Chainlink: no official post; Link New York is the twenty-ninth. OriginTrail: nothing. Agronomics: nothing from the company; Every beat Onego Bio, both held, as a US court dismissed the animal-free egg patent suit; LiveKindly closed its Dalco Food purchase. Aviation: Etihad and Qatar suspended Saudi flights. Cameras: OM System PEN ships this week, many pre-orders waiting until spring. Cars: BYD's Atto eight, a seven-seat electric flagship, seven hundred sixty-four horsepower, debuted in Paris; Omoda's sub-twenty-five-thousand-pound four reaches Britain next year. BMW: nothing.
 
 Editorial picks.
 
-The Economist's Intelligence: orbital mirrors delivering daylight to dark places; and the fatal earnestness of The Social Reckoning. Longreads: the Utah revolt against Kevin O'Leary's forty-thousand-acre data centre; and r/BoyDinnerDiaries, where four million men post sad meals and private worries.
-
-Not returning today: Carbon Brief, in energy.
+Economist Intelligence: how European manufacturers adapt to war-high energy prices; the revival of handwriting. Longreads: a Norwegian's multiyear Canadian wilderness trek, from which only his sled dogs returned. Rest of World, from Friday: Insta three sixty chases American creators as DJI is blocked.
