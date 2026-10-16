@@ -26,6 +26,7 @@ permission, a subagent error, something else).
 
 ## Log
 
+- 2026-10-16 — OK — 1400 words, Trump administration suing California over mail ballots, powders mailed to senators, NHS England trans ward policy, Brewers sweeping the Dodgers; one source failed (Google News China M&A, stale), named on air.
 - 2026-10-15 — OK — 1414 words, Trump telling an Arizona rally that military leakers should be shot, Burnham pledging Ukraine support, Real Madrid beating Roma from three-one down; two sources failed (Euronews Europe, Google News China M&A), named on air.
 - 2026-10-14 — OK — 1443 words, Houthi missiles on Aramco's Dhahran site and Riyadh, a Russian strike on a Kyiv power plant, China's exports up thirty-six percent on AI shipments; one source failed (Google News China M&A, stale), named on air.
 - 2026-10-13 — OK — 1434 words, Trump's Russian diesel deal and "energy ceasefire", Houthi strikes closing Riyadh airport, the IMF outlook at 3.1 percent growth; no sources failed. First brief after a three-day gap, said so on air.
