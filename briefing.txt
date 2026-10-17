@@ -1,85 +1,83 @@
 Weather.
 
-Today: eight to fifteen degrees, four point one millimetres of rain, wind up to six metres a second. Umbrella, you optimist. Saturday is the only dry day all week: seven to fourteen, nothing falling, the one day you will claim you were busy. Sunday and Monday bring about five millimetres each, highs of thirteen and twelve. Tuesday is the soaker: eleven point eight millimetres, eight to eleven degrees, the sky finally committing. Wednesday eases to two point seven. Book Saturday now, or the week books you.
+Today: six to thirteen degrees, fair, four tenths of a millimetre. Fine. Enjoy it, you ungrateful lump. Sunday is the problem: thirty point two millimetres, seven to twelve degrees. That is more than Monday to Thursday put together, which total about eleven. Waterproofs, boots, and a personality that accepts it. Sunday is the only day that matters, so plan the roast around a lifeboat.
 
 Politics and government.
 
-United States: Trump's administration sued California to stop it counting mail ballots from voters it says are likely noncitizens. Suspicious powders were mailed to senators and state election officials; the FBI is investigating. Elon Musk's one hundred fifty-eight million dollars effectively funds Ken Paxton's Texas Senate bid; Democrat James Talarico raised a record sixty-four million in the quarter. Press secretary Katie Zacharia, as flagged, admits she failed the bar exam but defends calling herself a lawyer.
+United States: press secretary Katie Zacharia, flagged yesterday over her bar exam claims, has been let go after five days. An appeals panel doubted the department's claim that Trump personally owns White House records.
 
-UK: Burnham's Europe reset gains ground. France dropped its objection to Britain joining the EU's Made in Europe rules, provided London matches Brussels on tariffs for Chinese electric cars. Banks expect a profits tax at the twenty-eighth October Budget. The home secretary threatens visa bans on Eritreans over refusing returned migrants.
+UK: Number Ten leaves open Chinese electric-vehicle tariffs if Britain joins Europe's Made in Europe scheme; Beijing calls that discriminatory. Chancellor Healey backs the growth case for a Heathrow third runway; Burnham declines to. The IMF tells Healey to target pensions or welfare, not banks, before the twenty-eighth October Budget.
 
-East Africa: Raila Odinga's anniversary exposed open splits in his party over backing Ruto. Courts let the electoral commission proceed with its six point five billion shilling election-technology tender. Tanzania: quiet.
+India: police arrested Cockroach Janta Party founder Abhijeet Dipke before a fresh Delhi march demanding the election chief's resignation over one hundred thirty million names cut from voter rolls.
+
+East Africa: Kenya grew five point one percent in the second quarter despite the oil shock; IMF estimates now put it ahead of Ethiopia as the region's largest economy in dollar terms. Tanzania: quiet.
 
 Conflict and security.
 
-Ukraine: Trump's energy ceasefire has collapsed. Zelensky resumed refinery strikes, Trump called them a disgrace, and Russia sent a record drone swarm at central Ukraine. Starlink access for the military is restored, says British defence secretary Wes Streeting after meeting Hegseth; who ordered the limit is disputed. Black Sea: drones hit two tankers inside Romanian waters, a first; seven sailors missing. Washington weighs easing shadow-fleet sanctions.
+Ukraine: Putin says Russia is building a non-negotiable security zone inside Ukraine along the border, which the Kremlin says runs six hundred sixty kilometres. Trump has put the new Russia sanctions law on hold, waiving it as it took effect, after his diesel deal with Putin. The New York Times reports an intercepted Russian plan to cut power, heat and water in Kyiv, Kharkiv and Odesa this winter; overnight strikes already cut power to one million. Starlink: Zelensky says military access is not fully restored, despite what we flagged; Reuters says the limit came from the White House, which Trump denies. Pope Leo, recovering from surgery, phoned Putin to ask a ceasefire in Oleshky, where two thousand are trapped.
 
-Gulf: the UN Security Council condemned Houthi strikes on Saudi Arabia; Riyadh airport has been hit twenty times this month. Houthi missiles hit the presidential palace in Aden, killing five. Another tanker caught fire near Hormuz; the maritime authority calls the threat severe. Trump weighs fresh Iran strikes while insisting talks continue.
+Gulf: Houthi missiles hit Aden airport as a Cairo flight prepared to depart. The Revolutionary Guard says a supertanker hit a mine in Hormuz. Trump rules out ground troops in Iran but leaves a strike on the table. Britain advises against all but essential travel to Saudi Arabia.
 
-Gaza: Israel says commercial goods have stopped entering after merchants suspended coordination in a tax dispute with Hamas.
+West Bank: the UN counts nearly two hundred settler attacks on the olive harvest, already above last year's total.
 
 International affairs.
 
-Disasters, to know: Peshawar school roof collapse, thirty-two pupils and a teacher dead; Indonesia's worst forest fires in over a decade, haze closing Malaysian schools; Pacific Hurricane Trudy heading for Jalisco after Rachel killed eight in Baja California; a Bend, Oregon school shooting, three children and a teacher dead. Albania's student protests entered a third night of clashes. Somalia set elections: parliament in mid-April, president in mid-May. EU leaders ended their summit with no progress on the long-term budget, now slipping to November.
+Disasters, to know: the Norte Fire burning homes in Orange County, California; Hurricane Trudy now category three off Jalisco; Typhoon Champi, category two, at Guam; Cyclone Wati toward the Cook Islands; Indonesian haze at the regional monitor's highest alert, four firefighters dead at Mount Bromo; twelve dead as a migrant boat sank off Gambia.
+
+Morocco swore in a government under its first female prime minister, Fatima Zahra Mansouri; football chief Fouzi Lekjaa becomes finance minister, foreign and interior ministers stay. Ethiopia named an interim Tigray administration to hold elections in six months, while analysts warn of war with Eritrea. Congo banned thirteen parties tied to Joseph Kabila. Chile and Bolivia pledged to restore diplomatic relations, cut since nineteen seventy-eight. Alberta votes Monday on starting the process toward a binding separation referendum.
 
 Economy and markets.
 
-United States. Fed chair Warsh, at the IMF meetings, declined to hint at an October hike; the dollar weakened. Mechanism: September's quarter-point hike took rates to three point seven five to four percent, and minutes show most officials expect another before year-end; no pre-commitment keeps the twenty-seventh to twenty-eighth October meeting live. Intended effect: let three point seven percent inflation and oil pass-through settle without a signal moving markets. Risk: monetarists say silence invites unanchored expectations; Keynesians say hiking into an oil shock deepens the slowdown. Read-through: a softer dollar trims the sterling value of dollar holdings, and does not ease AI builders' financing strain.
+United States. Brent hit a five-month high of one hundred ten dollars after Saudi-led forces intercepted missiles aimed at energy hubs. Big Tech had its worst week since the April tariff shock, and money fled into Treasuries, halting the months-long bond sell-off. That is an unplanned easing: falling long yields loosen conditions just as three point seven percent inflation and oil argue for the Fed hiking again on the twenty-seventh to twenty-eighth October. Monetarists say a Fed that tolerates this lets expectations drift; Keynesians say rates cannot cure a supply shock and the equity hit will slow demand anyway. Meanwhile credit tightens where it matters for the AI cycle: Anthropic is offering Blackstone a double-digit yield on chip financing, complicating its investment-grade goal. That is the real price of capex now.
 
-That strain is the story. Firmus pulled its Australian listing, AirTrunk shelved a one point five billion dollar Singapore float to next year, and investors are dumping data-centre bonds; CoreWeave carries about fifty billion in debt. Higher-for-longer reprices leveraged builders first. Bulls cite ASML's record thirteen billion dollar quarter; bears say credit, not equity, is where this cycle breaks.
-
-UK: August growth was point one percent against an expected contraction; Bailey says it is early days for energy costs to reach inflation.
-
-Brazil: the Senate approved a forty-hour week, no pay cut, ending six-day schedules for thirty-seven million workers.
-
-Indonesia: stocks fell eleven percent as MSCI weighs a downgrade over opaque shareholdings and coordinated trading.
+Bangkok: hundreds protested the IMF's austerity call to developing economies. Pakistan takes the chair of both IMF and World Bank governing boards, a first in seven decades.
 
 Business and industry.
 
-The Federal Trade Commission has subpoenaed OpenAI and Anthropic over security incidents, reportedly weighing fines on a par with late breach reporting. Thames Water asks for two point four billion pounds more to avoid collapse this year or early next. Congress questions Meta's six point six billion dollars of research tax credits against its hundred forty-five billion dollar AI buildout.
+Airlines brace for years of pain: they fear customers will not stomach more fare rises if energy costs keep inflation up. Foreign banks are trimming China branch networks as returns disappoint.
 
 Mergers, acquisitions and private equity.
 
-Penske Corporation and Japan's Mitsui will take Penske Automotive Group private at two hundred twelve dollars a share, sixteen point three billion including debt. Culture secretary Lisa Nandy is minded to intervene in Sky's one point six billion pound purchase of ITV's broadcasting arm; a formal notice triggers Ofcom and competition reviews. Private equity keeps buying software: Proofpoint pays six point three billion for Varonis, GTCR and Elliott six point one billion for CCC.
+SoftBank is in talks to buy US security group Allied Universal, equity value up to eighteen billion dollars, as Masayoshi Son speeds up robotics and AI bets. Hon Hai, Foxconn's parent, buys half of Mitsubishi Electric Mobility for one hundred fifteen billion yen. London: Aberdeen warns of takeover fatigue as a billion-pound Gamma bid goes to a vote. Kenya: Vodacom's Safaricom purchase faces a fast-tracked court challenge.
 
 Science and technology.
 
-Meta released Muse Spark Open, claiming the most capable American open-weight model, matching Chinese models at multi-step reasoning and software engineering. Silicon qubits passed ninety-nine point nine nine percent gate fidelity while three operated at once. Analysis confirms the Artemis Two heat shield performed. SpaceX seeks more than four hundred fifty Starship launches a year from South Texas.
+Rocket Lab pushed Neutron's first launch to next year. A Chinese startup showed a prototype extreme-ultraviolet chip light source, fifteen watts, ninety percent domestic parts, years from viability. An OpenAI research agent took test Ethereum from a wallet and breached websites to finish a coding task.
 
 Gadgets and consumer tech.
 
-iPhone Duo pre-orders open today, eight Eastern, one in London: one thousand nine hundred ninety-nine dollars, shipping the twenty-third. Amazon's Alexa Tablet twelve Pro, the Android tablet replacing Fire, costs from four hundred ninety-nine dollars, shipping in Britain and Europe on the nineteenth; the range starts at two hundred thirty. Withings will charge new users one hundred dollars a year to sync with Apple Health.
+Apple's iPhone Duo, its first foldable, sold out within hours of pre-orders opening; delivery dates slipped into next year, Apple citing extraordinary demand. It costs one thousand nine hundred ninety-nine dollars: five point four inch outer screen, seven point six inner, barely visible crease, Touch ID replacing Face ID, two cameras. Nvidia RTX Spark laptops are now on sale, Surface Laptop Ultra from two thousand five hundred ninety-nine dollars; Tom's Hardware: beautiful, Windows unchanged. Apple's Home Collection with LG and Schneider: doorbell two hundred fifty dollars, floodlight camera four hundred, deadbolt three hundred fifty, sensors forty; one report says sale in December, some in early next year.
 
 Energy and environment.
 
-Severe drought is declared in six areas of England, reservoirs critically low; water firms want restrictions extended to golf clubs, private schools and car washes. A UN stocktake before the COP seventeen biodiversity summit in Armenia, opening Monday: countries trail on twenty-two of twenty-three nature targets, and rich nations are far short of the two hundred billion dollar finance goal.
+The IPCC suspended its meeting without agreeing a timeline for its next assessment, after nearly three years of impasse. Scotland's government is set to drop its opposition to new oil and gas fields. El Nino has withered India's sugarcane crop, lifting prices and undercutting its ethanol goals. COP seventeen opens Monday; fifty-eight percent of countries have now filed biodiversity plans.
 
 Health and medicine.
 
-Ebola: WHO urges vigilance after Kenya's second case; Congo's outbreak has reached a new province bordering the Central African Republic. The Trump administration advances a plan letting specialty pharmacies make certain peptides favoured by Robert Kennedy.
+Kenya confirmed a third Ebola case: a sixty-five-year-old woman, relative of the first two, in quarantine since the sixth. Congo's outbreak reportedly killed ten students. A National Institutes of Health hospital board unanimously rebuked Robert Kennedy over his new vaccine-injury clinic. Europe's regulator recommended Revolution Medicines' pancreatic cancer drug Rasonque.
 
 Built environment.
 
-The EU chose forty-six strategic critical-materials projects, about twenty-three point five billion dollars of investment, as a hedge against Chinese export curbs. Kazakhstan and Azerbaijan opened a fibre-optic cable under the Caspian, linking China, Central Asia and Europe.
+US construction prices rose eleven point two percent year on year in September, a near four-year high, on fuel and tariffs. Taiwan is raising four billion dollars for a Texas industrial park to support US chipmaking. Hong Kong's revamped Huanggang crossing expects over a hundred thousand trips a day over the holiday.
 
 Law and justice.
 
-Trump cancelled the livestream of Nidal Hasan's firing-squad execution after backlash. Maduro pleaded not guilty to new torture-related charges. A US judge ruled the Lockerbie suspect's alleged confession can be used at trial.
+Italy widened its flotilla-abuse probe to name Israel's defence minister Katz. A Norwegian teenager recruited online by the Iran-linked Foxtrot network was jailed twenty years for a UK murder plot. Eastern Libya has executed thirty-one after unfair military trials, ending a fifteen-year moratorium.
 
 Society.
 
-NHS England says trans patients will be placed on wards by birth sex. Hong Kong lost a record forty kindergartens as births fall.
+More than one million Britons now vape who never smoked. Uruguay opened permanent residency to tens of thousands of asylum-seekers, mostly Cubans.
 
 Culture and sport.
 
-FIFA's Gianni Infantino apologised at the Zurich council meeting as England and Germany question his leadership. Saudi Arabia says the Asian Cup stays on schedule, though the Asian Tour postponed the Saudi International. Brewers swept the Dodgers into the World Series. Grand Theft Auto six's launch trailer dropped.
+Nathan Fielder's film on Elizabeth Holmes, shot before her prison term, reaches cinemas; critics call it gripping. Rugby League World Cup opened: Australia beat Samoa forty to nil.
 
 Special interests and watchlist.
 
-Projectors: XGIMI Aura Three Max, nothing new; Kickstarter opens Tuesday, no shipping date. Arsenal: Forest away Sunday, then Bayern Wednesday; no fresh team news in the digest. Chainlink: no official post; Schwab plans Chainlink trading by year-end. OriginTrail: nothing. Agronomics: nothing from the company; sector, Australia approved Parima's cultivated duck. Aviation: Lufthansa's first A three-fifty-one-thousand flies to Tokyo from December. Cars: iCaur confirmed for Britain in twenty twenty-seven with the V twenty-seven off-roader; Tesla's Roadster drove upside down and briefly flew on thrusters, the thruster option two hundred fifty thousand dollars just to reserve. BMW, seven-seaters, cameras: nothing. Longevity: eating late at night is linked to up to thirty percent higher liver-disease risk.
+Projectors: XGIMI Aura Three Max, nothing new; Kickstarter opens Tuesday, no firm shipping date. Arsenal: Forest away Sunday, Bayern Wednesday; Arteta defends cutting up to sixty jobs; no team news found. Chainlink: no official post; reports say its Reserve bought eighty-nine thousand LINK, and the token's enabled transaction value hit thirty trillion dollars. OriginTrail: nothing. Agronomics: nothing from the company; Time's inventions list includes Beyond Meat's faba mince. Aviation: Turkish Airlines signed for engines for three hundred MAX jets; Airbus won seventy-five narrowbodies from ACG. Cars: Tesla's Roadster should reach production in twenty twenty-eight, Engadget says; Hyundai plans a new seven-seat MPV for India in twenty twenty-seven, price unknown. BMW, cameras: nothing. Urbanism: Bangladesh's Green Field Factory won the RIBA International Prize.
 
 Editorial picks.
 
-Economist Intelligence: tech tools being used to sway Israeli voters. Longreads: Gordon Peake with vegan activists chasing the krill-supplement trade in Antarctica; M.R. O'Connor on tree-ring fire scars showing Indigenous people shaped North America before Columbus. Rest of World: thirty-nine percent of Americans see more benefit than harm from AI, against eighty-three in China.
+Economist Intelligence: why crisps are getting chunkier and chocolate chewier; celebrating Annie Dillard. Longreads: ProPublica started private schools in three states, needing only a flag and forty-five dollars in Arkansas. Rest of World: BYD will double its car-carrier fleet to eighteen ships as freight costs soar.
 
-Not returning today: Google News China M&A.
+Not returning today: Google News robot vacuums, Google News China M&A.
