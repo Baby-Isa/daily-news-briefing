@@ -26,6 +26,7 @@ permission, a subagent error, something else).
 
 ## Log
 
+- 2026-10-18 — OK — 1434 words, France's cost-of-living protests turning to riots, Trump waiving the Russia sanctions law for sixty days, Kenya's Ebola count rising to seven, Tonga upsetting England in the Rugby League World Cup, a sixth wet weather day running; two sources failed (Google News robot vacuums, Google News China M&A, both stale), named on air.
 - 2026-10-17 — OK — 1419 words, Katie Zacharia let go after five days, Putin's border security zone and Trump shelving the Russia sanctions law, Kenya outgrowing Ethiopia, Sunday's thirty millimetres of rain; two sources failed (Google News robot vacuums, Google News China M&A, both stale), named on air.
 - 2026-10-16 — OK — 1400 words, Trump administration suing California over mail ballots, powders mailed to senators, NHS England trans ward policy, Brewers sweeping the Dodgers; one source failed (Google News China M&A, stale), named on air.
 - 2026-10-15 — OK — 1414 words, Trump telling an Arizona rally that military leakers should be shot, Burnham pledging Ukraine support, Real Madrid beating Roma from three-one down; two sources failed (Euronews Europe, Google News China M&A), named on air.
