@@ -26,6 +26,7 @@ permission, a subagent error, something else).
 
 ## Log
 
+- 2026-10-21 — OK — 1434 words, France's curfews and troops ahead of planned protests, Israel's election on Tuesday with Netanyahu's bloc short of a majority, Los Angeles County disputing the Justice Department's California voter list, a staircase of ever wetter weather days; one source failed (Google News China M&A, stale), named on air.
 - 2026-10-20 — OK — 1412 words, France's riot aftermath with curfews and a partial Paris protest ban, Trump endorsing Netanyahu, Kenya's Shakahola cult leader convicted of 191 murders, China's third-quarter growth at 4.5 percent, Wednesday's heavy rain; one source failed (Google News China M&A, stale), named on air. Covers two days, since no brief ran on 19 October.
 - 2026-10-19 — FAILED — no brief; the 06:30 Routine firing and the 09:07 backup were both queued but did not reach the session until 20 October.
 - 2026-10-18 — OK — 1434 words, France's cost-of-living protests turning to riots, Trump waiving the Russia sanctions law for sixty days, Kenya's Ebola count rising to seven, Tonga upsetting England in the Rugby League World Cup, a sixth wet weather day running; two sources failed (Google News robot vacuums, Google News China M&A, both stale), named on air.
