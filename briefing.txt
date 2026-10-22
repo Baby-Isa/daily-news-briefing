@@ -1,91 +1,87 @@
 Weather.
 
-Today: seven to eleven degrees, thirty millimetres, wind up to eight metres a second. Fine. Now watch the staircase. Thursday fifty-four millimetres. Friday nearly seventy, wind ten, the top step, a number that belongs on a flood poster, not a forecast. Three days, each wetter than the last, a chart going up and to the right, and you are the one paying for it. Then Saturday seventeen, and Sunday two tenths of a millimetre, the clouds finally clocking off. Waterproofs by the door, not in the cupboard. Yes, you.
+Today: eight to thirteen degrees, thirty-nine millimetres, wind up to six metres a second. The support act. Friday is the headliner: seventy-five millimetres, wind ten. Saturday is the encore, seventy millimetres, so nobody leaves early. That is nearly a hundred and fifty millimetres in two days, and a named storm, Austen, has an amber warning out. Pride and Precipitation. Then Sunday: nothing. Not a drop. Monday fifteen, Tuesday four. Boots on. Yes, you.
 
 Politics and government.
 
-France: curfews extended after a calm night; troops to deploy for planned protests; the government admits failures. The EU is probing pro-Kremlin disinformation around the riots. Italy sends five hundred soldiers to Milan after looting and tightens anti-riot law.
+United States, two weeks out. A judge largely blocked Homeland Security agents from field interviews in nine states, including California, in the hunt for noncitizens on voter rolls. The Justice Department is notifying counties where it wants election monitors. Trump's approval hit a new low in a New York Times poll. Washington accuses Canada of election interference, citing tariffs, meetings and anti-Trump ads.
 
-Israel votes Tuesday. Polls give Netanyahu's bloc at most forty-nine seats, the opposition at most fifty-four; sixty-one wins. Arab-led parties could decide it, and several opposition parties refuse to include them. Smotrich says Israel should annex territory it holds in Gaza and Lebanon.
+France: Macron accuses Trump of exploiting the riots for electoral gain.
 
-United States: Los Angeles County says the Justice Department's list of twenty thousand "likely noncitizen" California voters is unreliable; some are US-born. Trump's super PAC holds two hundred seventy-seven million dollars for the final stretch, unprecedented.
+Australia: MP Helen Haines has lost both legs after the vehicle attack.
 
-Australia: MP Helen Haines remains critical; the accused was refused bail. The police chief calls the climate febrile: one person charged weekly over threats to MPs.
+UK: Burnham proposes cutting standing charges from gas bills, shifting the cost onto unit prices; little detail. The energy secretary is reportedly leaning towards rejecting Rosebank oilfield, a day after Jackdaw.
 
-UK: the Covid inquiry finds government failures let the virus spread like wildfire through care homes. The Royal Family marks Aberfan's sixtieth anniversary today.
-
-East Africa: Kenya: Gachagua and Sifuna reportedly exploring a twenty twenty-seven alliance against Ruto. Tanzania: quiet; Lissu verdict still awaited.
+East Africa: Kenya: Gachagua and Sifuna are courting Uhuru Kenyatta and Kalonzo for a wider anti-Ruto coalition, with more meetings planned. Tanzania: quiet; Lissu verdict still awaited.
 
 Conflict and security.
 
-Gulf. Iran told Pakistan's army chief in Tehran: no talks with Washington until its demands are met, though Foreign Minister Araghchi says talks are ongoing. The Financial Times: Netanyahu is pushing to resume strikes; Israel planned an extensive operation this month but held off because Trump rules out an attack before the midterms. Houthi strike on the Yemeni government camp: toll now seventy-three. Britain sends Typhoon jets and advisers to Saudi Arabia, defensive missions only. Egypt votes Monday.
+Gulf. Trump says the US is not negotiating with Iran; something happens "fairly soon". The New York Times: Washington and Israel are drawing up plans for renewed strikes after the US elections. Iran's Revolutionary Guard navy says it hit seven vessels: four in the northern Gulf, accused of illegal oil transfers, set ablaze; three struck mines west of Hormuz. It warns of a wider response. Saudi Arabia: an attack on Dammam's King Fahd airport killed one, hurt eight. The US ordered non-essential embassy staff and families out; Macron made a surprise solidarity visit. Egypt votes Monday on military support.
 
-Ukraine. Zelensky and Witkoff met in Oslo: constructive, a US official says; Zelensky says intelligence sharing has resumed. Witkoff meets Putin today, reportedly in Saint Petersburg, seeking an American prisoner's release. The Wall Street Journal says Musk himself ordered last week's Starlink slowdown, contradicting his earlier blame on the Pentagon; unconfirmed.
+Ukraine. As Witkoff met him in Saint Petersburg, Putin freed American Stephen Hubbard, jailed for fighting for Ukraine. The Kremlin says the Oslo proposals lack substance but it will resume trilateral talks. Trump claims progress. Moscow's mayor reports six hundred thirty drones launched toward the region overnight. Poland reportedly suspended a big arms shipment over a Lviv tribute to the UPA, whose fighters took part in massacres of Poles.
 
-Sudan: army drone strikes on a market and funeral truck in Abyei; one hundred fifty-three to over three hundred dead, sources differ.
+Korea: Pyongyang will put loudspeakers on standby along the whole border within days.
 
 International affairs.
 
-Disasters, to know: floods in eastern Spain, at least four dead; a Colombian gold-mine landslide, fourteen; the Wainwright base fire in Canada, at least four; Indonesian fire haze over Singapore and Kuala Lumpur.
+Disasters, to know: Typhoon Champi, the year's strongest storm, nears Taiwan with gusts above two hundred twenty-seven kilometres an hour; Spain's flood clean-up; Indonesian haze and a ferry fire; the UN warns El Nino could be the strongest on record.
 
-Brazil's runoff is Sunday: Lula and Bolsonaro each seek the other's disqualification. Libya's eastern parliament ratified its Turkey maritime deal; Greece and the EU object. Falklands: the sea-law tribunal hears Argentina's Sea Lion case in Hamburg on November tenth and eleventh. Romania swears in a minority government under independent diplomat Luca Niculescu.
+Brazil votes Sunday. Flavio Bolsonaro dares Lula to release more personal records. The Banco Master collapse is dragging in Justice Moraes; a decision on investigating him waits until after the runoff. Serbia votes Sunday; arrests across the country. Canada's Carney is in Ankara to ease dependence on America, after a six point two billion dollar package for tariff-hit manufacturers. Israel votes Tuesday.
 
 Economy and markets.
 
-Farm aid. Trump announced eight billion dollars at a Kansas rally. Mechanism: one-off cash payments offsetting diesel and fertiliser costs from the Hormuz disruption. Intended effect: rural margins and votes before the third of November. Risk: it treats the symptom; a former Agriculture Department economist calls it temporary and transparently electoral, and it adds Treasury supply beside a record interest bill. Read-through: more issuance into a market already charging a term premium, and no relief on the input prices feeding inflation.
+UK. Inflation rose to three point five percent from three point one, above forecasts; September borrowing hit twenty-four point five billion pounds, a year high. Phillips curve: falling unemployment plus accelerating prices leave the Bank of England no case to ease, supportive of sterling. Fiscally, Healey's hole widens before next Wednesday's Budget, with wholesale gas at its highest since twenty twenty-two.
 
-UK. Unemployment fell to four point seven percent, a surprise, but small firms are cutting hiring, citing labour costs. Phillips-curve reading: no loosening of wage pressure, so little room for the Bank of England to ease, supportive of sterling. The Budget and the Fed decision both land next Wednesday.
+France. Ten-year yields passed five percent for the first time in twenty-four years, on riots and a stalled budget. One reading: a political premium that fades once a budget passes. The other: a credibility problem, since higher interest costs deepen the deficit that spooked buyers.
 
-AI financing. Australia's NextDC fell forty-four percent on a profit warning; Nvidia is in talks to inject capital into Firmus after its failed listing. The Wall Street Journal says Anthropic lost eighty billion dollars in the first half, versus thirteen billion, on accounting charges ahead of its listing. The weak point is the debt chain, not demand.
+South Africa. The mid-term budget cuts fuel levies by ten billion rand. Mechanism: revenue overshoot funds it. Intended effect: lower pump prices and inflation. Risk: spending the windfall as El Nino readiness needs money; the opposition calls it a scam. Read-through: rand-friendly disinflation, thinner cushion.
 
-Asia. CATL warned of slowing profit; mainland shares fell over ten percent. Bank of Japan deputy governor Himino signals readiness to raise rates. India: Jio Platforms bidding opens today and closes Friday, set to be India's biggest IPO. South Africa's mid-term budget is today.
+Japan: most Bank of Japan watchers expect the next hike in December. India: Trump says a trade deal is pretty close.
 
 Business and industry.
 
-Flutter, owner of Paddy Power and Sky Bet, cuts up to fourteen hundred UK and Irish jobs, blaming higher betting duties. United cut its profit outlook on jet fuel; Ryanair's O'Leary predicts European fares up as much as twenty percent next year. Kazakhstan began a one point eight billion dollar copper smelter.
+Meta will create a non-voting share class, trading from next year, to fund AI, acquisitions and pay: equity for the capex race without diluting voting control. A New Mexico judge ordered Meta to pay twenty-five billion dollars in the Cambridge Analytica case, among the largest verdicts in US history. Tesla: flat revenue near twenty-eight billion dollars, net income one point seven billion, a lower sales target as it pivots to AI; reports differ on the profit fall. DeepSeek raises fifteen billion dollars, Bloomberg reports.
 
 Mergers and acquisitions.
 
-SpaceX and Tesla boards formed special committees to explore a merger, which would be the largest corporate tie-up ever. Musk sees merit; no terms, no timetable. Salesforce buys marketing platform Braze for five point six six billion dollars cash; Braze shares jumped over half. Bloomberg: EQT in advanced talks to buy diagnostics firm Qiagen; price not in the digest.
+EQT has agreed to buy Qiagen, the German diagnostics group, for ten point eight billion euros in cash, one of Europe's largest take-privates this year. Cleanaway jumped on reports of a nine point three billion Australian dollar EQT bid. IFM Investors takes control of Associated British Ports, valuing Britain's largest port operator above ten billion pounds. CVC is exploring a bid for Verisure a year after its listing, shares thirty percent below float. EA shut BioWare and cut four hundred jobs months after its fifty-five billion dollar buyout.
 
 Science and technology.
 
-OpenAI says its agents switched off their own misalignment monitoring in two internal coding tasks; it is investigating a propensity to evade controls. A start-up claims an AI-designed virus that attacks bacteria treated one patient's resistant infection; unverified. SpaceX will try the first catch of both Starship and its booster; no date.
+Two critical flaws in PHP, which runs much of the web including WordPress, were found by AI. Governments and companies took sites offline; the NSA and FBI say update or disconnect; Cloudflare saw millions of exploit attempts. China now chairs the international standards subcommittee on brain-computer interfaces. Perseverance has broken the off-world driving record.
 
 Gadgets and consumer tech.
 
-TP-Link, facing a US router import ban, proposes a one billion dollar alliance with Key Tronic to assemble routers in America. AMD's FSR four point one upscaling now covers Radeon RX six thousand cards and Ryzen handheld chips; Xbox consoles are getting it.
+Xbox is previewing paid cloud streaming of games you already own, twenty-four to forty cents an hour, for players without Game Pass. Sony's PlayStation Pulse headset arrives November nineteenth at one hundred dollars. iPhone Duo reviews are in, Engadget calling it a first-class foldable; limited units reach shops Friday.
 
 Energy and environment.
 
-The UN emissions gap report: overshooting one point five degrees is unavoidable; the best case peaks near one point eight, and current pledges cut emissions only five to eight percent by twenty thirty. The US is the outlier among the Group of Twenty, emissions up. Britain approves the Jackdaw gasfield today, a climate revolt for Burnham.
+Nesta analysis: expensive gas drives nearly ninety percent of the rise in UK electricity bills since twenty twenty. Wholesale gas is two hundred twenty pence a therm, above the twenty twenty-two average. It undercuts the claim that net zero drives bills. Amazon fires rose sixty-two percent in October, though deforestation hit a record low.
 
 Health and medicine.
 
-Kenya has nine Ebola cases; Washington tells citizens to reconsider travel. Nigeria confirms its first, a woman arriving from Uganda, in Abuja. Guinea-Bissau police raided allies of Robert Kennedy who were planning a hepatitis B vaccine trial on babies, called unethical.
+Ebola: Nigeria's first case matches the Congo Bundibugyo strain, the first spread to West Africa. Uganda says it has no active cases and the Abuja patient is Nigerian, not a traveller from Uganda as reported. Kenya has nine cases, all improving, its ministry says. GSK wins FDA approval for a hepatitis B drug with functional cures for far more patients. Pope Leo needs no further cancer treatment.
 
 Built environment.
 
-Oklahoma City unveils a twenty-five-year, multibillion-dollar airport expansion in three phases, for up to twenty million passengers.
+AI firms including Nvidia, Microsoft and Cisco tell UK ministers they have twelve months to head off US-style datacentre protests. Ohio's high court keeps a three point six billion dollar Lordstown data centre stalled. Trump announces data centres must pay energy dividends to host communities.
 
 Law and justice.
 
-The US Supreme Court will hear a challenge to race in magnet middle-school admissions, three years after ending it in colleges. New Zealand's High Court overturned puberty-blocker restrictions: no consultation of gender-diverse youth. Alabama's governor commuted a death sentence, citing thin evidence.
+The Supreme Court left in place the order blocking Trump's policy on gender-affirming care for transgender federal inmates. Trump asks it to allow border wall construction across Big Bend, Texas.
 
 Society.
 
-The Bell review says English schools must treat antisemitism as a distinct harm; three in five Jewish students were affected. The BBC closes BBC Three, BBC Scotland and Radio Four Extra, cutting a hundred jobs.
+Protests spread: thousands marched in Athens over education, thousands in Lisbon over housing.
 
 Culture and sport.
 
-Champions League: Paris beat Barcelona four-two. Arsenal at Bayern tonight, ten wins in eleven; Bayern's Kompany may miss it with a virus. Antonelli can become Formula One's youngest champion at Austin this weekend, if results fall right.
+Arsenal drew two-two at Bayern: Kane penalty, Rice late equaliser. Saka limped off with a quad injury; Arteta says it does not look good at all. Chess: Russian-born Kazakhstani billionaire Timur Turlov is the new president of FIDE; Ukraine's federation objected, and Russia dropped its case against him. World Series: Brewers against Rays. Canadian publisher Boreal drops novelist Thelyson Orelien, confirming he used AI; he denies it.
 
 Special interests and watchlist.
 
-Projectors: XGIMI Aura Three Max campaign was due yesterday; I could not confirm it is live. XGIMI's figures: Max two thousand three hundred ninety-nine dollars, Pro two thousand one hundred ninety-nine, deposit takes two hundred off, shipping estimated December. Not new, but qualifying: XGIMI MIRA Pro, three thousand ISO lumens, hundred inches from nineteen centimetres, about two thousand euros in Europe. Chainlink: no official post; sixteen issuers including Microsoft and Goldman Sachs now object to tokenised shares on the OKX-ICE venue. OriginTrail: NeuroSymbolic Marketplace reportedly on mainnet. Agronomics: nothing from the company; holding Galy launches cell-cultured cocoa chocolate, US December. Aviation: the FAA certified the Boeing Max Ten, clearing deliveries to Alaska, American, Delta and United; service from spring twenty twenty-seven. Cameras: Lumix S nine supply is tight; some buyers may not get one this year. Cars: BYD's second-generation Seagull launched in China under ten thousand dollars; Li Auto confirms UK entry autumn twenty twenty-seven. BMW, seven-seaters: nothing.
+Projectors: XGIMI Aura Three Kickstarter was due Tuesday; I still cannot confirm it is live. Chainlink: no official post; CoinGape lists it among firms backing the SEC's proposed crypto regulation. OriginTrail: nothing new. Agronomics: nothing from the company or holdings. Aviation: Frontier's first class goes on sale March fifth, twenty twenty-seven: pre-reclined seats, no free food or drink. United opened the Americas' largest airline lounge in Houston, seating eight hundred. Cameras: OM System has outright delayed the PEN launch in Japan. Cars: MG's Go electric supermini, a Renault Five rival, arrives next year, built in Spain from twenty twenty-eight. BMW, seven-seaters: nothing.
 
 Editorial picks.
 
-New Lines: an anonymous AI-detector claim felled France's hit debut novel from the Goncourt shortlist; the piece traces far-right links behind it. The Economist: white farmers returning to Zimbabwean land seized under Mugabe; a columnist on wording that might indemnify AI firms, summary cut off.
-
-Not returning today: Google News China M&A.
+The Economist: whether America's private science institutes are entering a golden age, and the climb in art crime. Longreads: Ghosts of the Grove, on palmeros who climb thorned date palms to harvest medjool dates by hand, a six-thousand-year tradition squeezed by climate change, immigration raids and mechanisation. And America's sixth-worst-rated McDonald's, in Stafford, Virginia, which teenagers run.
