@@ -595,10 +595,14 @@ to attach a repository to the Routine itself.
 ## 8f. HANDOVER OF 27 OCTOBER 2026 - read this first in a new session
 
 **What is live.** Two Routines, both self-bound to
-`session_0185VoQse63vkHmij4D2ZvLq`:
-- `trig_01HhCAjvDB7a7rz5SQUH9Keg`, "Daily briefing + podcast (this session,
-  subagents do the work)", `30 6 * * *`. It actually fires at about 06:39 UTC.
-- `trig_01EuFfazMAHARNmkBacZh5dT`, "Daily briefing backup check (runs the day
+`session_014xb3kPhnNdAY7g7h54eHm1` (moved there on 27 October 2026, late
+evening; the old ones, `trig_01HhCAjvDB7a7rz5SQUH9Keg` and
+`trig_01EuFfazMAHARNmkBacZh5dT` on `session_0185VoQse63vkHmij4D2ZvLq`, are
+deleted):
+- `trig_01Y59gAE8otKZrSYA6CDKVNS`, "Daily briefing + podcast (this session,
+  subagents do the work)", `30 6 * * *`. It actually fires a few minutes
+  after 06:30 UTC (the old one fired at about 06:39).
+- `trig_01QrACsoLLyo9Rr2dK4h5CnM`, "Daily briefing backup check (runs the day
   only if the 06:30 run did not publish)", `7 9 * * *`. It does nothing if
   today's `Briefing YYYY-MM-DD` commit is already on `origin/main`.
 
