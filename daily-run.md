@@ -17,7 +17,10 @@ and report. Edit this file to change how a day runs - no Routine update needed.
 ## PART A - DRAFT (drafting subagent)
 
 Working copy: `/home/user/daily-news-briefing`, branch `main`. Run
-`git pull origin main` first. Do NOT commit or push - Part B does that.
+`git checkout main && git pull origin main` first: a rebuilt container can come
+back on the session's own branch (it did on 27 October), and drafting there
+means Part B's push to `main` publishes nothing. Do NOT commit or push - Part B
+does that.
 
 1. Read these IN FULL before anything else. They are the system's entire memory.
    - `briefing-prompt.md` - the AUTHORITATIVE spec. Overrides anything here.
@@ -56,8 +59,9 @@ Working copy: `/home/user/daily-news-briefing`, branch `main`. Run
 
 ## PART B - VERIFY, PUBLISH, CONFIRM (publishing subagent)
 
-Working copy: `/home/user/daily-news-briefing`, branch `main`. Do not rewrite the
-brief's content - check it, and if a check fails, fix only the mechanical fault
+Working copy: `/home/user/daily-news-briefing`, branch `main`. Before committing,
+confirm `git branch --show-current` prints `main`; if it does not, stop and report.
+Do not rewrite the brief's content - check it, and if a check fails, fix only the mechanical fault
 (a stray digit, a markdown mark) or report it.
 
 1. Verify the draft yourself; do not take the drafter's word:
