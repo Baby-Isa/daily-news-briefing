@@ -592,6 +592,90 @@ prompt, confirm it with `list_triggers`, and only then delete the old one.
 Never go back to `create_new_session_on_fire` unless the product gains a way
 to attach a repository to the Routine itself.
 
+## 8f. HANDOVER OF 27 OCTOBER 2026 - read this first in a new session
+
+**What is live.** Two Routines, both self-bound to
+`session_0185VoQse63vkHmij4D2ZvLq`:
+- `trig_01HhCAjvDB7a7rz5SQUH9Keg`, "Daily briefing + podcast (this session,
+  subagents do the work)", `30 6 * * *`. It actually fires at about 06:39 UTC.
+- `trig_01EuFfazMAHARNmkBacZh5dT`, "Daily briefing backup check (runs the day
+  only if the 06:30 run did not publish)", `7 9 * * *`. It does nothing if
+  today's `Briefing YYYY-MM-DD` commit is already on `origin/main`.
+
+Read both prompts with `get_trigger` and copy them word for word when moving
+to a new session. Neither prompt names a session, so neither needs editing.
+
+**Moving to a new session.** The new session must be started on
+Baby-Isa/daily-news-briefing so the repository is attached. From inside it:
+1. `list_triggers`, then copy each prompt above exactly.
+2. Create two new self-bound Routines (no `persistent_session_id`, not
+   `create_new_session_on_fire`), with the same names, the same crons and the
+   same prompts.
+3. Confirm with `list_triggers` that both exist and are bound to the new
+   session.
+4. Only then delete the two old ones.
+5. Put the new ids and the new session id in this section and push to `main`.
+
+Make sure the working copy is on `main` (`git checkout main && git pull origin
+main`), not the session's own `claude/...` branch.
+
+**Lost days are expected, and they are not a pipeline fault.** Between 26
+September and 27 October, 11 days published nothing: 26 Sep, 3-5 Oct, 10-12
+Oct, 19 Oct and 24-26 Oct. The owner runs out of tokens early in the week, and
+while that lasts the session does not wake. The day's firings queue up, and
+they all arrive together when the session next wakes. Do not redesign around
+this, and do not propose a second session.
+
+When several firings arrive at once:
+1. Run `date -u`.
+2. Run only today's brief.
+3. Tell the drafting subagent the date of the last aired brief, so it judges
+   "new" against the gap.
+4. Tell the publishing subagent to add a `FAILED` line to `run-log.md` for each
+   missed day, in the same commit.
+
+The weekly usage limit is separate. It stopped the publishing subagent
+mid-run on 9 October, after the push, so that day still published.
+
+**Changes made since 25 September** (all on `main`):
+- `tools/check_render.py` plus Part B step 4. Explained earlier in 8e.
+- The backup Routine. Explained earlier in 8e.
+- 27 Oct: a branch guard in `daily-run.md`. The rebuilt container had come back
+  on the session branch, so Part A now starts with `git checkout main` and Part
+  B refuses to commit from any other branch.
+- 27 Oct: a new `Google News China M&A` feed in `feeds.txt`.
+  - The old query (`China merger acquisition OR buyout billion`, flagged QUIET)
+    drifted. Google ignored "China" and returned months-old, mostly non-China
+    deals, and it was flagged stale on most days from mid-October.
+  - The replacement puts China in the headline and limits results to the last
+    fortnight: `(intitle:China OR intitle:Chinese) (acquisition OR acquires OR
+    acquire OR takeover OR merger OR buyout) when:14d`.
+  - Tested on 27 Oct, it returned 25 items from the past week, nearly all
+    genuine China deals.
+  - It no longer needs the QUIET flag.
+  - `stake` and `"to buy"` were tried and rejected because they let in noise
+    ("what's at stake", soybean purchases).
+
+**What the main session should keep doing.** After Part B reports, check the
+facts yourself:
+- `git log -1 origin/main` and `git log -1 origin/gh-pages` show the push and
+  render times.
+- `git branch --show-current` shows `main`.
+
+Subagent reports have been accurate since 29 September, but on 27 and 28
+September the publishing subagent stopped before the render. Keep the daily
+report to three or four lines.
+
+**Open items.**
+- The Liberation Bioindustries RNS of 29 September has never been read. The
+  23 Oct brief covered the plant pause and the $25m raise from secondary
+  coverage.
+- Saturday's Longreads Top 5 was missing from the 17 October digest. Check
+  whether that feed has broken.
+- Rainfall forecasts in the WEATHER block have run extreme: 82.8 mm, which
+  fell to 25.2 mm the next day, and 125.8 mm for 24 October. The brief takes
+  them as given. A sanity check in `build_digest.py` may be worth adding.
+
 ## 9. Where things stand, 7 September 2026
 
 Working and stable: the digest build, the external cron, the TTS render,
