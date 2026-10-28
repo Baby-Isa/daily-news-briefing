@@ -623,6 +623,19 @@ Baby-Isa/daily-news-briefing so the repository is attached. From inside it:
 Make sure the working copy is on `main` (`git checkout main && git pull origin
 main`), not the session's own `claude/...` branch.
 
+**A new session needs the owner's go-ahead to publish, in its own chat.** On
+28 October, the first morning in `session_014xb3kPhnNdAY7g7h54eHm1`, the
+drafting step ran fine. Then Auto mode's classifier refused to launch the
+publishing subagent ("[Create Public Surface]"), because a push to `main`
+starts the public podcast render. `.claude/settings.json` did not help, and the
+old session had run in the same Auto mode with the same settings. The
+difference was the conversation: the old one held the owner's approval to
+publish, and the new one did not. Once the owner wrote "Publish today's brief
+and all future briefs" in this session, the same step went through, and the
+brief was published at 11:49 UTC. So when moving to a new session, have the
+owner say in that chat, before the first firing, that every daily brief may be
+published to `main`. Without that, the first morning stops after the draft.
+
 **Lost days are expected, and they are not a pipeline fault.** Between 26
 September and 27 October, 11 days published nothing: 26 Sep, 3-5 Oct, 10-12
 Oct, 19 Oct and 24-26 Oct. The owner runs out of tokens early in the week, and
