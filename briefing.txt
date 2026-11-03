@@ -1,86 +1,81 @@
 Weather.
 
-Today: seven to eleven, partly cloudy, two millimetres of rain, wind up to seven metres a second. Tuesday and Wednesday the same, barely a drizzle, Thursday cloudy and bone dry. Yesterday I called the week's rain a rounding error. Friday would like a word. Six millimetres Friday, nearly eight Saturday, six to nine degrees. The sky sat out the entire working week and is saving the lot for your days off. That is not weather, that is a grudge. Book the beer garden if you hate yourself.
+Today seven to twelve, fair, one point four millimetres of rain, wind up to seven metres a second. Fair, with rain. Sure. Then Wednesday to Friday: ten degrees, cloudy, dry as a spreadsheet. Saturday brings exactly one point four millimetres again, the sky ordering the same drink twice and tipping nothing. The highs go twelve, ten, ten, ten, nine: the temperature leaving the party without saying goodbye. Friday dawn is the coldest, six degrees and dead calm. Jacket, not a coat. You will check the app anyway.
 
 Politics and government.
 
-United States, midterms Tuesday. Times and Siena polls have Democrats ahead in Senate races in Michigan, Texas, Kansas, Maine and Ohio, with an edge in Alaska and a tie in Iowa. Polls have burned them before. A judge dismissed the Justice Department suit seeking to block Alaska certifying its Senate result if the Republican incumbent loses. In Michigan, Democratic congresswoman Haley Stevens endorsed the Republican, Mike Rogers, over her own party's nominee El-Sayed; Trump invited her to switch parties. Senator Chris Murphy had a stroke and is expected to recover fully.
+United States, midterms today. All of the House, thirty-five Senate seats, thirty-six governorships. Reuters and Ipsos have Trump's approval near a career low; Democrats start ahead, but control hangs on a few dozen close races. The Supreme Court, without explanation, refused the Justice Department's emergency bid to set aside twenty thousand disputed California ballots. A judge declined to halt Homeland Security demands that states screen ballots, noting states have largely rebuffed them.
 
-UK. As flagged, the King addresses Commonwealth leaders on slavery in Antigua Tuesday. Burnham is open to a formal apology; Badenoch is against; the Guardian reports Britain argued hard against reparations reaching the summit agenda. Britain would spend four hundred fifty million pounds a year on European Union student places to join the Made in Europe scheme. The home secretary is to announce rules making some migrants wait ten years or more to settle.
+UK. As flagged, Mahmood softened the settlement rules after a Labour revolt: care workers keep the five-year route, up to three hundred thousand people per the Guardian, while most others face ten years. The fifteen-year wait for carers is dropped. A draft food deal with Brussels would scrap most export health certificates and border checks, with Britain following European Union rules; the government claims five billion pounds a year, effect mid next year, summit on the twentieth. The King speaks on slavery today.
 
-Israel. The elections chief says the result is valid; the Shin Bet foreign-funding inquiry rests on suspicions, not findings. Right-wing protesters in Haifa demand a government without Arab parties.
+Israel. Herzog begins coalition consultations. The Arab-majority Joint List leader says reluctant opposition parties must accept political reality and join forces; Netanyahu says voters chose him.
 
-Poland: the European Commission backs parliament's right to appoint constitutional court judges; Tusk says he will not back down. Bulgaria elected its first female president, Iliana Iotova. India: tens of thousands rallied in Delhi demanding the election chief resign over the removal of one hundred thirty million names from the voter rolls.
-
-East Africa: Kenya's Ebola contacts, forty-six, leave quarantine Tuesday, when its candidate Okowa also faces the International Court of Justice vote.
+East Africa. Kenya's candidate Okowa faces the International Court of Justice vote today, as flagged; its forty-six Ebola contacts leave quarantine. Saudi Arabia has turned back over three hundred Kenyan jobseekers over Ebola. Tanzania: nothing new.
 
 Conflict and security.
 
-Iran. Trump says the war ends very soon, one way or the other: a deal, or what he calls the hammer. Iran warns a new round could outlast the last. Iranian negotiators had a third day with Qatari mediators in Doha. The UAE hopes for a breakthrough but is braced for the worst. Qatar's gas tanker was attacked in the Gulf; the UAE and Saudi Arabia condemned it. Yamaha pulled out of next weekend's Qatar MotoGP. The post-midterm strike decision we flagged is now a day away.
+Iran. The US struck Qeshm Island, in the Strait of Hormuz, on Monday, per the Wall Street Journal: limited and defensive, one of a series of secret small strikes, officials say, not a return to full war. Same day Trump raised doubts about resuming attacks and said a deal could happen; Iran reports intensive talks and offers to reopen Hormuz within two days, on strict conditions. Foreign Policy: Iran's terms include lifting all sanctions; the war has cost forty-seven billion dollars, and up to sixty-five percent of Patriot and eighty percent of THAAD interceptors are used. The post-midterm decision is a day away.
 
-Yemen. Saudi-led strikes hit Hodeidah, with casualties reported. The UN demands an investigation into the death of a staff member in Houthi custody.
+Ukraine. Russia refused to extend the Oleshky truce; Monday a strike on an aid centre and shelter in Zaporizhzhia killed at least twenty-six. The US will host Ukrainian and Russian delegations in Abu Dhabi on the tenth and eleventh. Five hundred approved Patriot missiles will not arrive before late twenty thirty. British and French peacekeepers after a ceasefire would be allowed to fire back and not rely on US systems like Starlink.
 
-Ukraine. The Oleshky truce, the war's longest, ended Sunday night, as flagged. Ukraine has resumed refinery strikes, reportedly two oil sites, defying Trump's pressure; the Kremlin says Kyiv is ignoring Washington. Air-raid alert apps were hacked on both sides; Kyiv's briefly showed false nuclear and chemical warnings.
-
+Freezers. A second wave of suspected cyberattacks warmed supermarket fridges in nine European countries; US officials suspect Iran behind similar attacks on military-base freezers.
 
 International affairs.
 
-Disasters, to know: a Learjet crashed near Palm Beach, Florida, killing nine after reporting icing; India evacuates thousands ahead of Cyclone Murasu, its second in a week.
+Disasters, to know: Cameroon steel-plant explosion, four dead; two helicopters collided near Everest, one dead; the National Transportation Safety Board says the Florida Learjet may have broken up in flight.
 
-The United Nations peacekeeping mission in Western Sahara ended after thirty-five years when the Security Council failed to renew it. Morocco welcomed that; the Polisario Front called it unacceptable. Canada's Carney gave the European Union six months to define what associate membership means. Politico reports diplomats fear Trump, after a midterm loss, could pull more troops from Europe or cut NATO funding.
+The US removes South Africa and Rwanda from the African Growth and Opportunity Act's duty-free access from next year, citing trade barriers and security. For South Africa, about a three point four percent tariff bump. China's party plenum moved to make leaders speak last and overhaul promotion rules.
 
 Economy and markets.
 
-AI. The global sell-off eased after the Nasdaq's worst month in over a year. Amazon, Alphabet and Microsoft say they will keep pouring money into data centres even as investors grow impatient. The Financial Times argues AI mania cannot survive higher rates: a higher discount rate cuts the present value of distant profits, and debt-funded builders suffer first. The other reading: hyperscalers fund capex from cash flow, so rates bite mainly on the leveraged fringe. With the Fed at three seventy-five to four and a December hike live, the first reading is being tested.
+Australia. The Reserve Bank hiked a quarter point to four point eight five percent, a fifth hike this year, highest since two thousand eight, as flagged. Mechanism: the cash rate, feeding straight into variable mortgages. Intended effect: cool demand so the oil shock does not set wage and price expectations. Risk: monetarists say that is right; supply-shock economists say tighter policy cannot cure imported energy costs and only deepens the slowdown, and New South Wales's premier warns shops will close. Read-through: the Bank of England decides Thursday and a Fed hike in December stays live.
 
-Fuel. The FT says petrol is set for a record on election eve, with the average over Trump's second term past the Biden era. Mechanism: a war-driven oil supply shock. Central banks must choose between looking through it and tightening, and three point seven percent inflation weakens the case for looking through. Phillips-curve economists say slack must cool prices; supply-shock economists say tightening just adds unemployment.
+Oil. Brent fell over six percent Monday to as low as one hundred five dollars fifty-five on Iran breakthrough hopes, then ticked up half a percent on the Qeshm report.
 
-Memory. Sam Altman met Samsung leadership to secure more RAM for data centres, per Tom's Hardware, while Apple's new chief executive, Ternus, faces his first earnings with memory costs surging. Demand still looks tight, against Kioxia's stall warning.
+Chips. Nvidia told cloud clients renting its chips that most of their customers must be non-Chinese, tightening beyond export controls. Apple's iPhone revenue hit a record fifty-seven point six billion dollars, up seventeen percent, but it warns of unprecedented memory costs on margins.
 
-Korea. South Korea's president proposed a record budget for next year that doubles spending on AI and chips, a fiscal bet on the cycle the Nasdaq is doubting.
-
-Calendar: Australia's central bank decides Tuesday, with a hike live.
+Pakistan's inflation eased to nine point six percent from ten point three. Payrolls Friday.
 
 Business and industry.
 
-Binance went back online Sunday and users withdrew three point six billion dollars, two point one percent of assets, then withdrawals stabilised. Not a run. Virgin Media O Two will cut thousands of jobs, the BBC understands; the number is not final. China's three biggest airlines are heading for full-year losses on fuel costs.
+Binance's net withdrawals reached four point seven billion dollars by Monday morning; North Korea calls the FBI's hacking allegation absurd. Ryanair may freeze pay and raise fares, saying fuel could cost two billion euros more in twenty twenty-eight unless the Iran war ends. Poundland's founder offers to invest as a minister meets the board.
 
 Mergers and acquisitions.
 
-Mobico, owner of National Express, agreed a recommended cash offer from Autobuses de Leon, owned by the Cosmen family's CMC Group and fund manager Asterion. Forty-six pence a share values equity at three hundred eight million pounds, enterprise value two point three two billion with debt. CMC already holds twenty-six percent, so Alsa, the Spanish bus operator it sold in two thousand five, returns to its family.
+Marvell will buy Lumentum, an optical components maker, for an enterprise value of one hundred fifteen billion dollars, one of tech's biggest deals. All stock: four and a half Marvell shares per Lumentum share, a twenty-four percent premium; Lumentum holders own a third. Close expected first half of twenty twenty-eight. Marvell wants optical switching to sit beside its AI networking chips. Lumentum fell six percent, Marvell three: investors doubt Marvell stock as currency. Signal: AI capex is forcing consolidation in networking. Intesa plans to launch its thirty-three billion euro Monte dei Paschi bid in late November.
 
 Science and technology.
 
-NASA is taking commercial proposals to boost Hubble's orbit; without one its time runs out in the early to mid twenty thirties. Swift, another NASA telescope, is about to fall to Earth. A simulated Mars crew emerged after three hundred seventy-eight days in isolation in Houston. The FT reports safety breaches at leading AI labs raise doubts they can keep systems in check.
+China disclosed a plan to land on the Moon within three years, with no crewed lunar flyby first. The Large Hadron Collider shows quark-gluon plasma, the matter of the Big Bang's first instants, even in small collisions. Queen's University Belfast students found Neptune's elusive Trojan asteroids.
+
+Gadgets and consumer tech.
+
+Apple's chief executive Ternus cannot say when iPhone Duo supply will meet demand, a follow-on to its sell-out. A sixteen-gigabyte Raspberry Pi Five now costs three hundred eighty-five dollars, more than triple its launch price, per Tom's Hardware, on memory costs. Meta ends Quest Two and Quest Pro software updates by March twenty twenty-seven, with last version two hundred thirteen; security patches continue.
 
 Energy and environment.
 
-China exempts qualifying sodium-ion batteries from consumption tax through twenty twenty-eight, as Hina plans a ten gigawatt-hour Wuhan plant for commercial electric vehicles. Delhi added parking fees and work-from-home orders against toxic smog.
+William Nordhaus, the Nobel economist who argued a carbon price was the cheapest route to cutting emissions, has died. OPEC plus holds December output flat. COP thirty-one in Antalya, Turkey, soon: Turkey hosts, Australia leads talks on climate finance.
 
 Health and medicine.
 
-Kenya's Ebola count stays nine; five patients await second tests. The FDA approved a gene therapy for Sanfilippo syndrome, a fatal childhood brain disease; I could not confirm the date.
-
-Built environment.
-
-National Grid will site Britain's biggest substation on Teesside to serve a planned giant data centre. Bhutan raised one hundred eight stupas along twelve kilometres of riverbank for its planned mindfulness city, a tourism push.
+Ebola: Congo deaths reach five thousand three hundred seventy-two, fatality above half; Nigeria's suspected cases tested negative. The FDA approved a generic HIV prevention shot, lenacapavir, widening access for poorer countries. A Washington state resident died of bird flu, the first US death in a year.
 
 Law and justice.
 
-Police held three hundred twenty-five people at Saturday's Palestine Action protest outside the US embassy in London, up from yesterday's one hundred thirty-nine. The Supreme Court hears the ban challenge Wednesday.
+A judge threw out the case against former FBI officials over the Hunter Biden probes, accusing the Justice Department of weaponization. Snap settled mid-trial with two teens alleging its design caused depression. Palestine Action's Supreme Court hearing is Wednesday.
 
 Society.
 
-France opened an attempted-murder inquiry over petrol bombs thrown at security forces after Saturday's cost-of-living protests; German violence spread to Frankfurt, Cologne, Hamburg and Berlin.
+French student protests resumed as pupils returned to school.
 
 Culture and sport.
 
-Formula One: Kimi Antonelli, twenty, became the youngest world champion, finishing third in Mexico City behind Verstappen and Hamilton, as flagged. Hamilton laments Ferrari's missed one-two after a Leclerc clash. FIFA: the New York Times reports it quietly paid millions in Infantino's taxes, never disclosed, despite promising to publish executive pay.
+Court of Arbitration for Sport ordered the International Ice Hockey Federation to readmit Russia immediately, threatening Ukraine's first world championship in twenty years. Pope Leo's tour opens Friday in Uruguay, reaching Argentina's critical bishops Sunday.
 
 Special interests and watchlist.
 
-Arsenal won one-nil at Liverpool, Havertz's early goal, their first Anfield win in fourteen years, going three points clear; Dowman's ban began. Chainlink, OriginTrail: nothing official. Agronomics: nothing from the company; sector, Beyond Meat puts its mycelium steak in Sprouts stores nationwide before earnings this week. Aviation: Pakistan International received its first Boeing Dreamliner; Southwest's first Max seven jets enter service in March, thirteen seats more than its older ones. Projectors, cameras, cars, seven-seaters: nothing.
+Arsenal: Slavia Prague away Wednesday, Champions League; kick-off unverified. Liverpool had no shot on target at Anfield, a first since records began. Saka's injury has no return date. Chainlink: Aave adopts its twenty-four-seven pricing for tokenised stock collateral; Nvidia and Nike joined fifty firms objecting to the OKX-ICE tokenised stock venue. OriginTrail: nothing. Agronomics: nothing from the company; holding Meatly picked North Acton for its twenty twenty-seven production site. Aviation: United's Kirby says Boom's Overture supersonic jet will miss its twenty twenty-nine target; Delta's chief will fight Heathrow's move splitting it from Virgin Atlantic. Projectors, cameras, cars, seven-seaters: nothing.
 
 Editorial picks.
 
-Monday; no Intelligence episode in the digest. Rest of World: AI costs more outside English; the most expensive of the twenty biggest languages use up to five times the tokens of the cheapest, up to seventeen times across two hundred. New Lines: Iraq's fuel shortage under the Hormuz closure; oil is ninety percent of public revenue and over ninety percent of exports passed through the strait. Longreads: a Texas cop signs on with ICE and a small town fractures.
+Tuesday. Economist Intelligence: young people prefer shares to bricks-and-mortar; Houdini's lessons in fame, a century after his death. Rest of World: startups edit Chinese open AI models to strip censorship for Western firms. Longreads: Gen Z job-hunters feel they are applying into a void.
