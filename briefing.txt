@@ -1,83 +1,87 @@
 Weather.
 
-Today eight to ten, cloudy, under a millimetre of rain, wind up to seven metres a second. Thursday: same, photocopied. Friday is the only day with ambition, two point six millimetres, a drizzle with a business card. Then Sunday. Three degrees at dawn, partly cloudy, bone dry, colder than anything this week, and you will stand in the road scraping a windscreen in your slippers. Monday claws back to ten. Gloves out of the drawer, you absolute hero.
+Today seven to ten, cloudy, under half a millimetre of rain, light wind. Friday, nearly three millimetres, and the highs sit at ten through Saturday, so you do not even get the dignity of proper cold. Then it falls down the stairs. Sunday dawn, four degrees. Monday, two, the coldest morning of the week, when your breath files a complaint and your car files a bigger one. Dry, so no excuses. Wednesday is the sting: seven millimetres, the week's wettest, back-loaded like a bad energy bill. Jacket today. Coat Sunday. Umbrella Tuesday. Write it down, you absolute goldfish.
 
 Politics and government.
 
-United States. Midterms done. Democrats are projected to take the Senate and the House, per the Financial Times and NPR; the House margin is not yet final. Senate flips: Texas, Talarico over Paxton; Kansas, first Democrat since nineteen thirty-two; Iowa; South Carolina, where Darline Graham lost; North Carolina; Maine, Susan Collins out; Ohio, Sherrod Brown back. Ossoff held Georgia. Governors: Hinojosa beat Abbott in Texas, Acton beat Ramaswamy in Ohio. Missouri voters rejected both a redrawn congressional map and an abortion ban. Trump: he was not on the ballot. Result is divided government: subpoenas, and a veto over spending.
+United States. Midterm fallout. Alaska and Mississippi Senate races are uncalled, Democrats narrowly ahead; Mississippi has no recount law. Vance says the Iran war is why Republicans lost. Trump concedes the war and fuel prices hurt, but says Iran had to be done and continues. House Speaker Johnson will not seek to stay Republican leader. Democrats now hold at least twenty-eight governorships. Their lever is the purse: nearly ninety billion dollars of Iran war funding is requested, on top of a one point five trillion dollar Pentagon budget.
 
-UK. The King called Britain's role in the slave trade shameful at the Commonwealth summit in Antigua, and stopped short of an apology; Burnham is weighing one. Palestine Action's Supreme Court challenge to its terror ban begins today, two days. Hong Kong British National Overseas visa holders are exempt from the ten-year settlement wait. MPs warn of a catastrophic event at Parliament without urgent renovation.
+UK. Britain agreed to structured, time-bound talks on the harms of the slave trade; the Prime Minister rules out reparations, and no date is set. The Palestine Action Supreme Court hearing continues today.
 
-Israel. President Herzog starts consultations today; neither Netanyahu nor Eisenkot has a majority, and the Arab parties hold the key. Trump says the US will end its annual three point eight billion dollars of military aid at year end, because Israel no longer needs it.
+France. General strike today, over two hundred twenty demonstrations against living costs.
 
-East Africa. As flagged, Kenya's Phoebe Okowa won re-election to the International Court of Justice, nine years, after a third-round vote. Tanzania: nothing new.
+Israel. Herzog has opened coalition talks. The election commission found no fraud, rejecting Netanyahu's claim.
+
+East Africa. Kenya: the World Bank says corruption costs about two percent of output a year, and lifts its Kenya growth forecast to four point six percent. Tanzania: nothing new.
 
 Conflict and security.
 
-Iran. Trump confirmed a second US strike, on an Iranian anti-aircraft site Tuesday, after Qeshm. Iran calls the US reply to its Hormuz reopening plan unconvincing. Trump told the Financial Times the US is locked and loaded but there may be no reason to go, because it is getting what it wants. Qatar is working on an interim deal. Iran's negotiator Ghalibaf says Americans voted no to war. The post-midterm strike decision is now live.
+Iran. The Revolutionary Guards say two tankers and a tug caught fire in Hormuz after taking an unauthorised route; Tehran says four tankers hit mines. Washington sanctioned Indian and Turkish firms for aiding Iran. Reuters analysts: Trump faces a choice of deal or escalation, with few good options.
 
-Ukraine. Zelensky says thirty-three dead at the Komyshuvakha aid hub, over fifty possibly under rubble. Russia hit the grid in one of its largest raids; Kyiv water was cut. Abu Dhabi talks are the tenth and eleventh. Ukraine says its hackers breached Russia's emergency alert app.
+Yemen. Saudi Arabia and Syria signed a defence pact in Riyadh. Houthi attack killed four; government forces gain in al-Jawf and Taiz.
 
-Freezers. Cyberattacks hit UK meat processors. Politico reports suspicion on Russia; US officials earlier suspected Iran. Unsettled.
+Ukraine. Zelensky puts the Komyshuvakha dead at forty, with over fifty missing. Melania Trump hosts Ukrainian and Russian officials at the White House; Moscow sends its rights commissioner and Dmitriev, if visas clear. China confirms talks on a Trump-Xi-Putin meeting. The EU's draft accession roadmap sets no membership date. Abu Dhabi talks remain the tenth and eleventh.
 
 International affairs.
 
-Disasters, to know: flash floods in the US Southwest; floods on Rhodes; Cyclone Murasu's landfall in India; Typhoon In-fa nearing Japan's Ogasawara islands. Seven European flights and a cruise ship got bomb threats, all false.
+Disasters, to know: a tornado hit Chapeco airport in southern Brazil; fire at a Panasonic plant in Taiwan, five hurt, two missing.
 
-Spain's transport minister Puente resigned over the Toledo train crash, sixty-nine dead, a blow to Sanchez before the snap election this month. South Africa votes today in local elections; the ANC is under pressure over services, and ballot stores were targeted in several provinces. Senegal's opposition-led parliament rejected the revised budget, a setback for International Monetary Fund talks. Kim Jong-un's sister rejects further talks with the US.
+Hong Kong jailed Joshua Wong for ten years over foreign collusion, his second national security conviction. South Africa counts municipal votes; the ANC faces coalition haggling. Ethiopia expelled six Sudanese diplomats amid accusations it lets the RSF paramilitary launch drone strikes from its soil. Morocco says it will keep the Western Sahara ceasefire after the UN mission lapsed. Paraguay seized Ueno Bank, three million customers, deposits frozen, over eight hundred million dollars of public funds trapped.
 
 Economy and markets.
 
-Stocks and the AI trade. The Financial Times: global shares slid on Democratic wins, as traders bet a Democratic Congress slows the infrastructure build-out behind growth. Japan's Nikkei fell as much as four point eight percent, chip and AI shares down over thirteen. Wall Street, by contrast, recovered Tuesday afternoon from an AI-spending selloff, and the Guardian saw little midterm effect. Hold both open.
+Bank of England. Decides at noon; most analysts expect Bank Rate up a quarter point to four percent, the first rise in over three years. Mechanism: it held at three point seven five in September, six to three, with three voting to hike; inflation is three point five percent on energy. Intended effect: stop energy prices hardening into wages and expectations, a Phillips curve logic. Risk: critics say energy is a supply shock rates cannot fix, so tightening costs jobs and mortgage-holders for no price relief. Read-through: sterling is already at its highest against a basket since the Brexit referendum and the dollar slid after the midterms, so cable has support; a dovish split could dent it. Outcome unknown at drafting. Payrolls Friday.
 
-Two readings. Gridlock view: a divided Congress cannot pass new spending or tariff law, removing fiscal impulse but also tail risk. Oversight view: subpoenas and scrutiny of data-centre and chip deals. The practical lever is permitting: Senate leaders have teed up a reform vote after the midterms, and that governs how fast data centres get power.
+AI trade. Asian tech stocks slid on fears a Democratic Congress slows data-centre build-out. The Financial Times says results touch forty-five percent of planned expansion, yet sees a silver lining for investors. Voters rejected data centres in forty-five local ballot measures, and Texas, the fastest-growing market, now has a Democratic senator and governor. Reading one: fewer sites strengthen owners of existing capacity. Reading two: less build means fewer orders for Nvidia and memory. Microsoft reportedly rejected a multibillion dollar AI deal with Britain's Nscale. The backlash shows across many feeds; say if you want it as a standing lane. Oil fell below a hundred dollars on peace hopes.
 
-Supplier demand is not wobbling: AMD posted record thirteen point four billion dollar quarterly revenue and guided to seventeen billion next quarter on data centres. Oracle cancelled a seven billion dollar Tencent AI deal under Trump pressure, so US infrastructure groups are squeezed between Washington and Chinese partners.
-
-China: core dividend growth was five point three percent, lagging global, casting doubt on Beijing's stock-stabilisation plan; Chinese AI shares are slumping too. Vietnam has overtaken Indonesia on per-person output. Kenya's NCBA cut its growth forecast to four point eight percent.
-
-Bank of England decides Thursday; payrolls Friday.
+Elsewhere: Philippine inflation hit its highest since February twenty twenty-three on petrol. Indonesia's third quarter growth, five point four seven percent, beat forecasts. California's billionaire tax is set to fall, a rare mega-donor win.
 
 Business and industry.
 
-Canva is cutting or reassigning twelve hundred seventy-one people, twenty-two percent of staff, after its hardest year. Booking.com takes a one billion dollar charge over a possible Federal Trade Commission settlement. Drax's owner struck a twenty billion pound deal for Britain's largest AI data centre at the power station. Binance says the six point three billion dollar heist began in June with a tampered installer from a malicious ad, then fake job interviews and an internal AI tool.
+Poundland's owner is in crunch talks with the Business Secretary as collapse looms. Australia's David Jones, a hundred and eighty-eight years old, entered administration; its thirty-eight stores trade on. Qualcomm says smartphone sales are down about a fifth on last year and is pivoting to data centres.
 
 Mergers and acquisitions.
 
-Brussels cleared China's JD.com to buy MediaMarkt owner Ceconomy for two point two billion euros, despite finding it benefited from state subsidies. CVS is exploring a break-up of its one hundred seventeen billion dollar empire, with a possible drugstore spin-off, as pressure grows on pharmacy benefit managers and insurers.
+China has reportedly blocked SoftBank's five point four billion dollar purchase of ABB's robotics arm. Its planning agency told SoftBank; China is the unit's biggest market, and reported reasons are supply-chain security or robotics data going abroad. ABB keeps the unit. CVS will split its pharmacies from insurance and benefits management in twenty twenty-eight. AstraZeneca reportedly bid ten billion dollars for obesity drugmaker Rhythm.
 
 Science and technology.
 
-Europe's Hera probe has its first look at Dimorphos, the asteroid NASA's DART spacecraft hit. NASA's Swift observatory, over three thousand pounds, is expected to re-enter today; most will burn up. NASA asks industry for ideas to save Hubble. Radio data suggests a hidden companion star, Siwarha, is ploughing through Betelgeuse's atmosphere.
+A European orbiter finds gas seeping above volcanic rifts at Alba Mons: Mars may be sleeping, not dead. NASA's Swift telescope fell back to Earth after two decades; its rescue failed. Uranium-cube calculations suggest Heisenberg underestimated the material Germany's nuclear project needed.
+
+Gadgets and consumer tech.
+
+Motorola's Signature twenty-seven launches today, the first phone on Qualcomm's Extreme chip, with a dedicated action sensor for fast subjects and a very bright screen. Price and sale date are unannounced. Macronix, a main maker of ROM chips in Switch cartridges, is quitting to chase AI data-centre chips, which could raise physical game prices.
 
 Energy and environment.
 
-Carbon Brief: twenty twenty-six likely ties twenty twenty-four as the warmest year, with El Nino strengthening; August was the warmest on record. Aramco is expanding its East-West pipeline to carry up to ten million barrels a day, bypassing Hormuz. UK climate minister Katie White says COP thirty-one in Antalya must answer "really scary" science.
+Brazil published two voluntary roadmaps before COP thirty-one opens next week in Antalya: one on deforestation, one on moving off fossil fuels, tailored by country, aiming at twenty thirty-three. America's oil industry earned over one hundred thirty billion dollars during the Iran war, nearly triple a year earlier. Britain will legislate to ban new North Sea drilling, per a BBC headline. From the Philippines to Pakistan, the war is driving households to solar and batteries.
 
 Health and medicine.
 
-A child died of measles in New York State, its first fatal case in thirty years; Governor Hochul points to falling vaccination. Kenya discharged five Ebola patients after negative tests; two remain in hospital. Australia approved its first weight-loss pill of the GLP type.
+A British healthcare worker infected with Ebola in Congo is flown home; public risk is low. The WHO approved trials of two more Ebola vaccines. An eighty-cent plastic drape is helping save thousands of women from dying in childbirth.
 
 Built environment.
 
-Mexico's five point three billion dollar Queretaro-Irapuato train line is a quarter built.
+Peru braces for a super El Nino; the last one displaced one point seven million people.
 
 Law and justice.
 
-The jury in Russell Brand's rape trial is considering verdicts. Andrew Mountbatten-Windsor is called to give evidence at a fraud trial in December. An order from Trump gave most companies one hundred eighty days to stop trading with the International Criminal Court, and its officials urge Europe to shield it.
+The Ninth Circuit refused to rehear, six to five, leaving a pause on limits to Justice Department contact with election officials. A New York judge blocked deporting about two hundred Afghans to Afghanistan or Pakistan. The ICC president condemned Trump's sanctions on nine of its eighteen judges.
 
 Society.
 
-Spanish police dismantled a Madrid housing-protest camp ahead of the snap election.
+Cocaine overtook heroin as England and Wales's leading cause of drug deaths.
 
 Culture and sport.
 
-Canada, Sweden and Finland, among others, now refuse to play Russia at ice hockey after the sports court reinstated it. Tenerife striker De Miguel died after an on-pitch collision; Spanish police opened a manslaughter inquiry. Paris Saint-Germain beat Villarreal six nil.
+Fenerbahce ended Liverpool's perfect Champions League start. Alan Jones, Australia's nineteen eighty Formula One champion, died aged eighty. A Brazilian under-twenty match saw a record fifty-three red cards.
 
 Special interests and watchlist.
 
-Arsenal: at Slavia Prague tonight in the Champions League, kick-off unverified. Arteta says Saliba is ready for his first appearance of the season. Chainlink: its Asian equities streams now cover over forty trillion dollars of stocks; objections to the OKX-ICE tokenised stock venue reach fifty-six, adding Tesla, SpaceX, Amazon and Netflix. OriginTrail: nothing. Agronomics: nothing from the company. Sector: the UK-EU food deal gives novel foods, including cultivated meat, a temporary exemption, preserving Britain's regulatory progress. Holding Onego Bio is seeking a land-deal extension after a lender setback. Aviation: Lufthansa signed one point two billion dollars for forty-four point nine percent of TAP; the FAA ordered Boeing seven eight seven fuel-tank inspections over lightning risk. Cameras: OM System's retro PEN is on sale in the US and UK; price not in the digest. Cars: Xpeng's three-row G nine L launches in Thailand on the eleventh; seat count not in the digest. Projectors, seven-seaters: nothing.
+Arsenal: beat Slavia Prague two one in Prague, Madueke and Gyokeres scoring, Slavia pulling one back late. Chainlink: ApeChain plans to move from LayerZero to Chainlink cross-chain tokens for APE and USDC; migration steps and legacy bridge shutdown are unspecified. Apex Group, T-REX Network and the E R C thirty-six forty-three Association unveiled a Chainlink-powered, Swift-aligned compliance framework for onchain bonds. OriginTrail: nothing. Agronomics: nothing from the company or its holdings. Aviation: Qantas retires its A three-eighties four years early; Boeing says Avolon's triple-digit order is for Max Ten jets; Arab airlines face a collective loss of three point eight two billion euros this year. Cameras: OM System's PEN is second among B and H's October bestsellers, behind the Ricoh GR IV. Projectors, cars, seven-seaters, BMW: nothing.
 
 Editorial picks.
 
-Wednesday. Economist Intelligence: Belarusian culture looks increasingly Russian; the world is taking to biltong. New Lines: Mbappe's throwaway Mao line on French television cost him Chinese sponsors and has Real Madrid and La Liga scrambling to protect their China market. Also, how the "Muslim Brotherhood" label entered the US midterms.
+Thursday. Economist Intelligence: the midterms episode, asking what the thrashing means for Trump and MAGA and for the future of the free world. Longreads: the New Yorker on Terence Tao, as AI solves problems that stumped mathematicians for decades and problem-solving decouples from insight; and whether virtual fencing can replace the American West's costly barbed wire.
+
+Not returning today: Green Queen, an Agronomics source.
