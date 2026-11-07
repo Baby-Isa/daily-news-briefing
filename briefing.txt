@@ -1,87 +1,91 @@
 Weather.
 
-Today six to eleven, cloudy, a fifth of a millimetre, which is the sky clearing its throat. Saturday is the wet one, two point six millimetres, the week's wettest, and naturally it lands on your day off.  Monday is the cold one, four to seven, fair and bone dry, smug about it. Then Wednesday, ten to thirteen, the warmest of the lot: four days dressed like a Victorian explorer and the sky says only joking. Jacket today, coat Monday, you absolute weakling.
+Today four to ten, cloudy, bone dry, so the wet Saturday evaporated and you lose your excuse. Sunday and Monday copy it, Monday dawning at two degrees, the coldest of the week. Then the rain applies for a job. Tuesday is the intern, one point three millimetres. Wednesday gets promoted, two point eight. Thursday is the director, three point three with wind to seven, throwing its weight around. Jacket today, coat Monday morning, umbrella Tuesday on. Yes, you.
 
 Politics and government.
 
-United States. Aftermath. Defence Secretary Hegseth vows to fight an impeachment push, calling the Iran war courageous and historic; the White House denies he and Rubio are leaving. Trump's first act after the rout: declaring the Oval Office and Cabinet Room a national monument so successors cannot redecorate. Alaska and Mississippi Senate calls are pending.
+United States. Stephen Miller replaces Susie Wiles as chief of staff from Monday; Wiles moves to Trump's political operation. Justice Department drops its suit over twenty thousand California ballots. Democrat Colom narrowly leads in Mississippi's uncalled Senate race. Congressman Massie says he will file impeachment articles against Hegseth next week; Jeffries says Hegseth must go, stops short of impeachment.
 
-UK. Burnham says his long-awaited ten-year plan may slip to January.
+Paraguay. Correcting yesterday: the Senate did remove President Pena, who is under house arrest; Vice President Alliana is sworn in. Protesters chant "out with them all".
 
-Israel. Eisenkot has won sixty-seven recommendations, Arab lists included, a majority; Herzog names his pick Sunday.
+UK. Government extends Palantir's NHS contract while drawing up a British alternative.
 
-East Africa. Kenya: Matiang'i and Orengo take over as chiefs of the Ukombozi opposition bloc; the Shakahola sentencing is due today. Tanzania: a verdict is expected in opposition leader Lissu's treason case.
+Israel. Opposition says its bid to oust Netanyahu is progressing after one leader lifted his veto on ultra-Orthodox military service. Herzog names his pick Sunday.
+
+East Africa. Kenya: Shakahola preacher Paul Mackenzie sentenced to two hundred years. Kalonzo Musyoka's convoy was attacked; opposition blames Ruto. Tanzania: Lissu cleared of treason, jailed four years for inciting unrest. Somalia: Supreme Court rules the president's one-year term extension unlawful. Uganda: Muhoozi announces he is leaving the military.
 
 Conflict and security.
 
-Iran. Trump says he may have to destroy the rest of Iran: you will know soon enough. Iran has sent a nuclear proposal via Qatar, to be discussed only after Washington meets Tehran's seven demands. Iran says five tankers caught fire on mines in Hormuz. Iraq's prime minister urged armed groups to stay out of any retaliation.
+Iran. Trump confirms limited strikes on an Iranian air defence site at Qeshm: "minor strikes". Washington offers twenty million dollars for information on Iran's nuclear programme. Iran says its forces are stronger than at the war's start and bases will not be rebuilt. Qatar says mediation continues, the crisis cannot be left unresolved. Britain's maritime monitor counts eleven ships attacked in a week, three sunk.
 
-Gulf. Turkey ratified the Mecca defence pact with Saudi Arabia and Pakistan, clearing military support for Riyadh. A Houthi missile aimed at Medina was intercepted.
+Gulf. Syria has sent limited military personnel to advise Saudi Arabia. A Houthi cruise missile aimed at Riyadh was intercepted. Saudi Arabia denies a report that the Houthis demanded fifty-one billion dollars to stop.
 
-Ukraine. Zelensky says Russia has damaged every power plant and asked Latin American leaders for grid equipment. Trump predicts a very big deal covering Ukraine and all of Europe after an unscheduled meeting with Kremlin envoy Dmitriev. Abu Dhabi talks stand for the tenth.
+Ukraine. Russian missiles hit Kyiv, two hurt. Melania Trump hosted Russian and Ukrainian officials on the Oleshky evacuation; Trump promises a big, beautiful agreement. Black Sea strikes escalate before Abu Dhabi talks on the tenth. Russia ships pig iron via Murmansk, first time in thirty years, to dodge Ukrainian strikes.
 
-Europe. A second wave of hoax bomb threats hit at least twenty-seven flights; fighters escorted some. Russia is suspected, unproven.
+Europe. Ireland calls the bomb hoaxes a likely coordinated campaign; Irish newsrooms were evacuated. Security agencies probe a Russian origin, unproven.
 
-West Bank. Settlers seized eight homes near Jericho.
+West Bank. Settler attacks on the olive harvest reach three hundred seventy-seven, a record since two thousand six.
 
 International affairs.
 
-Disasters, to know: six dead in a New York building fire; eleven dead in a bus-truck crash near Pakpattan, Pakistan; El Nino flooding in the Galapagos, one dead.
+Disasters, to know: magnitude six point one earthquake off Tokyo, no tsunami alert; Delhi the world's most polluted major city on Diwali eve; fifty-four Malaysians missing in Nepal-Tibet floods.
 
-Paraguay: President Pena resigned over the Ueno Bank collapse, but Congress lacked a quorum to accept it, so he remains in office and says he will face impeachment. Nigeria: a court voided Atiku's opposition nomination two months before the election; he will appeal. Indonesia: a fourth senior police officer is named in the wiretapping case against President Prabowo; three, including the former police chief, are already held. South Africa: the ANC is heading for its worst local result. France: fourth national strike day.
+France: protests again today after Thursday's general strike. South Africa: first results put the ANC near thirty-two percent, an all-time low. Germany: Merz's conservatives poised to nominate Ilse Aigner as first woman president. Spain: EU prosecutors open a second fraud probe into rail funds after the crash that killed sixty-nine. US-China: Bessent and Greer spoke with He Lifeng ahead of Trump and Xi's Shenzhen summit, pressing China on farm purchases and rare earths.
 
 Economy and markets.
 
-AI trade. Wall Street lost about three point two trillion dollars Thursday, the Nasdaq one hundred down six point four percent. The cause is political: Democratic control of Congress and forty-five local votes restricting data centres raise the odds of curbs on AI build-out. The Nikkei fell over seven percent, below sixty thousand for the first time since May; Seoul's Kospi fell under five thousand. Reading one: slower build means fewer orders for Nvidia and memory makers, so capex-driven earnings get repriced. Reading two, the Financial Times: Congress changes little, since Trump keeps executive power and permitting is local, so this overshoots. OpenAI pledged no more non-disclosure agreements with officials on data centres. Payrolls land this afternoon.
+Payrolls. With the Fed holding last week and a December move expected, America added one hundred sixty-five thousand jobs, beating forecasts, unemployment lower: low-hire, low-fire. Phillips-curve reading: tight labour plus an energy shock makes a December Fed hike likely. Supply-shock reading: hikes cannot cut an oil price, only demand. Markets lean to the first.
 
-Bank of England. Mechanism: Bank Rate up a quarter point to four percent, the first rise in over three years; the governor signals another soon. Intended effect: stop an energy shock hardening into wages, Phillips curve logic, with the Bank warning inflation near five percent next year. Risk: it is a supply shock rates cannot fix, so mortgage holders pay for no price relief. Read-through: the BBC's Faisal Islam expects one more rise, then a stop; sterling, at its strongest since the Brexit vote, gets rate support against a dollar that weakened after the midterms.
+AI trade. Europe and Asia fell Friday; the US rebound was feeble against past recoveries. Voters rejected data-centre projects in all but one of forty-one local votes, and most exit-poll voters said AI does more harm. Mechanism: curbs mean slower build, fewer chip orders. Anthropic still plans to list before Thanksgiving, targeting one and a half trillion dollars. OpenAI raised eleven billion more at one point two five trillion.
 
-Elsewhere: developing-country debt hit a record nine point four trillion dollars, the poorest paying the highest interest since the late nineteen eighties. Mexico's US trade surplus jumped twenty-six percent to a record one hundred eighty-four billion dollars in nine months, on AI hardware.
+Mexico. Banxico cut a quarter point to six and a quarter percent, against expectations, while raising its inflation forecast: easing as the Fed and Bank of England tighten, a bet that pressure fades.
+
+UK house prices fell at the steepest rate in over three years.
 
 Business and industry.
 
-Poundland draws a second rescue bidder. Amazon collected sixty-six point one billion dollars in seller fees and advertising last quarter, ninety-six point six percent of the sixty-eight point five billion it made selling goods itself. BT is cutting almost eight thousand jobs.
+Tesla will end Cybertruck production in Texas by mid-next year, freeing the plant for the Cybercab robotaxi; weak demand killed it. Mattel cut its forecast as Barbie stumbles. Chainalysis says Binance-hack funds are flowing to Chinese launderers. Nvidia: the Financial Times says US intelligence believes Jensen Huang had a relationship with an alleged Chinese spy; Congress has summoned him.
 
 Mergers and acquisitions.
 
-Shield AI will buy radar maker Echodyne for five point three billion dollars while raising two and a half billion at a twenty-eight point eight billion valuation. Wendy's rejected Trian's one point four billion dollar offer and adopted a poison pill; a hostile campaign looms. Germany is close to buying half of tank maker KNDS.
+Adani Ports buys Dutch liquid-storage firm Evos for two point nine billion dollars, an Indian push into European ports. Azerbaijan's SOCAR buys Haynesville gas interests for one point six five billion. Fox completed its twenty-two billion dollar Roku purchase. Silver Lake and Saudi PIF reportedly explore a twenty-five billion dollar buyout of Unity, after EA.
 
 Science and technology.
 
-Astronauts finished installing the space station's next-generation solar arrays. Blue Origin's next New Glenn launch slips to January after a May pad explosion; it also announced a third stage and a new engine it says costs a quarter as much. China plans Moon landings before twenty thirty.
+Britain launched Titania, a military satellite. NASA's Swift telescope fell to Earth after nearly twenty-two years. China's space station set a record low temperature for physics experiments. AST SpaceMobile will build its own rocket, Blacklift, debuting twenty twenty-eight.
 
 Gadgets and consumer tech.
 
-Motorola's Signature twenty-seven, launched Thursday, costs about sixteen hundred dollars per Ars Technica; sale date unannounced. Bose is recalling over six hundred seventy thousand S one Pro speaker battery packs in the US and Canada over fire and overheating risk. Nintendo says Switch Two sales fell forty-one percent after its price rise, but it has enough memory for more consoles and plans no more hikes.
+Apple's M six iMac went on sale Friday from fifteen hundred dollars, two hundred up. Google's glasses partner Gentle Monster opens pre-orders November twelve; price not given. Pentax has discontinued its K-series DSLRs, yet Ricoh's camera sales rose twenty percent on the GR IV.
 
 Energy and environment.
 
-China's carbon dioxide emissions fell three point one percent in the third quarter, the biggest drop since Covid: coal use down three percent, oil four, electric cars sixty-seven percent of September sales. The EU environment committee voted to cut the twenty thirty-five car carbon dioxide target from one hundred percent to eighty-seven point five. COP thirty-one opens Monday in Antalya.
+Carbon Brief: the super El Nino peaks in December near four degrees above normal, over a degree past the record; record global temperatures next year. EU states back a one-year delay to methane rules over the Iran war.
 
 Health and medicine.
 
-A Washington State resident died of bird flu; cattle infections span dozens of farms this month, with an outbreak in mink. Wisconsin recorded its first measles death since nineteen ninety, an infant. Novartis disclosed seven previously unknown tumour cases in children given its Zolgensma gene therapy.
+America has over five thousand measles cases, most in thirty-five years; experts rule next week on elimination status. A Chinese trial cut epilepsy seizures by ninety-two percent using chemogenetics.
 
 Built environment.
 
-Trump's two-hundred-fifty-foot triumphal arch won approval from a federal planning board led by his allies; a court challenge could still halt it.
+A judge blocked construction of Trump's triumphal arch right after approval, NPR reports.
 
 Law and justice.
 
-Newsom is commuting all five hundred forty-eight California death sentences to life without parole, about a quarter of America's total. Russell Brand was convicted of rape and three sexual assaults; the judge says prison.
+Met chief says more Brand allegations would not surprise him.
 
 Society.
 
-UK firms are told to publish salaries in job adverts ahead of a new law. Immigrant shopkeepers in Halle, eastern Germany, struck for a day after the AfD's regional landslide.
+Tube drivers called eight daily strikes over sixteen days, six before Christmas, opposing a four-day week.
 
 Culture and sport.
 
-Pope Leo begins a twelve-day tour of Uruguay, Argentina and Peru, weeks after lung surgery. Cristiano Ronaldo retires from international football. LIV Golf is winding down after its financing deal collapsed.
+Pope Leo, in Uruguay, praised Mercosur and peace while questioning abortion and euthanasia, weeks after lung surgery. Mexico City's Quintonil was named best restaurant in Latin America, fourth in the world. Rugby League World Cup semi-finals begin in Newcastle. Leonid meteors peak this month. Powerhouse Parramatta opens in Sydney.
 
 Special interests and watchlist.
 
-Arsenal: home to Hull City Saturday at three, per fixture listings; Raya says last season's Champions League final penalty loss to Paris Saint-Germain drives them. Chainlink: OlympusDAO moves its OHM bridging to Chainlink CCIP across seven chains. OriginTrail: nothing. Agronomics: nothing from the company. Holding Clean Food Group launched fermentation-derived CLEANOil in skincare with Raven Botanicals, billed a world first. Sector: Upside and Wildtype asked a court to overturn Texas's cultivated-meat ban after the state elected Democrats. Aviation: Singapore Airlines unveiled a two-billion Singapore dollar cabin upgrade for its triple seven, with first-class double beds and business-class privacy doors, from late twenty twenty-seven. KLM cuts nearly fifteen percent of staff. Cars: Chery's Jaecoo seven was Britain's best-selling car in October as electric reached almost a third of sales. Seven-seaters: Lynk and Co's nine-hundred-L flagship, five point two eight metres long, debuts in China Tuesday. Cameras, projectors, BMW: nothing.
+Arsenal: Hull at home, three o'clock; Arteta insists Rice is not overplayed. Chainlink: Apple and Meta reject the OKX-ICE tokenised stock plan. OriginTrail: nothing. Agronomics: nothing from the company. Sector: Britain cleared cultivated Wagyu for pet food; Good Food Institute cut thirteen US roles. Aviation: Airbus targets two hundred fifty-nine deliveries this year; Qantas trains three hundred sixty pilots for twelve A three fifty ultra-long-haul jets. Cars: Volkswagen weighs putting Xpeng-developed electronics in most European models; Chery recalls Omoda five cars in China over rear axles. Cameras: Panasonic registered an unidentified camera in China. Projectors, BMW, seven-seaters: nothing.
 
 Editorial picks.
 
-Friday. Economist Intelligence asks whether immigrants from some countries commit more sex crimes, and looks at the big business of miniatures. Longreads Editors' Picks: London's feral parakeets, and whether they belong; the brain injury that let Edward Freytag see and write music; why immigration agents rarely quit in protest.
+Saturday. Longreads Top Five: adult children quietly retraining elderly parents' video feeds against AI slop; Nigel Warburton defends the dilettante. Rivka Galchen on Terence Tao and AI solving old maths problems. Economist Intelligence: war eroding Ukraine's population.
