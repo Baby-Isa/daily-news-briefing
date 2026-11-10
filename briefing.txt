@@ -1,77 +1,87 @@
 Weather.
 
-Fog this morning, so the school run is a blindfold game. Today four to nine, dry, partly cloudy, enjoy it, you will not be given another. Because Tuesday the sky leaves the bath running. Fifty-four and a half millimetres Tuesday, forty-eight Wednesday, over a hundred in two days, and Wednesday is the same temperature as Tuesday because even the weather has stopped bothering. Wellies, a proper coat, and park somewhere that is not a river. Thursday it remembers the tap exists and goes clear. Saturday dawns at zero, so the bath freezes. Scarf. Yes, you.
+Cloudy, four to ten, and nearly nineteen millimetres of rain. Wednesday adds another twelve at a flat seven to nine, so wellies, proper coat, and fog lights, because London has a pollution alert for fog this morning. Then Thursday and Friday go clear and bone dry, lovely, until you read the lows: four, then one, then Saturday at minus one. The thermometer is heading into overdraft, and unlike your bank it will not text first. Sunday scrapes back to one to six. Hat, gloves, scarf. Yes, you.
 
 Politics and government.
 
-United States. Stephen Miller becomes chief of staff today. Trump says he was only kidding about Dana White as press secretary, correcting yesterday's item. He told Sixty Minutes the deportation drive might have been too tough and floats an amnesty deal. Jeffries is a hard yes on impeaching Hegseth; the Pentagon says it will not be deterred. Justice Department mulled naming the New York Times a conspirator in the Comey leak case.
+United States. Massie's eight articles of impeachment against Hegseth must be scheduled for a House vote by Wednesday. Speaker Johnson calls it a terrible look mid-hostilities; Massie says passage is far likelier after the election. No defence secretary has faced impeachment in a hundred and fifty years. Trump says the FBI is looking into Nvidia's Huang, and backs him. He is again questioning midterm results he had accepted. The Supreme Court cleared border wall construction in Big Bend. Euronews headline: Trump plans to meet Putin and Xi in China next week.
 
-UK. The government is expected this week to cut its electric-vehicle targets; the rules now ban new petrol and diesel cars from twenty thirty. Burnham's pledge to get everyone in for Christmas is in jeopardy, with rough sleeping up by nearly a thousand and a housing shortage. Ministers are considering banning under-sixteens from Vinted and eBay.
+UK. Firms tied to West Bank settlements won fifteen million dollars of British contracts despite sanctions, Al Jazeera reports. The energy secretary says cutting bills is her overriding aim, to keep support for climate action. Ministers are still expected to ease electric-vehicle sales targets this week.
 
-East Africa. Kenya: Gachagua and Kalonzo vow to end Ruto's presidency in twenty twenty-seven; Ruto courts the Gusii region and dismisses a fractured opposition. Somalia: the Supreme Court ruled the president's and parliament's terms expired, ordering an electoral framework within thirty days and elections within ninety. Tanzania: nothing new.
+East Africa. Kenya: families say officials demanded one hundred fifty thousand shillings to verify Gen Z protest graves; the panel confirmed one death. Gachagua, Sifuna and Tuju shared a Murang'a stage; Ruto says votes cannot be carried in a bag. Nairobi water rationing looms as Ndakaini dam falls. Somalia: opposition accuses the president of using force to seize the Supreme Court. Tanzania: nothing political.
 
 Conflict and security.
 
-Iran. US forces hit Qeshm island overnight; Tehran says no vital infrastructure was damaged. The Revolutionary Guards say they destroyed navigation aids on Hormuz's southern rocks and no unauthorised ship passed. Araghchi says talks have paused since the midterms and the mediators need time to resume. Rubio sees no breakthrough. Trump says fresh strikes are highly unlikely if talks progress, and meets Qatar's prime minister today. The US also disabled a commercial vessel in the Gulf of Oman. Iraq says Washington asked it to close all but two Iranian border crossings.
+Iran. After meeting Qatar's prime minister, Trump called the war militarily effectively over, sees momentum, says it ends fairly soon, but is locked and loaded. Tehran's two-day plan: day one, the US lifts its blockade and frees assets, Iran admits atomic inspectors; day two, Hormuz reopens. All conditional on seven demands Rubio calls outrageous. An Iranian official calls talk of talks fake news. Oil is down about twenty dollars since late October. The Wall Street Journal says US aircraft left a second British base over an alleged Iranian threat. France blames the Revolutionary Guards for hacking refrigeration at about seven hundred retail sites, and vows consequences. Houthis say an air strike near Sanaa killed forty-four.
 
-Gulf. A drone hit Iraqi Kurdistan's Khor Mor gas field, halting production. Houthi debris blew out windows at Aramco's Riyadh tower, no casualties.
+Ukraine. Abu Dhabi talks open today, the first substantive trilateral since February. Washington seeks a final end, with a proposed long-term security architecture between Moscow and Europe, and will press Russia to admit Europe. A US official says both sides show flexibility on territory. Ukraine hit Russia's second-largest refinery as fuel rationing spreads.
 
-Ukraine. Trilateral talks open in Abu Dhabi tomorrow. Rubio says post-war security guarantees are the focus; Norway's Store, who spoke to Putin, expects no major breakthrough. A hack of Russian statistics data suggests over three hundred ninety thousand Russian war dead; headline only.
-
-Poland. Krakow suspect is a twenty-four-year-old who killed his family before the six victims; motive still unknown. The square reopened.
+Poland. The Krakow gunman died in hospital. Tusk and Nawrocki marched together in silence; the probe will test whether he acted alone.
 
 International affairs.
 
-Disasters, to know: train collision south of Cairo, seven dead, over one hundred injured; high-rise fire in Taiyuan, China, fourteen dead; migrant boat off Senegal, at least thirty-four dead; Gaza rains flooding tents, five dead in a sandbank collapse.
+Disasters, to know: steel plant blast near Izmir, Turkey, sixteen dead; road crash on Tanzania's Iringa-Mbeya highway, twenty-one; Senegal migrant boat toll now thirty-nine; twelve migrants dead off Crete.
 
-South Africa: the ANC posted its worst-ever local result, with over a hundred hung councils and fourteen days to form coalitions. Israel: Herzog formally gave Eisenkot the mandate; he says any partner must commit to action on Hamas, and Arab-led parties hold the key. New Zealand: Luxon stays caretaker through weeks of talks. G seven foreign ministers meet in Paris today to gauge whether the midterm defeat shifts Trump on Ukraine and Iran. The Pope told Argentina's Milei the economy must serve the person.
+Israel: the new Knesset sits today. Eisenkot has six weeks; Netanyahu's bloc holds fifty-three seats, Eisenkot's forty-eight, Arab-led parties nineteen. Netanyahu wants unity without Hamas supporters. Germany's Merz threatens to block the EU's next seven-year budget unless Hungary, Slovakia, Bulgaria and Czechia commit to funding Ukraine. France brings forward its minimum-wage rise to calm protests. Australia is creating an AI safety regulator, accepting all eighteen recommendations after an OpenAI breach of Medicare data. Armenia's turn away tests Moscow's security bloc.
 
 Economy and markets.
 
-Nvidia. The board is investigating Jensen Huang after reports a Chinese-intelligence-linked executive, Alice Huang, targeted him; he admits the affair. Rubio helped draft a spring memo warning officials. Trump defends him. Read-through: the largest single-name holding now carries governance risk, on top of licences for China sales going to firms with empty offices.
+China. October exports rose thirty-five point two percent, AI hardware leading; the ten-month surplus passed one trillion dollars, heading for a record. Readings differ: overcapacity and an undervalued currency, or weak domestic demand and excess saving. Either way trade friction rises; the EU chamber head warns European manufacturers may stop competing by twenty thirty.
 
-AI capex. Asian stocks rebounded after a week that pushed many indices into bear-market territory; UBS's chief says investors had priced perfection. Mechanism: Democratic control brings data-centre scrutiny and tighter chip licences. Intended effect, voter pressure on local costs. Risk: capex shifts abroad or slows, which bulls dispute, saying demand is intact. FT also says it hands China a window to catch up.
+Nvidia. Shares tumbled as the board investigates Huang. The Financial Times sees investors fleeing into defensives on fears the AI bull market is over. The Singapore Megaspeed inquiry moved to the Justice Department after an Nvidia executive called Commerce. Read-through: the largest holding now carries key-person risk.
 
-China. Producer prices hit a four-year high on energy costs while domestic demand stays weak: cost-push, not demand. That squeezes margins and limits Beijing's room to ease.
+California. Voters rejected Proposition forty, a one-time five percent tax on billionaires' wealth, projected at a hundred billion dollars. Intended effect: healthcare funding. Risk: forced sales of illiquid founder stakes and departures, though supporters call avoidance overstated. For tech mega-caps, a tail risk is removed.
 
-United States. Trump concedes voters disliked deportations, the Iran war and economic messaging. With divided government from January, inflation policy falls to the Fed, which is expected to hike in December.
+Mexico. Inflation rose a third month to three point seven five percent, days after the central bank cut to six and a quarter. That narrows room for further easing.
+
+Australia. Mortgage-holder confidence is the lowest since nineteen ninety-four after the fifth rate rise, the variable-rate channel biting while Chalmers is pressed to curb spending.
+
+Japan. The Bank of Japan's summary points to a likely December hike; household spending slumped most since the pandemic.
 
 Business and industry.
 
-Tesla will wind down Cybertruck production at its Texas plant around mid next year to free space for the Cybercab robotaxi; Cox estimates fewer than five thousand US sales last quarter, about seventy thousand lifetime. Starbucks plans seven thousand five hundred UK baristas and five hundred outlets over five years, weighted north. South Korea fined Coupang two hundred twenty million dollars for abusing dominance in food delivery. Jaguar Land Rover bailiffs raided BYD's Dutch offices before a hearing over whether its model clones the Defender.
+Boeing will cut about five percent of commercial staff as it slows its production ramp. Qantas outsources eight hundred fifty jobs, mostly to India, citing AI. Poundland cannot buy new stock and is described as running on fumes. Children's Place filed for bankruptcy; bids are due in a month. Tesla's China sales fell sixty-six percent to eighty-eight hundred, the lowest since July twenty twenty-two, while Shanghai exports hit fifty-nine thousand.
 
 Mergers and acquisitions.
 
-Mitsui Chemicals and the state-owned Development Bank of Japan will buy chip-materials maker JSR from state fund JIC; the headline says eleven point six billion dollars, earlier Reuters reports said over eight, so the price is unsettled. Brazil's CSN sells its cement unit to China's Huaxin for two point three billion dollars. BC Partners wants control of LIV Golf by buying the Saudi wealth fund's loan.
+UniCredit is set to seal its Commerzbank takeover this month, per the Financial Times headline. Virginia leaders and residents oppose NextEra's Dominion deal over bills, so it may fail. Silver Lake and Saudi Arabia's wealth fund are in talks to buy Unity. BASF and Evonik chiefs are now negotiating directly after Evonik's rejection.
 
 Science and technology.
 
-JWST logged one hundred four magnified stellar events in the Dragon galaxy, more than doubling the previous record of forty-four. San Francisco researchers cleared a fatal childhood brain cancer in every mouse tested with engineered immune cells that switch on only in the brain; mice only. Theorists describe gravitational reconnection, structures in spacetime breaking and rejoining, in Einstein's equations. NASA is recruiting new astronauts for Artemis.
+CERN found evidence of a particle decay occurring once in about ten billion, ending a forty-year search; it could expose hidden particles. A Caltech robot built a structure in space. NASA unveiled ten billion dollars in moon-base contracts and a plan to return astronauts in twenty twenty-eight. Starship's fifteenth flight, with a double catch, is set for the thirteenth. Anthropic's IPO waiting period nears its end.
 
 Energy and environment.
 
-COP thirty-one opens today in Antalya for two weeks. Singapore's minister says expect no new targets, only implementation; Turkey pushes electrification to a third of global energy by twenty thirty-five. Lake Powell rose twenty feet after record Southwest rain.
+Fossil carbon dioxide is projected to fall zero point four percent in twenty twenty-six to thirty-eight point two billion tonnes, the first dip since twenty twenty, as the Iran war cut oil use one point nine percent. With land-use fires, total emissions still hit a record forty-three point three.
 
 Health and medicine.
 
-A study found training bystanders and responders did not improve sudden cardiac arrest survival. An early flu outbreak is hitting the US West Coast.
+The FDA approved Bayer's first-in-class stroke-recurrence drug, which targets clots without raising bleeding. It warned GLP one drugs carry a possible risk of an eye stroke. The US removed WuXi AppTec from its Chinese military list.
 
 Built environment.
 
-Zambia-Angola rail link picked preferred bidders; it opens a corridor for the country's rare-earth minerals to reach ports.
+The Senate voted seventy-three to twenty-five to advance bipartisan energy permitting reform. Financing closed on a one point two gigawatt Egyptian solar and battery project, five hundred sixty-six million dollars.
 
 Law and justice.
 
-Russell Brand is sentenced today after Thursday's rape and sexual assault convictions. Egypt's Mada Masr editor Lina Attalah faces jail within days, after the detention of a fact-checking site's whole staff.
+Russell Brand got more than ten years; the judge cited his casual, arrogant disregard of women's consent. Washington prosecutors failed to win indictments in at least three cases in two weeks.
+
+Society.
+
+Pope Leo drew an estimated two and a half million to a Buenos Aires Mass, three weeks after surgery.
 
 Culture and sport.
 
-Norris won a wet Brazilian Grand Prix and Mercedes took the constructors' title. Alcaraz beat Shelton for his first Paris Masters. Australia axed Labuschagne for the New Zealand Tests.
+M. John Harrison, eighty-one, won the Booker for The End of Everything, a post-apocalyptic satire, the oldest winner. Rybakina, world number one, withdrew from the WTA Finals. Teddy Riner will run for France's presidency.
+
+Gadgets and consumer tech.
+
+Sony's M D R three R revives the nineteen seventy-nine Walkman headphones: wired USB-C, foam pads, no Bluetooth, no noise cancelling, no battery. Fifty-nine dollars ninety-nine in the US, forty-nine pounds in Britain, on sale now. Sony warns of compatibility problems with some Walkman players.
 
 Special interests and watchlist.
 
-Arsenal: Hull one nil Saturday, ten shots on target from twenty-one. International break; next Newcastle away on the twenty-first, Manchester City at home the twenty-eighth, per fixture lists, kickoffs unconfirmed. Chainlink: Reserve bought ninety-four thousand five hundred LINK per an aggregator; the token lagged Bitcoin despite the Aave data deal. OriginTrail: nothing. Agronomics: nothing from the company; sector, ADM plans egg, whey and pet-food proteins by precision fermentation, headline only. Aviation: a British Airways seven eight seven has sat in Pittsburgh over seventy days with a fuselage hole from a service vehicle; CFM won engines for one hundred one China Eastern Airbus A three twenty neo jets. Cars: BMW launches Neue Klasse I X three and I three in China this month, no prices. Lynk and Co's seven-seat nine hundred L debuts in China tomorrow. Cameras, projectors: nothing.
+Arsenal: nothing new on squad. Chainlink: Schwab Crypto now trades Chainlink with Solana and Avalanche, the brokerage move flagged earlier; NYSE picked Avalanche to settle tokenised stocks. OriginTrail: nothing. Agronomics: Solar Foods won a positive European food safety opinion for Solein, the last step before EU sale, authorisation now expected in twenty twenty-seven. Meatly takes lab space in west London for twenty twenty-seven production. Aviation: Airbus's ultra-long-range A three fifty test flight set a Guinness distance record, fourteen thousand miles, ahead of Qantas's Project Sunrise. Cars: Euro seven rules reach the EU on the twenty-ninth, first to cover brake and tyre dust. Cameras, projectors: nothing.
 
 Editorial picks.
 
-The Intelligence was not in the digest. New Lines: Egypt moving off the sidelines to help Saudi Arabia, likely air and naval defence, risking Houthi retaliation and Suez revenue. Rest of World: startups editing Chinese open models to strip censorship for Western firms. Longreads: London's feral parakeets, and whether they belong.
+The Intelligence: Russia's front is stalled but its air bombardment is harder; the third segment was cut off in the digest. Longreads: Maintenance Futures, imagining a future neither gain nor loss. Rest of World: Chinese AI firms like MiniMax and Moonshot open Silicon Valley outposts, but pay gaps and security tensions make poaching hard.
