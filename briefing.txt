@@ -1,87 +1,83 @@
 Weather.
 
-Cloudy, four to ten, and nearly nineteen millimetres of rain. Wednesday adds another twelve at a flat seven to nine, so wellies, proper coat, and fog lights, because London has a pollution alert for fog this morning. Then Thursday and Friday go clear and bone dry, lovely, until you read the lows: four, then one, then Saturday at minus one. The thermometer is heading into overdraft, and unlike your bank it will not text first. Sunday scrapes back to one to six. Hat, gloves, scarf. Yes, you.
+Seven to nine, nearly ten millimetres of rain, so today the sky is still wearing its duvet and sweating through it. Then Thursday it throws the duvet off. Clear, dry, three to seven, and clear skies mean nothing holds the heat in, so dawn hits zero Friday and minus two Saturday. Minus two. In November. Sunday sneaks in a millimetre and a half at roughly freezing, which is a polite word for slush. Monday limps back to four to seven. Scarf out, scraper out, and stop acting surprised, you do this every year.
 
 Politics and government.
 
-United States. Massie's eight articles of impeachment against Hegseth must be scheduled for a House vote by Wednesday. Speaker Johnson calls it a terrible look mid-hostilities; Massie says passage is far likelier after the election. No defence secretary has faced impeachment in a hundred and fifty years. Trump says the FBI is looking into Nvidia's Huang, and backs him. He is again questioning midterm results he had accepted. The Supreme Court cleared border wall construction in Big Bend. Euronews headline: Trump plans to meet Putin and Xi in China next week.
+United States. House Republicans shelved Massie's impeachment articles against Hegseth, largely on party lines, with eleven Democrats absent. Democrats take the House next year and could try again. Jim Jordan beat Steve Scalise to lead House Republicans. Trump's ten billion dollar defamation suit against the BBC can proceed after a judge partly denied the dismissal motion.
 
-UK. Firms tied to West Bank settlements won fifteen million dollars of British contracts despite sanctions, Al Jazeera reports. The energy secretary says cutting bills is her overriding aim, to keep support for climate action. Ministers are still expected to ease electric-vehicle sales targets this week.
+UK. Reform has slipped to a tie with the Conservatives in polls. A minister says Britain will discuss paying into the EU to join its electricity market, ahead of the twentieth November summit.
 
-East Africa. Kenya: families say officials demanded one hundred fifty thousand shillings to verify Gen Z protest graves; the panel confirmed one death. Gachagua, Sifuna and Tuju shared a Murang'a stage; Ruto says votes cannot be carried in a bag. Nairobi water rationing looms as Ndakaini dam falls. Somalia: opposition accuses the president of using force to seize the Supreme Court. Tanzania: nothing political.
+East Africa. Kenya: Ruto and Gachagua trade insults, Mister Texas against Mister Taxes. A court says the state cannot escape responsibility for missing persons by denying it holds them. Up to fifty thousand Ethiopians have fled clashes into Kenya. Uganda has begun leaving Somalia and the US has quit Baledogle airfield, room for al-Shabaab. Tanzania: nothing new.
 
 Conflict and security.
 
-Iran. After meeting Qatar's prime minister, Trump called the war militarily effectively over, sees momentum, says it ends fairly soon, but is locked and loaded. Tehran's two-day plan: day one, the US lifts its blockade and frees assets, Iran admits atomic inspectors; day two, Hormuz reopens. All conditional on seven demands Rubio calls outrageous. An Iranian official calls talk of talks fake news. Oil is down about twenty dollars since late October. The Wall Street Journal says US aircraft left a second British base over an alleged Iranian threat. France blames the Revolutionary Guards for hacking refrigeration at about seven hundred retail sites, and vows consequences. Houthis say an air strike near Sanaa killed forty-four.
+Iran. Trump calls the war effectively over; Rubio says major combat operations are no longer needed but calls Iran's terms absurd. Tehran's security chief denies talks; Qatar sees progress. Tankers still burn: another Hormuz incident overnight, and Iran says one hit a mine. Brent is below ninety dollars, lowest since late August. Bessent has moved to a military base after Iranian threats. The US charged three Iran-backed men over the RAF Fairford plot; one coordinated it from a New York jail using coded messages. Separately, Britain arrested a senior US Army soldier, forty-one, on suspicion of helping Russian intelligence.
 
-Ukraine. Abu Dhabi talks open today, the first substantive trilateral since February. Washington seeks a final end, with a proposed long-term security architecture between Moscow and Europe, and will press Russia to admit Europe. A US official says both sides show flexibility on territory. Ukraine hit Russia's second-largest refinery as fuel rationing spreads.
+Ukraine. Abu Dhabi's first day ran nearly four hours; Zelensky calls it constructive and says Putin lives in a different reality. Russia wants postwar European security at the centre. The Economist reports the US proposed redrawing Donetsk and Luhansk lines so Russia holds both fully; unconfirmed. Reuters says Ukrainian strikes have knocked out about thirty percent of Russian refining. The last Russian diesel tanker under the Trump-Putin deal turned back off New York. On yesterday's headline: the Wall Street Journal says Trump, Putin and Xi cannot agree a meeting format.
 
-Poland. The Krakow gunman died in hospital. Tusk and Nawrocki marched together in silence; the probe will test whether he acted alone.
+Poland. Krakow gunman named Michal Oksinski. Poland says the Pentagon backs a permanent US base; Trump decides in December.
 
 International affairs.
 
-Disasters, to know: steel plant blast near Izmir, Turkey, sixteen dead; road crash on Tanzania's Iringa-Mbeya highway, twenty-one; Senegal migrant boat toll now thirty-nine; twelve migrants dead off Crete.
+Disasters, to know: Bulgarian motorway pile-up, national mourning; bus into thirty-two vehicles at Seongnam near Seoul, dozens hurt; car into a crowd in North Hollywood, three dead; Spain buried its sixty-nine train-crash victims.
 
-Israel: the new Knesset sits today. Eisenkot has six weeks; Netanyahu's bloc holds fifty-three seats, Eisenkot's forty-eight, Arab-led parties nineteen. Netanyahu wants unity without Hamas supporters. Germany's Merz threatens to block the EU's next seven-year budget unless Hungary, Slovakia, Bulgaria and Czechia commit to funding Ukraine. France brings forward its minimum-wage rise to calm protests. Australia is creating an AI safety regulator, accepting all eighteen recommendations after an OpenAI breach of Medicare data. Armenia's turn away tests Moscow's security bloc.
+Israel: the new Knesset sat. Eisenkot pledges an official October seventh inquiry and reversing Netanyahu's policies; Netanyahu's bloc targets Arab lawmakers. Foreign Policy notes shekel, stocks and bonds fell after the vote. Spain votes on the twenty-ninth with housing the issue; protesters describe paying five hundred dollars for five square metres.
 
 Economy and markets.
 
-China. October exports rose thirty-five point two percent, AI hardware leading; the ten-month surplus passed one trillion dollars, heading for a record. Readings differ: overcapacity and an undervalued currency, or weak domestic demand and excess saving. Either way trade friction rises; the EU chamber head warns European manufacturers may stop competing by twenty thirty.
+United States. October consumer prices rose point four percent after point six, core point three, services excluding housing point four, nearly five and a half percent annualised over three months. The shutdown means no official annual figure; the New York Times calculates about four percent against three point seven. Governor Waller says a half-point hike in December is possible if core stays at point three or more. Mechanism: policy sits at three point seven five to four, a quarter-point rise expected December eighth to ninth, now with a double on the table. Intended effect: anchor expectations after nearly six years above target. Risk: Phillips-curve readers say tight demand needs this; supply-shock readers say diesel and food costs are beyond rates, and oil is already twenty dollars lower, so hiking into a data-centre slowdown over-tightens. Read-through: higher for longer weighs on long-duration tech multiples and props the dollar against sterling.
 
-Nvidia. Shares tumbled as the board investigates Huang. The Financial Times sees investors fleeing into defensives on fears the AI bull market is over. The Singapore Megaspeed inquiry moved to the Justice Department after an Nvidia executive called Commerce. Read-through: the largest holding now carries key-person risk.
+Nvidia. About four hundred thirty billion dollars wiped off its value in two days over the Huang affair. The board hired a former Manhattan federal prosecutor to investigate, shareholders sued claiming they were misled, and Commerce delayed adding Megaspeed to its trade blacklist. For the largest holding: key-person and export-control risk together. Huang's place at next week's APEC in Shenzhen is in doubt.
 
-California. Voters rejected Proposition forty, a one-time five percent tax on billionaires' wealth, projected at a hundred billion dollars. Intended effect: healthcare funding. Risk: forced sales of illiquid founder stakes and departures, though supporters call avoidance overstated. For tech mega-caps, a tail risk is removed.
+Anthropic. The BBC reports a share range of seventy to seventy-eight dollars, about one point three trillion dollars, below the two trillion once talked of; the Financial Times says bankers may lift it to one and a half trillion or more. One crypto outlet's headline says the range was retracted; I could not confirm which stands.
 
-Mexico. Inflation rose a third month to three point seven five percent, days after the central bank cut to six and a quarter. That narrows room for further easing.
-
-Australia. Mortgage-holder confidence is the lowest since nineteen ninety-four after the fifth rate rise, the variable-rate channel biting while Chalmers is pressed to curb spending.
-
-Japan. The Bank of Japan's summary points to a likely December hike; household spending slumped most since the pandemic.
+Australian investor home loans fell thirty-one percent in three months, the sharpest drop on record.
 
 Business and industry.
 
-Boeing will cut about five percent of commercial staff as it slows its production ramp. Qantas outsources eight hundred fifty jobs, mostly to India, citing AI. Poundland cannot buy new stock and is described as running on fumes. Children's Place filed for bankruptcy; bids are due in a month. Tesla's China sales fell sixty-six percent to eighty-eight hundred, the lowest since July twenty twenty-two, while Shanghai exports hit fifty-nine thousand.
+Poundland gets more time to find a buyer after its owner released ten million pounds for suppliers; ten and a half thousand staff. David Jones closes half its stores, nineteen.
 
 Mergers and acquisitions.
 
-UniCredit is set to seal its Commerzbank takeover this month, per the Financial Times headline. Virginia leaders and residents oppose NextEra's Dominion deal over bills, so it may fail. Silver Lake and Saudi Arabia's wealth fund are in talks to buy Unity. BASF and Evonik chiefs are now negotiating directly after Evonik's rejection.
+Mitsui Chemicals will buy JSR for one point eight four trillion yen, about eleven point six billion dollars, from state-backed Japan Investment Corporation funds, with the state development bank adding two hundred billion yen of preferred stock. JSR is second in advanced chip photoresists. Mitsui's shares fell thirteen percent; the deal exceeds its market value. SoftBank and ABB have resumed talks on robotics after China blocked the five point four billion dollar deal.
 
 Science and technology.
 
-CERN found evidence of a particle decay occurring once in about ten billion, ending a forty-year search; it could expose hidden particles. A Caltech robot built a structure in space. NASA unveiled ten billion dollars in moon-base contracts and a plan to return astronauts in twenty twenty-eight. Starship's fifteenth flight, with a double catch, is set for the thirteenth. Anthropic's IPO waiting period nears its end.
+Linus Torvalds says AI fixes drove most progress in the latest Linux kernel. The earliest compact quasar pair, nine hundred million years after the Big Bang: two feeding black holes already huge, with no theory for how they grew so fast.
 
 Energy and environment.
 
-Fossil carbon dioxide is projected to fall zero point four percent in twenty twenty-six to thirty-eight point two billion tonnes, the first dip since twenty twenty, as the Iran war cut oil use one point nine percent. With land-use fires, total emissions still hit a record forty-three point three.
+COP thirty-one leaders speak today in Antalya, a record ninety-three thousand registered. Negotiators seek a plan to raise electricity's share of energy use and revive the stalled move off fossil fuels. The US sent no delegation.
 
 Health and medicine.
 
-The FDA approved Bayer's first-in-class stroke-recurrence drug, which targets clots without raising bleeding. It warned GLP one drugs carry a possible risk of an eye stroke. The US removed WuXi AppTec from its Chinese military list.
+Genetic data suggests the US has lost measles elimination status; an expert panel met Tuesday. Congo's confirmed Ebola cases passed eleven thousand.
 
 Built environment.
 
-The Senate voted seventy-three to twenty-five to advance bipartisan energy permitting reform. Financing closed on a one point two gigawatt Egyptian solar and battery project, five hundred sixty-six million dollars.
+Kennedy relatives joined the suit against Trump's two-hundred-fifty-foot arch, saying it shades JFK's grave and blocks the eternal flame's sightline.
 
 Law and justice.
 
-Russell Brand got more than ten years; the judge cited his casual, arrogant disregard of women's consent. Washington prosecutors failed to win indictments in at least three cases in two weeks.
+A London court struck down Trinidad and Tobago's ban on gay sex, ending an eleven-year fight. An appeals court blocked the Justice Department's demand for journalists' LinkedIn data.
 
 Society.
 
-Pope Leo drew an estimated two and a half million to a Buenos Aires Mass, three weeks after surgery.
+Pope Leo drew about six hundred fifty thousand to Mass in Cordoba, Argentina.
 
 Culture and sport.
 
-M. John Harrison, eighty-one, won the Booker for The End of Everything, a post-apocalyptic satire, the oldest winner. Rybakina, world number one, withdrew from the WTA Finals. Teddy Riner will run for France's presidency.
+Grand Theft Auto six is out on the nineteenth, targeting thirty frames a second on consoles. Khawaja claims Australia's whole team knew of the twenty eighteen sandpaper plot; Starc denies it, and Cricket Australia stands by its findings, with the Ashes weeks away. The Asian Cup in Saudi Arabia is postponed to December twenty twenty-seven because of Houthi missiles.
 
 Gadgets and consumer tech.
 
-Sony's M D R three R revives the nineteen seventy-nine Walkman headphones: wired USB-C, foam pads, no Bluetooth, no noise cancelling, no battery. Fifty-nine dollars ninety-nine in the US, forty-nine pounds in Britain, on sale now. Sony warns of compatibility problems with some Walkman players.
+Google's Pixel Tag tracker goes on sale: its first Bluetooth and ultra-wideband tag, on the Find Hub network, twenty-nine dollars, ninety-nine for four, per outlets. Ring's Drone Cam is a two-hundred-fifty-dollar indoor flying camera that patrols your house automatically, due late this year or early next, per Ars.
 
 Special interests and watchlist.
 
-Arsenal: nothing new on squad. Chainlink: Schwab Crypto now trades Chainlink with Solana and Avalanche, the brokerage move flagged earlier; NYSE picked Avalanche to settle tokenised stocks. OriginTrail: nothing. Agronomics: Solar Foods won a positive European food safety opinion for Solein, the last step before EU sale, authorisation now expected in twenty twenty-seven. Meatly takes lab space in west London for twenty twenty-seven production. Aviation: Airbus's ultra-long-range A three fifty test flight set a Guinness distance record, fourteen thousand miles, ahead of Qantas's Project Sunrise. Cars: Euro seven rules reach the EU on the twenty-ninth, first to cover brake and tyre dust. Cameras, projectors: nothing.
+Arsenal: international break, nothing new; Newcastle away next, Saturday the twenty-first. Chainlink: Moody's ran a testnet pilot using Chainlink's cross-chain protocol to distribute credit ratings across private and public blockchains; Schwab trading is live at a point seven five percent fee. OriginTrail: nothing. Agronomics: LiveKindly completed its Greenforce acquisition; Clean Food Group has an investor update I could not read. Aviation: Lufthansa took its first A three fifty one thousand, its seven hundredth Airbus; Singapore Airlines defends new business seats mocked as dental chairs; easyJet cuts fifty head-office roles before its five point seven billion pound buyout. Lynk nine hundred L seven-seater: no coverage of its debut. Cars, cameras, projectors: nothing.
 
 Editorial picks.
 
-The Intelligence: Russia's front is stalled but its air bombardment is harder; the third segment was cut off in the digest. Longreads: Maintenance Futures, imagining a future neither gain nor loss. Rest of World: Chinese AI firms like MiniMax and Moonshot open Silicon Valley outposts, but pay gaps and security tensions make poaching hard.
+The Intelligence: Ebola is spreading unchecked beyond Congo; and a rural American cooking contest. New Lines: Syria's UNESCO-listed crafts, shadow puppetry, oud-making and glassblowing, are dying out; one coffeehouse storyteller still performs a tale lasting over a year and a half.
