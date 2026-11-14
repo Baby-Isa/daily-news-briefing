@@ -26,6 +26,7 @@ permission, a subagent error, something else).
 
 ## Log
 
+- 2026-11-14 — OK — 1407 words, Saturday edition, last dry day then heavy rain Sunday and Monday; all checks passed, no sources failed.
 - 2026-11-13 — OK — 1333 words, Friday edition, Friday-the-thirteenth weather: dry and clear through Saturday then rain from Sunday; all checks passed, no sources failed.
 - 2026-11-12 — OK — 1388 words, Thursday edition, clear and dry through Saturday then rain from Sunday; all checks passed, no sources failed.
 - 2026-11-11 — OK — 1382 words, Wednesday edition with editorial picks, international break quiet on the Arsenal front; all checks passed, no sources failed.

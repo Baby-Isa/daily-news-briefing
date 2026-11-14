@@ -1,85 +1,81 @@
 Weather.
 
-Friday the thirteenth, and a doomsday study says the world ends today. It fails, because the forecast is dry. Zero to seven, clear, no rain. Saturday the same, minus one at dawn, so scrape the car like an adult. Then Sunday ruins it. Yesterday I said nearly five millimetres. I lied. Twenty point six, wind seven, three to ten degrees. That is your doom, and it is wet. Monday two to six, a whisper of rain. Tuesday is the cold one, two to four degrees, nearly nine millimetres. Coat today, boots Sunday, and stop blaming superstition.
+Last orders. Today is the final dry day: minus two at dawn, up to eight, no rain, light wind. Use it or lose it. Wash the car, hang the washing, ring your mother. Because at closing time the sky buys everyone a round. Sunday, nineteen point three millimetres, wind seven, two to eleven. Monday another fifteen point one, colder, two to seven. That is thirty-four millimetres in two days, you absolute lightweight. Tuesday sulks off with nearly three, Wednesday is the mild one, eight to twelve. Coat today, boots tomorrow, and stop pretending you will go out Sunday.
 
 Politics and government.
 
-United States. Senator Chris Van Hollen will challenge Chuck Schumer for Democratic leader, with progressive backing. Stephen Miller's first memo as chief of staff restricts lobbyist meetings after influence-peddling claims. Alaska's Senate race is still open; a judge refused Mary Peltola's campaign records on rejected ballots.
+United States. Medicaid work requirements, due to bite in January, are delayed: states may wait until July twenty twenty-seven. Officials press Congress to renew the warrantless-surveillance Section Seven-Oh-Two law in the lame-duck session. The Supreme Court will hear Trump's asylum ban at the border. Democrat Jonathan Kreiss-Tomkins won Alaska's governorship; the Senate race there is still being counted, the only one uncalled.
 
-UK. Asylum housing for up to one thousand two hundred fifty-six men at a military base near Bicester won fast-tracked planning approval. Ministers look at limiting non-disclosure agreements after the Walliams allegations. Sadiq Khan and others urge Burnham not to water down electric-vehicle targets. Two men were convicted of helping Iran target journalists in Britain. Burnham says a win-win European Union deal is possible; summit the twentieth.
+UK. Probation officers voted to strike over pay and workloads, a blow to plans to release prisoners early. Police opened a criminal investigation into David Walliams over alleged serious sexual offences. Piddington residents will mount a legal challenge to the military-base asylum housing. Alan Milburn wants a legal guarantee of a job or training for young people, funded by shifting spending away from benefits.
 
-East Africa. Kenya: a TIFA poll ties Ruto and Edwin Sifuna at thirty-one percent; UDA is the most popular party, ODM third. Catholic bishops warn against electoral bills that could undermine twenty twenty-seven. The Supreme Court hears a fresh housing-levy challenge. Uganda: four girls dead in a suspected school poisoning. Congo's Ebola outbreak passed eleven thousand cases; a charity says millions of response dollars are missing and staff unpaid. Tanzania: nothing new.
+East Africa. Kenya: MPs and the Nyeri assembly defected to Gachagua's party; Sifuna's party rebranded Linda Mwananchi; the High Court gave the state six months to finalise an AI law. Uganda: the president's son, General Muhoozi, is fuelling succession talk with threats against the vice president. Tanzania lost to Nigeria in an Africa Cup qualifier.
 
 Conflict and security.
 
-Iran. Trump says America does not need a deal, sidelining Vance, but would strike with no hesitation if allies or ships are threatened. The Revolutionary Guards claim an attack on a US early-warning radar in Bahrain, their first claim on a Gulf host since early September, answering a strike on a telecoms tower. Netanyahu and Eisenkot clash over striking again. Tehran threatens US bases in Europe.
+Iran. The Revolutionary Guards say an LNG carrier hit a mine and exploded in the eastern Strait of Hormuz, after two tankers did the same Friday. The maritime monitor UKMTO counts seven tanker attacks in the week to Wednesday. The US denies the Guards destroyed its radar in Bahrain, as claimed yesterday, and says it shot down two Iranian drones aimed there. Trump's strategy is now a waiting game; Rubio says economic pain makes force unnecessary.
 
-Yemen. Houthis renewed strikes on Saudi Arabia; the Security Council renewed sanctions. Riyadh presses Europe to list the Houthis as terrorists.
+Ukraine. Europe will be represented in talks by national security advisers from Germany, France, Britain, Italy and Poland plus the EU. Russia reportedly demands NATO retrench, and Bild says it asked Finland to leave NATO; Moscow denies it. Zelensky says Starshield limits persist along the whole front. Kushner expects the war's largest prisoner swap.
 
-Gaza. The Nasser hospital strike toll rose to seven; Israel says it targeted a Hamas brigade commander. Israel is restricting flood-shelter aid.
-
-Ukraine. After meeting Putin, Witkoff and Kushner say the next round includes European states; Kushner says no deal without Europe. Putin refuses to soften territorial demands and says foreign troops would be targets. Zelensky says Starshield is restricted again; SpaceX denies it. An FT analysis of Russian statistics puts Russia's war dead near half a million. Dublin's European summit today is split over who speaks for Europe.
+Gaza. The UN says Israeli aid restrictions worsened the storm's toll.
 
 International affairs.
 
-Disasters, to know: the Brooklyn building collapse, eight dead; a Turkish military helicopter crash, four dead; an oil spill closing eighteen Kent beaches.
+Disasters, to know: a bus-truck collision in north-east India, more than twenty dead; a building collapse near Nairobi, six dead; a tanker hit a New Orleans river cruise boat, all rescued.
 
-Indonesia: Vice President Gibran resigned over his diploma scandal; parliament has sixty days to choose a successor. Asia-Pacific leaders gather in Shenzhen next week, with Takaichi making her first China trip as Japan's prime minister. Germany: Merz's nominee Ilse Aigner, backed by Social Democrats and Greens, is all but certain to be president. Kazakhstan detained the heads of its wealth fund Samruk-Kazyna and national railways in a corruption probe; Russian rail curbs cut Kazakh coal transit by ninety-seven percent in two months. Burkina Faso: the jihadist groups JNIM and Islamic State now fight each other. Congo's Tshisekedi signed a referendum law amid third-term fears. Trump threatens to double tariffs on Mexico over migrants walking north, and wants Japan to triple troop-hosting costs. Argentina's Milei is making the Falklands a national cause; the sea tribunal rules on the twenty-eighth.
+Trump, Xi and Putin hold their first three-way summit in Shenzhen on Thursday; the White House says nuclear arms cuts and Iran are on the agenda, and an official expects no agreement. Germany's spies gain powers to hack foreign systems and recruit informants as young as sixteen. Indonesia's upper house picks a vice president on the second of December. Chile says it needs no Argentine permission for a ship to the Falklands in December. Mexico has delivered under one percent of the water it owes the US. South Africa's ANC backs Ramaphosa despite its worst local result, thirty-one percent.
 
 Economy and markets.
 
-Federal Reserve. Mechanism: Chair Warsh's revised calendar drops the October twenty twenty-seven vote for a strategy meeting and holds no December meeting; no rate vote after November until January twenty twenty-eight. Intended effect: longer horizons and fewer reactive moves. Risk: fewer chances to adjust, so emergency meetings, normally reserved for crises. Read-through: shocks reprice markets between meetings, raising volatility around data and speeches.
+Nvidia. The board has approached Arm's chief executive Rene Haas but has formally engaged no one. Treasury Secretary Bessent says several agencies wanted Megaspeed blacklisted for months, blaming Commerce; Congress widens its probe. Trump will not raise the spy affair with Xi. Analysts warn China could tighten rare earth exports if chip curbs escalate. Read-through: export-control tightening, a leadership discount, and key-person risk in your largest single-name holding. Anthropic's listing, reportedly at one point five trillion dollars, is under a week away; Amodei is "not super fussed" about turbulence.
 
-Nvidia. Jensen Huang resigned as chief executive over the affair with an alleged Chinese spy. Finance chief Colette Kress is interim; Harvey Jones is chair; Trump touts Tim Cook. Shares fell, then largely recovered. Lawmakers press Commerce Secretary Lutnick on chip sales to Megaspeed; Malaysia and Singapore are probing. Read-through: tighter export controls, a successor premium, and key-person risk in your largest single-name exposure. China's SMIC sees an AI computing shortage to twenty twenty-eight.
+Oil. The International Energy Agency says supply beat demand by nearly two million barrels a day in October, the first surplus since the war began. Easier energy costs ease the inflation pressure behind rate hikes, but mined shipping lanes keep that fragile.
 
-United States housing. Existing home sales fell to three point seven five million annualised, a sixteen-year low, down eight point eight percent, with mortgage rates near three-year highs.
+Europe's fiscal bind. Defence spending has nearly doubled in six years, to four hundred fifty-four billion euros, and the three point five percent of output target by twenty thirty-five would rival the Marshall Plan. Meanwhile ageing pensions crowd out other spending, fuelling this weekend's French protests. Keynesians read the defence outlay as growth support; sceptics see crowding-out and higher borrowing.
 
-UK. Growth was zero point seven percent in the third quarter, fastest in over two years; the Guardian credits AI, and asks if it lasts.
+Russia's budget. The finance ministry wants the central bank to report accounts regularly receiving personal transfers to the tax service, hunting undeclared income as war spending bites.
+
+Turkey. Erdogan struggles with a scandal over investment funds allegedly used to inflate share prices.
 
 Business and industry.
 
-Microsoft's Outlook and Teams outage, from "elevated load" in its infrastructure, continues; Australia says the cost may be billions and its security chief had warned of reliance. Poundland gets more time, ten days to two weeks by report. Burberry is back in profit. UForce, the Ukrainian-founded drone maker, hit a four point five billion pound valuation raising five hundred million, including one hundred thirteen million from Britain's wealth fund.
+Microsoft's near two-day Outlook and Teams outage has recovered; it blames server faults, not hackers or AI. America's air traffic ground stop lasted four and a half hours, delaying or cancelling over eleven thousand flights, the longest nationwide halt since September eleventh. Cause: obsolete analogue communications gear; the White House seeks thirty billion dollars in upgrades. Jaguar Land Rover lost four hundred fifty-one million pounds in the quarter after cutting four thousand jobs. Amazon is building a "World Product Graph" of every product sold online, even ones it does not sell, to keep shoppers on its site.
 
 Mergers and acquisitions.
 
-SpaceX-Tesla merger talks reportedly advance toward a three point four trillion dollar deal, with China ties complicating approval. Metro Bank put itself up for sale. Hancock Whitney buys Trustmark for three point two billion. The FBI seized one point two billion dollars of Binance's stolen crypto.
+China approved Savvy Games Group's six billion dollar purchase of Mobile Legends developer Moonton. Elliott circles KKR-backed Flora Food Group, whose owner wants seven billion euros. Millicom, the Tigo owner, agreed to buy Entel Peru.
 
 Science and technology.
 
-Starship Flight Fifteen, the first double-catch attempt, is due this evening, regulators permitting. Euclid released a survey of nine hundred million galaxies for dark matter and dark energy work. Perseverance reportedly confirmed a key ingredient for life in ancient Mars rocks. A Pakistani astronaut will be the first foreigner on China's Tiangong this month.
+Starship Flight Fifteen reached orbit, but the booster catch was aborted and the booster ended in the ocean. Ars says a ship catch is possible Saturday; the outcome was not in the digest. Dark energy may have flipped from negative to positive nine point five billion years ago, a new analysis says. Japanese researchers fused plant and animal cells, the cells keeping nearly the whole algal genome. Vulcan Centaur flies today, its first launch in nine months.
 
 Energy and environment.
 
-COP thirty-one: the New York Times calls the one point five degree goal dead. Miliband defends Jackdaw. Indonesia's fires were supercharged by El Nino and climate change, a study says.
+COP thirty-one's first week ended split over fossil fuels; Guterres demands drastic cuts, and producer states want the next climate science assessments delayed. Scientists warn one point five degrees could arrive by twenty twenty-nine. About six hundred activists paddled out at Newcastle, the world's biggest coal port, despite police.
 
 Health and medicine.
 
-The American Cancer Society reversed its guidance and urges routine PSA prostate screening for men fifty to sixty-nine. Lilly beat Novo to Chinese approval for the first oral GLP-one weight-loss pill.
+The US has reportedly lost measles-free status, with the most cases in over three decades. Millions of Americans take GLP-one drugs off-label or unapproved, driven by cost. HHS funds up to four point nine million dollars of ibogaine research for PTSD.
 
 Built environment.
 
-The Brooklyn collapse site's neighbour had breached a stop-work order, officials say. Clark and AECOM will build Kansas City's three billion dollar, seventy-thousand-seat Chiefs stadium.
+US construction prices stayed flat in October while steel and copper surged. Ferrovial won a Fort Worth water reclamation contract worth five hundred thirty-eight million dollars, its largest US water job.
 
 Law and justice.
 
-A UK-based court decriminalised same-sex relations in Trinidad and Tobago, with Commonwealth consequences. A Dutch court told Jaguar Land Rover to destroy seized BYD files.
+International Criminal Court judges closed the part of the Afghanistan inquiry that could reach US troops, leaving the Taliban. Rubio called the court's judges radical. Bangladesh says Hasina cannot get a passport and must be extradited.
 
 Society.
 
-Pope Leo met clergy abuse survivors in Peru and said the Church must make amends.
+Pope Leo drew vast crowds in Chiclayo, where he was bishop, weeks after lung cancer surgery. Britons are stockpiling tinned food and wind-up radios after the government's Be Ready campaign.
 
 Culture and sport.
 
-Kane scored the winner on a record one hundred twenty-sixth England cap. Warner attacked Cummins's sandpaper denial. Canada won't admit Russia's hockey team despite a sports-court ruling. Wenger weighs a FIFA presidency bid, a single report.
-
-Gadgets and consumer tech.
-
-Google, Samsung, Gentle Monster and Warby Parker Gemini smartglasses debut from three hundred ninety-five dollars, per Ars; ship date not in the digest. Apple Home Collection pre-orders open today for some devices; HomeView reviews call it a versatile hub.
+Grand Theft Auto Six launches Friday. Pat Cummins denies Khawaja's sandpaper claims; the ABC says all Australian bowlers spoke to investigators, contradicting Warner. The hockey federation challenges Russia's reinstatement at the sports court. France beat South Africa in Paris, ending the Springboks' Nations Championship hopes. Svitolina beat Sabalenka into the WTA Finals semifinals.
 
 Special interests and watchlist.
 
-Arsenal: Newcastle away the twenty-first; nothing new. Chainlink: no post. The OKX venue for tokenised stocks launches on the twenty-third with sixty-seven company objections, all the Magnificent Seven. OriginTrail: nothing. Agronomics: nothing from the company. Sector: Amyris buys Oobli; a fermentation firm files for EU approval of a precision-fermented milk protein. Aviation: Emirates takes ownership of six A-three-eighties; Global Airlines liquidates. Seven-seaters: Honda's Avancier launches in India December first. Cameras: a hacked O-M-one runs LiveGND. Projectors, BMW: nothing.
+Arsenal: the women drew at Barcelona; men, Newcastle away the twenty-first. Chainlink: no official post; a whale bought one point four million LINK. OriginTrail: nothing. Agronomics: nothing from the company. Sector: Britain's food regulator published a route to export cultivated meat outside the EU. Longevity: Yale's review of fifty-one studies finds drugs, diet and exercise slow biological ageing; popular supplements mostly do not. Aviation: Alaska Airlines plans Anchorage to Tokyo from spring twenty twenty-seven. Seven-seaters, cameras, projectors, BMW: nothing.
 
 Editorial picks.
 
-The Intelligence: El Salvador's Bukele exports his gang crackdown; and how dogs disrupt wolves' biology. Longreads: Ice Loss, on Alaska's vanishing sea ice; and an eagle-cam pilgrimage to Big Bear Lake.
+The Intelligence: how Russia courts Africa as a benevolent partner; and a tribute to Jack Preger, who gave his life to medical care for Kolkata's poor. Longreads top five: a woman's fight to leave a Houston psychiatric clinic; a Mexican permaculture school built on autonomy; and grief and A Tribe Called Quest's last album.
