@@ -29,6 +29,9 @@ does that.
      and the weather angles already used.
    - `HANDOFF.md` sections 3, 5 and 8a - the files, the failures that have cost
      whole days, and what earlier runs learned.
+   - `editor-note.md`, if it exists. It is a one-off note from the owner, and
+     it applies only on the date written at its top. On that date it
+     overrides the spec where they conflict, including the word target.
 2. Check `digest.txt`'s header. If it is not today's date, rebuild it:
    `python3 build_digest.py` in the background (it exceeds the two-minute
    foreground limit), then confirm the header. A local rebuild's failure list is
