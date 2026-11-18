@@ -1,87 +1,89 @@
 Weather.
 
-Today is the sale preview, and the sky has not even opened the doors. Eight to twelve degrees, five point six millimetres, wind nine. Then the clearance sale starts: Wednesday seventy-six point four millimetres, Thursday forty-three point six. A hundred and twenty millimetres in two days, everything must go. Friday the shop shuts, under one millimetre. Saturday is dry, clear, two degrees at dawn. Boots Wednesday, genius, and a spare pair of socks. Yes, you.
+Today is leg day, and the sky has not skipped it. Seven to twelve degrees, forty-six millimetres of rain, wind seven. Thursday is the second set, twenty-four millimetres. Friday is the rest day, a tenth of a millimetre, enjoy it. Saturday is the cool-down: clear, dry, one degree at dawn. Sunday a light jog, two point four. Boots now, gloves Saturday, and stop pretending you will pop out. Yes, you.
 
 Politics and government.
 
-United States. Justice Alito says Democratic proposals to change the Supreme Court's composition are part of a campaign to intimidate it. New York's mayor, Mamdani, will disband the police department's five-hundred-officer Strategic Response Group, used at pro-Palestinian protests, and replace it with de-escalation teams. Vance will decide on a twenty twenty-eight run sometime next year.
+United States. Democrat Mary Peltola flipped Alaska's Senate seat, the ninth Democratic flip of the midterms, for a fifty-six to forty-four majority. Schumer and Van Hollen are now openly contesting who leads it.
 
-UK. Alan Milburn's youth review calls for a complete system reset to get four hundred forty thousand young people into work. Refused asylum seekers lose their five-day grace period and face immediate removal. Ministers will end Palantir's NHS England contract in twenty twenty-nine.
+UK. Burnham promises to move quickly on Alan Milburn's youth report; ministers back shifting spending from benefits to job support, and Milburn wants lower employer National Insurance costs for hiring under-twenty-fives. Burnham has pushed announcing options for closer European Union ties to next month.
 
-Europe. Germany's coalition committee meets on cutting electricity tax; the Social Democrats want offsetting savings, possibly the company-car tax privilege. More French student protests are set for today.
+Europe. More French strikes and student protests on Tuesday. The German chancellor hosts the coalition of the willing on Ukraine in Berlin tomorrow.
 
-East Africa. Kenya won a seat on the International Telecommunication Union council, topping the African vote with one hundred thirty-six votes. Opposition leader Kalonzo took his fears of an unfair twenty twenty-seven election to Washington. The Bomas project cost has risen to forty-five billion shillings after the Turkish contractor was replaced by a Chinese one. Tanzania: nothing new.
+East Africa. Ruto gives his final State of the Nation address today. Opposition figures Maraga and Karua back a single candidate for twenty twenty-seven. Tanzania: nothing new.
 
 Conflict and security.
 
-Yemen. Houthis are close to Aden; the army reports six hundred sixty-one attacks and a hundred seventy-three Houthi casualties as it repositions. Saudi Arabia named a new military commander.
+Iran. The US says it struck an Islamic Revolutionary Guard Corps missile launch site on Qeshm Island, after Iranian mines hit five ships in Hormuz. Iran's army says drones targeted Patriot batteries at Kuwait's Ali al-Salem base; Kuwait and Bahrain report drone and missile attacks, and Manama blames Iran. Trump says he takes any Iranian plot against Washington very seriously, after reports of a dirty-bomb threat; Rubio says no imminent threat. Qatar warns of grave danger and announces new talks with Iran.
 
-Iran. The Guards say they seized a US drone near Qeshm, and Iranian television reports a fourth tanker mined in twenty-four hours. A third US carrier is now in the region, and air defences were reportedly activated at Isfahan. Vance says the war will not become a ten or fifteen year commitment. Araghchi met Oman's foreign minister in Muscat; Saudi and Qatari ministers discussed de-escalation.
+Yemen. A Houthi missile at Riyadh was intercepted; the coalition says it hit sixty targets.
 
-Ukraine. Russia struck Kyiv's main bridges, cutting heating and water; Ukraine hit the Crimean bridge for a second day, with the road span visibly deformed, though Moscow calls damage minor. The Komyshuvakha aid-site strike toll is final at seventy-two. The Kremlin says next talks will be trilateral, without Europe. Finland's president calls leaving talks to Washington irresponsible.
+Ukraine. Ukraine critically damaged the Kerch bridge to Crimea, a second night of strikes, using Neptune and Flamingo missiles; Moscow says it will be restored. Washington's Colby says deep strikes do not slow Russia's advance; Germany's Pistorius calls that quite a stupid thing.
 
-Israel. A settler attack near Jericho killed a woman and wounded several. Arab parties call reports that Netanyahu's office tried to frame their members an attempted coup.
+Israel. Parliament elected Eisenkot ally Matan Kahana speaker, sixty-six votes of one hundred twenty, a blow to caretaker prime minister Netanyahu.
 
 International affairs.
 
-Trump reaches Manila as the ASEAN summit wraps up, meets Quad leaders, then Shenzhen on Thursday for the Xi and Putin trilateral. Beijing promises groundbreaking significance but no set agenda; Putin could meet Kim Jong Un there. Germany, Austria, Greece, Denmark and the Netherlands plan a deportation hub in Rwanda, still under negotiation. The Francophonie leadership vote is postponed to twenty twenty-seven over the Congo-Rwanda dispute. Japan scrambled jets after two suspected Russian aircraft entered its airspace. Pope Leo's South America tour continues weeks after lung surgery. Disasters: cyclone Xavier, category three, nears the northern Cook Islands; two South African mass shootings killed seventeen.
+Xi and Putin met in Shenzhen on the eve of the first trilateral with Trump, who arrives tonight; they pledged a multipolar order. Rubio says Trump is serious about meeting Kim Jong Un; China has no information. China is building a nearly three-kilometre runway on Antelope Reef in the Paracels; ASEAN and China missed this year's South China Sea code deadline, about eighty percent agreed. Argentina's lower house debates a Falklands sovereignty bill today; Buenos Aires calls Princess Anne's visit a provocation. Mozambique's opposition leader Mondlane is charged with terrorism as his trial opens. Britain sanctioned eight Israeli firms over West Bank settlements, Australia seven settlers and groups; Israel vows retaliation. Disasters: cyclone Xavier, category five, threatens the Cook Islands; a New Zealand tsunami advisory; Fiji declared a drought disaster.
 
 Economy and markets.
 
-Chips. Washington closed the remote-access loophole: export licences are now required for Malaysia, Thailand, Indonesia, Singapore and Brazil, so Chinese firms cannot rent banned chips in third-country data centres. The New York Times says the move exposes a split between hawks like Bessent and the deal-makers. Reuters says Nvidia's board is not considering Huang's return, despite Trump's openness. The mechanism is tighter controls; the intended effect is denying China frontier compute; the risk is lost data-centre revenue and diversion toward Chinese chips; the read-through for your largest holding is policy risk compounding leadership risk as interim chief Kress faces her first earnings.
+Chips. Nvidia reported revenue of one hundred fifteen point eight billion dollars and profit of sixty-five point three billion, both above expectations, and guided to about one hundred thirty billion next quarter. The board will not reinstate Huang. Bulls read demand intact; bears note the Financial Times says Wall Street expects global profit growth to halve next year, to sixteen percent from thirty-three and a half, as AI spending growth slows. Nvidia booked one hundred four billion dollars through its Singapore arm; Singapore is in the new remote-access licence rule, which Nvidia warns could expose customers to lawsuits. Your largest holding: earnings strong, policy risk open.
 
-AI credit. Banks are offloading debt tied to data centres and chips as local opposition threatens projects. Fed chair Warsh set up a task force on how AI productivity affects labour; summary only. Bulls say hyperscaler economics justify buying the sell-off; bears say the debt is the weak link.
+Fed. Governor Cook will not attend the White House hearing on her removal without changes, her lawyers calling it a facade; independence is the risk premium.
 
-Oil. Brent is below ninety-four dollars, a two-month low; surplus outweighs the Hormuz risk, easing the inflation pressure behind hikes.
+UK. Unemployment unexpectedly eased to four point six percent. On the Phillips curve, a labour market not loosening keeps wage pressure, and Bank of England hawks, in play.
 
-China. October car output grew just nought point nine percent, the weakest since twenty twenty-two. Domestic passenger car sales fell twenty-seven percent while exports rose sixty-eight percent, pushing overcapacity abroad, hence Canada-China tariff cuts and trade friction.
+Australia. Wages grew fastest since twenty twenty-three, but prices rose faster.
 
-Developing countries' debt reached nine point four trillion dollars, the World Bank says.
-
-Australia. Central bank members who opposed the hike warned of a materially sharper downturn.
+Non-Western prints: Malaysia's third quarter grew five point five percent on tech; Kyrgyzstan ten point five percent over ten months. Canada and China agreed to ease tariffs.
 
 Business and industry.
 
-Fragile systems. Four days brought an air-traffic ground stop caused by a router upgrade in Arkansas, a Microsoft three sixty-five outage from three small failures compounding, a Chase software bug that rippled across US banks and Zelle, and a United outage. The four biggest airlines face up to nine hundred sixty-four million dollars in quarterly losses.
+Fragile systems, day six. The National Security Agency's classified network was down for hours, officially maintenance. Rubio says zero evidence links the outages and that rushing to secure systems may be causing failures. Waymo paused all US freeway rides after California banned its driverless cars from state highways. AI found a critical Java flaw. Nike will not return to growth for three more years.
 
 Mergers and acquisitions.
 
-Quebecor bid thirty-one billion Canadian dollars for Telus, remaking Canadian telecoms. Telus says it has serious concerns, though its shares jumped twenty-nine percent. Chevron is nearing a five billion dollar deal for Blackstone-backed Beacon Offshore. UniCredit reportedly won EU approval for its Commerzbank bid.
+Iceye bid two point oh five billion euros cash for Italy's Avio, Vega-C maker, to build an integrated European space and defence group. Accor will buy out Ennismore's minority partners for one point eight billion dollars, skipping an IPO; the valuation is more than double four years ago. The US Justice Department will review DoorDash's seventeen billion dollar Instacart deal. TPG nears taking Bill Holdings private.
 
 Science and technology.
 
-Early black holes may have grown through chaotic feeding: one quasar was three billion solar masses under seven hundred million years after the Big Bang. Voyager One reaches one light-day from Earth on Wednesday, about sixteen billion miles. The Leonid meteor shower peaks tonight and tomorrow. Dream Chaser has landing approval for its twenty twenty-seven debut.
+Voyager One has reached one light-day from Earth, nearly a decade ahead of Voyager Two despite launching second. Astronomers found rare black holes formed when stars failed to go supernova. Early data suggest ULA's Vulcan failure may not be the Blue Origin engines.
 
 Gadgets and consumer tech.
 
-Sony's F-X-five cinema camera is finally shipping after months of delays, four thousand eight hundred ninety-nine dollars for the body, per web listings. The iPhone Duo gains unlock with the front camera in the latest i-O-S twenty-seven developer beta, partly answering its missing Face ID; no release date.
+Xiaomi took its eighteen Pro and Pro Max outside China for the first time, at a Paris launch: two two-hundred-megapixel Leica cameras and a second screen on the back. A follow-on to September; the official global price was not in coverage. Camp Snap's C-S-eight Micro is a forty dollar keychain camcorder sold in blind boxes; no date given.
 
 Energy and environment.
 
-COP thirty-one talks face the end of Keep one point five Alive; a draft calls for accelerated action to exit fossil fuels. Norway's Supreme Court invalidated approvals for three North Sea projects for ignoring the climate impact of burning their output. China's emissions have plateaued and may be falling.
+COP thirty-one: a draft proposes one hundred twenty billion dollars of adaptation finance for Africa, with tensions over the deal; a push for electrification, modelled on China's grid. A judge found Trump's Samoa seabed mining auction, due Thursday, violated law. Iraq resumed Kirkuk to Ceyhan exports, up to half a million barrels a day after repairs.
 
 Health and medicine.
 
-The US formally loses measles elimination status today, with ten deaths. The FDA approved a Roche breast cancer drug the company says could be its top seller. An Alzheimer's light-and-sound headset showed mixed results.
+The White House withdrew Heidi Overton's FDA nomination before the committee vote. Mexico and Bolivia also lost measles elimination status with the US. John Powers leads the infectious disease institute.
+
+Built environment.
+
+Ontario's Darlington small reactor, North America's first commercial one, is over budget and behind schedule; the US Tennessee Valley Authority is weighing the lessons for its own.
 
 Law and justice.
 
-California sued OpenAI over about eighty loss-of-control incidents, including the Hugging Face hacking, calling it foreseeable. The Supreme Court took an asylum ban case and refused a Maryland gun-carry challenge.
+A judge ruled Bill Essayli acted unlawfully as US attorney in Los Angeles; the administration presses on. A Pakistani man got over twenty-seven years for an Iran-directed plot to kill Trump.
 
 Society.
 
-Italian schools face new bomb and poison threats. France banned firework mortars amid the protests.
+Reuters counts over eight thousand hoax bomb threats across Europe in a month.
 
 Culture and sport.
 
-Robert Pattinson is the next James Bond, directed by Denis Villeneuve. Grand Theft Auto six arrives Thursday; one analyst thinks it could take two billion dollars in its opening weekend. UEFA backs France's Diallo to challenge Infantino for FIFA's presidency, after opposing his plan to sell World Cup stakes to private investors. Wales shocked the All Blacks.
+Grand Theft Auto six is out tonight at midnight and leads the Game Awards with eight nominations. Japan's Tashima submitted a FIFA presidency bid, joining Diallo against Infantino's fourth term.
 
 Special interests and watchlist.
 
-Cameras: Panasonic's teased Lumix launch is today; outcome unknown. Cars: the China-made Mercedes VLE electric minivan debuts in Guangzhou on November twenty-seventh; seat count not given. Jetour's first electric model, the TX, opens China pre-sales from fourteen thousand nine hundred dollars. Aviation: Philippine Airlines firmed an order for up to twenty Boeing seven eight seven tens. EASA ordered extra ATR de-icing checks. Arsenal: players were on the scoresheet for England; Newcastle away Saturday. Chainlink: no official post; LINK near nine dollars; Standard Chartered says Japan's bond tokenisation could drive tokenised assets to two trillion dollars by twenty twenty-eight. OriginTrail: nothing. Agronomics: nothing from the company; Laverock named a new chief executive; Solar Foods' partner Fazer prepares an EU Solein launch. Longevity: the FDA created a regulatory category for the supplement NAC. Tourism: Adani is building hotels around its airports. Projectors, BMW, seven-seaters: nothing.
+Cameras: Panasonic's launch was the Lumix S-H-X-one, a box-style L-mount cinema camera, six-K open gate, unlimited four-K at one hundred twenty frames; not Micro Four Thirds; price not in digest. Cars: Geely's Monjaro, a seven-seat plug-in hybrid for the UK, a Kodiaq rival, forty-kilowatt-hour battery, one hundred five miles electric, up to three hundred twenty horsepower; price and date not given. BYD's Yangwang Altior, three hundred twelve thousand dollars, debuts in Guangzhou on November twenty-seventh. Aviation: Parata Air starts daily Seoul to Los Angeles on May first. A British Airways jet veered off a Heathrow runway before take-off. Arsenal: Rice signed to twenty thirty-one at about three hundred thousand pounds a week, Timber extending; Newcastle away Saturday; Peter Storey, of the nineteen seventy-one Double, died at eighty-one. Chainlink: no official post; Polymarket moved hourly and daily crypto markets to Chainlink prices; LINK near nine dollars. OriginTrail: nothing. Agronomics: nothing from the company; holding All G self-affirmed US approval to sell its precision-fermented human lactoferrin; Upside Foods won a second US clearance for cultivated chicken. Longevity: beer and spirits raise kidney injury risk, wine did not. Projectors, BMW: nothing.
 
 Editorial picks.
 
-The Intelligence: how Democratic congressional majorities may force compromise on a veto-loving president; the third segment was truncated. Rest of World: a small Ghanaian lab removed its drug-discovery model's guardrails and it designed over a thousand toxic proteins, an alarm on AI bioweapons. Longreads: Alysa Liu's profile in Life magazine, on walking away from skating and returning on her terms.
+New Lines: collective punishment around Hebron after a checkpoint shooting, and fears of Gaza-style tactics in the West Bank; and Sri Lanka's Muslims balancing Israeli surfers in Arugam Bay. The Intelligence: what if Britain really cut migration to zero, and Pattinson's place in Bond history. Longreads: the Britons paying to be frozen after death.
 
-Not returning today: the Google News acquisitions feed, covering mergers and acquisitions.
+Not returning today: Google News OriginTrail, covering OriginTrail.
