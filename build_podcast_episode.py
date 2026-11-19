@@ -73,7 +73,7 @@ PODCAST_AUTHOR = "Daily News Briefing"
 # https://huggingface.co/hexgrad/Kokoro-82M/blob/main/VOICES.md
 VOICE = os.environ.get("KOKORO_VOICE", "bf_isabella")
 LANG = os.environ.get("KOKORO_LANG", "en-gb")
-SPEED = float(os.environ.get("KOKORO_SPEED", "1.0"))
+SPEED = float(os.environ.get("KOKORO_SPEED", "0.9"))
 MODEL_PATH = os.environ.get("KOKORO_MODEL_PATH", "models/kokoro-v1.0.onnx")
 VOICES_PATH = os.environ.get("KOKORO_VOICES_PATH", "models/voices-v1.0.bin")
 

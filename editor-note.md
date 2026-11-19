@@ -11,6 +11,20 @@ conflict and politics, not enough insight, and the weather jokes have
 drifted into long, clever-clever conceits that don't land. Fix that for one
 day without redesigning anything.
 
+## Owner feedback on the 03:30 draft (apply in the 06:00 revision)
+
+- Weather is now two sentences: one line on the next three days, then ONE
+  joke. Keep the 06:00 version in that shape, for example: "The next
+  three days are dry but cold... the clouds will look stormy and never
+  deliver, so you will take the umbrella all three days and regret it
+  every time." Do not list each day separately. Do not reuse the example
+  jokes from this note.
+- The first news section has no header line. It opens with "Here are the
+  biggest news stories and how they connect." Use that line only if the
+  stories genuinely connect; otherwise open with the top story.
+- The voice speed is now 0.9 in build_podcast_episode.py, so at 1,150
+  words the episode runs about eight minutes. Keep the length as it is.
+
 ## Length
 
 - Target about 1,150 words (roughly 7.5 minutes), not 1,450. Shorter and
