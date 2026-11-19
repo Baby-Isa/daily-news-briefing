@@ -226,3 +226,4 @@ feel that, so record the angle used each day here and read it before writing.
 the label when they disagree - the number is what someone dresses for. And name
 a day that breaks the pattern ONLY when one genuinely does; several weeks have
 had none, and inventing one is worse than saying the week is uniform.
+- 2026-11-19 late additions (05:45 UTC refresh): IEA largest energy-security threat; Hegseth in Caracas, US-Venezuela military partnership; IMF global debt near 100% of GDP; FT on Deutsche Bank Italian unit hiding up to EUR800m mortgage losses.
