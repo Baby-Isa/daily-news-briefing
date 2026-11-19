@@ -1,7 +1,7 @@
 ======================================================================
 NEWS DIGEST for Thursday 19 November 2026  [full digest]
-Built 03:21 UTC
-1105 unique stories from 159 feeds (466 in full, 639 headline-only)
+Built 05:41 UTC
+1104 unique stories from 159 feeds (466 in full, 638 headline-only)
 ======================================================================
 
 Every item below is dated. Check each date against today before treating anything as new.
@@ -15,7 +15,17 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 ## WORLD: EUROPE AND AMERICAS
 ######################################################################
 
---- UK (59) ---
+--- UK (57) ---
+
+* Meet Phil, the bar-tailed godwit tracked on a 6,800-mile round trip to Siberia
+  Guardian UK | 19 Nov 05:01 UTC
+  Scientists use lightweight tracker to map wading bird’s extraordinary migration from Norfolk to the Arctic and back A bar-tailed godwit called Phil has completed a 6,800-mile journey from Norfolk to Siberia and back again, in the first mapping of the endurance feats of this long-distance migrant. A wading bird not much larger than a pigeo...
+  https://www.theguardian.com/environment/2026/nov/19/phil-bar-tailed-godwit-bird-tracked-round-trip-siberia
+
+* Weight-loss drugs used in nearly one in 10 homes in Great Britain, study finds
+  Guardian UK | 19 Nov 05:00 UTC
+  About 2.6m adults are taking the drugs, fuelled by the regulator’s approval of the pill versions and a rise in male users At least one person is taking weight-loss drugs in 8.5% of households in Great Britain, according to research, meaning there are more homes with GLP-1 users than those containing vegetarians and pescatarians combined. ...
+  https://www.theguardian.com/science/2026/nov/19/weight-loss-drugs-nearly-one-in-10-homes-great-britain-study-finds
 
 * The Papers: 'I'd rejoin the Army to fight Russia' and 'Boiling point'
   BBC UK | 19 Nov 03:10 UTC
@@ -52,20 +62,10 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.
   https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss
 
-* Google rejects UK request for Russell Brand YouTube video to be removed, sources say
-  BBC UK | 18 Nov 23:29 UTC
-  This comes after Brand's wife shared a message from him in which he claimed his innocence.
-  https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss
-
 * William and Kate meet India's PM as they wrap up royal visit
   Sky News | 18 Nov 18:54 UTC [also carried by: BBC India]
   The Prince and Princess of Wales met the prime minister of India on Wednesday to discuss trade and bilateral ‌ties at the end of their three-day visit to the country.
   https://news.sky.com/story/prince-william-and-kate-meet-indias-pm-narendra-modi-as-they-wrap-up-royal-visit-13613699
-
-* Premier League clubs to meet amid frustration over EFL deal progress
-  Sky News | 18 Nov 16:46 UTC [also carried by: Sky News Business]
-  Premier League clubs will meet on Thursday amid increasing frustration that attempts to secure a landmark financial settlement with the English Football League (EFL) have yet to result in a deal.
-  https://news.sky.com/story/premier-league-clubs-to-meet-amid-frustration-over-efl-deal-progress-13613669
 
 * Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again
   BBC UK | 18 Nov 13:17 UTC [also carried by: BBC Business]
@@ -77,7 +77,8 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   The festival will also host Cher in the Sunday "legends" slot, the unofficial fourth headline set.
   https://www.bbc.co.uk/news/articles/crwy4w381nlpo?at_medium=RSS&at_campaign=rss
 
-  ALSO IN UK (47), headline only:
+  ALSO IN UK (45), headline only:
+  - Google rejects UK request for Russell Brand YouTube video to be removed, sources say (BBC UK)
   - Leaseholders in England and Wales to have ground rent capped in 2028 (Guardian UK)
   - Children among hundreds of thousands of London transport users who may have been hit by data breach (Sky News)
   - Member of anti-migrant group found guilty of Staffordshire murder (Guardian UK)
@@ -92,11 +93,11 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Raise The Colours member guilty of dancefloor murder (BBC UK)
   - Police chief says racists and misogynists working inside force (BBC UK)
   - The leave campaign has been resurrected, so how should Burnham respond? (Guardian UK)
-  - ‘Neighbourhood support teams’ to pave way for national care service, Cooper announces (Guardian UK)
   - Burnham considering cuts to national insurance to create more youth jobs (Guardian UK)
   - Council wins legal fight against flags on lamp-posts (BBC UK)
   - Grand Theft Auto staff 'caught red-handed' in confidentiality breach, tribunal hears (BBC UK)
   - 'Good for the people' if politicians stopped doing media, says NI secretary of state (BBC UK)
+  - Cheese, pet passports and youth mobility: what’s in the UK-EU ‘relationship reset’ draft? (Guardian UK)
   - Bacterial toxin produced by E coli leading suspect in rise in bowel cancer among under-50s (Guardian UK)
   - Regulator mistakenly sent complaints about doctors to newspaper (BBC UK)
   - London Playbook PM: The circus moves on (Politico London Playbook)
@@ -107,8 +108,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Labour faces double blow over UK fossil fuel projects (Guardian UK)
   - Cancer patients at NHS trust harmed by years of unnecessary chemotherapy, report finds (Guardian UK)
   - Police treating 'targeted' shooting of woman as attempted murder (BBC UK)
-  - Burnham should fight next election on promise to rejoin EU, says Peter Kyle (Guardian UK)
-  - Israel delays building contracts for West Bank settlement after UK sanctions (Guardian UK)
   - Man accused of plotting terror attack during Donald Trump's visit to Scotland (Sky News)
   - Energy price cap rise: how to switch providers (Guardian UK)
   - Ivan Toney loses bid to avoid Euro 2028 court clash (BBC UK)
@@ -124,59 +123,58 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Huge waste dump blamed on Environment Agency delays (BBC UK)
   - What's gone wrong at Britain's worst bathing site? (BBC UK)
   - George thought his funeral was paid for – but now his wife will get nothing when he dies (BBC UK)
-  - ‘Human’ wins Cambridge dictionary’s word of the year (Guardian UK)
 
---- Europe (50) ---
+--- Europe (49) ---
+
+* Zelenskyy says he expects debrief from US envoys on Trump’s talks with Xi and Putin
+  Euronews | 19 Nov 05:34 UTC
+  Zelenskyy expects debrief from US envoys on Trump’s talks with Xi and Putin
+  https://www.euronews.com/2026/11/19/zelenskyy-says-he-expects-debrief-from-us-envoys-on-trumps-talks-with-xi-and-putin
+
+* Hegseth in Colombia to deepen anti-drug ties after surprise Venezuela stopover
+  Euronews | 19 Nov 05:06 UTC
+  Colombian Defense Minister Jorge Eduardo Mora had told his country's parliament that the Pentagon chief would hand over a C-130 Hercules military aircraft during the visit.
+  https://www.euronews.com/2026/11/19/hegseth-in-colombia-to-deepen-anti-drug-ties-after-surprise-venezuela-stopover
+
+* The Coalition of the Willing’s chance to deliver
+  Politico Europe | 19 Nov 05:05 UTC
+  European leaders gather in Berlin for a high-stakes meeting on Ukraine, just as Donald Trump, Vladimir Putin and Xi Jinping hold talks in China. With Washington and Moscow sending conflicting signals about Europe’s role in peace negotiations, can the Coalition of the Willing secure a seat at the table — and find the money to […]
+  https://www.politico.eu/podcast/brussels-playbook-podcast/the-coalition-of-the-willings-chance-to-deliver/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+
+* After Train Crash, Spain Asks if High-Speed Rail Grew Too Fast
+  NYT Europe | 19 Nov 05:01 UTC
+  As an election nears, a railway disaster in Spain has set off debate over whether maintenance of its infrastructure kept pace with its booming population.
+  https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html
+
+* Die Koalition der Wartenden: Europa blickt nach Shenzhen
+  Politico Europe | 19 Nov 04:30 UTC
+  Donald Trump, Xi Jinping und Wladimir Putin verhandeln in Shenzhen womöglich über die neue Weltordnung – und Europa guckt zu. Eine „Koalition der Willigen“ aus Dutzenden Staats- und Regierungschefs sucht gleichzeitig in Berlin nach einer Antwort auf die drohende Verschiebung und plant ein weiteres finanzielles Signal an Moskau, damit Puti...
+  https://www.politico.eu/podcast/berlin-playbook-podcast/die-koalition-der-wartenden-europa-blickt-nach-shenzhen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
+
+* Europe’s automotive transition needs a competitive industrial base
+  Politico Europe | 19 Nov 04:00 UTC
+  POLITICAL ADVERTISEMENT More information here
+  https://www.politico.eu/sponsored-content/europes-automotive-transition-needs-a-competitive-industrial-base/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
 
 * EU lawmakers accuse Chinese officials of intimidation over Taiwan
   Politico Europe | 19 Nov 03:00 UTC
   Parliament President Roberta Metsola is in touch with Chinese authorities “to ensure that further incidents can be avoided”
   https://www.politico.eu/article/eu-lawmakers-accuse-chinese-officials-of-intimidation-over-taiwan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
 
-* Germany presses to make Ukraine aid Le Pen-proof
-  Politico Europe | 19 Nov 03:00 UTC
-  Berlin wants to lock future increases of aid to Kyiv into an EU budget framework that can't be vetoed by any single country.
-  https://www.politico.eu/article/germany-presses-to-make-ukraine-aid-marine-le-pen-proof/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-
-* Inside Ukraine’s Coalition of the Wobbling
-  Politico Europe | 19 Nov 03:00 UTC
-  Macron and Merz are weakened at home and Burnham is untested abroad. Can they help Ukraine — and Europe — stand up to Putin, Trump and Xi?
-  https://www.politico.eu/article/inside-ukraines-coalition-of-the-wobbling/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-
-* Europe argued over who would talk to Russia. Agreeing what to say is even tougher.
-  Politico Europe | 19 Nov 03:00 UTC
-  Some governments favor partial ceasefires to gradually reach a deal while the EU's Kaja Kallas is urging a harder line.
-  https://www.politico.eu/article/europe-argued-over-who-would-talk-to-russia-agreeing-what-to-say-is-even-tougher/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
-
 * The Shadow of Yalta Hangs Over Trump’s Summit in China
   NYT Europe | 19 Nov 00:52 UTC [also carried by: NYT AsiaPacific]
   A 1945 meeting of Churchill, Stalin and Franklin Roosevelt set Europe’s course for decades. Here’s what happened.
   https://www.nytimes.com/2026/11/18/world/asia/trump-xi-putin-summit-yalta.html
-
-* Grand Theft Auto VI is here. The EU has 6 reasons to pay attention.
-  Politico Europe | 18 Nov 18:35 UTC [also carried by: RNZ]
-  The long-awaited new installment of the GTA series is a global entertainment phenomenon. But it also has a policy plotline.
-  https://www.politico.eu/article/eurocrats-meet-gamers-six-reasons-brussels-should-care-about-gta-vi/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication
 
 * Hakeem Jeffries moves closer to becoming first Black US House speaker
   Euronews | 18 Nov 17:44 UTC [also carried by: Dawn]
   The New York Democrat secured 251 votes in favour and 11 against, but faces pressure from progressive lawmakers demanding commitments on healthcare, immigration and other key issues.
   https://www.euronews.com/2026/11/18/hakeem-jeffries-moves-closer-to-becoming-first-black-us-house-speaker
 
-* Trump and Putin shake hands ahead of high-stakes trilateral summit in China
-  Euronews | 18 Nov 12:31 UTC [also carried by: Africanews, Dawn, Financial Times, The Diplomat]
-  China’s Xi welcomed his US and Russian counterparts at the APEC summit as the three global powers’ leaders gear up for their first trilateral meeting. Trump shook hands with Putin, expressing hope about the chances of ending the war in Ukraine.
-  https://www.euronews.com/2026/11/18/trump-arrives-in-china-for-unprecedented-trilateral-encounter-with-xi-and-putin
-
 * Marco Rubio says no evidence recent tech outages in US are linked or 'nefarious'
   Euronews | 18 Nov 12:05 UTC [also carried by: Foreign Policy]
   Air travel was disrupted because of what the Trump administration called outdated equipment, causing regulators to halt all flights from taking off for several hours on Friday evening.
   https://www.euronews.com/2026/11/18/marco-rubio-says-no-evidence-recent-tech-outages-in-us-are-linked-or-nefarious
-
-* Xi Jinping greets Trump with a hug and red carpet at Shenzhen airport
-  Euronews | 18 Nov 10:18 UTC [also carried by: Japan Times]
-  Donald Trump arrives in Shenzhen, China, ahead of a trilateral summit with Xi Jinping and Vladimir Putin, with Ukraine and nuclear security on the agenda.
-  https://www.euronews.com/video/2026/11/18/xi-jinping-greets-trump-with-a-hug-and-red-carpet-at-shenzhen-airport
 
 * Putin Will Continue Ukraine War Despite Plans to Meet Trump, Intelligence Says
   NYT Europe | 18 Nov 10:03 UTC [also carried by: NYT US]
@@ -184,25 +182,25 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   https://www.nytimes.com/2026/11/18/us/politics/trump-putin-ukraine-war.html
 
 * Democrat Mary Peltola unseats Republican and flips US Senate seat in tight race in Alaska
-  Euronews | 18 Nov 06:18 UTC [also carried by: Dawn, NPR Politics, NYT US]
+  Euronews | 18 Nov 06:18 UTC [also carried by: NPR Politics, NYT US]
   Democrats will control 56 seats in the 100-seat Senate which will give them the power to block legislation, launch broad investigations into Trump's administration and thwart his judicial and senior government appointments.
   https://www.euronews.com/2026/11/18/democrat-mary-peltola-unseats-republican-and-flips-us-senate-seat-in-tight-race-in-alaska
 
-  ALSO IN EUROPE (38), headline only:
+  ALSO IN EUROPE (37), headline only:
+  - Germany presses to make Ukraine aid Le Pen-proof (Politico Europe)
+  - How Burnham tapped the brakes on his big Brexit reset (Politico Europe)
+  - Inside Ukraine’s Coalition of the Wobbling (Politico Europe)
+  - Europe argued over who would talk to Russia. Agreeing what to say is even tougher. (Politico Europe)
   - 5 key places that signal where Spain’s election is heading (Politico Europe)
   - Boris Grebenshchikov, a Russian Rock Musician With a ‘Need to Rebel’ (NYT Europe)
   - Grand Theft Auto: An American Icon, Born in Britain (NYT Europe)
   - Alleged Russian agent arrested for spying on Silicon Valley tech firm (Euronews)
   - Bukele confirms airstrike on Haitian gang leader Jeff's luxury mansion (Euronews)
-  - US Defence Secretary announces military cooperation in surprise Caracas visit (Euronews)
   - EPP moves to suspend Serbia’s former ruling party (Politico Europe)
-  - Burnham’s 10-year plan lined up for Dec. 17 publication (Politico Europe)
   - Russia Vows to Rebuild Destroyed Crimea Bridge. It Could Take Years. (NYT Europe)
   - ECB President Christine Lagarde on Why She’s Stepping Down Early (NYT Europe)
-  - EU Commission accused of withholding emails on killing patent law (Politico Europe)
   - Latest news bulletin | November 18th, 2026 – Evening (Euronews)
   - Waymo pulls driverless taxis off US highways after California ban (Euronews)
-  - L’après-Macron vu par les espions (Politico Europe)
   - Israeli military launches new operation on central Gaza despite ceasefire (Euronews)
   - Robots serve ice cream and coffee in China's tech hub (Euronews)
   - Irish Man Sabotaged U.S. Military Plane With Ax and Chemicals, Prosecutors Say (NYT Europe)
@@ -219,16 +217,15 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Peru releases seven pelicans rescued from El Niño's effects (Euronews)
   - Trump ordered to give sworn testimony in BBC defamation case by January (Euronews)
   - Bahrain sentences Shia clerics to life over alleged Iran plot amid torture allegations (Euronews)
+  - Xi Jinping greets Trump with a hug and red carpet at Shenzhen airport (Euronews)
   - Europe Is Racing to Make Air Defenses ‘Cheaper Than What We Are Shooting Down’ (NYT Europe)
   - 6 Markets to Visit on Your Next Trip to Madrid (NYT Europe)
   - Huge plume of gas erupts from Los Angeles landfill after drilling accident (Euronews)
   - Europe and Jordan: A strategic partnership for prosperity and a stable Middle East (Euronews)
   - Huge explosions and black smoke rise from factory in Yemen (Euronews)
   - Haiti formalises security pact with El Salvador as thousands march in support of Bukele (Euronews)
-  - These Villagers Wonder if They’re on the Front Line of Russia’s Shadow War (NYT Europe)
-  - They’re Young and Frustrated and Want France to Change. They Disagree on How. (NYT Europe)
 
---- Eastern Europe (37) ---
+--- Eastern Europe (38) ---
 
 * Ukraine war briefing: Russia asks if Netherlands has joined conflict after Crimea bridge strike
   Guardian Ukraine | 19 Nov 02:16 UTC
@@ -246,7 +243,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine
 
 * EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences
-  Guardian Ukraine | 18 Nov 22:34 UTC [also carried by: SCMP]
+  Guardian Ukraine | 18 Nov 22:34 UTC
   Von der Leyen says she wants to give Kyiv ‘strong hand’ in talks and is confident all 27 member states will back idea The EU executive has proposed a €45bn (£37.5bn) loan for Ukraine to help with a looming cash crisis and reinforce its defences, as Russia’s relentless bombardment continues. Announcing the plan to lend Kyiv the money in 20...
   https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv
 
@@ -285,14 +282,14 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Slovenia’s visa centers in Russia have stopped accepting tourist visa applications, according to a notice on the website of VFS Global, which runs the centers.
   https://meduza.io/en/news/2026/11/18/slovenia-stops-taking-tourist-visa-applications-in-russia-extends-restrictions-to-russians-in-serbia
 
-* Four ways China treated Trump and Putin differently at the APEC summit in Shenzhen
-  Meduza | 18 Nov 18:29 UTC [also carried by: Al Jazeera global, DW Asia, Guardian China, NYT AsiaPacific]
-  The Asia-Pacific Economic Cooperation (APEC) summit opened in Shenzhen, China, on November 18, and Russian President Vladimir Putin is among the leaders attending. Putin, U.S. President Donald Trump, and Chinese leader Xi Jinping are expected to hold a three-way meeting on the summit’s second day. Putin himself proposed the meeting. Ahead...
-  https://meduza.io/en/feature/2026/11/18/four-ways-china-treated-trump-and-putin-differently-at-the-apec-summit-in-shenzhen
+* Russian prosecutors call for an end to the Khachaturyan sisters’ murder case, saying they acted in self-defense when they killed their abusive father
+  Meduza | 18 Nov 18:50 UTC
+  Prosecutors believe Krestina, Angelina, and Maria Khachaturyan, the sisters accused of killing their father, Mikhail Khachaturyan, acted in self-defense and that the case against them should therefore be dropped, the state news agency RIA Novosti reported from Moscow’s Basmanny District Court.
+  https://meduza.io/en/news/2026/11/18/russian-prosecutors-call-for-an-end-to-the-khachaturyan-sisters-murder-case-saying-they-acted-in-self-defense-when-they-killed-their-abusive-father
 
-  ALSO IN EASTERN EUROPE (25), headline only:
-  - Russian prosecutors call for an end to the Khachaturyan sisters’ murder case, saying they acted in self-defense when they killed their abusive father (Meduza)
+  ALSO IN EASTERN EUROPE (26), headline only:
   - Russia’s State Duma approves law restricting library access to books by ‘foreign agents’ (Meduza)
+  - Four ways China treated Trump and Putin differently at the APEC summit in Shenzhen (Meduza)
   - Polish President Karol Nawrocki gave Trump an amber-adorned ‘throne’ for his 80th birthday (Meduza)
   - Russian investigators decline to open criminal case after St. Petersburg woman reports beating and abuse at police station (Meduza)
   - Russia’s FSB reportedly has a list of at least 1,000 Azov personnel who could face prosecution in Russia. Some still live in Russian-occupied territory. (Meduza)
@@ -310,6 +307,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Russia planned ‘false flag’ operation with mass casualties on Polish territory, Rzeczpospolita reports (Meduza)
   - Ukraine carried out Crimean Bridge strike without Starlink, using its own communications technology, Ukrainian officer tells The Times (Meduza)
   - President of Moscow’s Lenkom drama theater faces fraud charges, placed under travel ban, Kommersant reports (Meduza)
+  - Xi calls ties with Russia ‘firm as a mountain’ as he meets Putin ahead of three-way summit with Trump (Meduza)
   - Ukrainian drones strike two oil refineries in southern Russia (Meduza)
   - Moscow and Helsinki agree on one thing: Russia never demanded Finland leave NATO (Meduza)
   - In Croatia, 35 Years On, Vukovar is Restored, But Still Divided (Balkan Insight)
@@ -317,10 +315,20 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Handouts or Highways? Critics Question Kosovo’s Infrastructure Strategy (Balkan Insight)
   - Russian attacks have left Kyiv with devastating power outages – and its mayor in a perilous position (Guardian Ukraine)
 
---- North America (36) ---
+--- North America (35) ---
+
+* ‘GTA Flu’ Has Schools and Jobs Bracing for Sick Days
+  NYT US | 19 Nov 03:54 UTC
+  The highly anticipated release of Grand Theft Auto VI is expected to prompt a wave of students and employees to stay home on Thursday.
+  https://www.nytimes.com/2026/11/18/us/gta-6-sick-work-school.html
+
+* Ericka Lomick’s Texas House Win Faces Challenge in State Supreme Court
+  NYT US | 19 Nov 03:42 UTC
+  The Texas electoral wave carried one Democrat to victory even after she had suspended her campaign. Republicans want her declared ineligible.
+  https://www.nytimes.com/2026/11/18/us/texas-house-election-ericka-lomick.html
 
 * Fight Over Deportation Protections for Venezuelans Escalates With Request to Supreme Court
-  NYT US | 19 Nov 03:18 UTC
+  NYT US | 19 Nov 03:27 UTC
   The justices previously allowed the Trump administration to lift protections for Venezuelans covered by the program known as Temporary Protected Status.
   https://www.nytimes.com/2026/11/18/us/politics/supreme-court-trump-deportation-venezuelans.html
 
@@ -328,11 +336,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   NYT US | 19 Nov 03:14 UTC
   Representative Nick Begich III overcame an independent challenger in a year in which Democrats made historic gains but third-party candidates had little success.
   https://www.nytimes.com/2026/11/18/us/politics/alaska-nick-begich-wins-house-race.html
-
-* ‘GTA Flu’ Has Schools and Jobs Bracing for Sick Days
-  NYT US | 19 Nov 03:03 UTC
-  The highly anticipated release of Grand Theft Auto VI is expected to prompt a wave of students and employees to stay home on Thursday.
-  https://www.nytimes.com/2026/11/18/us/gta-6-sick-work-school.html
 
 * With Alaska’s Senate Vote Counted, What Comes Next in the Last Frontier?
   NYT US | 19 Nov 02:58 UTC
@@ -348,11 +351,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   NYT US | 19 Nov 02:54 UTC
   The former president told the newly elected lawmakers that the country was going through a moment of “generational change.” He also praised Representative Hakeem Jeffries, the likely next speaker.
   https://www.nytimes.com/2026/11/18/us/politics/barack-obama-house-democrats.html
-
-* A Massachusetts Town Revolts Against Amazon’s Delivery Drones
-  NYT US | 19 Nov 02:06 UTC
-  Amazon wants to offer faster delivery. Residents want quiet skies. A Massachusetts suburb wages an epic battle for control of its airspace.
-  https://www.nytimes.com/2026/11/18/us/politics/amazon-delivery-drones-massachusetts.html
 
 * Trump, Xi and Putin Will Sit Down for the First Time. It Won’t Be Like Yalta.
   NYT US | 18 Nov 23:35 UTC [also carried by: NYT AsiaPacific]
@@ -379,8 +377,8 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   The new export-control rules released by the Commerce Department close a loophole that had allowed Nvidia and other companies to supply chips to offshore data centers used by Chinese companies that can’t legally buy advanced U.S. chips.
   https://www.csmonitor.com/USA/Politics/2026/1118/nvidia-chips-export-bessent-lutnick?icid=rss
 
-  ALSO IN NORTH AMERICA (24), headline only:
-  - Ericka Lomick’s Texas House Win Faces Challenge in State Supreme Court (NYT US)
+  ALSO IN NORTH AMERICA (23), headline only:
+  - A Massachusetts Town Revolts Against Amazon’s Delivery Drones (NYT US)
   - Trump Grows Frustrated With Vance Over Iran War Critique (NYT US)
   - Widespread Tech Outages Put Focus on Trump’s National Security Cuts (NYT US)
   - Trump Ally Arranged for Russian Flag to Be Displayed on an Arch in Atlanta (NYT US)
@@ -403,9 +401,28 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - American A.I. Models Have Potential to Be Turned Against U.S., Study Finds (NYT US)
   - LA’s complex demands await democratic socialist Mayor-elect Nithya Raman (CSM USA)
   - Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. What does voting data show? (BBC US Canada)
-  - Trump Administration Presses Ahead in Legal Battle Over U.S. Attorneys (NYT US)
 
---- Latin America (14) ---
+--- Latin America (17) ---
+
+* IMF warns global debt will soon reach 100% of GDP, the highest since World War II
+  MercoPress | 19 Nov 03:51 UTC
+  International Monetary Fund (IMF) Managing Director Kristalina Georgieva warned on Thursday that global public debt will soon reach 100% of world gross domestic product, the highest level since World War II, and called for "urgent attention" to government finances.
+  https://en.mercopress.com/2026/11/19/imf-warns-global-debt-will-soon-reach-100-of-gdp-the-highest-since-world-war-ii?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss
+
+* IMF’s Georgieva at APEC: countries must “quickly prepare” for artificial intelligence
+  MercoPress | 19 Nov 03:36 UTC
+  International Monetary Fund (IMF) Managing Director Kristalina Georgieva on Thursday urged countries to “quickly prepare” their digital infrastructure, labour markets and workers for the rise of artificial intelligence, speaking at the plenary session of the Asia-Pacific Economic Cooperation (APEC) leaders’ summit in the Chinese city of S...
+  https://en.mercopress.com/2026/11/19/imf-s-georgieva-at-apec-countries-must-quickly-prepare-for-artificial-intelligence?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss
+
+* US and Venezuela restore military cooperation with Hegseth’s surprise visit
+  MercoPress | 19 Nov 03:26 UTC [also carried by: Euronews]
+  US Defense Secretary Pete Hegseth signed a military cooperation agreement with Venezuela in Caracas on Wednesday during an unannounced visit, the first by a Pentagon chief since the January 3 US military operation that removed Nicolás Maduro from power. The agreement restores cooperation that Hugo Chávez broke off in 2005.
+  https://en.mercopress.com/2026/11/19/us-and-venezuela-restore-military-cooperation-with-hegseth-s-surprise-visit?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss
+
+* Anthropic, maker of Claude, debuts on Nasdaq after the largest IPO in history
+  MercoPress | 19 Nov 03:14 UTC
+  US artificial intelligence company Anthropic, maker of the Claude assistant, begins trading on Nasdaq on Thursday after pricing its initial public offering at US$83 a share, above the expected range, in what the US financial press describes as the largest offering in history. The deal values the company at around US$1.5 trillion.
+  https://en.mercopress.com/2026/11/19/anthropic-maker-of-claude-debuts-on-nasdaq-after-the-largest-ipo-in-history?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss
 
 * Mexican environment groups are asking for more government regulation of data center development
   Mexico News Daily | 19 Nov 00:12 UTC
@@ -443,39 +460,62 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   https://mexiconewsdaily.com/news/us-and-mexico-lose-measles-free-status/
 
 * Xi and Putin reaffirm their alliance on the eve of the first three-way summit with Trump
-  MercoPress | 18 Nov 17:25 UTC [also carried by: Meduza]
+  MercoPress | 18 Nov 17:25 UTC [also carried by: Japan Times, The Diplomat]
   Chinese President Xi Jinping and Russian President Vladimir Putin reaffirmed their strategic alliance in Shenzhen on Wednesday, hours before Xi personally greeted Donald Trump at the airport, on the eve of the first three-way meeting between the heads of state of China, Russia and the United States, to be held on Thursday on the sidelines...
   https://en.mercopress.com/2026/11/18/xi-and-putin-reaffirm-their-alliance-on-the-eve-of-the-first-three-way-summit-with-trump?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss
 
-* Sheinbaum, Trump to meet again at G20 after ‘very good’ APEC meeting: Wednesday’s mañanera recapped
-  Mexico News Daily | 18 Nov 17:08 UTC
-  From Shenzhen, China, President Sheinbaum reported productive meetings with U.S. President Trump and Vietnamese President Tô Lâm on Wednesday. Sheinbaum will attend the second day of the APEC Leaders’ Meeting on Thursday before returning to Mexico. The post Sheinbaum, Trump to meet again at G20 after ‘very good’ APEC meeting: Wednesday’s ...
-  https://mexiconewsdaily.com/politics/sheinbaum-trump-meet-g20-mananera-wednesday/
-
-* MND Local BCS: Stargazing, unchecked growth and an epic Baja 1000 hits the finish line
-  Mexico News Daily | 18 Nov 17:00 UTC
-  An event celebrating the dark skies of Baja California Sur is coming soon to Loreto, while the SCORE Baja 1000 recently wrapped up with a surprising finish in Los Cabos. The post MND Local BCS: Stargazing, unchecked growth and an epic Baja 1000 hits the finish line appeared first on Mexico News Daily
-  https://mexiconewsdaily.com/baja-california-peninsula/mnd-local-bcs-stargazing-unchecked-growth/
-
-* Mexico claims narrow win over Jamaica following line-up change
-  Mexico News Daily | 18 Nov 16:32 UTC
-  The win was the first of the Rafa Márquez era and the first since Mexico defeated Ecuador 2-0 on June 30 in a World Cup Round of 32 match. The post Mexico claims narrow win over Jamaica following line-up change appeared first on Mexico News Daily
-  https://mexiconewsdaily.com/sports/mexico-win-jamaica-line-up-change/
-
-* Hamburg tribunal confirms it will deliver its Sea Lion order on November 28
-  MercoPress | 18 Nov 14:21 UTC
-  The International Tribunal for the Law of the Sea has confirmed it will announce on Saturday, November 28, at noon Hamburg time — 8 a.m. in Montevideo and Buenos Aires — its decision on Argentina’s request for provisional measures to halt the Sea Lion oil project north of the Falklands. The order will be read at a public sitting by the tr...
-  https://en.mercopress.com/2026/11/18/hamburg-tribunal-confirms-it-will-deliver-its-sea-lion-order-on-november-28?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss
-
-  ALSO IN LATIN AMERICA (2), headline only:
+  ALSO IN LATIN AMERICA (5), headline only:
+  - Sheinbaum, Trump to meet again at G20 after ‘very good’ APEC meeting: Wednesday’s mañanera recapped (Mexico News Daily)
+  - MND Local BCS: Stargazing, unchecked growth and an epic Baja 1000 hits the finish line (Mexico News Daily)
+  - Mexico claims narrow win over Jamaica following line-up change (Mexico News Daily)
+  - Hamburg tribunal confirms it will deliver its Sea Lion order on November 28 (MercoPress)
   - Venezuelan ex-world boxing champion Linares in ICE detention (BBC Latin America)
-  - Argentina’s lower house debates Falklands sovereignty bill today, with one chapter short of votes (MercoPress)
 
 ######################################################################
 ## WORLD: MIDDLE EAST AND AFRICA
 ######################################################################
 
---- Middle East (38) ---
+--- Middle East (40) ---
+
+* Middle East crisis poses 'largest threat' to energy security in history, warns IEA
+  France 24 ME | 19 Nov 05:11 UTC
+  The International Energy Agency said on Thursday that the Middle East crisis triggered by US and Israeli strikes on Iran in February posed the “largest threat” to energy security in history. It warned that consumers were bearing more of the costs as Iran’s blockade of the Strait of Hormuz disrupted oil shipments.
+  https://www.france24.com/en/middle-east/20261119-middle-east-crisis-energy-security-iea
+
+* Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence
+  Al Jazeera global | 19 Nov 04:58 UTC
+  European leaders set to meet in Berlin as Kyiv faces a 25 billion-euro ($27.4bn) financing gap next year.
+  https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss
+
+* Trump wants to talk nuclear with Putin and Xi
+  Al Jazeera global | 19 Nov 04:50 UTC
+  US President Donald Trump says he plans to raise nuclear non-proliferation with China’s Xi and Russia’s Putin.
+  https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss
+
+* Trump makes third Supreme Court bid to end Venezuelan migrant protections
+  Al Jazeera global | 19 Nov 04:46 UTC
+  Emergency appeal follows a California judge's ruling that ending their temporary protected status was unlawful.
+  https://www.aljazeera.com/news/2026/11/19/trump-makes-third-supreme-court-bid-to-end-venezuelan-migrant-protections?traffic_source=rss
+
+* Is this ancient Swahili town at risk from Kenya’s energy boom
+  Al Jazeera global | 19 Nov 04:44 UTC
+  East Africa is betting billions on oil infrastructure to strengthen energy security and reduce dependence on imports.
+  https://www.aljazeera.com/video/newsfeed/2026/11/19/is-this-ancient-swahili-town-at-risk-from-kenyas-energy-boom?traffic_source=rss
+
+* Saudi-led coalition says it thwarted Houthi missile launched towards kingdom's south
+  Middle East Eye | 19 Nov 04:09 UTC
+  Saudi-led coalition says it thwarted Houthi missile launched towards kingdom's south The Saudi-led coalition said that its forces intercepted and destroyed a ballistic missile launched by Yemen's Houthis that was heading towards Saudi Arabia’s southern region.
+  https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-thwarted-houthi-missile-launched-towards
+
+* Trump claims Iran is exploring chemical, biological weapons
+  Middle East Eye | 19 Nov 04:07 UTC
+  Trump claims Iran is exploring chemical, biological weapons US President Donald Trump claimed that Iran is seeking to look into chemical and biological weapons. Trump said that Tehran was "looking at gases, looking at bio" during an interview with Fox News, without providing evidence to back his claims. The American president also said th...
+  https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-iran-exploring-chemical-biological-weapons
+
+* Miami court convicts US-Haitian pastor over 2021 assassination of president
+  Al Jazeera global | 19 Nov 03:58 UTC
+  Prosecutors accused Christian Emmanuel Sanon of seeking to replace then-Haitian President Moise.
+  https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president?traffic_source=rss
 
 * Watch: Palestinians flee Gaza’s Nuseirat as Israeli army launches ground operation
   Middle East Eye | 19 Nov 03:19 UTC [also carried by: France 24 ME, Japan Times]
@@ -492,52 +532,20 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Waymo faces fresh scrutiny after a driverless car stalled in San Francisco floodwaters amid other traffic incidents.
   https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss
 
-* What do Trump, Putin and Xi want from their Shenzhen meeting?
-  Al Jazeera global | 19 Nov 02:57 UTC
-  The US, Chinese and Russian leaders are to hold their first three-way talks on the sidelines of the APEC summit.
-  https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss
-
-* Saudi-led coalition says forces responded to Houthi missile threat targeting Riyadh
-  Middle East Eye | 19 Nov 02:50 UTC
-  Saudi-led coalition says forces responded to Houthi missile threat targeting Riyadh The Saudi-led coalition’s spokesperson said that its forces have responded to a Houthi missile threat targeted the capital of Riyadh. The spokesperson said that an initial assessment indicated that falling debris had resulted in material damage, with autho...
-  https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-forces-responded-houthi-missile-threat
-
-* Blast reported in Saudi Arabia's Riyadh
-  Middle East Eye | 19 Nov 02:13 UTC
-  Blast reported in Saudi Arabia's Riyadh A loud explosion was heard early on Thursday morning in Saudi Arabia's capital of Riyadh, according to AFP. The blast follows an alert from the Saudi civil defence regarding a "potential danger", which was later lifted.
-  https://www.middleeasteye.net/live-blog/live-blog-update/blast-reported-saudi-arabias-riyadh
-
-* USS George Washington aircraft carrier leaves the Middle East after three months
-  Middle East Eye | 19 Nov 01:23 UTC
-  USS George Washington aircraft carrier leaves the Middle East after three months The US aircraft carrier USS George Washington has left the Middle East after being stationed in the Gulf for three months. According to the US Naval Institute's online news service, a US Pacific Fleet spokesperson said that the Japan-based carrier is now in t...
-  https://www.middleeasteye.net/live-blog/live-blog-update/uss-george-washington-aircraft-carrier-leaves-middle-east-after-three
-
-* Why a trio of experts alleges Jeffrey Epstein did not die by suicide
-  Al Jazeera global | 19 Nov 01:17 UTC
-  A new report alleges that injuries on Epstein's body were overlooked by medical examiners during his 2019 autopsy.
-  https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss
-
-* Settler rams into Palestinians at multiple locations in central Israel
-  Al Jazeera global | 19 Nov 01:13 UTC
-  At least eight Palestinians were injured after a settler driver was caught on camera running them over.
-  https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss
-
-* German FA backs France’s Diallo for FIFA presidency
-  Al Jazeera global | 19 Nov 00:44 UTC
-  Incumbent Gianni Infantino has resisted repeated calls to resign, citing overwhelming global support.
-  https://www.aljazeera.com/news/2026/11/19/german-fa-backs-frances-diallo-for-fifa-presidency?traffic_source=rss
-
-* Kenya’s milk shortage deepens as drought hits farmers and pushes up prices
-  Al Jazeera global | 19 Nov 00:40 UTC
-  Farmers are receiving higher payments but are producing far less milk and also face rising prices for hay.
-  https://www.aljazeera.com/news/2026/11/19/kenyas-milk-shortage-deepens-as-drought-hits-farmers-and-pushes-up-prices?traffic_source=rss
-
 * They tried to torture him into leaving Iraq. He refused to abandon the nature he protects
   NPR Middle East | 18 Nov 10:00 UTC [also carried by: NPR Climate]
   Iran-backed militias kidnapped and tortured him, but Jassim al-Asadi is still on a mission to save Iraq's marshes, and a way of life stretching back to the dawn of history.
   https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped
 
-  ALSO IN MIDDLE EAST (26), headline only:
+  ALSO IN MIDDLE EAST (28), headline only:
+  - What do Trump, Putin and Xi want from their Shenzhen meeting? (Al Jazeera global)
+  - Saudi-led coalition says forces responded to Houthi missile threat targeting Riyadh (Middle East Eye)
+  - Blast reported in Saudi Arabia's Riyadh (Middle East Eye)
+  - USS George Washington aircraft carrier leaves the Middle East after three months (Middle East Eye)
+  - Why a trio of experts alleges Jeffrey Epstein did not die by suicide (Al Jazeera global)
+  - Settler rams into Palestinians at multiple locations in central Israel (Al Jazeera global)
+  - German FA backs France’s Diallo for FIFA presidency (Al Jazeera global)
+  - Kenya’s milk shortage deepens as drought hits farmers and pushes up prices (Al Jazeera global)
   - Somalia’s constitutional overhaul tests its fragile federal bargain (Al Jazeera global)
   - Israeli driver reportedly runs over eight Palestinians in Kafr Qasim (Middle East Eye)
   - Anthropic raises $81.3bn in biggest IPO of all time (Al Jazeera global)
@@ -548,24 +556,33 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Migrant boat capsizes off Senegal, leaving at least one dead (Al Jazeera global)
   - Coalition says missile launch platform destroyed in Saada (Middle East Eye)
   - Saudi defence minister discusses defence cooperation with US Centcom chief in Riyadh (Middle East Eye)
-  - GTA 6 launches after 13-year wait, breaking pre-order records (Al Jazeera global)
   - Tanker struck by unknown projectile near Oman's Khasab, UKMTO says (Middle East Eye)
-  - US steps up pressure on Iran-backed Hezbollah with new sanctions (Al Jazeera global)
   - Qatar condemns Israeli incursions into Syria (Middle East Eye)
   - Mahmoud Khalil sues US Justice Department over failure to disclose correspondence with immigration judge (Middle East Eye)
   - Critics accuse The New York Times of promoting Iran war propaganda (Middle East Eye)
   - Israeli court extends detention of Gaza doctor Hussam Abu Safia (Middle East Eye)
   - 'Turn on the weapons spigot': Saudi Arabia asks partners for gear to deter Houthis (Middle East Eye)
-  - US lawmakers push to raise minimum wage to $25, end tipped pay system (Al Jazeera global)
-  - Floodwaters submerge cars and parking lots in Florida town (Al Jazeera global)
   - US judge rules in favour of foreign students and journalists after Trump limits visas (Middle East Eye)
-  - Israeli forces say ground operation in Gaza to dismantle Hamas tunnels (Middle East Eye)
-  - What does Israel’s new ground offensive mean for Palestinians in Gaza? (Al Jazeera global)
   - 'Netanyahu's only 2 tickets are racism or starting a war: He stopped acting as a democratic player' (France 24 ME)
   - Yemen: Why the Houthis may besiege Aden rather than storm it (France 24 ME)
   - Orchestra of Israeli and Palestinian musicians continues to make music (NPR Middle East)
 
---- East Africa (24) ---
+--- East Africa (23) ---
+
+* Half-truths: Ruto defends record but struggles to address the pain of cost of living
+  The Standard Kenya | 19 Nov 05:00 UTC
+  President William Ruto on Wednesday defended his administration's record, saying the country is on an upward trajectory.
+  https://www.standardmedia.co.ke/article/2001562563/half-truths-ruto-defends-record-but-struggles-to-address-the-pain-of-cost-of-living
+
+* Canada defends Sifuna meeting as diplomats weigh Kenya’s pre-election field - The Eastleigh Voice
+  GN Kenya Tanzania | 19 Nov 04:20 UTC
+  Canada defends Sifuna meeting as diplomats weigh Kenya’s pre-election field The Eastleigh Voice
+  https://news.google.com/rss/articles/CBMitgFBVV95cUxNVzBFa0NUVXhzQmtfdWUyRWpaTHZjTU5GaDR3TEhCZkhNc0IwOGxTQ1JMOTZEcFRnSFFJdHVBRnk4Q3k4WnhHb08xY3Frdm9uT2J4bWNnOEZ1cnNQZy1WX0NUOXpJZl8xN3lGTkVxVnRvanc5THF5X1JLeDU0alVTVlZQZ0VjOEI0cmhlY25McjN5TjdhVjI3Z29IZm1KaXFRLWlGYjdkWXRlUTlsYmtwTlNqdTN5Zw?oc=5
+
+* How govt plans to raise Ksh5T to transform Kenya over 10 years - People Daily
+  GN Kenya Tanzania | 19 Nov 03:23 UTC
+  How govt plans to raise Ksh5T to transform Kenya over 10 years People Daily
+  https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2g4SXYzUG53MEhtalZ4S2txUmt6WUVlTjVmbmt0QmVPTDVBUXlOMkx4V1BmQ3VoZEpOTWVfOFNhRXpKcUdkaThtR2xVLXNRM1FRYlk2T0NUQjRwbFgySGJYTHBRVGVfTXhPWC16RXhSdHNEZGxzYlZSSDd5R21xbnY4YmY0dnlIb1U4anVkYjdsWkxBSko4azh6SWg0eHBBYVliYUVQQXhBRkk?oc=5
 
 * Sifuna calls Ruto’s State of the Nation a ‘state of imagination’ - The Mt Kenya Times
   GN Kenya Tanzania | 19 Nov 01:37 UTC
@@ -592,46 +609,31 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Greenland Girls School shows Kenya how to rescue young mothers from the education crisis The Mt Kenya Times
   https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjc4TXU1MW9zTzRydXkwcFJjS0Y2VUNlbmJGYzNwX1EzRjFfY2ZLMmtwRndNd1FUN0RMeENxNnVEdE16QkthdGtJd3BfTkU3b3NyT05xQnAzWWEySGRzVEwyMHJISFdzMkVCeWRDSDdSUUh0Q0hWZllhbEZ3NzY1Y3FFLUxfMk5wX25vNW1tVWtqQkdnQTZLSnJRYjZjVmI1bTFEX09kUy14ZGJ6akNoMW9FXzRCMXM2M2hR?oc=5
 
-* Sex before marriage: Have we abandoned our values in the name of modernity? - The Mt Kenya Times
-  GN Kenya Tanzania | 18 Nov 22:30 UTC
-  Sex before marriage: Have we abandoned our values in the name of modernity? The Mt Kenya Times
-  https://news.google.com/rss/articles/CBMipwFBVV95cUxQdDFrRV9FNThBdUE3RlRzSkZIQS1xaTNpVEoxRTBVYjdCVkFfVENnejNib2pSTGROSjlXWTRhVTV4ZmZDZXlzNlV4TW5KSnYxbXIxU3h2RDBPVzRnOFVNVms4ZjJmcGVJeTd5QTBNNGx1N0Fna2lrWW1QLUxxNzVydWVHNlAxbVlJQklWY2U5dF9ZUVMxSGhuR3Z3RkluZHZka2F3QmFkdw?oc=5
+* Kenya warns against using children to solicit donations in online fundraisers - The Mt Kenya Times
+  GN Kenya Tanzania | 18 Nov 22:14 UTC
+  Kenya warns against using children to solicit donations in online fundraisers The Mt Kenya Times
+  https://news.google.com/rss/articles/CBMirAFBVV95cUxPS0w5cldlNTdXWkREeDZEdFNIMmRRSDBvb0JHM18xZF9neVNJcUg2b0tHY252ejNuejgzVU5ZUHhwNUl1TEFGekpReERFUGFud2JMa3ZYWktJQzBHSEFlaDF4SDNYSnhUV0s3RHE2dGVndFBZamMwQ0dEdHhnTlRIRXQtSDctdF9jV1FBUTBJOXFtR2NJUU4wdVpxSzJvLWJJNWU4RXhWblRuSk5J?oc=5
 
 * Kenya joins global push for fossil fuel treaty amid questions over readiness for energy transition - The Mt Kenya Times
   GN Kenya Tanzania | 18 Nov 22:04 UTC
   Kenya joins global push for fossil fuel treaty amid questions over readiness for energy transition The Mt Kenya Times
   https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWGs3cE5NZzRPNVN5akladGtaTloxZkFPY0pSU2dPLWx1TkpCSHpUa0d3V0ZsMlZ0c2x2Q0oybGVTMGhfYkM1VUF2Nlpnd0psaFFZWmt5RTctSW1yNnRDM01fdkV0NGJibC1peTdwZEt6c09PekxEVi1ZM0tCVUJxRHVOZ0FPWDEzTl9aa2dIZTZBa1lmU2NlZm91WkQ2b1lLS1lvTU9YbjhiR1ZBMFVxR2dCOFdVLXJ6alQwX256NkgydGVtVms1LQ?oc=5
 
-* Ruto struggles to address the pain of the cost of living, defends record
-  The Standard Kenya | 18 Nov 21:00 UTC
-  President William Ruto on Wednesday defended his administration's record, saying the country is on an upward trajectory.
-  https://www.standardmedia.co.ke/article/2001562563/ruto-struggles-to-address-the-pain-of-the-cost-of-living-defends-record
-
 * Kenya's Ruto unveils economic plans in final State of the Nation Address of 1st term - Anadolu Ajansı
   GN Kenya Tanzania | 18 Nov 17:13 UTC
   Kenya's Ruto unveils economic plans in final State of the Nation Address of 1st term Anadolu Ajansı
   https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZTFYQ2IxcGItYUN1cTZnVzN0d3hzcUlXUGZueUo5NktqbkIwdklPTzVnUU5rU0g5T0wxTzdQU3cxMDlvak9kTUtIMTJBQWZkSlE4TVFfRFNtcHdmclVFSXI0OTlJS0dUN2I4cllNdE9uNkNaTXFMc2dvdXBmUlFDWTl3anJ4VmFYV2lsSF9zNVRfWUpCTVdpZWtQT0Q3VVQ4amNxOTk4RDUzZlNpc2tIRzlGVVNKejBmZUo4?oc=5
-
-* Kenya’s US exports double to Sh116bn as solar cells fuel trade surge - Business Daily
-  GN Kenya Tanzania | 18 Nov 15:30 UTC [also carried by: BBC Business]
-  Kenya’s US exports double to Sh116bn as solar cells fuel trade surge Business Daily
-  https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTEpJUnprNUZOVDg3VEpZYVkwN1Z2RUI3bU1PNFdpNFBjT1JzZjBiLUIzaXZXV2syb3FFUDdXY1kwdW1mOW1KQXpGVl9VMl93WXJ4UElTWFpHNWE5NW0tU3NRZFVWVkVPakhpWi14ME1STVFpLUtvZTBYSktfRTBPcWZWSUFra1VNV0JWSDhrY1Vzb1o2c0pCaUk2dUt4N0hHMlZtVy03WmVsZ3VhdF94MjlDa3owaElE?oc=5
 
 * 𝐒𝐭𝐚𝐭𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐍𝐚𝐭𝐢𝐨𝐧 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 "We must move beyond stabilising the economy to transforming its productive capacity. Beyond creating individual opportunities to build an economy capable of sustaining millions of productive jobs," ~President Willia - Facebook
   GN Kenya Tanzania | 18 Nov 15:30 UTC
   𝐒𝐭𝐚𝐭𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐍𝐚𝐭𝐢𝐨𝐧 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 "We must move beyond stabilising the economy to transforming its productive capacity. Beyond creating individual opportunities to build an economy capable of sustaining millions of productive jobs," ~President Willia Facebook
   https://news.google.com/rss/articles/CBMirwRBVV95cUxOM21NMVBnaTRrMnMtaWdLWWlyd1lTNzE2MmgwRDNabHRTc2RjRVVXWk5QNXM5RlZpb094eUlVZXg5d0Q2NWsyUGxvNVdBLU90QkZ1T212Q1NhalNYVldTVDNDRExPS05jWUZQTG5BN0xhLTZkd1hiXzRlTWpHNk5abjVGT080WXdRLW1Tb2luNjd0SFVwWUU0eFo5dUM5MnB5VFI1S2Z4ZHYtdFJuYjVvWm1GemRNZ0FQekdlOVgyOXV4X1JTZDdhb0w4THpSRkpNejQtV0RkWmRyUVVaN3U1TEpyeDNhTzRqcWY2Q1A5QTdiTzIwNkZWNEVhYUFRMjFXT2RveURkNXl4TkVtLTJ0NGpOcG41OGdBdzQ0c1FGTjF5TVNyYU1ySUdOVXpmT203V1NPaDA1WDlLR0tTbWRoR1hhTXB5SlVjXzRySWxTaWVzMFVMdDBXTWc2VDRTNUZDVEl0LTNBZUowM1NEN3Uwd3o0T2RKT00xUXM4dUMwSHRWNHBDMHZwbndMREhRRFR4a2YzNlFfYUR1eUdIUklINU9VQ0dxaHBiV3poN0tDM05TZnlCVXgtbWNVSjBJaWdFOHhoak1fV1RWd0h3MXhhczdNMzhER0w0T0RQbkRTVDNhb0MxTlh3U2VlallMV0xoQ2d0UnhZTG4zWWpMX29OaXlVbXBCcFVBeE9sNnJob2tvU0Q3bEFzczluaHdWdmJtTnRtSkYta0ZBbG1aRHI4?oc=5
 
-* Ruto lists measures to lower cost of living, put more money in Kenyans' pockets
-  The Standard Kenya | 18 Nov 15:25 UTC
-  Ruto said his administration had prioritised lowering the cost of essential goods and services while increasing earnings across key sectors of the economy.
-  https://www.standardmedia.co.ke/article/2001562553/ruto-lists-measures-to-lower-cost-of-living-put-more-money-in-kenyans-pockets
-
-  ALSO IN EAST AFRICA (12), headline only:
+  ALSO IN EAST AFRICA (11), headline only:
+  - Ruto lists measures to lower cost of living, put more money in Kenyans' pockets (The Standard Kenya)
   - Divide and conquer - now maverick Erasmus plans online watchalong (BBC Africa)
   - 𝐒𝐭𝐚𝐭𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐍𝐚𝐭𝐢𝐨𝐧 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 "Our economy is recovering its strength, our infrastructure is expanding, our education system is being revitalised, healthcare is reaching more citizens, and new opportunities are opening for our young people to work, - Facebook (GN Kenya Tanzania)
   - Project launched to protect women aspirants from election-related violence - Kenya News Agency (GN Kenya Tanzania)
-  - UK Embassy Kenya Announces Deadline for 2027 Fully Funded Commonwealth Scholarships Applications - Tuko News (GN Kenya Tanzania)
   - Nigeria, Kenya, Angola: Congress bucks Trump on democracy in Africa - The Africa Report (GN Kenya Tanzania)
   - Kenya’s Ksh. 27.8B Konza biotech park is a win for healthcare & the economy - HapaKenya - (GN Kenya Tanzania)
   - ALICIA HOUSER - Tanzania’s Peace Was Never Peaceful - The Elephant (GN Kenya Tanzania)
@@ -639,17 +641,41 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Nigeria approves law allowing states to run their own police (BBC Africa)
   - Ruto’s Sh5tn transformation plan: What has Kenya achieved one year on? - Capital FM Africa (GN Kenya Tanzania)
   - Kenya's formalisation plan targets contracts, insurance and simpler licences - https://streamlinefeed.co.ke/ (GN Kenya Tanzania)
-  - Can a US-backed mineral highway bring peace and prosperity to DR Congo? (BBC Africa)
 
---- Sub-Saharan Africa (81) ---
+--- Sub-Saharan Africa (83) ---
 
-* Fiji declares state of disaster amid El Nino-driven drought
-  Daily Maverick | 19 Nov 04:49 UTC
-  Nov 19 (Reuters) - Fiji has declared a national state of disaster after an El Nino-driven drought caused widespread water shortages, with the Pacific nation's weather bureau forecasting below-normal rainfall until at least April.
-  https://www.dailymaverick.co.za/article/2026-11-19-fiji-declares-state-of-disaster-amid-el-nino-driven-drought/
+* Zimbabwe: Constitutional Court Reserves Judgment in Challenges to Mnangagwa's Term Extension
+  AllAfrica | 19 Nov 05:33 UTC
+  [New Zimbabwe] The Constitutional Court on Wednesday reserved judgment in two challenges to constitutional amendments extending President Emmerson Mnangagwa's rule to 2030.
+  https://allafrica.com/stories/202611190059.html
+
+* ON THE GROUND: ‘Sea bible’ at risk as West Coast fishing communities face uncertain future
+  Daily Maverick | 19 Nov 05:30 UTC
+  In Port Nolloth and Doringbaai, small-scale fishers read the sea the way their fathers taught them. As a court weighs their challenge to TotalEnergies’ plans to drill off the West Coast, the more urgent question in town is whether anyone will be left to read it.
+  https://www.dailymaverick.co.za/article/2026-11-19-sea-bible-at-risk-as-west-coast-fishing-communities-face-uncertain-future/
+
+* FROM MY END OF YEAR PILE: One book to break your heart, and one to mend it
+  Daily Maverick | 19 Nov 05:30 UTC
+  Two books to carry you through to December: one about the astonishing things that grief makes us do, and another about the equally astonishing things that bosses do.
+  https://www.dailymaverick.co.za/article/2026-11-19-one-book-to-break-your-heart-and-one-to-mend-it/
+
+* Burkina Faso: Burkina Faso Targets Critics in Exile
+  AllAfrica | 19 Nov 05:20 UTC
+  [HRW] Junta's Arrest Warrants, Extradition Requests Extend Crackdown Abroad
+  https://allafrica.com/stories/202611190035.html
+
+* Africa: COP31 Deadlock Persists As Countries Launch New 'Climate Reality Check'
+  AllAfrica | 19 Nov 04:56 UTC
+  [UN News] With the clock running down at COP31 in Antalya, countries on Wednesday launched a new global check on whether climate promises are being kept, even as ministers remained deadlocked over some of the summit's toughest questions: who pays, how fast the world moves away from fossil fuels and whether a greener future can be called "...
+  https://allafrica.com/stories/202611190014.html
+
+* Sudan: UN WFP Pledges Month-Long Food Aid for 30,000 Displaced in Sudan's Northern State
+  AllAfrica | 19 Nov 04:53 UTC
+  [Dabanga] El Dabba Camp, Northern State -- The UN World Food Programme (WFP) has pledged emergency assistance for 30,000 displaced people at El Dabba camp in Sudan's Northern State for one month, as fresh arrivals from Darfur and Kordofan deepen food shortages and funding cuts threaten further reductions in humanitarian support.
+  https://allafrica.com/stories/202611190010.html
 
 * Musk says he felt ‘pretty foolish’ about scale of midterm spending after Republican rout
-  Daily Maverick | 19 Nov 04:48 UTC [also carried by: BBC Business, BBC US Canada]
+  Daily Maverick | 19 Nov 04:48 UTC [also carried by: Al Jazeera global, BBC Business, BBC US Canada]
   Nov 18 (Reuters) - Elon Musk said on Wednesday he felt "pretty foolish" about the amount of money he spent on this year's US midterm elections after Republicans suffered sweeping losses.
   https://www.dailymaverick.co.za/article/2026-11-19-musk-says-he-felt-pretty-foolish-about-scale-of-midterm-spending-after-republican-rout/
 
@@ -658,40 +684,15 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   CARACAS/BOGOTA, Nov 18 (Reuters) - US Defense Secretary Pete Hegseth announced a new agreement on military cooperation with Venezuela on Wednesday as he made his first visit to the country since US special forces deposed President Nicolas Maduro in a January raid in Caracas.
   https://www.dailymaverick.co.za/article/2026-11-19-hegseth-in-caracas-announces-us-venezuela-military-partnership-agreement/
 
-* JUDICIAL TRIBUNAL : Judge Hartle’s defence weighs dismissal bid after witnesses say no racial slur was reported
-  Daily Maverick | 18 Nov 22:28 UTC
-  Three witnesses have now testified that court clerk Thozamile Semekazi initially complained about only being shouted at and insulted by Judge Belinda Hartle, without mentioning an alleged racial slur. Her lawyers are now considering an application to have the misconduct complaint dismissed.
-  https://www.dailymaverick.co.za/article/2026-11-18-judge-hartles-defence-weighs-dismissal-bid-after-witnesses-say-no-racial-slur-was-reported/
+* Grand Theft Auto VI draws rave reviews as gamers enter Vice City
+  Daily Maverick | 19 Nov 04:44 UTC [also carried by: Japan Times]
+  SYDNEY, Nov 19 (Reuters) - After 13 years and an estimated $1 billion or more in production costs, "Grand Theft Auto VI" began rolling out across the globe on Thursday, gaining rapturous early reviews for the most anticipated video game release in history.
+  https://www.dailymaverick.co.za/article/2026-11-19-grand-theft-auto-vi-draws-rave-reviews-as-gamers-enter-vice-city/
 
-* ANELE TEMBE INQUEST: DNA evidence fails to establish whether AKA contributed to possible bloodstains in hotel room
-  Daily Maverick | 18 Nov 22:17 UTC
-  Bloodstains were found in Anele Tembe and Kiernan Forbes’ hotel room after Tembe’s death. A forensic pathologist found Tembe’s blood, but could not conclusively trace Forbes’ blood.
-  https://www.dailymaverick.co.za/article/2026-11-18-dna-evidence-fails-to-establish-whether-aka-contributed-to-possible-bloodstains-in-hotel-room/
-
-* EXPLAINER: Joburg’s new administration will inherit a R10.3bn wage debt — here’s how it accumulated
-  Daily Maverick | 18 Nov 22:03 UTC
-  A decades-old salary dispute has led to Johannesburg’s R10.3bn wage commitment, leaving the next administration to fund worker claims without undermining essential services.
-  https://www.dailymaverick.co.za/article/2026-11-18-joburgs-new-administration-will-inherit-a-r103bn-wage-debt-heres-how-it-accumulated/
-
-* BUSINESS REFLECTION: Loaded for Bear: The climate crisis has made me embrace rosé and air conditioning
-  Daily Maverick | 18 Nov 22:00 UTC
-  Climate change and El Niño this summer will combine in ways that directly affect consumption trends, and they are easy to spot. The spoor of these trends should become apparent in retail results and Stats SA’s monthly inflation figures.
-  https://www.dailymaverick.co.za/article/2026-11-18-loaded-for-bear-the-climate-crisis-has-made-me-embrace-rose-and-air-conditioning/
-
-* THE FINANCIAL WELLNESS COACH: Family trust investments — a sinking fund may be the most tax-efficient route
-  Daily Maverick | 18 Nov 21:51 UTC
-  Distributing an inheritance to beneficiaries may reduce investment tax, but could expose assets to estate duty and weaken the trust’s protective benefits.
-  https://www.dailymaverick.co.za/article/2026-11-18-family-trust-investments-a-sinking-fund-may-be-the-most-tax-efficient-route/
-
-* Bassirou Diomaye Faye excluded from Senegal's ruling party
-  France 24 Africa | 18 Nov 21:21 UTC
-  In tonight's edition, the political divorce between Senegal's president and the powerful former prime minister and mentor is official. Also, all of Nigeria's states have shown willingness for a push to create their own police forces. And in parts of the continent, conflict and a drop in funding have placed huge pressures on children's lea...
-  https://www.france24.com/en/bassirou-diomaye-faye-excluded-from-senegal-s-ruling-party
-
-* LOCAL ELECTIONS 2026: The smoke and mirrors of the coalition talks
-  Daily Maverick | 18 Nov 20:58 UTC
-  The political theatre surrounding our local government coalition negotiations is nearing its climax. The true picture of what is really going on is still hidden, but the pressure is beginning to show on the politicians involved.
-  https://www.dailymaverick.co.za/article/2026-11-18-the-smoke-and-mirrors-of-the-coalition-talks/
+* GTA VI launch sparks celebrations in Miami and Dublin
+  Africanews | 19 Nov 04:33 UTC [also carried by: Euronews]
+  After 13 years of anticipation, Grand Theft Auto VI has finally arrived. Fans celebrated at a launch party in Dublin, while Miami Heat supporters rushed to buy limited-edition Vice City merchandise.
+  http://www.africanews.com/2026/11/19/gta-vi-launch-sparks-celebrations-in-miami-and-dublin/
 
 * Ghana: $60m Presidential Jet - 'President Must Stay in Ghana and Work for Us' - Enoch Afoakwa
   AllAfrica | 18 Nov 18:10 UTC [also carried by: BBC Africa]
@@ -703,7 +704,17 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   [Capital FM] Nairobi -- President William Ruto has taken a veiled swipe at former Deputy President Rigathi Gachagua over his political mobilisation in the Mt Kenya region, declaring that no community should be reduced to a voting bloc.
   https://allafrica.com/stories/202611180497.html
 
-  ALSO IN SUB-SAHARAN AFRICA (69), headline only:
+  ALSO IN SUB-SAHARAN AFRICA (71), headline only:
+  - Congo-Kinshasa: Strain-Specific Ebola Vaccines to Be Trialled in DR Congo, WHO Announces (AllAfrica)
+  - Africa: Africa's Struggle for Electricity Puts COP31 Energy Goal to the Test (AllAfrica)
+  - Fiji declares state of disaster amid El Nino-driven drought (Daily Maverick)
+  - JUDICIAL TRIBUNAL : Judge Hartle’s defence weighs dismissal bid after witnesses say no racial slur was reported (Daily Maverick)
+  - ANELE TEMBE INQUEST: DNA evidence fails to establish whether AKA contributed to possible bloodstains in hotel room (Daily Maverick)
+  - EXPLAINER: Joburg’s new administration will inherit a R10.3bn wage debt — here’s how it accumulated (Daily Maverick)
+  - BUSINESS REFLECTION: Loaded for Bear: The climate crisis has made me embrace rosé and air conditioning (Daily Maverick)
+  - THE FINANCIAL WELLNESS COACH: Family trust investments — a sinking fund may be the most tax-efficient route (Daily Maverick)
+  - Bassirou Diomaye Faye excluded from Senegal's ruling party (France 24 Africa)
+  - LOCAL ELECTIONS 2026: The smoke and mirrors of the coalition talks (Daily Maverick)
   - SA’S CANCER STORY (PART 6): Navigating a tangled web of funding challenges in the private and public sectors (Daily Maverick)
   - AGE OF THE ASSASSIN: ‘You thought you’re untouchable:’ KZN mom killed after posts about Madlanga witnesses (Daily Maverick)
   - ENERGY DISPUTES : SA’s nuclear push at COP31 draws activist opposition and legal threats (Daily Maverick)
@@ -716,15 +727,9 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - ADMIN CHAOS: SA Olympian Khotso Mokoena defends Sascoc’s Athletes Commission after Tatjana Smith exit (Daily Maverick)
   - Africa: Climate Finance Needs Proof, not Promises (AllAfrica)
   - Central African Republic: Rights Defender in Central African Republic Dies (AllAfrica)
-  - Kenya: Road Upgrade Eases Farmers' Access to Markets Along Waunifor-Flax Road (AllAfrica)
-  - Nigeria: 2027 - Inuwa Seeks Royal Blessings for APC Candidate (AllAfrica)
   - Nigeria: Jigawa Farmers-Herders Clash Leaves Three Dead, Two Injured (AllAfrica)
   - South Africa: March and March Supporters Demand IDs At Durban Clinic (AllAfrica)
-  - South Africa: Minister Says Vetting of Teachers Is Too Slow (AllAfrica)
-  - Ghana: Why Can't Ghana Buy a $60m Presidential Jet After Spending $97m On National Cathedral? - Richard Sumah (AllAfrica)
   - Ghana: Firefighters Save 10 Rooms From Fire At Bimbilla Chief's Palace (AllAfrica)
-  - Kenya: Ruto Tells Parliament Nairobi-Mombasa Highway Dualling Plan At Advanced Stage (AllAfrica)
-  - Kenya: Ruto - Kenya Saves Sh1.5bn As National Exam Papers Are Printed Locally (AllAfrica)
   - Rohingya ruling is no rehearsal for Gaza, and Navi Pillay is no puppet master (Daily Maverick)
   - Somalia: Somalia Alone Votes Against UN Draft On Violence Against Women (AllAfrica)
   - MISSING BEDS: St Luke’s hospice unit closure — Has dying without dignity become acceptable? (Daily Maverick)
@@ -755,15 +760,14 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - XENOBAROMETER: Ethiopian shopkeeper murdered, ‘burned’ in KZN as anti-migrant arson attacks surge (Daily Maverick)
   - ALCOHOL HARMS REDUCTION: Doctors said Tisha would not survive the weekend, 30 years later she is thriving (Daily Maverick)
   - Africa: China - Africa Explore Ai-Powered Media Futures (AllAfrica)
-  - POLICY GAP: SA varsities write the AI rules the education department has yet to deliver (Daily Maverick)
   - Africa: World Governments Summit Sets Agenda for Latin America and Caribbean Talks (AllAfrica)
   - Malawi: Fuel Crisis Has No End Date, Namalomba Admits (AllAfrica)
   - Ethiopia: El Niño, Iran War Shocks Could Push Nearly One Million More Ethiopians Into Poverty, New Report Warns (AllAfrica)
+  - Africa: AfDB and UNDP to Host Webinar On Combating Illicit Financial Flows (Iffs) in Mining (AllAfrica)
   - Africa: The African Development Bank Group and JICA Explore New Avenues of Cooperation for Africa (AllAfrica)
   - South Africa: South Africa Must Close the Gaps in Corruption Referrals (AllAfrica)
   - Kenya: Kenya's 'World-Class' Stadium Gears Up for Historic Inauguration (AllAfrica)
   - Pope Leo XIV’s visit to Zaña highlights Peru’s African heritage (Africanews)
-  - OUR CITY NEWS: Nine days and counting as ‘forgotten’ pensioners endure Mayfair power outage (Daily Maverick)
   - Archaeologists uncover medieval cathedral floor in northern Sudan (Africanews)
   - Guinea jails more than 220 people in deadly crackdown on illegal gold mining (Africanews)
   - Mozambique opposition leader charged with terrorism over 2024 unrest (Africanews)
@@ -772,9 +776,18 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Africa: All of Africa Today - November 18, 2026 (AllAfrica)
   - Genuine compromise must override dominance if SA’s municipalities are to succeed (Daily Maverick)
   - Five foreign nationals charged under South Africa's mercenary law appear in court (Africanews)
-  - Africa: CPHIA 2026 - African Leaders to Convene in Addis Ababa to Advance Health Security and Sovereignty (AllAfrica)
 
---- North Africa (14) ---
+--- North Africa (15) ---
+
+* Trump says historic summit with Xi, Putin already a 'win' before event
+  Al-Monitor | 19 Nov 04:46 UTC [also carried by: Channel News Asia]
+  By Jarrett Renshaw and Trevor Hunnicutt SHENZHEN, China, Nov 19 (Reuters) - US President Donald Trump said his meeting on Thursday with Chinese and Russian counterparts Xi Jinping and Vladimir Putin was already a "win" before it took place, as China gave him a lavish welcome filled with fanfare and pageantry. The unprecedented diplomatic ...
+  https://www.al-monitor.com/originals/2026/11/trump-says-historic-summit-xi-putin-already-win-event
+
+* China's used phones find new homes from Karachi to Algiers
+  Al-Monitor | 19 Nov 03:30 UTC
+  In the maze of Shenzhen's neon-lit Huaqiangbei electronics market, buyers from Africa to Bangladesh buy dozens of used phones at a time -- even with cracked screens -- to sell back home. "From all China, the broken mobile phones come here," Akhtar Muhammad, 38, a Pakistani businessman, told AFP as he browsed the stacks of devices in the s...
+  https://www.al-monitor.com/originals/2026/11/chinas-used-phones-find-new-homes-karachi-algiers
 
 * Saudi crown prince meets US CENTCOM chief amid escalating Houthi hostilities
   Al-Monitor | 19 Nov 02:46 UTC [also carried by: Middle East Eye]
@@ -782,7 +795,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   https://www.al-monitor.com/originals/2026/11/saudi-crown-prince-meets-us-centcom-chief-amid-escalating-houthi-hostilities
 
 * Top UN court to rule on alleged genocide of Myanmar's Rohingya
-  Al-Monitor | 18 Nov 23:46 UTC [also carried by: Al Jazeera global, DW Asia]
+  Al-Monitor | 18 Nov 23:46 UTC [also carried by: Al Jazeera global, Channel News Asia, DW Asia]
   By Anthony Deutsch and Stephanie van den Berg THE HAGUE, Nov 19 (Reuters) - The United Nations' highest court hands down a long-awaited judgment on Thursday in a case accusing Myanmar of committing genocide against the minority Rohingya population. InBangladesh, the 1.2 million Rohingya stuck in the sprawling Cox'sBazar refugee settlement...
   https://www.al-monitor.com/originals/2026/11/top-un-court-rule-alleged-genocide-myanmars-rohingya
 
@@ -807,14 +820,9 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   https://news.google.com/rss/articles/CBMiggFBVV95cUxOSjM1MVE0SXpxdUJ5R1hheXByenRHcXBEcWtfSXQ0RUtJVHU4NHFPdmFpV29hQm5rcGVadjFWd0lPaDUwdlVITjYwR0ZXbm96MVFSMzRGNkYzb2JEblJxZGRvLWk0XzdMWXJzdkl6NkJqOWRkdjJkLUIyMnJHMzJyN0RR?oc=5
 
 * Iraq sentences six French ISIS members to life in prison: What to know
-  Al-Monitor | 18 Nov 18:29 UTC [also carried by: Al Jazeera global]
+  Al-Monitor | 18 Nov 18:29 UTC
   An Iraqi court sentenced six more French nationals to life in prison over their ISIS membership, bringing the total number of French citizens convicted to 16 as Baghdad continues trials of suspects transferred from Syria.
   https://www.al-monitor.com/originals/2026/11/iraq-sentences-six-french-isis-members-life-prison-what-know
-
-* Amid setbacks, Saudi Arabia braces for Yemen war to stretch into 2027: Report
-  Al-Monitor | 18 Nov 18:22 UTC
-  The Houthis are advancing in strategic areas west of the government capital, Aden, as Saudi-backed forces seek to reverse the group's advances on multiple fronts.
-  https://www.al-monitor.com/originals/2026/11/amid-setbacks-saudi-arabia-braces-yemen-war-stretch-2027-report
 
 * Libya HoR Speaker Announces Unified Import Budget for 2027 - Libya Herald
   Google News North Africa | 18 Nov 17:56 UTC
@@ -831,12 +839,8 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Morocco's Generation of Disillusionment: Bread and Circuses, and a Generation Left Waiting African Arguments
   https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXkzLVhVT1JHcHYwZ2E4UVRnSXdOSXRRZkFEc1hMaVRlYjdCdFQ4b3J3cm5nam4yLU5MVTRiYUtzZVBRMjdBMW5zQ1gxcW53RG5FSHE4QzdsR29WRXhGcGlOSjBjeEV4MjhNVXF5RTZuUmxWZFRlR0ZiMU80MWg0UUkyMU5Ea1hPZlBVeEJvSzRpamk3RkpLWjFtWDNnZmRfUmJzQjA0ZUYyaFRXYS1KQmFRMUxvbEREekpaZ04zYUZWelU?oc=5
 
-* Belarus, Algeria synchronise co-operation plans, aim for $500m turnover - СБ. Беларусь сегодня
-  Google News North Africa | 18 Nov 15:02 UTC
-  Belarus, Algeria synchronise co-operation plans, aim for $500m turnover СБ. Беларусь сегодня
-  https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWdSRDI5dDRRaC1ETDh5emR6WDRmV2MyWHFFaFZjc01ESXVJd0htbU4wLUxKVHNfVVNmYmNiZ1dQSUwtMkVNYkJUaFhWLWQ4azlBUEZBUWpoSmVBUFpkZ01fUzZYTGgwQ1dEdnladExMeWJUUFl4REtSWFp5Rnd1MmEyZXhYOHZyVl8tM1JxNkdaaTMzWFY2d1Jn?oc=5
-
-  ALSO IN NORTH AFRICA (2), headline only:
+  ALSO IN NORTH AFRICA (3), headline only:
+  - Belarus, Algeria synchronise co-operation plans, aim for $500m turnover - СБ. Беларусь сегодня (Google News North Africa)
   - Morocco is pushing ahead with its social and economic plan to reduce debt to 62 per cent by 2031 on the 71st anniversary of Independence Day - Atalayar (Google News North Africa)
   - Libya’s Maritime Deal Approval: A Major Win for Türkiye and a New Mediterranean Balance - Politics Today (Google News North Africa)
 
@@ -846,15 +850,30 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 
 --- South Asia (28) ---
 
-* Bancroft says entire Australian team were aware of sandpaper plot - Dawn
-  Dawn | 19 Nov 01:56 UTC
-  Bancroft says entire Australian team were aware of sandpaper plot Dawn
-  https://news.google.com/rss/articles/CBMioAFBVV95cUxOZUcwN2ZtTktaZjZBQUVwcERFaUZicFB6RVV0bFBSeGNsTFh3Ul9DTmhpemxmU1dhNlg1RnhCeThFWkpGMnVLSnBvUzVPMThOUnMwbVJfU1VUeEdxdDZKTW5YQ1F6Q2t4elBUNU1oRmJkSkp3VFg4aXNlUkdwUXFkdjMweG5IQU9wUXFITDNZbklxbk8yR29KMEEwbDhDaVpL?oc=5
-
 * Fault lines widen as COP31 struggles for climate deal - Dawn
   Dawn | 19 Nov 01:55 UTC
   Fault lines widen as COP31 struggles for climate deal Dawn
   https://news.google.com/rss/articles/CBMikAFBVV95cUxNeVV5UmNpbV9zcUhoMjVSY0c5eDZ5a3JHR0FGUDdZaHVoQnlNakwtTTZ1SkkzRkYtN3IyUmtHUmRVamg0bnVlUlJ5X3owM2Y5R3d5RXBGOUFBd1JUWEp6VERHczRmZ3RaN0oxdUVQdHVacm91SGt6Z1c4MDM0RUo4QlJtdExmQWR5N1dNc3NCOFk?oc=5
+
+* Trump’s envoys expected in Berlin for Ukraine talks - Dawn
+  Dawn | 19 Nov 01:55 UTC
+  Trump’s envoys expected in Berlin for Ukraine talks Dawn
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTdGcXlvLXlyUjRVMHlvbUtkWU96eFM5WFlwQVdiNWpUNWFaZTU2ejF3Y2FlTFd0UEkzMERSWTB5LXFRQU1yazB1RUVkY0UzNHNpOEU0M3phc1UxSTd3a2JGNFRsd2JYcmxqOVAwSC1pUXVjbjR6ejRaa3BkSldoeTlFNFNqTGlvYmlIUA?oc=5
+
+* Leveraging the solar revolution - Dawn
+  Dawn | 19 Nov 01:53 UTC
+  Leveraging the solar revolution Dawn
+  https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SV2Y2dkxvMTBhY1RtT0xyLVVHblBFUm0zbGlZbWRVMHBUNUFlaHRpX181TkJjeUtjckFDb1VPd2FyYWcxTTlFTA?oc=5
+
+* La nuora Italiana - Dawn
+  Dawn | 19 Nov 01:50 UTC
+  La nuora Italiana Dawn
+  https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ILXhfdHVvbUo0Y1BEV3NQdUZUcmw3cDFSLTJtT3YxNUVYTkRWbUpjcGxXdmtlTEx2dE5MRmUtRjlPeFJBak5YZA?oc=5
+
+* Structural reforms - Dawn
+  Dawn | 19 Nov 01:45 UTC
+  Structural reforms Dawn
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UbmZuX0FzaW11RXVMcDhZekpOSWRqMXRhOHdjRGljNWVocUZWeDB3R2t6czg5cmE5NDY3dEdpV2tjTnoyaV9yR1FpNV80YndGb3p0UzVicHBIWFFKQTh1SkFB?oc=5
 
 * India's religious make-up - what a new Pew study says about Hindus and Muslims
   BBC India | 19 Nov 00:38 UTC
@@ -886,31 +905,17 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   KP governor forms 8-member commission to probe illegal placer gold mining Dawn
   https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iaTFlZ3Rna2plNzNGY0pJQlZOeElfMlZWZ3Myc2FqcHVza002NjJDbl9CZC1iV2xma1hReFh3UTB3cm54am1zVQ?oc=5
 
-* ICJ report sees 'judicial capture' in Pakistan after 26th, 27th Constitutional Amendments - Dawn
-  Dawn | 18 Nov 16:18 UTC
-  ICJ report sees 'judicial capture' in Pakistan after 26th, 27th Constitutional Amendments Dawn
-  https://news.google.com/rss/articles/CBMiSEFVX3lxTFByMWtnQ3VDR0hReVUwMlg3cHZYMnJTak1ZdnpWRXBhWVllRWNocnZkRy1aZENfUjFteUJRNHJDWU44NjZzN2l5Ug?oc=5
-
-* PTA says submarine cable fault may cause internet connectivity issues - Dawn
-  Dawn | 18 Nov 16:13 UTC
-  PTA says submarine cable fault may cause internet connectivity issues Dawn
-  https://news.google.com/rss/articles/CBMiSEFVX3lxTE1aYmpUWm9qSU5DTTVaM1FIUGZ6TFRfZ1Y3YU1hclhqLWNySVptVldwa3J5T1VDeW1Ya25odG5pTUhZZ3NrajkwVw?oc=5
-
-* Israeli spy chief lobbied for joint Iran strikes on US visit, sources say - Dawn
-  Dawn | 18 Nov 15:52 UTC
-  Israeli spy chief lobbied for joint Iran strikes on US visit, sources say Dawn
-  https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZXNuRkRoZXo3cWNhNWhRVUJQWlpqNFNOLWlSXzY0Z2VvMF9wLVZPeDNxUkVfa1hYYWtZWXl2NGpLelFId1hKcUpoQ2lYeGx2eldsekRBcGxaM083WERTNzh2VzRnbjFULU0xc25HbkY4cDVWSG9QLUdGSmxhVmlaQXpQYXdIVFlhZ3FLai04bnJBVndwR3FuOHZlUFNreGhIaFdfRllRX1EwZw?oc=5
-
 * Trump lands in China with key meetings with Xi and Putin on the agenda
   NPR Asia | 18 Nov 10:32 UTC [also carried by: NPR Politics]
   Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi's visit to Washington in September.
   https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin
 
   ALSO IN SOUTH ASIA (16), headline only:
+  - ICJ report sees 'judicial capture' in Pakistan after 26th, 27th Constitutional Amendments - Dawn (Dawn)
+  - PTA says submarine cable fault may cause internet connectivity issues - Dawn (Dawn)
   - ‘Have the courage to listen to the debate you started’: Bilawal sticks to his guns after speaking his ‘truth’ - Dawn (Dawn)
   - Asean secretary general to undertake working visit to Pakistan from Nov 18-20 - Dawn (Dawn)
   - Trump's Board of Peace faults Israel and Hamas for failure to end Gaza war - Dawn (Dawn)
-  - UN nuclear watchdog says US-Saudi nuclear agreement 'satisfactory' - Dawn (Dawn)
   - Gaming phenomenon 'Grand Theft Auto' goes live after 13-year wait - Dawn (Dawn)
   - Nawaz hails his govt’s ‘serious’ work on AJK development as PML-N charts 100-day plan - Dawn (Dawn)
   - £190m corruption case: IHC directs proper medical care, hygienic living conditions for Bushra Bibi as per prison rules - Dawn (Dawn)
@@ -922,74 +927,90 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Pakistan, Turkiye discuss expanding defence cooperation in electronic warfare, drone and aerospace technologies - Dawn (Dawn)
   - Pakistan tighten grip on second Test as Sri Lanka stumble to 74-3 - Dawn (Dawn)
   - Cricket Australia to open 'Sandpapergate' forum for players to share their versions but rules out new probe - Dawn (Dawn)
-  - EDITORIAL: Untenable stalemate - Dawn (Dawn)
 
---- East Asia (90) ---
+--- East Asia (93) ---
 
-* After A.I. Cheating Scandal, South Korea Adopts New Restrictions for Grueling College Entrance Exam
-  NYT AsiaPacific | 19 Nov 03:15 UTC
-  South Korea is sending emergency alerts to every phone in the country as part of a campaign to keep students taking a grueling test honest.
-  https://www.nytimes.com/2026/11/18/world/asia/south-korea-cheating-college-exam-suneung.html
+* Anthropic’s record US$81.3 billion IPO arms US AI giant for price war with Chinese rivals
+  SCMP | 19 Nov 05:30 UTC [also carried by: Financial Times, NPR Business]
+  Anthropic’s record-shattering US$81.3 billion initial public offering (IPO) is handing the US artificial intelligence powerhouse a massive war chest to wage a global price war, piling fresh valuation and monetisation pressure on lower-cost Chinese rivals, according to analysts. The San Francisco-based creator of the Claude chatbot priced ...
+  https://www.scmp.com/tech/big-tech/article/3375005/anthropics-record-us813-billion-ipo-arms-us-ai-giant-price-war-chinese-rivals
 
-* Chinese onlookers get a new view of Trump as he takes in the view of Shenzhen
-  SCMP | 19 Nov 03:14 UTC
-  Under the neon glow of the Shenzhen skyline on Wednesday evening, US President Donald Trump offered onlookers an unexpected view of himself. As his armoured presidential limousine – known as “The Beast” – glided down Shenzhen’s avenues en route to the Apec welcome dinner, Trump was clearly visible as he looked through the thick glass to v...
-  https://www.scmp.com/news/china/diplomacy/article/3374994/chinese-onlookers-get-new-view-trump-he-takes-view-shenzhen
+* Myanmar’s army-backed leader says he is reconsidering ASEAN ties
+  Japan Times | 19 Nov 05:25 UTC
+  ASEAN leaders said they may consider restoring Myanmar's full political representation in the group if the country progresses on resolving its crisis.
+  https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/politics/myanmar-leader-asean-ties/
+
+* Young people in Japan more inclined to have AI companion but skeptical of quality
+  Japan Times | 19 Nov 05:11 UTC
+  More young people in Japan are turning to AI as a social companion despite not viewing it as "high quality," a new study has found.
+  https://www.japantimes.co.jp/news/2026/11/19/japan/society/ai-companionship-japan-young-people/
+
+* Trump greets Putin before holding talks at Apec summit – video
+  Guardian China | 19 Nov 05:09 UTC [also carried by: Africanews, Al Jazeera global, NYT AsiaPacific]
+  US president Donald Trump met with Russian president Vladimir Putin on the sidelines of the Apec summit in Shenzhen, China. 'We've had a great relationship for many years,' Trump said. 'We know each other for a long time, and I think a lot of wonderful things can come out of this' Continue reading...
+  https://www.theguardian.com/us-news/video/2026/nov/19/trump-greets-putin-before-holding-talks-at-apec-summit-video
+
+* Datacentres to create 70% more carbon emissions by 2030, IEA report warns
+  Guardian China | 19 Nov 05:00 UTC
+  Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas The world’s datacentres will create 70% more carbon emissions within the next four years as the US and China turn to fossil fuels to power their AI growth agendas, according to the world’s energy watchdog. The International Energy Ag...
+  https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns
+
+* A Village Burned, Its People Killed or Exiled. Was It Genocide?
+  NYT AsiaPacific | 19 Nov 05:00 UTC
+  Zammona’s erasure was part of a wider campaign of violence against Rohingya Muslims. An international court will rule whether Myanmar is culpable for the atrocities.
+  https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html
+
+* After days of travel and diplomacy, Trump seems to nod off during Apec speeches
+  SCMP | 19 Nov 04:57 UTC
+  As world leaders start a new day of talks at the Apec summit in Shenzhen, US President Donald Trump was seen seemingly dozing off in his seat. While President Xi Jinping was outlining China’s hopes for the Asia-Pacific, the 80-year-old apparently nodded off, live feed showed. Meanwhile, Russian President Vladimir Putin’s gaze remained fix...
+  https://www.scmp.com/news/china/diplomacy/article/3375006/after-days-travel-and-diplomacy-trump-seems-nod-during-apec-speeches
+
+* Meet Monica Crowley, the US protocol chief orchestrating Trump’s Apec optics
+  SCMP | 19 Nov 04:42 UTC
+  When Chinese President Xi Jinping broke decades of diplomatic precedent to greet US President Donald Trump on the tarmac in Shenzhen on Wednesday, cameras caught a woman in a striking yellow dress standing a few steps from the two leaders. That ever-present figure is Monica Crowley, the 35th chief of protocol of the United States. In high...
+  https://www.scmp.com/news/china/diplomacy/article/3375003/meet-monica-crowley-us-protocol-chief-orchestrating-trumps-apec-optics
+
+* South Korea college exam held with strict curbs in wake of cheating scandal
+  Japan Times | 19 Nov 04:01 UTC [also carried by: NYT AsiaPacific]
+  The once-a-year, nine hour long Suneung is seen as a ticket to prestigious universities, well-paid jobs and even better marriage prospects.
+  https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/society/south-korea-college-exam-cheating/
 
 * China gives Japan PM frosty welcome at Apec amid fanfare for other leaders
   Guardian China | 19 Nov 03:05 UTC [also carried by: NYT AsiaPacific]
   Sanae Takaichi cuts lonely figure at airport, a move by China that is being linked to the simmering row over Taiwan Apec’s Chinese hosts went out of their way to give world leaders a warm welcome as they arrived in Shenzhen this week. Military bands played, dozens of cheering young men and women waved colourful bouquets, and senior offici...
   https://www.theguardian.com/world/2026/nov/19/china-gives-japan-pm-frosty-welcome-apec
 
-* As Meta bets big on Muse AI agent, early safety mishaps surface
-  Japan Times | 19 Nov 03:05 UTC
-  Unbidden actions by Muse have prompted unnerved employees to raise concerns it could be mixing up conversations between different accounts.
-  https://www.japantimes.co.jp/business/2026/11/19/tech/meta-muse-ai-agent-safety/
-
-* Was China Sending a Musical Message to Japan’s Takaichi During APEC Welcome?
-  NYT AsiaPacific | 19 Nov 03:03 UTC
-  A song chosen to welcome Sanae Takaichi at the APEC summit in Shenzhen grew out of protests against the American military presence in Japan.
-  https://www.nytimes.com/2026/11/18/world/asia/japan-china-takaichi-song-sukiyaki-apec.html
-
-* ‘I look up when I walk’: 1961 hit Sukiyaki welcomes Japan’s Takaichi at Apec gala
-  SCMP | 19 Nov 02:51 UTC
-  When Japanese Prime Minister Sanae Takaichi arrived at the Shenzhen International Communication Centre for a welcome banquet for the Apec leaders on Wednesday night, an ensemble on the stage switched to a bittersweet tune. The music arranged to welcome Takaichi was the Japanese hit “Ue o muite arukou”, known as the Sukiyaki song in the We...
-  https://www.scmp.com/news/china/diplomacy/article/3374988/i-look-when-i-walk-1961-hit-sukiyaki-welcomes-japans-takaichi-apec-gala
-
-* Angry over ‘indignity’, Myanmar to review future ties with Asean
-  SCMP | 19 Nov 02:50 UTC
-  Myanmar’s military-backed leader Min Aung Hlaing said on Wednesday his administration is reconsidering the country’s relationship with Asean but would continue discussions with its members. The former junta chief turned president, whose coup against an elected civilian government ‌in 2021 triggered a nationwide civil war, also told parlia...
-  https://www.scmp.com/news/asia/southeast-asia/article/3374989/angry-over-indignity-myanmar-review-future-ties-asean
-
-* Osaka governments broadly OK draft design of metropolis plan
-  Japan Times | 19 Nov 02:50 UTC
-  The plan mainly calls for reorganizing the prefectural capital into special wards like those of Tokyo.
-  https://www.japantimes.co.jp/news/2026/11/19/japan/osaka-metropolis-plan-draft-design/
-
-* MLB Commissioner Rob Manfred ‘can’t imagine’ deal with union without salary cap
-  Japan Times | 19 Nov 02:45 UTC
-  With the MLB Players Association calling such terms a nonstarter, the stage is set for a lockout that could jeopardize the 2027 season.
-  https://www.japantimes.co.jp/sports/2026/11/19/baseball/mlb/mlb-rob-manfred-salary-cap/
-
 * The Guardian view on the Trump, Xi and Putin meeting: it may be a first, but it’s not progress | Editorial
   Guardian China | 18 Nov 18:35 UTC [also carried by: Guardian Ukraine]
   A trilateral gathering is good news for China and Russia, but bad for the US – and its traditional allies “Historic” is a neutral descriptor, not a favourable one. Things can be unprecedented for good reason. Donald Trump’s meeting with Xi Jinping and Vladimir Putin in Shenzhen, China on Thursday will be the first time that the leaders of...
   https://www.theguardian.com/commentisfree/2026/nov/18/the-guardian-view-on-the-trump-xi-and-putin-meeting-it-may-be-a-first-but-its-not-progress
 
-* Islam projected to surpass Christianity as world’s largest religion by 2035
-  SCMP | 18 Nov 16:01 UTC [also carried by: Al Jazeera global]
-  Islam is expected to surpass Christianity as the world’s largest religion by 2035, according to detailed projections released on Wednesday by the Pew Research Centre. Pew, which has been issuing authoritative reports on religious demography for 25 years, said both Islam and Christianity were growing, but Islam was growing much faster. A k...
-  https://www.scmp.com/news/world/article/3374959/islam-projected-surpass-christianity-worlds-largest-religion-2035
+* A tarmac hug with Xi and a handshake with Putin: how Trump began his China visit
+  SCMP | 18 Nov 14:12 UTC [also carried by: NYT AsiaPacific]
+  Handshakes, warm welcomes and carefully staged photo opportunities defined US President Donald Trump’s first day in Shenzhen on Wednesday, as China showcased its diplomatic priorities ahead of a planned three-way summit with Russia. Here are the key moments from the day. Xi’s personal welcome for Trump Chinese President Xi Jinping broke w...
+  https://www.scmp.com/news/china/diplomacy/article/3374951/tarmac-hug-xi-and-handshake-putin-how-trump-began-his-china-visit
 
-* Rubio Says Cyberattacks Are Not the Cause of Recent Tech Outages
-  NYT AsiaPacific | 18 Nov 06:46 UTC [also carried by: BBC US Canada]
-  Secretary of State Marco Rubio suggested the rush to patch systems, whose vulnerabilities are exposed by A.I., may explain recent failures with air traffic controls, banks and government agencies.
-  https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html
-
-  ALSO IN EAST ASIA (78), headline only:
-  - Across Asia, ‘Grand Theft Auto VI’ meets sky-high hype, censorship (Japan Times)
+  ALSO IN EAST ASIA (81), headline only:
+  - Malaysians question slow response over ‘false’ mobile flood warning trial (SCMP)
+  - How a little-known Beijing AI safety group became an adviser to China’s tech giants (SCMP)
+  - Mauricio Pochettino arrives at Manchester United as team fights against relegation (Japan Times)
+  - Rapidus may get ¥54 billion tax exemption on Hokkaido plant transfer (Japan Times)
+  - Apec leaders suit up with Chinese-style scarves for family photo in Shenzhen (SCMP)
+  - Takaichi and Putin meet on APEC sidelines amid ongoing tensions (Japan Times)
+  - Russian skaters out of Grand Prix event after being denied entry into Finland (Japan Times)
+  - Takaichi and Xi exchange warm greetings amid questions over diplomatic protocol (Japan Times)
+  - Chinese onlookers get a new view of Trump as he takes in the view of Shenzhen (SCMP)
+  - As Meta bets big on Muse AI agent, early safety mishaps surface (Japan Times)
+  - Was China Sending a Musical Message to Japan’s Takaichi During APEC Welcome? (NYT AsiaPacific)
+  - ‘I look up when I walk’: 1961 hit Sukiyaki welcomes Japan’s Takaichi at Apec gala (SCMP)
+  - Angry over ‘indignity’, Myanmar to review future ties with Asean (SCMP)
+  - Osaka governments broadly OK draft design of metropolis plan (Japan Times)
+  - MLB Commissioner Rob Manfred ‘can’t imagine’ deal with union without salary cap (Japan Times)
+  - Across Asia, ‘Grand Theft Auto VI’ meets sky-high hype and censorship (Japan Times)
   - Clashes between Ethiopia and Eritrea threaten to escalate into full-scale war (Japan Times)
-  - Chinese student attends final class with classmates from hospital bed before leukaemia death (SCMP)
+  - Elon Musk’s charitable giving in 2025 went mostly to his own nonprofit (Japan Times)
+  - Anthropic IPO raises $107.3 billion to top SpaceX’s record debut (Japan Times)
+  - Dying wish of Chinese student to attend final class with peers before leukaemia death fulfilled (SCMP)
   - Father arrested after 3-year-old daughter dies in Hyogo Prefecture (Japan Times)
   - Vietnamese woman forced to strip in Malaysia over US$2,433 extortion bid (SCMP)
   - Hong Kong MTR Island line disrupted by second signalling fault in 2 days (SCMP)
@@ -1002,7 +1023,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Brooks Koepka determined to make run at 2027 Ryder Cup spot (Japan Times)
   - Tencent’s profit squeeze exposes China’s AI spending dilemma (Japan Times)
   - Peng’s English and Cantonese classics: the Shenzhen Apec details you may have missed (SCMP)
-  - Trump claims US dominance in AI, opposes regulation to ‘control or stifle’ development (SCMP)
+  - Presidents Xi and Trump begin talks ahead of trilateral with Putin later (SCMP)
   - Governments warn Java flaw leaves computer systems open to hackers (Japan Times)
   - Treason or not, betraying one’s country won’t be tolerated (SCMP)
   - Kozo Tashima willing to meet with Philippe Diallo about rival bids for FIFA presidency (Japan Times)
@@ -1012,25 +1033,24 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - US-China science ties fray as visa hurdles and security scrutiny grow (SCMP)
   - Apec brings world leaders and probably 2 ‘nuclear briefcases’ to Shenzhen (SCMP)
   - US panel urges Congress to punish China over Panama-flagged ship detentions (SCMP)
-  - JR Central announces delay in releasing maglev line’s opening schedule (Japan Times)
   - HK$38m lost as luxury consignment shop closures hit other stores in Hong Kong (SCMP)
   - South Korean first lady Kim Hea Kyung’s warmth and style captivate Chinese social media (SCMP)
   - ‘Bride catalogues’ and fake weddings: inside Indonesia’s China marriage trade (SCMP)
   - Xi-Trump ties tested as calls grow in Washington for tougher China policy (SCMP)
   - US court convicts Florida pastor over plot to assassinate Haiti’s president (SCMP)
-  - Takaichi and Putin meet on APEC sidelines amid ongoing tensions (Japan Times)
   - Huawei case enters jury deliberations after 2-month battle in US courtroom (SCMP)
   - Hegseth hails ‘compliant’ Venezuela as US signs new military pact (SCMP)
-  - El Salvador’s Bukele says his troops destroyed gang leader’s mansion in Haiti (SCMP)
+  - El Salvador’s president says forces in Haiti demolished gang leader’s lavish home (SCMP)
   - Chinese executive convicted in case linked to Bangkok tower collapse (SCMP)
+  - Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ (Guardian China)
   - Jeffries vows to ‘hold crooks accountable’ after US House speaker nod (SCMP)
   - Japan’s Takaichi meets Putin in rare talks amid strained ties with Russia (SCMP)
+  - Islam projected to surpass Christianity as world’s largest religion by 2035 (SCMP)
   - Here’s the latest. (NYT AsiaPacific)
   - Rare hug and roaring flyover set stage for historic firsts at Apec in Shenzhen (SCMP)
   - Israel’s parliament moves to roll back Netanyahu’s divisive legacy (SCMP)
   - North Korean enrichment facility extension ‘externally complete’: IAEA (SCMP)
   - Putin renews his warm bond with Xi. (NYT AsiaPacific)
-  - A tarmac hug with Xi and a handshake with Putin: how Trump began his China visit (SCMP)
   - Hong Kong’s ‘Symphony of Lights’ goes out with a bang: ‘end of an era’ (SCMP)
   - How China’s ‘carrier nannies’ are powering the Liaoning’s long Pacific push (SCMP)
   - China’s first lady Peng Liyuan again lets her English do the talking in welcoming Trump (SCMP)
@@ -1046,95 +1066,87 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Hong Kong student arrested over alleged HK$3.4 million mortgage scams (SCMP)
   - Returning the favour, Xi personally welcomes Trump ahead of high-stakes Apec talks (SCMP)
   - For the Thai prime minister, Apec in Shenzhen is almost home ground (SCMP)
-  - The big test facing the Middle East’s emerging security autonomy (SCMP)
-  - Top court rules prisoner voting restriction constitutional (Japan Times)
-  - Takaichi and China’s Xi share cordial handshake in first encounter since explosive Taiwan remarks (Japan Times)
-  - Field of fire: Chinese scientists develop drone gun that can plant rice more efficiently (SCMP)
-  - ‘Felt like nothing happened’: Hongkonger lauds incision-free kidney cancer therapy (SCMP)
-  - Foreign visitors to Japan hit record 3.9 million in October (Japan Times)
-  - Malaysia’s Pardons Board minutes expose legal rift over Najib’s house arrest (SCMP)
-  - How low tech exposure turned India into a haven during Asia’s chip sell-off (SCMP)
   - Putin Arrives in Asia With a Show of Force: Nuclear Bombers (NYT AsiaPacific)
   - What to Know About the Myanmar Genocide Case at the World Court (NYT AsiaPacific)
   - Trump Briefly Met an Old Friend in Manila: Imelda Marcos (NYT AsiaPacific)
-  - Japan improves on English learning in global ranking, but still lags behind (Japan Times)
-  - Education minister may face censure motion over fundraiser (Japan Times)
-  - Purple rabbit-like character wins Suica mascot contest (Japan Times)
   - A tropical Chinese city is half-empty and ready for the summit. (NYT AsiaPacific)
-  - Rising star Atamifuji has been the story of the Kyushu Basho (Japan Times)
-  - Xi and Putin blast Western ‘protectionism’ and sanctions before meeting Trump at APEC (Japan Times)
+  - Rubio Says Cyberattacks Are Not the Cause of Recent Tech Outages (NYT AsiaPacific)
   - Trump, Xi and Putin have a shared vision of global power – with no place for Europe | Rafael Behr (Guardian China)
-  - Marcos Is Hosting Trump on Grounds Where He Spent Much of His Childhood (NYT AsiaPacific)
 
---- Southeast Asia (31) ---
+--- Southeast Asia (33) ---
+
+* Denmark expected to ratify Trump deal over Greenland on Nov 19
+  Channel News Asia | 19 Nov 05:37 UTC
+  Once ratified, the deal will expand the US military's role in Greenland, including permission to establish a "Golden Dome" missile defence system, while reaffirming Danish sovereignty and Greenlanders' right to self-determination.
+  https://www.channelnewsasia.com/world/denmark-trump-deal-ratify-greenland-6564826
+
+* Indonesia parliament passes asset forfeiture bill into law
+  Channel News Asia | 19 Nov 05:34 UTC
+  https://www.channelnewsasia.com/asia/indonesia-passes-asset-forfeiture-bill-law-corruption-6564951
+
+* Malaysia's Commonwealth Games gold medallist weightlifter loses arm in motorbike crash
+  Channel News Asia | 19 Nov 05:24 UTC
+  Local media reports said that doctors had amputated Mohd Hafizuddin Roslin's arm above the elbow.
+  https://www.channelnewsasia.com/asia/malaysia-weightlifter-mohd-hafizuddin-roslin-motorbike-crash-6564806
+
+* UNHCR halts refugee registration in Malaysia
+  Channel News Asia | 19 Nov 05:06 UTC
+  The UN refugee agency on Nov 18 said its Malaysian office has stopped its registration and documentation activities following a decision by the government to build its own system for managing asylum seekers.
+  https://www.channelnewsasia.com/asia/malaysia-un-refugee-registration-6564796
+
+* Asia-Pacific must resist becoming divided into competing economic blocs: PM Wong
+  Channel News Asia | 19 Nov 05:05 UTC
+  Geopolitical tensions are rising, but the region can still work together and continue to be an engine of growth, said Prime Minister Lawrence Wong.
+  https://www.channelnewsasia.com/singapore/apec-lawrence-wong-asia-pacific-6562506
+
+* Roglic joins NSN for 2027
+  Channel News Asia | 19 Nov 04:34 UTC
+  https://www.channelnewsasia.com/sport/roglic-joins-nsn-2027-6564776
+
+* Want to discuss GTA 6 with gaming friends? Here's what to know as the new version drops
+  Channel News Asia | 19 Nov 04:24 UTC
+  The first new Grand Theft Auto game in 13 years has finally arrived, bringing players back to Vice City with a new criminal duo, Jason and Lucia.
+  https://www.channelnewsasia.com/living/gta-vi-6-explained-what-know-release-vice-city-6563811
+
+* GTA VI to supercharge Sony - just not in Japan
+  Channel News Asia | 19 Nov 04:24 UTC
+  Three-quarters of the 17 million GTA VI units sold are on PlayStation, according to estimates from Sensor Tower, outselling Xbox maker Microsoft.
+  https://www.channelnewsasia.com/east-asia/japan-gta-vi-sony-playstation-sales-6564531
+
+* 7 people, company charged over false work pass declarations; some workers deployed at Changi Airport
+  Channel News Asia | 19 Nov 04:09 UTC
+  Some foreign workers were allegedly deployed for cleaning and baggage handling duties at Changi Airport.
+  https://www.channelnewsasia.com/singapore/mom-false-declaration-work-pass-applications-changi-airport-6564516
+
+* Alcaraz calm over hamstring scare at ATP Finals after injury-hit season
+  Channel News Asia | 19 Nov 03:59 UTC
+  https://www.channelnewsasia.com/sport/alcaraz-calm-over-hamstring-scare-atp-finals-after-injury-hit-season-6564706
+
+* Almost 300 escalators across North-South, East-West, North East Lines to be refurbished from Dec 17
+  Channel News Asia | 19 Nov 03:54 UTC
+  Another 237 escalators on the Circle Line will also be refurbished, with the start date yet to be announced.
+  https://www.channelnewsasia.com/singapore/mrt-escalator-upgrading-nsl-ewl-nel-lta-smrt-sbs-transit-6564401
 
 * Van Gogh painting sells for record US$190.4 million after dispute
   Channel News Asia | 19 Nov 03:01 UTC [also carried by: BBC US Canada]
   "Chataigniers en fleurs" (Chestnut Trees in Blossom) set a new record for the Dutch post-Impressionist and became the most expensive work auctioned off so far this season.
   https://www.channelnewsasia.com/entertainment/van-gogh-record-price-chataigniers-en-fleurs-6564466
 
-* F1 drivers go small as Lego puts entire grid in plastic
-  Channel News Asia | 19 Nov 02:21 UTC
-  https://www.channelnewsasia.com/sport/f1-drivers-go-small-lego-puts-entire-grid-in-plastic-6564431
-
-* India showcases robotics ambitions at Bengaluru Tech Summit as startups eye global market
-  Channel News Asia | 19 Nov 02:20 UTC
-  Indian startups are developing humanoids for the industrial sector, but funding constraints and reliance on imported components pose challenges.
-  https://www.channelnewsasia.com/asia/india-robotics-bengaluru-tech-summit-global-market-6562626
-
-* Robert Pattinson: A smoother, more haunted Bond?
-  Channel News Asia | 19 Nov 02:19 UTC
-  Pattinson, who became a global pop culture phenomenon with his vampire role in the Twilight saga before taking on Batman, has spent the past 15 years building an unusually eclectic resume.
-  https://www.channelnewsasia.com/entertainment/robert-pattinson-james-bond-6564311
-
-* US AI chip export curbs: Indonesia reviews potential effects as analysts warn of investment, operational impact
-  Channel News Asia | 19 Nov 02:15 UTC
-  This comes after the US tightened exports of advanced AI chips to Indonesia, Singapore, Malaysia, Thailand and Brazil on Monday (Nov 16), citing concerns that the five countries could be used as routes to divert chips to China.
-  https://www.channelnewsasia.com/asia/us-ai-chip-restrictions-indonesia-investment-6562091
-
-* Inside GTA 6: A more lifelike Vice City, cinematic storytelling and tougher gameplay
-  Channel News Asia | 19 Nov 02:03 UTC
-  From cars that feel tough to drive to impressive detail in the character design, Grand Theft Auto VI introduces new mechanics in its familiar open world of Vice City.
-  https://www.channelnewsasia.com/living/gta-6-first-impressions-gameplay-new-features-vice-city-6564236
-
-* Wifi cut, AI-cheat bounties as South Koreans sit key college exam
-  Channel News Asia | 19 Nov 01:57 UTC
-  https://www.channelnewsasia.com/east-asia/wifi-cut-ai-cheat-bounties-south-koreans-sit-key-college-exam-6564341
-
-* BOJ chief offers upbeat view on consumption despite recent weakness
-  Channel News Asia | 19 Nov 01:37 UTC
-  https://www.channelnewsasia.com/business/boj-chief-offers-upbeat-view-consumption-despite-recent-weakness-6564296
-
-* Arizona says it is investigating OpenAI, other firms over possible rogue agents
-  Channel News Asia | 19 Nov 01:36 UTC
-  https://www.channelnewsasia.com/business/arizona-says-it-investigating-openai-other-firms-over-possible-rogue-agents-6564291
-
-* 2 tech firms team up to build network to make AI agents safer at handling sensitive data
-  Channel News Asia | 19 Nov 01:04 UTC
-  The network is aimed, for instance, at helping AI agents safely perform bank functions such as overseas transfers and disputed credit card charges, without exposing the customer's account details.
-  https://www.channelnewsasia.com/singapore/ai-agents-tenon-security-network-terminal-3-affinidi-6561221
-
-* CNA Now: Trump, Xi and Putin expected to hold talks in China - plus other news as it happens
-  Channel News Asia | 19 Nov 00:58 UTC
-  Stay on top of the day's biggest stories with CNA Now, which brings you breaking news and major developments from Singapore and around the world.
-  https://www.channelnewsasia.com/singapore/cna-now-live-blog-6562016
-
-* US Department of Justice charges Russian for targeting Palantir as foreign agent
-  Channel News Asia | 19 Nov 00:41 UTC
-  https://www.channelnewsasia.com/business/us-department-justice-charges-russian-targeting-palantir-foreign-agent-6564191
-
-  ALSO IN SOUTHEAST ASIA (19), headline only:
-  - UK finance sector cyber incidents hit second-highest level in five years (Channel News Asia)
-  - US lawmakers seek Microsoft briefing on reported AI deal talks with ByteDance (Channel News Asia)
-  - She lost her mother to suicide at 13, survived abuse and grew up in care – now, at 22, she helps others find hope (Channel News Asia)
-  - Trading Day: Markets mixed in a Nvidia, Anthropic, minutes swirl (Channel News Asia)
-  - Bumrah returns with a bang but NZ cling on in first test (Channel News Asia)
-  - What’s really inside squishy toys? This is what Talking Point found after it sent 18 to a lab (Channel News Asia)
-  - Commentary: Cyberattacks on billboards, supermarket fridges reveal a new test of resilience (Channel News Asia)
+  ALSO IN SOUTHEAST ASIA (21), headline only:
+  - Japan PM Takaichi spoke with Putin at APEC summit (Channel News Asia)
+  - Challenger says revised Daiichi Life takeover offer falls short, shares down (Channel News Asia)
+  - North Korea's Kim inspects work sites, university amid overseas travel speculation (Channel News Asia)
+  - Russia, Japan, and the Race to Power a Nuclear Indonesia (The Diplomat)
+  - StarDream Cruises announces 3-year seasonal deployment of its Star Voyager ship in Singapore (Channel News Asia)
+  - Australia captain Cummins under pressure as Sandpapergate scandal deepens (Channel News Asia)
+  - Could New US Chip Restrictions Torpedo Southeast Asia’s AI Ambitions? (The Diplomat)
+  - Myanmar’s Military-backed Government to ‘Review’ Relationship With ASEAN (The Diplomat)
+  - With APEC Summit, Beijing Showcases Its Vision for a New Tech Megapolis (The Diplomat)
   - Korean Defense Start-up Continues Its Work in Ukraine (The Diplomat)
   - The Afghan Taliban’s Environmental Misgovernance (The Diplomat)
   - Vietnam’s Opening in Fractured Asia-Pacific Supply Chains (The Diplomat)
   - North Korea expanded uranium enrichment plant, says IAEA head (DW Asia)
+  - Riding the Gelombang Biru: Melaka and the Freezing of Malaysia’s Ethnic Fault Line (The Diplomat)
   - The China-US AI Hotline Needs to Be Different (The Diplomat)
   - ‘Bienvenue à Phnom Penh’: Why Cambodia’s Francophonie Summit Matters (The Diplomat)
   - India: Online censorship grows after 'Cockroach' protests (DW Asia)
@@ -1142,9 +1154,13 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Quad! What Is It Good for? | Kashish Parpiani (The Diplomat)
   - India Looks to Stronger ASEAN Partnership Amid Increasing Global Turbulence (The Diplomat)
   - India news: Gandhi gives talk in New York, warns of 'looming crisis' (DW Asia)
-  - The Rohingya Are Not a Legal Test Case. We Are a People Waiting for Justice. (The Diplomat)
 
 --- Central Asia (22) ---
+
+* Kazakhstan’s Oil and Coal Output Rises as Gas and Copper Production Falls, Eni Reports
+  Astana Times | 19 Nov 04:44 UTC
+  The Astana Times provides news and information from Kazakhstan and around the world. ASTANA – Kazakhstan posted growth in oil and coal production in 2025, while natural gas and copper output declined, revealing contrasting trends across the country’s energy and mineral industries, according to Italian energy company Eni’s World Energy Rev...
+  https://astanatimes.com/2026/11/kazakhstans-oil-and-coal-output-rises-as-gas-and-copper-production-falls-eni-reports/
 
 * Four Kazakh Boxers Reach No. 1 in World Boxing Ranking
   Astana Times | 18 Nov 15:22 UTC
@@ -1201,12 +1217,8 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   The Astana Times provides news and information from Kazakhstan and around the world. ASTANA – Kazakhstan’s trade turnover with the European Union (EU) increased by 8.2% year on year to $31.6 billion in January-August 2026, with France, Greece and Spain accounting for 96.5% of the growth in Kazakh exports to the bloc, according to an analy...
   https://astanatimes.com/2026/11/kazakhstans-exports-to-eu-rise-as-france-greece-and-spain-lead-growth/
 
-* Suspected Kazakhstan Data Leak May Affect 16.6 Million Citizens
-  Times of Central Asia | 18 Nov 12:35 UTC
-  Kazakhstan is investigating a possible leak of personal data from the Supreme Court’s information system. Cybersecurity company SOCRadar discovered a
-  https://timesca.com/kazakhstan-data-leak-supreme-court/
-
   ALSO IN CENTRAL ASIA (10), headline only:
+  - Suspected Kazakhstan Data Leak May Affect 16.6 Million Citizens (Times of Central Asia)
   - Almaty SkyTrain Project Forces Dismantling of Dedicated Bus Lane (Times of Central Asia)
   - Issyk-Kul Resort Ownership Dispute Draws In Kyrgyz President and His Brother (Times of Central Asia)
   - Murat Buldekbayev on KTZ’s Debt and IPO Prospects After the Arrests (Times of Central Asia)
@@ -1214,60 +1226,59 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Kazakhstan, Maldives Agree to Double Weekly Flight Allowance at ICAO Conference (Astana Times)
   - Kazakhstan Uses AI-Quryltai to Draft Child Safety Bill (Times of Central Asia)
   - Kazakhstan’s IT Services Exports More Than Double to Exceed $1.1 Billion (Astana Times)
-  - Kazakhstan to Develop 19 Dictionaries to Standardize Kazakh Language (Astana Times)
   - Central Asia's AI Race: Big Ambitions, Even Bigger Risks (RFE/RL Kazakhstan)
   - Dollars Rain From Balcony As Kazakhstan's State Giants Rocked By Corruption Arrests (RFE/RL Kazakhstan)
 
---- Pacific (79) ---
+--- Pacific (78) ---
 
-* One Nation candidate's migrant welfare graph completely wrong, researcher says
-  ABC Australia | 19 Nov 03:15 UTC
-  One Nation candidate Katherine Deves has used a graph depicting Australian welfare rates by country of birth to argue for deep cuts to migration, but a leading researcher says it
-  https://www.abc.net.au/news/2026-11-19/one-nation-migrant-welfare-graph-rubbished-by-researcher/107403150
+* Transport NSW apologises to mum kicked off bus over crying toddler
+  ABC Australia | 19 Nov 05:32 UTC
+  Transport for NSW and a bus company apologise to a woman who was told to get off the bus outside Wagga Wagga because of her crying child.
+  https://www.abc.net.au/news/2026-11-19/transport-nsw-apologises-to-mum-kicked-off-bus/107403276
 
-* Hippo who ate hat under round-the-clock medical watch at US zoo
-  ABC Australia | 19 Nov 03:10 UTC
-  A famous hippo at Cincinnati Zoo is under constant medical watch after swallowing a hat accidentally thrown into her enclosure by a visitor.
-  https://www.abc.net.au/news/2026-11-19/fiona-the-hippo-in-treatment-after-swallowing-hat-cincinnati-zoo/107402366
+* Arts under threat in remote city 'where you can dare to dream'
+  ABC Australia | 19 Nov 05:30 UTC
+  Broken Hill has a long history of attracting all types of creatives, but the city could soon be losing two of its most prominent arts organisations.
+  https://www.abc.net.au/news/2026-11-19/artists-warn-culture-connection-lost-outback-closures/107395710
 
-* Northern Territory pub at centre of outback mystery up for sale again
-  ABC Australia | 19 Nov 03:08 UTC
-  The Larrimah Hotel — also known as Pink Panther pub — has been at the centre of a global mystery since Paddy Moriarty and his dog Kellie vanished from the tiny Northern Territory town in 2017. Now it's up for sale for the third time since his disappearance.
-  https://www.abc.net.au/news/2026-11-19/pink-panther-pub-for-sale/107403284
+* Nineteen whales dead after becoming stranded at Ninety Mile Beach
+  RNZ | 19 Nov 05:24 UTC
+  Five others are still alive but in poor health, the Department of Conservation says.
+  https://www.rnz.co.nz/news/environment/2687160/nineteen-whales-dead-after-becoming-stranded-at-ninety-mile-beach
 
-* Elderly Canberra man likely to spend life in custody for killing wife
-  ABC Australia | 19 Nov 03:06 UTC
-  Canberra man Manfred Uhle, 88, was charged with murder after repeatedly stabbing his 78-year-old wife in 2024, but was found unfit to plead to the charge during a special court hearing.
-  https://www.abc.net.au/news/2026-11-19/act-elderly-man-likely-spend-life-in-custody-for-killing-wife/107403862
+* Breaking: Cyclist dies in crash on Federal Highway in Canberra's north
+  ABC Australia | 19 Nov 05:23 UTC
+  A 57-year-old man is dead after a collision between a car and a bicycle on the Federal Highway.
+  https://www.abc.net.au/news/2026-11-19/cyclist-dead-after-collision-on-federal-highway/107404244
 
-* 'Big disaster' for WA community as tributes flow for three adored friends
-  ABC Australia | 19 Nov 03:04 UTC
-  The deaths of Jarvis Noakes, Jake McKay and Isabel Garnett in a crash in WA's Wheatbelt sent shock waves through Narrogin in WA's Wheatbelt.
-  https://www.abc.net.au/news/2026-11-19/narrogin-triple-fatality-crash-parents-speak/107399488
+* ‘Remarkable luck’: wreck of first Australian-built warship discovered exactly 128 years after sinking
+  Guardian Australia | 19 Nov 05:22 UTC
+  HMCS Spitfire commissioned by colonial government to protect against Russian warships based at Vladivostok during Crimean war The wreck of Australia’s first locally-built warship has been discovered 128 years after sinking off the coast of far north Queensland. Marine archaeologists found the remains of Ex HMCS Spitfire on 21 August, the ...
+  https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered
 
-* Hastings council rejects plan to limit vehicle access to Waimārama Beach
-  RNZ | 19 Nov 03:04 UTC
-  A woman says it was "absolutely awful" to see the community divided at a meeting where plans to limit access to a beloved beach were rejected by councillors.
-  https://www.rnz.co.nz/news/community/2679866/hastings-council-rejects-plan-to-limit-vehicle-access-to-waimarama-beach
+* Ex-Liberal named NSW Labor candidate in 'watershed moment'
+  ABC Australia | 19 Nov 05:15 UTC
+  Tanya Raffoul, a Parramatta councillor and former staffer for Coalition police minister David Elliott, was lured by her former political rivals after she quit the Liberals.
+  https://www.abc.net.au/news/2026-11-19/ex-liberal-tanya-raffoul-named-nsw-labor-candidate-for-epping-/107404970
 
-* ‘I’ll take the rap for that’: labour hire boss asked for fake invoices for sports club sponsorships, Big Build royal commission hears
-  Guardian Australia | 19 Nov 03:01 UTC
-  Invoices, including for junior football and netball sponsorships totalling thousands of dollars, were part of ‘distorted’ payments to CFMEU official, inquiry told Get our breaking news email , free app or daily news podcast A labour hire company distorted payments, including to a former top CFMEU official, by creating fake invoices for sp...
-  https://www.theguardian.com/australia-news/2026/nov/19/cfmeu-big-build-inquiry-labour-hire-fake-invoices-sports-clubs-ntwnfb
+* Students offered extra NCEA exam after digital failures
+  RNZ | 19 Nov 05:02 UTC
+  The chief executive of NZQA says they'll bypass the usual 18-month timeframe because of the impact of last week's exam disruption.
+  https://www.rnz.co.nz/news/education/2684742/students-offered-extra-ncea-exam-after-digital-failures
 
-* Rising costs make Australia 'uncompetitive' for cruise industry
-  ABC Australia | 19 Nov 02:54 UTC
-  Australia's cruise industry is in decline, with more than one billion dollars wiped from its input to the country's economy as major international cruise lines head overseas.
-  https://www.abc.net.au/news/2026-11-19/australia-cruise-industry-economic-loss-rising-costs/107402518
+* The context you need to understand Bancroft's version of Sandpapergate
+  ABC Australia | 19 Nov 04:53 UTC
+  If you feel like you missed a beat with the Australian cricket's sandpaper scandal and why its back in the news, this breakdown of Cameron Bancroft's article will bring you up to speed.
+  https://www.abc.net.au/news/2026-11-19/cameron-bancroft-sandpaper-breakdown/107403066
 
-* Wallabies looking for attacking spark against Wales
-  ABC Australia | 19 Nov 02:48 UTC
-  The Wallabies are promising a more polished attacking display against in-form Wales in their quest to arrest an alarming eight-Test losing run in Europe.
-  https://www.abc.net.au/news/2026-11-19/wallabies-looking-for-response-against-wales/107403808
+* Teenager robbed and forced into car boot, police say
+  ABC Australia | 19 Nov 04:45 UTC
+  Police have arrested four people — including boys aged 15 and 16 — after an 18-year-old was allegedly robbed, assaulted and forced into the boot of his own car.
+  https://www.abc.net.au/news/2026-11-19/arrests-teenager-allegedly-forced-into-car-boot-mount-gambier/107404492
 
 * General Pants Co enters voluntary administration, putting hundreds of jobs at risk
-  Guardian Australia | 19 Nov 01:46 UTC [also carried by: ABC Australia]
-  Australian fashion chain becomes latest retailer in trouble after David Jones, Cue and Veronika Maine Get our breaking news email , free app or daily news podcast Youth fashion chain General Pants Co has become the latest major retailer to slide into voluntary administration, putting nearly 500 jobs at risk as Australia’s retail sector co...
+  Guardian Australia | 19 Nov 04:10 UTC [also carried by: ABC Australia]
+  Australian fashion chain becomes latest retailer in trouble after David Jones, Cue and Veronika Maine Get our breaking news email , free app or daily news podcast The youth fashion chain General Pants Co has become the latest major retailer to slide into voluntary administration, putting nearly 500 jobs at risk as Australia’s retail secto...
   https://www.theguardian.com/business/2026/nov/19/general-pants-co-enters-voluntary-administration-jobs-at-risk
 
 * Explainer: The US has lost its measles elimination status. Could New Zealand?
@@ -1280,40 +1291,48 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Rio Tinto has agreed to fund support for responses to the environmental and human rights impacts from the Panguna Copper mine in Bougainville.
   https://www.rnz.co.nz/news/pacific/2674427/rio-tinto-commits-us-250m-to-address-damage-from-bougainville-s-panguna-mine
 
-  ALSO IN PACIFIC (67), headline only:
-  - Scientists witness 'cosmic crime' as giant star devours its neighbour (ABC Australia)
-  - Students offered extra NCEA exam after digital failures (RNZ)
+  ALSO IN PACIFIC (66), headline only:
+  - Economists warn Australia is showing the hallmarks of recession (ABC Australia)
+  - More than 3000 bird flu tests carried out since July (RNZ)
+  - Man accused of sexual offending against four young boys named as Christchurch man Tahu Paki (RNZ)
+  - Cheap Chinese EVs are causing havoc on the Australian used car market (ABC Australia)
+  - Corrections still tackling almost 7000 prison cell risks (RNZ)
+  - Humble Ash Barty inducted into hall of fame (ABC Australia)
+  - Little penguin comeback on NSW far south coast threatened by fox attacks (ABC Australia)
+  - Teen accused of Parliament House hoax threats faces terrorism charges (ABC Australia)
+  - Tonnes of asbestos pulled from $1b Queenstown development site (RNZ)
+  - ‘Shame old Aussies’ to ‘fresh chaos’: what the UK papers say about Bancroft’s explosive ball tampering claims (Guardian Australia)
+  - ‘The abuse I copped was phenomenal’: researchers accuse tobacco companies of intimidation tactics to silence critics (Guardian Australia)
+  - Person injured in dog attack at Dunedin park (RNZ)
+  - ‘Reputational damage’: Queenstown council warned over risks from Wānaka sludge deal (RNZ)
+  - Person dies after incident at property in rural South Auckland's Clevedon (RNZ)
+  - Australia may have ‘one foot in recession’ as unemployment surges to five-year high (Guardian Australia)
+  - Cameron Bancroft breaks his silence on sandpapergate: who will be next? - podcast (Guardian Australia)
+  - More than 130kg of cocaine seized by customs at Port of Tauranga (RNZ)
+  - One Nation candidate's migrant welfare graph completely wrong, researcher says (ABC Australia)
+  - What do NZers want in a home? Not the same thing as everyone else (RNZ)
+  - Hippo who ate hat under round-the-clock medical watch at US zoo (ABC Australia)
+  - Northern Territory pub at centre of outback mystery up for sale again (ABC Australia)
+  - Elderly man who fatally stabbed wife likely to spend life in custody (ABC Australia)
+  - 'Big disaster' for WA community as tributes flow for three adored friends (ABC Australia)
+  - Hastings council rejects plan to limit vehicle access to Waimārama Beach (RNZ)
+  - Cruise lines abandon Australia as industry loses $1.75b (ABC Australia)
+  - Wallabies looking for attacking spark against Wales (ABC Australia)
+  - Star 350 times larger than the Sun caught eating its neighbour (ABC Australia)
   - New winner of 2026 Stawell Gift announced after drug scandal (ABC Australia)
-  - One Nation’s general manager takes leave amid speculation he will be sidelined after leaks and vetting scandals (Guardian Australia)
   - Premier refuses to enact data centre halt after motion passes lower house (ABC Australia)
-  - GTA 6 dazzles gamers in Australia with ‘fully lived-in, breathable world’ (Guardian Australia)
   - Mayor out of step over with council over voting rights for non-elected committee members (RNZ)
   - Bancroft says he is 'freed' as Cummins hits nets with captaincy in question (ABC Australia)
   - Hope and connection on display at regional arts exhibition (ABC Australia)
   - Wayne Brown says Wellington aligned with US in full-length interview on Chinese TV (RNZ)
   - Cook Islands-heritage heavyweight eyes world title after claiming 13th straight KO (RNZ)
-  - When is the AFL draft and how does it work? Here's what you need to know (ABC Australia)
-  - Five men arrested in relation to fatal drive-by shooting (ABC Australia)
-  - What do NZers want in a home? Not the same thing as everyone else (RNZ)
   - Weaving value into the clip: Fibre industries report warns of NZ's skills, manufacturing gaps (RNZ)
   - US senators push for stronger military space ties with NZ (RNZ)
-  - 'Wounded pride' drove Lamarre-Condon to murder 'in cold blood', jury told (ABC Australia)
-  - Brisbane council approves sale of land to shopping precinct developer (ABC Australia)
-  - Australia may have ‘one foot in recession’ as unemployment surges to five-year high (Guardian Australia)
-  - Major aged care staffing agency stripped of licence to operate in Victoria (ABC Australia)
   - A natural hazard': Tonga declares state of emergency as El Niño drought worsens (RNZ)
   - Halter's hillside data archive for 'agricultural intelligence' (RNZ)
-  - Beau Lamarre-Condon’s testimony about Jesse Baird and Luke Davies’ deaths ‘fanciful in the extreme’, crown alleges (Guardian Australia)
-  - Breaking: Analysts surprised as unemployment rate surges to 4.9pc in October (ABC Australia)
-  - Four Aussies chasing biggest payday in history of women's golf (ABC Australia)
-  - Queensland community groups urge premier to act amid funding crisis (ABC Australia)
-  - Coroner finds 'serious failure' in death in custody of mother of five (ABC Australia)
   - Frustration over East Coast tsunami advisory confusion (RNZ)
   - Has anyone finished Grand Theft Auto 6 yet? (RNZ)
   - 'Unimaginable tragedy': Owharoa Falls victim named as 18-year-old Allyzah Cayabyab (RNZ)
-  - 'Needle in a haystack': Australia weighs proposed surrogacy law changes (ABC Australia)
-  - Adelaide-based body double recalls upstaging new Bond in outback pub (ABC Australia)
-  - Observers concerned over alleged gaps in WA emissions monitoring (ABC Australia)
   - Outspoken Tongan footballer suspended, calls for overhaul (RNZ)
   - Advocates champing at the bit to revive Horse of the Year event, after troubled run (RNZ)
   - Australia has a reputation for being the most secretive democracy in the world. New laws could make it worse | Tom Sulston (Guardian Australia)
@@ -1330,6 +1349,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Pacific groups hail US court ruling against deep-sea mining plans (RNZ)
   - Youths forcefully obtain keys, escape care and protection facility (RNZ)
   - Media advocates warn RNZ job cuts risk 'vital communication link with Pacific' (RNZ)
+  - We've been up since midnight playing Grand Theft Auto 6 - here's what we think (RNZ)
   - Māori business leaders have more positive outlook (RNZ)
   - Gisborne police say they're cracking down on rising gang tensions (RNZ)
   - Gloriavale meal plant fire caused by open boiler door (RNZ)
@@ -1337,17 +1357,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - An Australian business summit on productivity? It’s about time. Here are three fantasy agenda items (Guardian Australia)
   - Does Australia really have the world’s second most generous refugee scheme? (Guardian Australia)
   - New Plymouth councillors vote to rip up 'Tim Tam' cycleway (RNZ)
-  - Threat of strong, unusual currents after tsunami activity has passed, NEMA says (RNZ)
-  - Autism expert condemns school over boy allegedly forced to empty clogged toilet bare-handed (RNZ)
-  - US Ambassador Jared Novelly labels Auckland mayor Wayne Brown a 'boomer' (RNZ)
   - Could drawing a picture of a datacentre in Australia land you in jail for seven years? | First Dog (Guardian Australia)
-  - 'Many flags, one umbrella': How rugby league is bringing communities together (RNZ)
-  - Memorial garden unveiled for patients who died at Lake Alice (RNZ)
-  - Five fights Labor wants to win before the end of the parliamentary year (Guardian Australia)
-  - ‘Devastating consequences’: One Nation plan to slash Australia’s refugee program denounced (Guardian Australia)
-  - 'Tragic' if Kaitāia mills deal falls over - Northland NZ (RNZ)
-  - New and stronger Hikuwai Bridge opens on East Coast (RNZ)
-  - Big four banks join forces to combat scams and fraud (RNZ)
 
 ######################################################################
 ## POLITICS AND CONFLICT
@@ -1524,32 +1534,37 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 ## ECONOMY AND BUSINESS
 ######################################################################
 
---- Economy (15) ---
+--- Economy (13) ---
+
+* Anthropic’s AI advances trigger new safety fears on eve of IPO
+  Financial Times | 19 Nov 05:00 UTC
+  Group disclosed it had activated part of ‘responsible scaling policy’ it set up to ensure AI did not develop so quickly that it caused ‘catastrophic risks’
+  https://www.ft.com/content/d8be4655-211c-49a8-bfe4-18a00b8e8619?syn-25a6b1a6=1
+
+* Anthropic retail investors face squeeze in blockbuster IPO
+  Financial Times | 19 Nov 05:00 UTC
+  Frenzy for AI stocks is testing how far Wall Street will go to accommodate a new army of individual investors
+  https://www.ft.com/content/38c122d6-b533-4595-9554-3852c52e580f?syn-25a6b1a6=1
+
+* Angry America and its housing market
+  Financial Times | 19 Nov 05:00 UTC
+  The country is failing to provide enough houses to enable people to move to where the good jobs are
+  https://www.ft.com/content/9450175e-3da3-4df3-bd93-050683bbb98a?syn-25a6b1a6=1
+
+* Adani: the billionaire at the heart of Modi’s India
+  Financial Times | 19 Nov 05:00 UTC
+  Three years ago, the tycoon was fending off lawsuits and accusations of fraud. Now, his business empire looks more powerful than ever
+  https://www.ft.com/content/e1867545-5142-4ee5-b092-b7e04ac04b66?syn-25a6b1a6=1
+
+* Deutsche Bank’s Italian unit hid up to €800mn of mortgage lending losses
+  Financial Times | 19 Nov 05:00 UTC
+  German lender did not publicly disclose scandal or findings of damning internal probe codenamed Project Aetos
+  https://www.ft.com/content/06be5c7d-b1f2-44e9-9cad-a2dcb5a2f452?syn-25a6b1a6=1
 
 * Musk says he feels ‘foolish’ for donating nearly $500mn to Republicans
   Financial Times | 19 Nov 02:19 UTC
   SpaceX CEO backs away from Maga after monetary support for Donald Trump’s party in midterm elections fails to sway voters
   https://www.ft.com/content/1af0d736-d5e5-4601-989d-638c9cea74b2?syn-25a6b1a6=1
-
-* US tech outages blamed on rush to fix bugs found by AI
-  Financial Times | 19 Nov 00:07 UTC
-  Experts say race to patch software flaws probably created instability in computer systems at Microsoft, JPMorgan and others
-  https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1
-
-* City firms told to tighten cyber defences as AI exposes vulnerabilities
-  Financial Times | 19 Nov 00:01 UTC
-  Regulators publish new directions after surge in hacking attempts and $6bn theft from crypto exchange Binance
-  https://www.ft.com/content/7cd81085-95d0-4511-b640-300a2c8791ff?syn-25a6b1a6=1
-
-* Meta halts plan to give Zuckerberg new class of shares
-  Financial Times | 18 Nov 23:57 UTC
-  Tech group pauses plan that would have let founder sell down stake without ceding control
-  https://www.ft.com/content/3c97ea69-1a32-4280-b067-f37f2874f987?syn-25a6b1a6=1
-
-* Anthropic IPO raises record $81.3 billion on strong AI demand
-  NPR Business | 18 Nov 23:54 UTC [also carried by: Financial Times, Japan Times]
-  The five-year-old artificial intelligence powerhouse priced its initial public offering at $83 a share, shrugging off growing concern about a possible AI bubble and volatility in tech stocks.
-  https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price
 
 * Nvidia accelerates pay rises as interim CEO seeks to lift staff morale
   Financial Times | 18 Nov 20:40 UTC
@@ -1571,11 +1586,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   A flight attendants’ union challenged Google’s plans to protect personal information in the data in court, saying the company’s measures were not enough to protect Spirit’s employees.
   https://www.nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html
 
-* The only way out of populism is through it
-  Financial Times | 18 Nov 13:04 UTC
-  The lesson of Britain and America is that bad ideas have to be tested to destruction
-  https://www.ft.com/content/e71273dd-2748-4396-bb62-e75307105596?syn-25a6b1a6=1
-
 * The U.S. Could Hit Its Debt Limit by February
   NYT Economy | 18 Nov 10:04 UTC
   The Bipartisan Policy Center estimates that the United States will soon run up against a limit to how much debt it can issue.
@@ -1590,14 +1600,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   NPR Business | 18 Nov 09:43 UTC
   Nvidia needs a new CEO. Keeping its engineers is another story.
   https://www.npr.org/2026/11/18/nx-s1-6044070/nvidia-jensen-huang-ceo-replacement-engineers
-
-* SoftBank regrets ‘mistake’ of not backing Anthropic, says Son
-  Financial Times | 18 Nov 07:56 UTC
-  Japanese tech group had already started to put money into arch-rival OpenAI
-  https://www.ft.com/content/08086201-6359-47ec-8854-70462ad5a4c0?syn-25a6b1a6=1
-
-  ALSO IN ECONOMY (1), headline only:
-  - Low-profile VCs set for $100bn windfall from Anthropic IPO (Financial Times)
 
 --- Business (11) ---
 
@@ -1621,8 +1623,13 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?
   https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss
 
+* Business Daily
+  BBC Business | 18 Nov 21:30 UTC
+  We examine the business of the Claude chatbot maker as it starts selling shares
+  https://www.bbc.co.uk/sounds/play/w3ct8gm9?at_medium=RSS&at_campaign=rss
+
 * How high is UK inflation and how will you be affected?
-  BBC Business | 18 Nov 19:37 UTC
+  BBC Business | 18 Nov 19:37 UTC [also carried by: NYT Environment]
   Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.
   https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss
 
@@ -1651,12 +1658,12 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.
   https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss
 
-* Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond
-  BBC Business | 18 Nov 04:00 UTC
-  The Amazon chairman says he was originally "biased against" Pattinson "because he's already so famous".
-  https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss
+--- Mergers and Acquisitions (26) ---
 
---- Mergers and Acquisitions (28) ---
+* Palo Alto raises annual forecast, signs $4.5 billion deal for Applied Compute - The Indian Express
+  GN acquisitions | 19 Nov 05:25 UTC
+  Palo Alto raises annual forecast, signs $4.5 billion deal for Applied Compute The Indian Express
+  https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMVhCYThiYjV0b0pYeWl2dHlidjE3ZTRVRV9RNnJRbFdzOEJaWkpXX1FHY29GWG4tM2RJTm1YemN6aGc3elRjalFEMlhxOXBvNE4tdWJBNHR4SUktZVNIOXhSQjJGR3FuQ3BkVkdocWgwS3R4ZW9UeHBFbmJRX3Q4TF9LTFVvbm1Tazg4ZHo3YWhSNUVtRnRIb0s3UXJNNEY1djg2VEdleFdVdENURjg1S2VYTUJpaEFjaTBfYVBpWDdHYkRkQ2V4ekxDVFVPaWNQR2NBOWlWU2ZoeFpXU0hlcTk2RjVXUdIB7AFBVV95cUxPOE1RQkNwaG9OT0dyejM2ZU1WZUk0NURIQnk3QUM1YVFOUE9wcXJabUtuWHhGWDZCd1lhYUJhQ1V0SzZIUzgxd3dVSEVhNG5uVGFPbGRrTUVhMmUzazYwSE0wTkFIR1h1aGQ5ZERGaUlIUzFfSWJadHpkTlA4b1BXeHZoNWw5Qmh4cU95VzFwS3YtYmRYR3dFV3AtMEt4YkVPQllXTDRwN0RCOEVwLTllVVhhN05hMHpzVWtNRl9MWDE3X0tLM1RGOC1Wenh5eDljM0p1RzFlZUhoQ3pERDZBZ1VOYVViVW1tOC1UWA?oc=5
 
 * Palo Alto Networks to acquire AI startup Applied Compute in $4.5 billion all-stock deal - The Economic Times
   GN acquisitions | 19 Nov 02:24 UTC
@@ -1664,7 +1671,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZjVYcElBQzZLRDlsTkg1VEc1Q3hQNHlsRXJ3LVAyRG41TmlDakdzQ1NQY2ZzZm1ZamVVYnhucnhidnBvNjlyVF9zdUFSdV95Njl2LVJ2eGw3VHA2X19aamxKU0otTTk2aXJZVzgwQXBudG9oME1UenpjMkFqU21fMEVob2hOYUhPckFnYVM3Rm1NVE9sdkF5a1F3TGVpaE5tTVRGcFBiOGx2T0M0NGdDMHZDcnVuMkc2Y2pFUm55QUNwLVYyTmlZX2cxcXBXOVNLazBMWXI5R1FtcUZiejVPWGNLSjNveFNockE?oc=5
 
 * Yamaha to Acquire UK Entertainment Technology Company Disguise in £215 Million Deal - yamahamusicians
-  GN acquisitions | 18 Nov 23:19 UTC
+  GN acquisitions | 18 Nov 23:30 UTC
   Yamaha to Acquire UK Entertainment Technology Company Disguise in £215 Million Deal yamahamusicians
   https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDA0MEdtSHJCRmZITWE1ZVg1YkhVY2NvY2hQVGJsQVkwaUVFdlJqNTlSZkJqOHhuNEI1Ykx5eHRKa016T3ZHUDY5S3Vtb2diNmMxWHB4blBGSmc3SVRFNWR1RDVadjJsajF5MnpuaW4tdVlvVFEyZk9tNEJRMW8tWFJXRV96M0VDMy1Kc1FzMWFnV0lVZHN0R2pmaWRWRUVCRjh3QVczNWtNOUVtVUtydQ?oc=5
 
@@ -1678,20 +1685,15 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Challenger Rejects New $4.4 Billion Daiichi Life Takeover Bid Bloomberg
   https://news.google.com/rss/articles/CBMisAFBVV95cUxQRWVITnQzNFNFVEFZaDFoVExvNk1ORHJTM1pJUFBjdEdsZG5nVTJoLVhKVHdubDFKOGJtTHpnVlRTdzc0UVF0ZkE3a2NGRW5UWWtIYW5ENWVzZE5ZUTZ1ekFSMy0wcVNRcGc4NUM0QkxqbURuelVyaXNGaTVCUldETnQ4cWx5Z1V5Tng1eGk1ejZ0NGNPSHdON1JBMVRiUlQyeFdtQnIwVTBCbDVibnNVcQ?oc=5
 
-* B.C. NDP calls for opposition to Quebecor’s Telus takeover bid - Maple Ridge News
-  GN takeover bids | 18 Nov 22:03 UTC
-  B.C. NDP calls for opposition to Quebecor’s Telus takeover bid Maple Ridge News
-  https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1J2VWpzXzBHYXFNV1B5SkUzQUJBeVdhMlNvNzU5andrb3piaGJuMzlIdVRXTlpNclpaUmxJVXJWbEp6cG40cVVkTW4yTmU0cTNkLUNRNFBrZWFYZVlRcE9FalZocS1GWTFQYjAtZ3RLMVVfZ2hGZnlodjFPYTN5ZEtyVWNxdFl6cnZWT3JwN3g3WDM2ZUpMckE0M3VpT3Bm?oc=5
+* B.C. NDP calls for opposition to Quebecor’s Telus takeover bid - Abbotsford News
+  GN takeover bids | 18 Nov 22:02 UTC
+  B.C. NDP calls for opposition to Quebecor’s Telus takeover bid Abbotsford News
+  https://news.google.com/rss/articles/CBMimAFBVV95cUxPenlEQXd1bXR2YmU5Zm40UXl1N01IN05EamFTVVNMWXdKWk5JR0c5MlFEOUdGZzQxZXFTVnFWR3hJZld3Zi1fSHpGY0h3WFhqM05lOWZNMGhXS0MyaEJDMEJWLW5fUmpWOVJpVVVfRi1CekZpeUNQZDhWTEl3ZUxZVFZvbVNReVpfeV94MmdCSGlVc0dlNXhRYQ?oc=5
 
 * Cybersecurity company Palo Alto Networks to acquire AI startup for $4.5 billion — Channel NewsAsia - UA.NEWS
   GN acquisitions | 18 Nov 21:46 UTC
   Cybersecurity company Palo Alto Networks to acquire AI startup for $4.5 billion — Channel NewsAsia UA.NEWS
   https://news.google.com/rss/articles/CBMixAFBVV95cUxQLUZ5ZkozelhvQUJyQUJnZmxxaDYyVEhJUFA2TkxxS213RzlZRnBWd01nM1AzcXo5aXd4YTJNVFd0a2FXQ3AyLWFMZjJwUnB1bExVX1I0QTdmamZ0RFlkMkpEQTY5VVdJZGhNV2xRMlhzQ0dnMkxjUUMzMDJmWmxVTm9XOURoR0tvM3Q2cFdMZWdVc1l4LWFqMXJtZ0d0d1NwQ0NoNUJHbkZTb21mNnM1YmRRQm8taXBzTGQ4ajUzb25WVkpP?oc=5
-
-* Palo Alto raises annual forecast, signs $4.5 billion deal for Applied Compute - Reuters
-  GN acquisitions | 18 Nov 21:09 UTC
-  Palo Alto raises annual forecast, signs $4.5 billion deal for Applied Compute Reuters
-  https://news.google.com/rss/articles/CBMinwFBVV95cUxOZW5sQ0s3NEtGMUtHWHpjajhUZjB3WW1PcGNIOF9IdktwUTVFbVh6V2VsMVFsWFRBMlE5VmtyUXlPMUtfZlk2UU4zbGxoZ19ocThmVjNudnNUWFhNR3BlT0V5dUxuYVk5VXUyT2EwZHI3QmtTS1N1ejVTV005UmNvdV93MjVEVDBkQldGU3E2bTBzVHpUbWZNY2wtbWx6TzA?oc=5
 
 * Anthropic share price revealed ahead of stock market debut
   Sky News Business | 18 Nov 19:30 UTC [also carried by: BBC Business, BBC US Canada]
@@ -1718,12 +1720,13 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Kingswood Capital to Acquire Kautex, Specialized Vehicles PlasticsToday
   https://news.google.com/rss/articles/CBMimwFBVV95cUxPdDl4YTRNMkhOZkVXaWpYX3BKNzhHaDBtU3RHODFXQk0tMnZYZ3lZMXVkYUVFUExtcElrS1oxaVdMbWJ3UmQzVWpHY1N0MG1QVXh2UVpzYWZjenVNajZ4UmQzNkxhcFNIYlBHNGRYYjFySDVNcXhYeDN0WGNkQUljaDBaWWNkVjVzRDlxUDZnMzhIVmFFQ0p1TEc3QQ?oc=5
 
-  ALSO IN MERGERS AND ACQUISITIONS (16), headline only:
+  ALSO IN MERGERS AND ACQUISITIONS (14), headline only:
   - TELUS stock rises nearly 3% as board rejects C$31 billion Quebecor takeover bid - Traders Union (GN takeover bids)
+  - Premier League clubs to meet amid frustration over EFL deal progress (Sky News Business)
   - Chinese Military Wants NVIDIA's Best AI Chips, US Panel Says - Analytics Insight (Google News China M&A)
   - U.S. Battery Supply-Chain Shift Creates Opportunities for Non-China Suppliers; The GrowHub's Proposed EnChem Merger Positions TGHL for Growth - The Manila Times (Google News China M&A)
+  - Bullish reports results and agrees to buy Equiniti in a $4.2 billion deal - Cryptonews.net (GN acquisitions)
   - Congressional report: China is seeking to acquire advanced Nvidia chips for use in weapons - MTV Lebanon (Google News China M&A)
-  - Bullish reports results and agrees to buy Equiniti in a $4.2 billion deal - TradingView (GN acquisitions)
   - Iceye's €2.05 Billion Bid for Avio Faces Italian Scrutiny - https://streamlinefeed.co.ke/ (GN takeover bids)
   - Space could be the first frontier for European defence mergers (FT Mergers and Acquisitions)
   - Chinese exporter accuses ex-police commander of hostile takeover - Bangkok Post (Google News China M&A)
@@ -1732,15 +1735,22 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Eurobank agrees €650 million deal for 65 per cent of Bulgaria’s Fibank - Cyprus Mail (GN acquisitions)
   - DoorDash agrees to acquire Instacart for $17 billion — Fortune - UA.NEWS (GN acquisitions)
   - Drug-ingredient deals draw merger-notification scrutiny in China's Tibet - MLex (Google News China M&A)
-  - Amazon set to seal Decart deal worth up to $7.5 billion within days - CTech (GN acquisitions)
-  - Nvidia’s big business in Singapore (FT Mergers and Acquisitions)
-  - Asda explores deals as UK supermarkets brace for merger wave (FT Mergers and Acquisitions)
 
 ######################################################################
 ## SCIENCE AND TECHNOLOGY
 ######################################################################
 
---- Science (38) ---
+--- Science (36) ---
+
+* Expert comment: UK roads are dangerous by design. Punishing bad drivers won't fix them
+  Phys.org | 19 Nov 04:20 UTC
+  In 2025, 1.16 million people around the world were killed in road collisions. That's 3,178 deaths per day. Up to 50 million were injured.
+  https://phys.org/news/2026-11-expert-comment-uk-roads-dangerous.html
+
+* The art of success: Study shows arts education benefits students with disabilities
+  Phys.org | 19 Nov 03:40 UTC
+  Give students with disabilities greater access to the arts, and good things happen: They come to school more often, face fewer disciplinary problems and improve their writing skills, according to new research from the University of Missouri.
+  https://phys.org/news/2026-11-art-success-arts-benefits-students.html
 
 * Climate change and habitat loss could fuel deadly bat-borne disease
   Phys.org | 19 Nov 03:20 UTC
@@ -1787,22 +1797,14 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Civil engineers looking forward to building structures on the moon need to know how ground motion from moonquakes will affect these buildings. But will ground motion models developed for Earth work well for the lunar landscape?
   https://phys.org/news/2026-11-lunar-specific-ground-motion-seismic.html
 
-* Watch: Sea level rise isn't just waves—how groundwater threatens coastal cities from below
-  Phys.org | 19 Nov 00:40 UTC
-  With El Niño winter storms rolling in, coastal communities will naturally brace for the obvious: surging high tides, pounding waves and seawater spilling over seawalls. Decades of storm coverage have encouraged us to measure climate risk by what crashes onto the shoreline.
-  https://phys.org/news/2026-11-sea-isnt-groundwater-threatens-coastal.html
-
-* The philosophical reason AI Christmas ads leave audiences feeling cold
-  Phys.org | 19 Nov 00:30 UTC
-  It's that time of year when Christmas ads start appearing, and brands offer up a slice of consumerist comfort as you curl up in front of a screen.
-  https://phys.org/news/2026-11-philosophical-ai-christmas-ads-audiences.html
-
 * More than a billion years of Earth's history vanished. Scientists may finally know why
   ScienceDaily | 18 Nov 08:27 UTC [also carried by: GN Space.com]
   Scientists may have finally explained why up to more than a billion years of Earth's geological history are missing from rocks around the world. New research suggests that powerful currents deep inside the planet slowly raised and lowered entire continents, allowing erosion to erase vast stretches of geological history before they were bu...
   https://www.sciencedaily.com/releases/2026/11/261116023403.htm
 
-  ALSO IN SCIENCE (26), headline only:
+  ALSO IN SCIENCE (24), headline only:
+  - Watch: Sea level rise isn't just waves—how groundwater threatens coastal cities from below (Phys.org)
+  - The philosophical reason AI Christmas ads leave audiences feeling cold (Phys.org)
   - A 115 million‑year‑old 'algae rebellion' in Portugal's sea cliffs pushes back evolutionary timeline (Phys.org)
   - Atoms in sync: Superradiance offers a new kind of frequency comb (Phys.org)
   - Q&A: Schools that ban cellphones see uptick in test scores (Phys.org)
@@ -1820,15 +1822,11 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Scalable photonic quantum computer provides new insights into the fundamentals that shape its performance (Phys.org)
   - Tropical plantations reshape biodiversity in ways species counts alone cannot reveal (Phys.org)
   - Newly described South China Sea crab suggests relatively recent shift from shallows to deeper waters (Phys.org)
-  - Where in Europe could electric‑powered ferries create cleaner travel routes? (Phys.org)
-  - Spectral clues suggest hollow-core magnetic jet in brightest-ever gamma-ray burst (Phys.org)
   - A rare disease reveals a hidden flaw in the immune system (ScienceDaily)
   - Scientists create a remarkable new rechargeable battery using vitamin B12 (ScienceDaily)
   - New discovery reveals what may be holding back room-temperature superconductors (ScienceDaily)
   - MIT discovers that aging weakens the brain’s nighttime cleaning system (ScienceDaily)
   - A little-known protein could be a powerful weapon against Alzheimer’s (ScienceDaily)
-  - Bizarre deep-sea fish with a see-through head captured in stunning 4K (ScienceDaily)
-  - Tiny magnets deep inside the brain could transform Parkinson’s treatment (ScienceDaily)
 
 --- Space (9) ---
 
@@ -1877,7 +1875,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   India's SatLeo Labs wants to build a 'thermometer for Earth' in space Space
   https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcHg2TjhwLXZ0cVFaa2J1SUs5eFFCVkR3cGZtMG9nZWdEMGVKcE9ENjROakp6emRGMUZ2Y21SSUg2WGNPbWV4WUJyc1hZQktMSGIyOWpCZU8yODdIZEJmWDVWTHNWbUhYWkpBRDF4TG9hdWVxUDlxdHdsQzkxa2RITEpQVVZtRDU4ZFJsWVdoQnpwb0xSSlpFMXhLOWl6cGMwQ1VSRl9OU2RnTGdCSzlMeEVIYTNHVHpI?oc=5
 
---- Health (19) ---
+--- Health (18) ---
 
 * Hospitals Rush to Patch Java Vulnerabilities
   NYT Health | 19 Nov 02:39 UTC
@@ -1939,16 +1937,20 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   "I am asking whether every part of [the medical school] infrastructure needs to be bundled into the same four-year institution,” writes M.D./Ph.D. student Alex Serafini.
   https://www.statnews.com/2026/11/18/health-news-what-redesigning-medical-school-might-look-like/?utm_campaign=rss
 
-  ALSO IN HEALTH (7), headline only:
+  ALSO IN HEALTH (6), headline only:
   - STAT+: FDA discloses reasons for rejecting Summit drug (STAT News)
   - STAT+: Pharmalittle: We’re reading about Overton FDA nomination being yanked, a Merck setback, and more (STAT News)
   - The off-and-on switch for U.S. aid leads to a cliffhanger for Zambia and Zimbabwe (NPR Health)
   - STAT+: Scientists heralded a blue wave. But will they miss Susan Collins? (STAT News)
   - Opinion: Maybe in-person four-year institutions aren’t the right approach to medical education (STAT News)
   - Opinion: STAT+: RFK Jr. has got to go (STAT News)
-  - White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner (NYT Health)
 
---- Energy (5) ---
+--- Energy (6) ---
+
+* How the War in Iran Will Remake the Global Energy Order
+  NYT Environment | 19 Nov 05:00 UTC
+  The International Energy Agency, in its most comprehensive analysis of the war’s fallout, found the oil shock could accelerate adoption of alternative power sources.
+  https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html
 
 * The Permitting Bill Is Splitting the Environmental Movement
   NYT Environment | 18 Nov 20:45 UTC
@@ -2138,7 +2140,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 
 --- Built environment (33) ---
 
-* An Electrician's Tale: Working on Data Center Project's Before Drawings Exist
+* An Electrician's Tale: Working on Data Center Projects Before Drawings Exist
   ENR | 19 Nov 02:39 UTC
   Today's mission critical projects aren't about waiting for a design or shop drawings to be done, they're about making decisions as a group as design and delivery evolve.
   https://www.enr.com/articles/64368-an-electricians-tale-working-on-data-center-projects-before-drawings-exist
@@ -2280,15 +2282,25 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 
 --- Chainlink (14) ---
 
+* MAS Issues S$100 Million in Tokenized Bills With CBDC
+  The Defiant | 19 Nov 05:01 UTC
+  The live auction drew applications for more than twice the issuance size. MAS plans to scale up issuance and broaden use of the bills as collateral.
+  https://thedefiant.io/converge/tradfi-and-fintech/mas-issues-s-100-million-in-tokenized-bills-with-cbdc
+
+* Standard Chartered Analyst Sets a 2030 Price for Chainlink, and the Figure Is $200 - CryptoDaily
+  Google News Chainlink | 19 Nov 05:00 UTC
+  Standard Chartered Analyst Sets a 2030 Price for Chainlink, and the Figure Is $200 CryptoDaily
+  https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEFTTkpMN0stdFNWVkNJaC1ZdWdNMEs1N1ZHaDdLS2RTRURMSWhDbUZmU1I0LUxxNkJEM3lCdnA4M1JCOFMySDIza3ZIenNYbUxxc0NmUGE1M25yMzhocEVOUTM2REYwRXJpWHRyRDVfYjBDVU1KWHZPZ3F4aVkzbmhJWXgyTHdySFBlRmZPbEloNDd3TXA4ZzFLZ2w1MXZZRmZ3YUhYa1JMWkZpejdjY3pFOGs?oc=5
+
 * Standard Chartered, StraitsX, OCBC complete trial of tokenized deposit interoperability
   The Block | 19 Nov 02:30 UTC
   The companies said that unlocking the full potential of 'always-on' tokenized deposits requires interoperability across platforms.
   https://www.theblock.co/news/web3/2026-11-18-standard-chartered-straitsx-ocbc-tokenized-deposit-poc-442964
 
-* Chainlink Unveils New DeFi Solution for 80+ Blockchains - Cryptonews.net
-  Google News Chainlink | 19 Nov 00:22 UTC
-  Chainlink Unveils New DeFi Solution for 80+ Blockchains Cryptonews.net
-  https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3QkREd3hENzJFeHVpVDBWRm5SbUFDaEFsSmt4NlIwcGUtMUlmV0dVUGdta1BZSmlkRFNNWHNrcW9zckJDMEVsR1dISEVPdDZYVzJyaQ?oc=5
+* Chainlink Unveils New DeFi Solution for 80+ Blockchains - Coinfomania
+  Google News Chainlink | 18 Nov 22:36 UTC
+  Chainlink Unveils New DeFi Solution for 80+ Blockchains Coinfomania
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxOazhCNElQclRZaVp5T1Z6OEQ2RzNoLW9vS1JJMUs5ZmNPWUxSNXdjYUttUTFabW1PUlphZHlldWxwRnkxUDM4ZkFYMUNiaVR0TlFDYmYwY3ZreXlreGw0Skk4enYzZUp4SC1GUzZHN1hMSVZrNldNa3Z0djlLSll3ZkdqQThTUQ?oc=5
 
 * Chainlink (LINK) Price Prediction 2027: Every Major Forecast Compared - 24/7 Wall St.
   Google News Chainlink | 18 Nov 19:58 UTC
@@ -2296,7 +2308,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbUFiNjRYaFRYblBYMEhVaE8yRlBnYjBlMndZYzBkQVBuOUwyVXhkRVNRLXRUbFg3S255QU1RdDBBQ09zOWEzWXN0YjB1c2NtRG9mM3RDOENGM0g1WDFKcjQyaV9xUHA3LTlwSEpOVEFWVDBwcVFRQklmd2ptak1JY25pREczcmI1WEZrVjlZRnp3d3ByaVJNUnJZUmRQRnNHbGVucUtTNkV3ZDRmWllkTzhRMUZocnVTcnJ6US1QVDRQbmM?oc=5
 
 * Ondo to launch tokenized Anthropic stock on IPO day
-  The Block | 18 Nov 18:51 UTC
+  The Block | 18 Nov 18:51 UTC [also carried by: CoinDesk]
   Ondo’s ANTon token will track Anthropic shares from the day the Claude maker starts trading on Nasdaq.
   https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482
 
@@ -2325,11 +2337,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Polymarket Ditches Binance for Chainlink: Here’s Why CoinGape
   https://news.google.com/rss/articles/CBMilwFBVV95cUxPWEwyeURya09Zck9wS3VlSHVOTlk0WnRZc3c4LUpEZXA0WXY4UWNWTEl1Q0pfSWs0ZlY1Rk8zWWwtZ3lrem9VTmg1QXlZMXdtdjRvNVpPQVBzXzNoOXI3SHZ6djAxamx5R2gyTWItenBUci0wRy1MMFVnalJDZldJYjRFRlF0OFFIN3N1Sm5YSFVPMGc5T1kw?oc=5
 
-* Standard Chartered Sees LINK at $200 by 2030, but Chainlink First Has to Hold $7 - CryptoDaily
-  Google News Chainlink | 18 Nov 12:00 UTC
-  Standard Chartered Sees LINK at $200 by 2030, but Chainlink First Has to Hold $7 CryptoDaily
-  https://news.google.com/rss/articles/CBMisAFBVV95cUxOTlQtbnpOS1FRREJzaVdFdzZMNmVhTFdJRGg3Mks2dDZfcjFjX3ZXVC1WdVdaY2lnY3lsd3BxWE5qSmVGYy05UUlaNlQtOUIzVmJjRmlaRkJuZEZuR19ONV9iTldjalVYSGhzSS1ZUEE5NkRhOEFzQ3IyM3I4Z1NKOHZOWU0wcVJnQkRrLV81UFZZazk4SWlHTU5YTG4taW1xbTE1OEVESEFuZUV2NV9BWg?oc=5
-
 * Chainlink Forecast Marks $8.60 Support and $10.87 Resistance - TOKENPOST
   Google News Chainlink | 18 Nov 10:58 UTC
   Chainlink Forecast Marks $8.60 Support and $10.87 Resistance TOKENPOST
@@ -2340,15 +2347,15 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   The exchange says its shorter name reflects an existing business in perpetual futures and tokenized stocks, rather than a new token or product launch.
   https://thedefiant.io/news/defi/pancakeswap-becomes-pancake-cake-needs-no-migration
 
-* Polymarket to adopt Chainlink for crypto betting settlements - 디지털투데이
-  Google News Chainlink | 18 Nov 06:15 UTC
-  Polymarket to adopt Chainlink for crypto betting settlements 디지털투데이
-  https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVjNwV1NrbXR5WTJveGh6TG5pcDNPTmQ5ZFhjZmdIbTBMdFlSR3pGWWo2YWFRQlZ0TjlwQTZpSHVGX3FjZTFBSl9hSE0zLWJRX2RzS1RYUUxzY1VzVXdPc3Z2MERDanZwRmQ4dDM1RE5CdllFb202NXJlWVhhbmd5bWNKLWVtbGc2Um5xckNJN0NPeS0zS3kwV1p5OVJET3RpNW0xMUFleE9NZw?oc=5
-
   ALSO IN CHAINLINK (1), headline only:
-  - Chainlink Confidential Compute: 1M Runs in Just 30 Days - Coin Gabbar (Google News Chainlink)
+  - Polymarket to adopt Chainlink for crypto betting settlements - 디지털투데이 (Google News Chainlink)
 
---- Agronomics (22) ---
+--- Agronomics (23) ---
+
+* ITC Foods’ Sunfeast Adds Fibre to India’s Protein Mania with Plant-Based Nutrition Shake
+  Green Queen | 19 Nov 05:00 UTC
+  4 Mins Read Indian conglomerate ITC Foods’ Sunfeast brand has introduced a new dairy-free shake combining plant-based and yeast proteins with high fibre content, amid growing corporate interest in smart proteins. India’s nutrition-forward alternative protein sector now has another big-name competitor, and this time, it’s bringing fibre to...
+  https://www.greenqueen.com.hk/itc-foods-sunfeast-protein-fibre-plant-based-yeast-nutrition-shake-india/
 
 * Marudai Food Taps NoMy Japan’s Fermented Koji Protein to Develop Next-Gen Products
   Green Queen | 19 Nov 01:00 UTC
@@ -2405,12 +2412,8 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   New Culture Secures California Approval to Produce Mozzarella from Animal-Free Casein Green Queen Media
   https://news.google.com/rss/articles/CBMitgFBVV95cUxORHNLZUlwU29QdWFrMEN3TDhRQ0xDTUdBTk5sVGFKdU9FUWpGWnJtNDk5bld0TzI4Slh3OHZIRnlYcUFYcHNMcjdNOUdFcGlKbTdWM2xpeVhmUTVhMGx0RDBoN2lnb2cwVlpPYzJsVC1CYnNWRjJybGxNUV9Hb0hSWFJJZ25ZN3VHTzdTMG9VOGotVGNoV2FfZDVpNGZSeVJ0LTVSSVVkQU5hdHVMY3F2N3Q1X2Vqdw?oc=5
 
-* East Lothian skincare brand celebrates worldwide first - East Lothian Courier
-  GN Clean Food Group | 16 Nov 16:36 UTC
-  East Lothian skincare brand celebrates worldwide first East Lothian Courier
-  https://news.google.com/rss/articles/CBMipgFBVV95cUxPSW9wdDRfQjAwN0s4QjY1Ym5lWGpXcHlyUVcyT0ItOG5LNGt5MTZnNWpjM1dpRHZxSmc4bTU0czBpcHRMTjVYMVVhN3ZJZ2pJb2tYYjJSX1B5dzFyRjVPNUJNVGlVbnpWZ2pQb2VnOWZ2LWh6NkFtcTFnNVUzNlNMc1BUUVdxaGx5YjhKYWRSUF93eHUtRHJ0VkpxeG11RVpnYk1lRXpB?oc=5
-
-  ALSO IN AGRONOMICS (10), headline only:
+  ALSO IN AGRONOMICS (11), headline only:
+  - East Lothian skincare brand celebrates worldwide first - East Lothian Courier (GN Clean Food Group)
   - Laverock Therapeutics Appoints Parker Moss as Chief Executive Officer and Paul J. Sekhri as Executive Chairman - BioSpace (GN Wild Microbes Laverock)
   - GALY Launches US Commercial Cocoa Operations and Advances UAE Expansion - The Daily News - Jacksonville, NC (GN Galy)
   - Agronomics Limited (ANIC.L) Stock Price, News, Quote & History - Yahoo! Finance Canada (Google News Agronomics)
@@ -2614,11 +2617,21 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - DJI's brand-new Osmo Pocket 4P just dropped below £500 – and Black Friday has only just begun! (Digital Camera World)
   - Kiimento Model A review: A game-free, adorable camera for tiny hands (Digital Camera World)
   - a bit of everything… (43Rumors)
-  - This 8MP cheap retro compact camera feels like slipping the 90s into my pocket – and I’m in love (Digital Camera World)
   - Amazon slashes the price of the Olympus OM-D E-M10 Mark IV to just £494! (Digital Camera World)
+  - This 8MP cheap retro compact camera feels like slipping the 90s into my pocket – and I’m in love (Digital Camera World)
   - Our most-rated action cam, the DJI Osmo Action 4, is a steal at £163 in the Black Friday week sale (Digital Camera World)
 
---- Cars (17) ---
+--- Cars (16) ---
+
+* Updated 2027 Zeekr 7X to enter China at Guangzhou Auto Show on November 27
+  CarNewsChina | 19 Nov 05:08 UTC
+  The updated 2027 model-year Zeekr 7X electric crossover will launch in China at the Guangzhou Auto Show on November 27 at 34,465 USD. The post Updated 2027 Zeekr 7X to enter China at Guangzhou Auto Show on November 27 appeared first on CarNewsChina.com .
+  https://carnewschina.com/2026/11/19/updated-2027-zeekr-7x-to-enter-china-at-guangzhou-auto-show-on-november-27/
+
+* Temerario Spyder revealed with Lambo’s first folding hard top
+  Autocar | 19 Nov 04:00 UTC
+  V8 PHEV supercar ditches the Huracan's soft top for a new vertically folding metal arrangement Lamborghini has revealed the new 213mph Temerario Spyder as the brand celebrates 50 years of open-top supercars – and it features the firm’s first retractable hard-top roof. The Spyder will share the same 4.0-litre twin-turbo V8 hybrid drivetrai...
+  https://www.autocar.co.uk/car-news/new-cars/temerario-spyder-revealed-lambo%E2%80%99s-first-folding-hard-top
 
 * Ford bets on CATL know-how to bring cheap LFP batteries to U.S. EVs
   CarNewsChina | 19 Nov 01:25 UTC
@@ -2670,24 +2683,13 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Fast-growing Chinese firms are racing to support booming sales with slick parts and maintenance operations Four years after the current wave of Chinese brands began to take the UK car market by storm, stories and rumours about long vehicle repair times continue to circulate, despite claims by the companies that they have substantially imp...
   https://www.autocar.co.uk/car-news/consumer/should-you-worry-about-repair-and-parts-delays-chinese-car
 
-* Hyundai’s New 7-Seater Electric MPV Revealed – India Launch Next Year? - India Car News
-  GN seven-seat SUVs | 18 Nov 06:20 UTC
-  Hyundai’s New 7-Seater Electric MPV Revealed – India Launch Next Year? India Car News
-  https://news.google.com/rss/articles/CBMiqwFBVV95cUxPXy1ic3dZcTE2blN5ZWlyNzBvTnhLcGY3R190R1NoYmVjZURTYnZzdndWY0taWjV6SkdGNXdtNUk1Q01nc3lSWnBQMXgtNXhkYmxSS2tqRWNFR0gyTEMzM0FDN0Z0TE00SWNkVXl5dkxXZnlKNUt3b0YwTHFVUlZzSWg2dVpra2RySm9SUGxrSXI0aE9ZSnpwRlBCREZ6YTNKRXd3SC0tNFo5Q2s?oc=5
-
-* Xpeng’s first station wagon spied with L-series styling ahead of Q1 2027 debut
-  CarNewsChina | 18 Nov 06:13 UTC
-  As Xpeng expands globally, spy shots reveal its first electric station wagon testing in China. The L-series inspired estate could debut in Q1 2027. The post Xpeng’s first station wagon spied with L-series styling ahead of Q1 2027 debut appeared first on CarNewsChina.com .
-  https://carnewschina.com/2026/11/18/xpengs-first-station-wagon-spied-with-l-series-styling-ahead-of-q1-2027-debut/
-
-  ALSO IN CARS (5), headline only:
+  ALSO IN CARS (4), headline only:
+  - Hyundai’s New 7-Seater Electric MPV Revealed – India Launch Next Year? - India Car News (GN seven-seat SUVs)
+  - Xpeng’s first station wagon spied with L-series styling ahead of Q1 2027 debut (CarNewsChina)
   - Safety risks as thousands of EV chargers go years without checks (Autocar)
   - Britain's Best Driver's Car: Who will be named 2026’s handling hero? (Autocar)
-  - Volkswagen ID 3 Neo: Feels like a VW at last – and a good one (Autocar)
-  - Mass production of the Mercedes-Benz VLE minivan began in China (CarNewsChina)
-  - The first Chinese automaker began L3 autopilot tests on highways (CarNewsChina)
 
---- Urbanism (23) ---
+--- Urbanism (20) ---
 
 * Bubbly lamp by Canalside Studio among nine new products on Dezeen Showroom
   Dezeen | 18 Nov 19:00 UTC
@@ -2749,7 +2751,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   To develop its neighbourhoods, the city of Nantes decided to build seven new primary schools and renovate 27 of its existing ones. The city entrusted Dominique Coulon & associés with the task of revamping two of them.
   https://www.archdaily.com/1188659/renovation-and-extension-of-la-beaujoire-nursery-and-primary-school-in-nantes-dominique-coulon-and-associes
 
-  ALSO IN URBANISM (11), headline only:
+  ALSO IN URBANISM (8), headline only:
   - Call for Entries: The New Heart of Kraaiennest with OBA Next (Amsterdam) (ArchDaily)
   - Yuri Suzuki 3D-prints miniature rollercoaster and Ferris wheel for kinetic Onomatopia exhibition (Dezeen)
   - Mapping Memory: Reconstructing Architecture Beyond Physical Evidence (ArchDaily)
@@ -2758,9 +2760,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Kelly Wearstler Studio and ESG Architecture Lead Transformation of Minoru Yamasaki's Minneapolis Building (ArchDaily)
   - Carolina Zimbalist pours bioplastic over silk for Emma Watson's LACMA Gala dress (Dezeen)
   - Fiona's Studio / Edward McCann Architecture (ArchDaily)
-  - CHYBÍK + KRIŠTOF Selected to Design a New Arena and Public Park Below Nitra Castle in Slovakia (ArchDaily)
-  - Rainwater and Public Space: Winners of Buildner’s Rome Rain Rooms Competition (ArchDaily)
-  - Timber Is Not the New Concrete: A Free Tool for Sizing Wood Structures (ArchDaily)
 
 --- Games (35) ---
 
@@ -2820,7 +2819,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   https://www.rockpapershotgun.com/abducting-your-own-lover-no-longer-gives-you-opinion-of-yourself-declare-the-notes-for-crusader-kings-3s-free-florin-update-released-alongside-silk-and-silver
 
 * Grand Theft Auto 6 review
-  Eurogamer | 18 Nov 11:00 UTC [also carried by: Daily Maverick, Japan Times]
+  Eurogamer | 18 Nov 11:00 UTC [also carried by: Japan Times]
   My best attempt at summing up Grand Theft Auto 6 came from a conversation with a friend about something else entirely. This friend was telling me about a theory they'd recently heard, and half agreed with, that just so happened to layer over this game perfectly. Americans, they said, paraphrasing, have found a new 'third place': the car. ...
   https://www.eurogamer.net/grand-theft-auto-6-review
 
@@ -2849,7 +2848,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   - Blizzard suspends World of Warcraft: Forever gold exploit abusers, puts trading blocks on their accounts and removes ill-gotten funds for good measure (Eurogamer)
   - Former GTA 4 and Red Dead boss thinks "we are one Toy Story moment away" from people accepting gen-AI in game development in the West (Eurogamer)
 
---- Longevity (4) ---
+--- Longevity (3) ---
 
 * Gas6 Contributes to the Spread of Calcification in the Aortic Valve
   Fight Aging | 18 Nov 19:08 UTC
@@ -2866,12 +2865,17 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Mesenchymal stromal cells are found in stem cell niches, and thus their behavior influences the activity and capabilities of the stem cell populations that support tissues. Here, researchers argue for cellular senescence in mesenchymal stromal cells to be an important mediator of degenerative aging, via its negative effects on the activit...
   https://www.fightaging.org/archives/2026/11/senescence-in-mesenchymal-stromal-cells-as-a-driver-of-degenerative-aging/
 
-* Guarding and reinvigorating the senses to protect against dementia
-  Peter Attia | 18 Nov 05:00 UTC
-  Living fully in a shrinking world The post Guarding and reinvigorating the senses to protect against dementia appeared first on Peter Attia MD .
-  https://peterattiamd.com/guarding-and-reinvigorating-the-senses-to-protect-against-dementia/
+--- E-commerce (9) ---
 
---- E-commerce (8) ---
+* Retailers ride the Grand Theft Auto VI wave with special promos
+  Modern Retail | 19 Nov 05:00 UTC
+  Retailers and brands mark GTA VI’s launch with food, delivery, tech and even cannabis promos as gamers take time off to dive into Rockstar's virtual world.
+  https://www.modernretail.co/marketing/retailers-ride-the-grand-theft-auto-vi-wave-with-special-promos/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss
+
+* In Graphic Detail: Welcome to the agentic commerce quarter
+  Modern Retail | 19 Nov 05:00 UTC
+  OpenAI, Google, Amazon and Walmart are betting on agent-led holiday shopping. Modern Retail sister site Digiday charts how far it still has to go.
+  https://www.modernretail.co/technology/in-graphic-detail-welcome-to-the-agentic-commerce-quarter/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss
 
 * Amazon puts Arnold Schwarzenegger in Santa suit to extend holiday push
   Retail Dive | 18 Nov 18:02 UTC
@@ -2902,11 +2906,6 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   Retail Dive | 18 Nov 11:55 UTC
   The company's Q3 traffic grew 5% and it plans to invest up to $6 billion in capital expenditures next year.
   https://www.retaildive.com/news/target-traffic-rises-q3-earnings/874959/
-
-* ThredUp launches TikTok Shop livestreams as part of its social commerce push
-  Modern Retail | 18 Nov 05:00 UTC
-  ThredUp is selling sweaters and dresses in TikTok Shop livestreams filmed inside its Atlanta and Dallas distribution centers.
-  https://www.modernretail.co/operations/thredup-launches-tiktok-shop-livestreams-as-part-of-its-social-commerce-push/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss
 
 * Amazon Has Put Four in Ten Sellers on Haul
   Marketplace Pulse | 12 Nov 15:00 UTC
@@ -3011,7 +3010,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
   https://longreads.com/2026/11/18/dollywood-dolly-parton/
 
 * Third wheeling: Xi, Putin and Trump meet in China
-  Economist The Intelligence | 18 Nov 11:09 UTC [also carried by: Africanews, Dawn, Euronews]
+  Economist The Intelligence | 18 Nov 11:09 UTC [also carried by: ABC Australia, Africanews, Al Jazeera global, Dawn, Euronews, Financial Times]
   The APEC summit began in Shenzhen today and the leaders of China, Russia and America are set to sit down tomorrow. Will it amount to much? Scientists are finally taking a closer look at what causes the complicated disease of the uterine lining. And the highly-anticipated launch of the new Grand Theft Auto game Guests and host: Jeremy Page...
   https://shows.acast.com/theintelligencepodcast/episodes/third-wheeling-xi-putin-and-trump-meet-in-china
 
@@ -3200,7 +3199,7 @@ LANE NAMES DESCRIBE THE FEED, NOT THE TOPIC. SCMP sits in East Asia but carries 
 ######################################################################
 
   Location: Ruislip, west London
-  TODAY: 4 to 10C, partlycloudy, 0.0mm rain, wind up to 4 m/s
+  TODAY: 4 to 10C, partlycloudy, 0.0mm rain, wind up to 3 m/s
   Fri 20 Nov: 3 to 9C, partlycloudy, 0.0mm rain, wind up to 5 m/s
   Sat 21 Nov: -0 to 7C, fair, 0.0mm rain, wind up to 3 m/s
   Sun 22 Nov: 4 to 8C, cloudy, 0.0mm rain, wind up to 5 m/s
@@ -3222,4 +3221,4 @@ These produced nothing. Treat the lanes they cover as unverified rather than qui
   - CSM Culture (Society and culture): stale: newest item 8 days old
   - Google News OriginTrail (OriginTrail): stale: newest item 47 days old
 
-End of full digest. Built 2026-11-19T03:21:04.697543+00:00
+End of full digest. Built 2026-11-19T05:41:14.153324+00:00
