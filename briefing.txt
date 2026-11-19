@@ -1,89 +1,81 @@
 Weather.
 
-Today is leg day, and the sky has not skipped it. Seven to twelve degrees, forty-six millimetres of rain, wind seven. Thursday is the second set, twenty-four millimetres. Friday is the rest day, a tenth of a millimetre, enjoy it. Saturday is the cool-down: clear, dry, one degree at dawn. Sunday a light jog, two point four. Boots now, gloves Saturday, and stop pretending you will pop out. Yes, you.
+Today four to ten, dry, partly cloudy. Friday three to nine, dry. Saturday dawn at freezing, clear, dry. Three dry days, so you will take the umbrella, not need it, resent it, and take it again tomorrow. Saturday the car will be iced, and you will pretend you meant to leave early. Coat on, gloves on, dignity off.
+
+How it connects.
+
+The Iran war is now a tax on everything. UK inflation rose to three point six percent because petrol and diesel hit records, and the typical household energy bill is forecast to jump twenty-six percent in January. Central banks cannot look through that. The Bank of England has already hiked to four percent, and Fed governor Waller says stubborn inflation may warrant a bigger December hike. Yet Anthropic has just priced the largest share sale in history. Equities are still paying for long-dated AI profits while the discount rate rises. My speculation: December is the test of which gives way.
 
 Politics and government.
 
-United States. Democrat Mary Peltola flipped Alaska's Senate seat, the ninth Democratic flip of the midterms, for a fifty-six to forty-four majority. Schumer and Van Hollen are now openly contesting who leads it.
+United States. House Democrats nominated Hakeem Jeffries for speaker, two hundred fifty-one votes to eleven; incoming committee chairs are telling Trump allies to preserve records ahead of January investigations. Musk calls his nearly half a billion dollars in Republican donations foolish.
 
-UK. Burnham promises to move quickly on Alan Milburn's youth report; ministers back shifting spending from benefits to job support, and Milburn wants lower employer National Insurance costs for hiring under-twenty-fives. Burnham has pushed announcing options for closer European Union ties to next month.
+UK. Burnham is due in Brussels Friday to sign a package of UK-EU deals covering food to youth mobility. Brussels reportedly will not discuss long-term ties until he decides on Brexit. Leasehold in England and Wales is to be scrapped, with ground rent capped at two hundred fifty pounds, which ends the open-ended rent escalations on flats.
 
-Europe. More French strikes and student protests on Tuesday. The German chancellor hosts the coalition of the willing on Ukraine in Berlin tomorrow.
+Europe. The Commission proposes a forty-five billion euro loan for Ukraine. Germany wants future aid locked into a budget framework no single government can veto, aimed at a possible Le Pen presidency. Berlin hosts the coalition of the willing today.
 
-East Africa. Ruto gives his final State of the Nation address today. Opposition figures Maraga and Karua back a single candidate for twenty twenty-seven. Tanzania: nothing new.
+East Africa. Ruto's final State of the Nation of his first term promised a shift from stabilising the economy to expanding its productive capacity; Sifuna calls it a state of imagination. Tanzania: nothing.
 
 Conflict and security.
 
-Iran. The US says it struck an Islamic Revolutionary Guard Corps missile launch site on Qeshm Island, after Iranian mines hit five ships in Hormuz. Iran's army says drones targeted Patriot batteries at Kuwait's Ali al-Salem base; Kuwait and Bahrain report drone and missile attacks, and Manama blames Iran. Trump says he takes any Iranian plot against Washington very seriously, after reports of a dirty-bomb threat; Rubio says no imminent threat. Qatar warns of grave danger and announces new talks with Iran.
+Iran. Trump is weighing new strikes while Netanyahu presses for them, and the Centcom chief has visited both Israel and Riyadh. A Houthi missile threat to Riyadh was met by the coalition; Saudi Arabia is bracing for a Yemen war into next year.
 
-Yemen. A Houthi missile at Riyadh was intercepted; the coalition says it hit sixty targets.
+Ukraine. Ukraine hit the Kerch bridge's rail section overnight, the third strike in a week. Reuters sources say drone raids have cut Russian refining by almost half since late October, which squeezes Moscow's fuel at home.
 
-Ukraine. Ukraine critically damaged the Kerch bridge to Crimea, a second night of strikes, using Neptune and Flamingo missiles; Moscow says it will be restored. Washington's Colby says deep strikes do not slow Russia's advance; Germany's Pistorius calls that quite a stupid thing.
-
-Israel. Parliament elected Eisenkot ally Matan Kahana speaker, sixty-six votes of one hundred twenty, a blow to caretaker prime minister Netanyahu.
+Gaza. Israel opened a new ground operation despite the ceasefire.
 
 International affairs.
 
-Xi and Putin met in Shenzhen on the eve of the first trilateral with Trump, who arrives tonight; they pledged a multipolar order. Rubio says Trump is serious about meeting Kim Jong Un; China has no information. China is building a nearly three-kilometre runway on Antelope Reef in the Paracels; ASEAN and China missed this year's South China Sea code deadline, about eighty percent agreed. Argentina's lower house debates a Falklands sovereignty bill today; Buenos Aires calls Princess Anne's visit a provocation. Mozambique's opposition leader Mondlane is charged with terrorism as his trial opens. Britain sanctioned eight Israeli firms over West Bank settlements, Australia seven settlers and groups; Israel vows retaliation. Disasters: cyclone Xavier, category five, threatens the Cook Islands; a New Zealand tsunami advisory; Fiji declared a drought disaster.
+Trump, Xi and Putin meet in Shenzhen today, the first three-way summit. Intelligence assessments say Putin will keep fighting regardless; the Guardian calls it good for Beijing and Moscow, bad for Washington's allies. The International Court of Justice rules today on genocide against Myanmar over the Rohingya; it has never before found a state responsible. Senegal's ruling party expelled its own president, Faye. Disasters: cyclone Xavier, now category four, in the Cook Islands; drought emergencies in Fiji and Tonga.
 
 Economy and markets.
 
-Chips. Nvidia reported revenue of one hundred fifteen point eight billion dollars and profit of sixty-five point three billion, both above expectations, and guided to about one hundred thirty billion next quarter. The board will not reinstate Huang. Bulls read demand intact; bears note the Financial Times says Wall Street expects global profit growth to halve next year, to sixteen percent from thirty-three and a half, as AI spending growth slows. Nvidia booked one hundred four billion dollars through its Singapore arm; Singapore is in the new remote-access licence rule, which Nvidia warns could expose customers to lawsuits. Your largest holding: earnings strong, policy risk open.
+Fed. Mechanism: Waller argues for a larger, fifty basis point December hike on top of a range already at three point seven five to four percent. Intended effect: re-anchor inflation expectations; a Taylor rule with inflation above target and real rates near zero says policy is still too loose. Risks: the supply-shock school says hiking into an energy shock cuts demand without lowering oil, while the Phillips-curve school fears expectations drifting if the Fed waits. Read-through: a bigger hike lifts the dollar, pressures long-duration tech and AI financing, and tightens leverage costs. Reports describe a December hike as close to locked in; size is the open question.
 
-Fed. Governor Cook will not attend the White House hearing on her removal without changes, her lawyers calling it a facade; independence is the risk premium.
+UK. Inflation at three point six percent is cost-push, not demand-pull. With unemployment steady at four point six percent, no slack is opening to absorb it, so the Phillips curve favours the Bank of England's hawks. For sterling, the relative pace of Bank and Fed hikes is the variable.
 
-UK. Unemployment unexpectedly eased to four point six percent. On the Phillips curve, a labour market not loosening keeps wage pressure, and Bank of England hawks, in play.
+Anthropic. Priced at eighty-three dollars, raising eighty-one point three billion dollars, the biggest IPO ever, trading on Nasdaq today. Absorbing that supply is itself a test of appetite for other AI names; that is my inference.
 
-Australia. Wages grew fastest since twenty twenty-three, but prices rose faster.
-
-Non-Western prints: Malaysia's third quarter grew five point five percent on tech; Kyrgyzstan ten point five percent over ten months. Canada and China agreed to ease tariffs.
+Elsewhere. Australia's unemployment jumped to four point nine percent, a five-year high, after yesterday's wage strength: a stagflation-lite mix. The US could hit its debt limit by February, says the Bipartisan Policy Center.
 
 Business and industry.
 
-Fragile systems, day six. The National Security Agency's classified network was down for hours, officially maintenance. Rubio says zero evidence links the outages and that rushing to secure systems may be causing failures. Waymo paused all US freeway rides after California banned its driverless cars from state highways. AI found a critical Java flaw. Nike will not return to growth for three more years.
+UK hospitality filings show the twenty twenty-five rises in minimum wage and payroll tax hit firms of every size, not only big employers, squeezing margins in the leveraged consumer sector.
 
 Mergers and acquisitions.
 
-Iceye bid two point oh five billion euros cash for Italy's Avio, Vega-C maker, to build an integrated European space and defence group. Accor will buy out Ennismore's minority partners for one point eight billion dollars, skipping an IPO; the valuation is more than double four years ago. The US Justice Department will review DoorDash's seventeen billion dollar Instacart deal. TPG nears taking Bill Holdings private.
+Yamaha will buy London's Disguise for two hundred fifteen million pounds from a Carlyle-led group, signed last week. Carlyle held it over five years; sales fell to sixty million pounds, so a trade sale at about three and a half times sales is a modest exit, not a trophy. Poundland's owner has set a deadline for final solvent bids, date not given. Asda, private-equity owned, is reportedly exploring deals as UK grocers brace for consolidation, headline only. Higher policy rates are the constraint: leverage costs more just as sponsors need exits.
 
 Science and technology.
 
-Voyager One has reached one light-day from Earth, nearly a decade ahead of Voyager Two despite launching second. Astronomers found rare black holes formed when stars failed to go supernova. Early data suggest ULA's Vulcan failure may not be the Blue Origin engines.
+ULA traced its Vulcan failure to inadequate fuel supply to the first-stage engines, which points away from the engines flagged yesterday. Astronomers watched a supergiant star absorb a smaller sun-like companion, a first.
 
 Gadgets and consumer tech.
 
-Xiaomi took its eighteen Pro and Pro Max outside China for the first time, at a Paris launch: two two-hundred-megapixel Leica cameras and a second screen on the back. A follow-on to September; the official global price was not in coverage. Camp Snap's C-S-eight Micro is a forty dollar keychain camcorder sold in blind boxes; no date given.
+Consumer flash memory spot prices fell twenty percent, so SSDs, laptops and phones may get cheaper; spot is not contract pricing.
 
 Energy and environment.
 
-COP thirty-one: a draft proposes one hundred twenty billion dollars of adaptation finance for Africa, with tensions over the deal; a push for electrification, modelled on China's grid. A judge found Trump's Samoa seabed mining auction, due Thursday, violated law. Iraq resumed Kirkuk to Ceyhan exports, up to half a million barrels a day after repairs.
+COP thirty-one talks are struggling. Nepal needs five billion dollars after its glacier collapse and few donors have stepped up, the adaptation-finance gap in one case.
 
 Health and medicine.
 
-The White House withdrew Heidi Overton's FDA nomination before the committee vote. Mexico and Bolivia also lost measles elimination status with the US. John Powers leads the infectious disease institute.
-
-Built environment.
-
-Ontario's Darlington small reactor, North America's first commercial one, is over budget and behind schedule; the US Tennessee Valley Authority is weighing the lessons for its own.
-
-Law and justice.
-
-A judge ruled Bill Essayli acted unlawfully as US attorney in Los Angeles; the administration presses on. A Pakistani man got over twenty-seven years for an Iran-directed plot to kill Trump.
+Senator Cassidy rejected Trump's pick to run the National Science Foundation, days after the FDA nominee was withdrawn.
 
 Society.
 
-Reuters counts over eight thousand hoax bomb threats across Europe in a month.
+Pew projects Islam overtakes Christianity as the largest religion by twenty thirty-five, because it is growing faster.
 
 Culture and sport.
 
-Grand Theft Auto six is out tonight at midnight and leads the Game Awards with eight nominations. Japan's Tashima submitted a FIFA presidency bid, joining Diallo against Infantino's fourth term.
+Grand Theft Auto six is out at midnight: glowing reviews, record streams, and no high-frame-rate mode even on the PlayStation five Pro. Germany's football federation backs Diallo against Infantino for FIFA.
 
 Special interests and watchlist.
 
-Cameras: Panasonic's launch was the Lumix S-H-X-one, a box-style L-mount cinema camera, six-K open gate, unlimited four-K at one hundred twenty frames; not Micro Four Thirds; price not in digest. Cars: Geely's Monjaro, a seven-seat plug-in hybrid for the UK, a Kodiaq rival, forty-kilowatt-hour battery, one hundred five miles electric, up to three hundred twenty horsepower; price and date not given. BYD's Yangwang Altior, three hundred twelve thousand dollars, debuts in Guangzhou on November twenty-seventh. Aviation: Parata Air starts daily Seoul to Los Angeles on May first. A British Airways jet veered off a Heathrow runway before take-off. Arsenal: Rice signed to twenty thirty-one at about three hundred thousand pounds a week, Timber extending; Newcastle away Saturday; Peter Storey, of the nineteen seventy-one Double, died at eighty-one. Chainlink: no official post; Polymarket moved hourly and daily crypto markets to Chainlink prices; LINK near nine dollars. OriginTrail: nothing. Agronomics: nothing from the company; holding All G self-affirmed US approval to sell its precision-fermented human lactoferrin; Upside Foods won a second US clearance for cultivated chicken. Longevity: beer and spirits raise kidney injury risk, wine did not. Projectors, BMW: nothing.
+Cameras: Panasonic says of Micro Four Thirds, look forward to it; no product named. Aviation: LATAM's A-three-twenty-one XLR gets twelve business suites with doors in March, South America's first on a narrow-body. Arsenal: a third new contract in three days, reportedly goalkeeper David Raya; Newcastle away Saturday. Chainlink: no official post; Ondo launches a token tracking Anthropic shares from day one. OriginTrail: nothing. Agronomics: nothing from the company; sector peer Twenty-First Bio filed for EU approval of precision-fermented whey protein. Projectors, BMW, cars: nothing.
 
 Editorial picks.
 
-New Lines: collective punishment around Hebron after a checkpoint shooting, and fears of Gaza-style tactics in the West Bank; and Sri Lanka's Muslims balancing Israeli surfers in Arugam Bay. The Intelligence: what if Britain really cut migration to zero, and Pattinson's place in Bond history. Longreads: the Britons paying to be frozen after death.
+The Intelligence: scientists take a closer look at the causes of a complicated disease of the uterine lining. Longreads: the submerged prehistory under our oceans.
 
-Not returning today: Google News OriginTrail, covering OriginTrail.
+Not returning today: CSM Culture, covering society and culture; Google News OriginTrail, covering OriginTrail.
