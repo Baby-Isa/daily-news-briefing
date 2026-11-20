@@ -594,6 +594,8 @@ to attach a repository to the Routine itself.
 
 ## 8f. HANDOVER OF 27 OCTOBER 2026 - read this first in a new session
 
+**Update, 20 November 2026:** `FABLE-BRIEF.md` has the latest context: four weeks of running, the 19 November one-off episode, the 0.9x voice, the already-published guard on the daily task, and the plan to share the brief with a private-equity contact. Read it alongside this section.
+
 **What is live.** Two Routines, both self-bound to
 `session_014xb3kPhnNdAY7g7h54eHm1` (moved there on 27 October 2026, late
 evening; the old ones, `trig_01HhCAjvDB7a7rz5SQUH9Keg` and
