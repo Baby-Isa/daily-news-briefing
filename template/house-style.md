@@ -24,8 +24,8 @@ copy of a copy drifts.
 
 ## 2. Reading the digest
 
-- `digest.txt` is your source. It was fetched this morning from a machine
-  with clean network access. Do not re-fetch its sources.
+- `digest.txt` is your source. It was fetched shortly before you started,
+  from a machine with clean network access. Do not re-fetch its sources.
 - Check the build date in its header first. If it is not today, say so in
   the first line of your report and do not present old news as new.
 - Read it in chunks until the line beginning "End of full digest." It is
@@ -87,9 +87,14 @@ Fewer items, each complete, beats more items each half-said.
   sentence each: the mechanism (which lever moved, how, by whom); the
   intended effect; the risks and second-order effects; the read-through for
   rates, currency and growth.
-- Include one sentence on what markets are pricing.
-- Never report an index level or a daily percentage move as news. Report
-  the driver and what it implies.
+- On a day with no central-bank or budget news, give the day's biggest
+  economic story the same depth: the driver, the competing readings, the
+  read-through. Do not invent a policy story to fit the four parts.
+- When rates, currencies or a market move are in the news, include one
+  sentence on what markets are pricing.
+- Never report an index level or a routine daily move as news in itself.
+  A move that IS the story (a sell-off, a debut, a currency break) is
+  reported with its cause and what it implies.
 - Each item answers "so what?" in its last clause. Label your own
   inference as inference ("my reading", "speculation").
 - On contested stories give both framings and strip the editorialising.
@@ -102,8 +107,8 @@ Fewer items, each complete, beats more items each half-said.
 Sections run in the order listed in `config.json`, each opened by its name
 alone on a line, then a full stop: "Politics." Then straight into content.
 
-1. **Weather** (when switched on). Two sentences: the next three days in
-   one, then ONE joke at the listener's expense, dry and practical. No
+1. **Weather** (when switched on). Two sentences: today and the two days
+   after it in one, then ONE joke at the listener's expense, dry and practical. No
    running theme, no extended metaphor, no day-by-day list.
 2. **The big picture.** No header line. It opens with the exact words
    "Here are the biggest news stories and how they connect." and then
@@ -134,11 +139,13 @@ if you are running long, compress the middle.
   no headings beyond the plain section names.
 - Enumerate aloud inside a section where it helps: a place or topic name,
   a full stop, then the news ("UK. ...", "Fed. ...").
-- Spell out and explain an acronym on first use.
+- Spell out and explain an acronym on first use, except the ones everyone
+  knows (US, UK, EU, UN, NATO, AI, GDP, CEO).
 - Do not name sources as a habit. Name one only when the claim is that
   outlet's own and you could not confirm it.
 - Disasters and casualties: one roll-up line (event, place, scale), unless
-  the disaster has real second-order consequences.
+  the disaster has real second-order consequences. The roll-up does not
+  count towards any "stories from the rest of the world" a section asks for.
 - Political churn (who said what about whom): one flat sentence each, or
   nothing.
 - Nothing asserted that has not happened yet: a decision due this

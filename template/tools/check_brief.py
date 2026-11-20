@@ -26,7 +26,7 @@ BANNED = [
     "it's worth noting", "it is worth noting", "in a development that",
 ]
 CAVEATS = ["headline only", "per a headline", "not in the digest",
-           "could not check", "could not verify", "unverified"]
+           "could not check", "could not verify"]
 DAYS = "monday|tuesday|wednesday|thursday|friday|saturday|sunday|yesterday"
 OPENER = "here are the biggest news stories and how they connect"
 

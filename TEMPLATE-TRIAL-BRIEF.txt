@@ -1,0 +1,65 @@
+Weather.
+
+The next three days are dry and cold, two to eight degrees, with fair skies on Saturday and cloud on Sunday and Monday. The rain holds off until Wednesday, so the washing has no excuse and neither do you.
+
+Here are the biggest news stories and how they connect. The AI boom is running into limits on three sides at once. Capital: Anthropic's share sale, about eighty-one billion dollars, priced above its range and rose seventeen percent on debut, then fell about nine percent early on day two as US tech slid into a bear market, its worst week since the Covid crisis. Governance: Nvidia lost its chief executive this month and now faces an accounting investigation. Geography: Trump threatens tremendous penalties on American firms that build data centres abroad, with no detail. My reading: markets are repricing the cost and risk of financing AI, not demand for it. The detail of that threat decides which way it breaks.
+
+Politics.
+
+UK. Burnham signed three deals in Brussels, the biggest package since Brexit: fewer checks on food and drink in return for following EU rules, a link between carbon markets that removes border carbon charges, and a youth mobility scheme. University tuition fees remain unresolved. Analysts expect cheaper trade, not cheaper food.
+
+United States. Trump replaced his cyber director with the Pentagon's chief information officer after outages hit flights, banks and the National Security Agency. Congress must pass funding next month to avoid a shutdown. Democrats want to block money for the Iran war, and Republican senator Ron Johnson refuses to tie the two.
+
+Europe. France and Germany completed a deal on European Central Bank leadership. Paris gains the market-operations portfolio, which could prove pivotal if France faces a debt crisis. Denmark expelled Russia's military attache over an alleged plot to kill a Ukrainian rapper.
+
+Conflict and world affairs.
+
+Iran. After a two-month lull, Iran and the US are trading strikes again: Iranian drones at radar sites in Bahrain and an air base in Kuwait, a US strike on a missile site on Qeshm Island. Trump is weighing bigger strikes. Iran's foreign minister says messages still pass through mediators and wants Trump to say plainly he wants a deal. Saudi-led forces hit Yemen's port of Hodeida, and the Houthis hit back at a Saudi power station.
+
+Ukraine. The Shenzhen summit of Trump, Xi and Putin produced a vague declaration, and Finland's president says the Ukraine clause was dropped at American request. The Financial Times reports Washington wants a peace deal by early January, before Democrats take Congress, and a European official fears Kyiv will pay for it. Two Russian cruise missiles and a drone crashed in Poland; Warsaw calls it intentional.
+
+Myanmar. The International Court of Justice found it committed genocide against the Rohingya, the first time the court has held a state directly responsible. Myanmar calls it unfair.
+
+Iraq. The prime minister moved police into Jurf al-Sakhar, a Kataeb Hezbollah militia stronghold, by compromise, calling it the start of a drive for state control.
+
+Disasters. Cyclone Xavier threatens the Cook Islands, where Nassau is under emergency.
+
+Economy and markets.
+
+AI shares. The driver is the financing of the buildout. Nvidia's chief resigned, the Financial Times reports a regulator is examining its accounting, and lawmakers say the Commerce Department approved sales of more than eight hundred thousand AI chips to Chinese firms, some with military ties. Equities are claims on profits a decade out, so a higher risk premium hits them hardest. Two readings. Healthy repricing after a year of concentrated gains. Or the first sign that capital spending has outrun revenue, which would cut investment itself and become a growth story, not only a market one. Anthropic is the test: supply of AI paper is rising, with Cognition reportedly seeking funding at seventy-five billion dollars, while appetite thins.
+
+Brazil. The central bank sold one billion dollars of reserves to slow the real near five point nine three per dollar. Relief was brief because investors distrust the fiscal adjustment, a fiscal-dominance worry: intervention treats the symptom, not the budget.
+
+UK. Retail sales jumped as households stockpiled emergency food after the government's Be Ready campaign. Expect payback. Jamie Dimon says he will claw back the higher UK bank tax.
+
+Japan. Consumer prices picked up, keeping the Bank of Japan on course to raise rates.
+
+Oil. Heading for a third weekly loss despite the Gulf fighting, as Iran tests the US blockade with a crude transfer.
+
+Business.
+
+Poundland is days from administration, with a Gulf wholesaler making a late bid. Centrica is cutting hundreds of jobs in its business unit. YouTube is reportedly agreeing in principle to pay three billion dollars to school districts over addictive design.
+
+Deals and private equity.
+
+TPG and Corpay will take BILL private in a six billion dollar deal, with Corpay investing one point one billion. Advent and a FedEx consortium completed the take-private of Poland's InPost. KKR is in talks to buy data-centre developer EdgeCore at no less than eight billion dollars, buying the AI buildout while public markets doubt it. Onex raised one point eight billion dollars for mid-market buyouts. My reading: sponsors can still raise money and buy.
+
+Science and technology.
+
+An Anthropic mathematician, Levent Alpoge, says he proved the Riemann Hypothesis with Claude in a four-page note. Mathematicians have not yet checked it. The nonprofit METR finds AI capabilities still improving exponentially, but weaker on tasks needing judgment than on coding.
+
+Energy, climate and infrastructure.
+
+COP thirty-one in Turkey ran into overtime, with a draft that drops a call to quit fossil fuels. The US Senate passed a permitting bill with a one hundred fifty day limit on lawsuits, to speed data centres, power plants and transmission. Meta is re-evaluating its twenty thirty net-zero goal because of data-centre emissions.
+
+Health, law and society.
+
+The US, Mexico and Bolivia lost measles-elimination status. A pill for pancreatic cancer is hailed as the biggest breakthrough in decades after an early trial in which tumours vanished.
+
+Culture and sport.
+
+Grand Theft Auto six took three point seven nine billion dollars in its first day, Rockstar says, a record for entertainment. The World Chess Championship opens in Geneva, with Gukesh defending against Sindarov.
+
+Long reads.
+
+Rest of World: AI is turning professional work into gig work, with doctors paid up to one hundred eighty dollars an hour in America and under thirteen in Tanzania. New Lines: Serbia's students won their election and then cleaned the streets.
