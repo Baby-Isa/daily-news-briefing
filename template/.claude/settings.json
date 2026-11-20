@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git *)",
+      "Bash(python3 build_digest.py*)",
+      "Bash(python3 tools/*)",
+      "Bash(curl -fsS *)",
+      "Bash(date *)",
+      "Bash(TZ=* date *)",
+      "Bash(wc *)",
+      "Bash(grep *)",
+      "Bash(head *)",
+      "Bash(tail *)",
+      "Bash(sed -n *)",
+      "Bash(ls *)",
+      "Bash(cp archive/* examples/*)",
+      "Bash(python3 -m pip install *)",
+      "Read",
+      "Edit",
+      "Write",
+      "Glob",
+      "Grep",
+      "Agent",
+      "WebSearch",
+      "WebFetch",
+      "mcp__github__actions_run_trigger",
+      "mcp__github__actions_list",
+      "mcp__github__actions_get",
+      "mcp__claude-code-remote__send_later",
+      "mcp__Claude_Code_Remote__send_later"
+    ]
+  }
+}

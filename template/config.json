@@ -1,0 +1,41 @@
+{
+  "show_title": "Morning Briefing",
+  "show_description": "A personal daily news briefing, read aloud.",
+  "timezone": "Europe/London",
+  "ready_by": "06:45",
+  "days": "daily",
+
+  "voice": "bf_isabella",
+  "language": "en-gb",
+  "speed": 0.9,
+  "pronunciations": {},
+
+  "weather": {
+    "enabled": true,
+    "place": "London",
+    "lat": 51.5074,
+    "lon": -0.1278
+  },
+
+  "words": { "target": 1150, "min": 1000, "max": 1250 },
+
+  "sections": [
+    { "name": "Weather", "budget": 45, "tier": "guaranteed" },
+    { "name": "Big picture", "budget": 110, "tier": "when the stories connect" },
+    { "name": "Politics", "budget": 150, "tier": "guaranteed" },
+    { "name": "Conflict and world affairs", "budget": 160, "tier": "guaranteed" },
+    { "name": "Economy and markets", "budget": 250, "tier": "guaranteed" },
+    { "name": "Business", "budget": 70, "tier": "threshold" },
+    { "name": "Deals and private equity", "budget": 100, "tier": "threshold" },
+    { "name": "Science and technology", "budget": 60, "tier": "guaranteed" },
+    { "name": "Consumer tech", "budget": 40, "tier": "threshold" },
+    { "name": "Energy, climate and infrastructure", "budget": 50, "tier": "threshold" },
+    { "name": "Health, law and society", "budget": 40, "tier": "threshold" },
+    { "name": "Culture and sport", "budget": 40, "tier": "threshold" },
+    { "name": "Watchlist", "budget": 50, "tier": "guaranteed when the watchlist is not empty" },
+    { "name": "Long reads", "budget": 40, "tier": "guaranteed" }
+  ],
+
+  "memory": { "archive_days": 7, "max_threads": 12, "max_callbacks": 2 },
+  "episodes_kept": 14
+}

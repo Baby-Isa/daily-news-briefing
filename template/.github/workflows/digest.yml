@@ -1,0 +1,53 @@
+name: Build digest
+
+# Fetches every source in feeds.txt and commits digest.txt, the single
+# input the morning briefing is written from.
+#
+# There is deliberately NO `schedule:` trigger here. GitHub delivers
+# scheduled runs on a best-effort basis: measured on the repository this
+# template came from, runs set for 04:37-06:11 UTC arrived between 11:40
+# and 15:55 UTC every day for ten days running. So the daily Claude run
+# starts this build itself, a few minutes before it writes (daily-run.md,
+# step 2), and it can also be started by hand from the Actions tab.
+on:
+  workflow_dispatch:
+
+# Needed so the job can commit the digest back into the repository.
+permissions:
+  contents: write
+
+# Never let two builds race to push to main.
+concurrency:
+  group: build-digest
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Get the code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install the libraries the script needs
+        run: pip install -r requirements.txt
+
+      - name: Build the digest
+        run: python build_digest.py
+
+      - name: Save the digest back to the repository
+        run: |
+          set -euo pipefail
+          git config user.name "digest-bot"
+          git config user.email "digest-bot@users.noreply.github.com"
+          git add digest.txt
+          git commit --allow-empty -m "Digest $(date -u +%Y-%m-%d)"
+          # Someone may have pushed to main while the feeds were being
+          # fetched, which would otherwise reject this push.
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push

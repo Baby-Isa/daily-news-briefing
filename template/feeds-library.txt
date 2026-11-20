@@ -1,0 +1,76 @@
+# Optional sources, by topic. NOT read by the daily build.
+#
+# During onboarding, and whenever the listener asks for a new interest,
+# copy the matching lines from here into feeds.txt (test each first with
+# tools/test_feed.py). Lines here use the same format as feeds.txt.
+
+
+## Aviation
+Aviation | Simple Flying | https://simpleflying.com/feed/ |
+Aviation | One Mile at a Time | https://onemileatatime.com/feed/ |
+Aviation | AeroTime | https://www.aerotime.aero/feed |
+
+## Cars
+Cars | CarNewsChina | https://www.carnewschina.com/feed/ |
+Cars | Autocar | https://www.autocar.co.uk/rss |
+
+## Cameras
+Cameras | 43Rumors | https://www.43rumors.com/feed/ |
+Cameras | PetaPixel | https://petapixel.com/feed/ |
+Cameras | Digital Camera World | https://www.digitalcameraworld.com/feeds/all |
+
+## Urbanism
+Urbanism | Dezeen | https://www.dezeen.com/feed/ |
+Urbanism | ArchDaily | https://www.archdaily.com/rss/ |
+
+## Games
+Games | Rock Paper Shotgun | https://www.rockpapershotgun.com/feed |
+Games | PCGamesN | https://www.pcgamesn.com/feed |
+Games | Eurogamer | https://www.eurogamer.net/feed |
+
+## Longevity
+Longevity | Lifespan.io | https://www.lifespan.io/feed/ |
+Longevity | Fight Aging | https://www.fightaging.org/feed/ |
+Longevity | Nature Aging | https://www.nature.com/nataging.rss |
+Longevity | Peter Attia | https://peterattiamd.com/feed/ |
+
+## E-commerce
+E-commerce | Modern Retail | https://www.modernretail.co/feed/ |
+E-commerce | Marketplace Pulse | https://www.marketplacepulse.com/articles/recent.atom | QUIET
+E-commerce | Retail Dive | https://www.retaildive.com/feeds/news/ |
+
+## Trends
+Trends | Skift | https://skift.com/feed/ |
+Trends | Google News travel trends | https://news.google.com/rss/search?q=travel+tourism+trends&hl=en-GB&gl=GB&ceid=GB:en |
+Trends | Skift Meetings | https://meetings.skift.com/feed/ |
+
+## Crypto
+Crypto | Decrypt | https://decrypt.co/feed |
+Crypto | The Block | https://www.theblock.co/rss.xml |
+Crypto | CoinDesk | https://www.coindesk.com/arc/outboundfeeds/rss/ |
+
+## Private credit (mixed quality when tested: real news plus law-firm and
+## asset-manager marketing - add only if asked for, and use EXCLUDE)
+Deals | GN private credit | https://news.google.com/rss/search?q=%22private+credit%22+OR+%22leveraged+loan%22+OR+%22direct+lending%22+when%3A7d&hl=en-GB&gl=GB&ceid=GB:en |
+
+## Regional extras
+Africa | GN East Africa | https://news.google.com/rss/search?q=Kenya%20OR%20Tanzania%20politics%20OR%20economy%20OR%20election&hl=en-GB&gl=GB&ceid=GB:en |
+Deals | GN China deals | https://news.google.com/rss/search?q=%28intitle%3AChina+OR+intitle%3AChinese%29+%28acquisition+OR+acquires+OR+acquire+OR+takeover+OR+merger+OR+buyout%29+when%3A14d&hl=en-GB&gl=GB&ceid=GB%3Aen |
+
+## PATTERNS for things with no feed of their own
+#
+# A named company, fund, person or product (put in the lane "Watchlist";
+# RARE stops a quiet name being reported as a broken source):
+#   Watchlist | GN <Name> | https://news.google.com/rss/search?q=%22<Exact+Name>%22+when%3A14d&hl=en-GB&gl=GB&ceid=GB:en | RARE
+#
+# A football club (the Guardian has a feed per club):
+#   Sport | Guardian <Club> | https://www.theguardian.com/football/<club-slug>/rss |
+#
+# One publication with no working feed of its own:
+#   <Lane> | GN <Site> | https://news.google.com/rss/search?q=site%3A<domain>&hl=en-GB&gl=GB&ceid=GB:en |
+#
+# Search-based feeds drift: Google quietly ignores words and serves old
+# results. Put the key term in intitle: and add when:7d or when:14d, then
+# judge the result by how many of the first fifteen items are under two
+# days old - not by how many items come back.
+

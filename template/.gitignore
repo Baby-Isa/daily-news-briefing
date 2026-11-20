@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+_site/
+_tts_work/
+models/

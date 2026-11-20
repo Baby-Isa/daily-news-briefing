@@ -1,0 +1,122 @@
+name: Publish podcast episode
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "briefing.txt"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Only one publish should run at a time, and a queued run should just
+# pick up whatever briefing.txt looks like when it starts rather than
+# both racing to force-push gh-pages.
+concurrency:
+  group: publish-podcast
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Kokoro (local, offline TTS - no account or key needed)
+        run: pip install kokoro-onnx soundfile pillow
+
+      # DO NOT USE apt FOR THIS. On 19 August the episode failed to publish
+      # twice over. First `apt-get update` hung for 26 minutes on a stalled
+      # mirror, leaving the job in_progress with every other step already
+      # finished in 26 seconds. The retry then timed out after 5 minutes at
+      # the same place: the Azure mirror returned Ign for every index and
+      # the archive.ubuntu.com fallback stalled fetching noble-security
+      # InRelease. ffmpeg is NOT preinstalled on this image, so apt made the
+      # whole pipeline depend on a package mirror we do not control and
+      # cannot retry around.
+      #
+      # A static build published as a GitHub release asset comes off the
+      # same infrastructure the runner already uses to check out this repo,
+      # so it cannot fail independently of the job itself. It also pins one
+      # download instead of resolving a dependency tree.
+      - name: Install ffmpeg (static build, no apt)
+        timeout-minutes: 5
+        run: |
+          set -euo pipefail
+          if command -v ffmpeg >/dev/null && command -v ffprobe >/dev/null; then
+            echo "ffmpeg and ffprobe already present - nothing to do."
+            exit 0
+          fi
+          url=https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-linux64-gpl.tar.xz
+          curl -fsSL --retry 3 --retry-delay 2 -o /tmp/ffmpeg.tar.xz "$url"
+          mkdir -p /tmp/ffmpeg
+          tar -xJf /tmp/ffmpeg.tar.xz -C /tmp/ffmpeg --strip-components=1
+          sudo install -m 755 /tmp/ffmpeg/bin/ffmpeg /tmp/ffmpeg/bin/ffprobe /usr/local/bin/
+
+      - name: Confirm ffmpeg is available
+        run: ffmpeg -version && ffprobe -version
+
+      # Model + voice bank are ~350MB combined; cached so most runs don't
+      # re-download them.
+      - name: Cache the Kokoro model
+        id: model-cache
+        uses: actions/cache@v4
+        with:
+          path: models
+          key: kokoro-model-v1.0
+
+      - name: Download the Kokoro model if not cached
+        if: steps.model-cache.outputs.cache-hit != 'true'
+        run: |
+          set -euo pipefail
+          mkdir -p models
+          base="https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0"
+          curl -sSL -o models/kokoro-v1.0.onnx "$base/kokoro-v1.0.onnx"
+          curl -sSL -o models/voices-v1.0.bin "$base/voices-v1.0.bin"
+
+      - name: Pull in the existing published episodes, if any
+        run: |
+          set -euo pipefail
+          mkdir -p _site
+          if git ls-remote --exit-code --heads origin gh-pages > /dev/null 2>&1; then
+            git fetch origin gh-pages:refs/remotes/origin/gh-pages
+            git archive origin/gh-pages | tar -x -C _site
+          fi
+
+      - name: Render today's episode and update the feed
+        env:
+          # Voice, speed, title and time zone are read from config.json.
+          KOKORO_MODEL_PATH: models/kokoro-v1.0.onnx
+          KOKORO_VOICES_PATH: models/voices-v1.0.bin
+          PAGES_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+        run: python build_podcast_episode.py briefing.txt _site
+
+      - name: Publish gh-pages as a fresh orphan commit
+        run: |
+          set -euo pipefail
+          git config user.name "podcast-bot"
+          git config user.email "podcast-bot@users.noreply.github.com"
+          # Orphan branch, then clear every file main had tracked. _site/
+          # is untracked so git rm never touches it - only main's source
+          # files (workflow, scripts, digest.txt, ...) get cleared, which
+          # is what we want: gh-pages should hold only the published site.
+          git checkout --orphan gh-pages-new
+          git rm -rf . > /dev/null
+          cp -r _site/. .
+          # Everything that isn't the published site itself: the Kokoro
+          # model download, TTS scratch files, and whatever main's own
+          # tracked files left behind. (A version of this exact leak - the
+          # model directory ending up published to gh-pages - happened once
+          # already with Piper; don't repeat it.)
+          rm -rf _site _tts_work models
+          git add -A
+          git commit -m "Podcast update $(date -u +%Y-%m-%d)"
+          git branch -M gh-pages-new gh-pages
+          git push --force origin gh-pages
