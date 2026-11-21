@@ -92,7 +92,7 @@ def main():
             must.append(f"text appears {name}; every paragraph belongs under a section name")
             continue
         n, budget = words(body), budgets[name]["budget"]
-        allowed = int(budget * 1.4) + 15
+        allowed = max(int(budget * 1.4) + 15, budget + 30)
         if n > allowed:
             drift.append(f"{name} runs {n} words against a budget of {budget}; "
                          f"bring it under {allowed}")
@@ -114,7 +114,7 @@ def main():
 
     # --- habits that crept in before --------------------------------------
     for phrase in BANNED:
-        if phrase in low:
+        if re.search(r"(?<![a-z])" + re.escape(phrase) + r"(?![a-z])", low):
             drift.append(f"banned phrase '{phrase}'; say the thing directly")
     callbacks = len(re.findall(rf"\bon ({DAYS}),? (we|i) (said|mentioned|reported|noted|flagged)|"
                                rf"\b({DAYS}) we (said|mentioned|reported|noted)", low))

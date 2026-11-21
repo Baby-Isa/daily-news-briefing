@@ -249,6 +249,9 @@ FIRST: run `date -u` and state the real time. On 24 August a session woke 8.5 ho
 
 ## 8a. What the 8-21 September fortnight taught
 
+(The word counts and budgets quoted in this section are the September
+ones. The current numbers are in section 8g and `brief-config.json`.)
+
 Fourteen consecutive episodes, none missed, all inside ten minutes, all
 rendered first attempt. What changed and why, so none of it is relearned:
 

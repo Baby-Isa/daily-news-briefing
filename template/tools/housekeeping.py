@@ -60,10 +60,10 @@ def main():
     for line in open("threads.md", encoding="utf-8").read().splitlines():
         m = ENTRY.match(line)
         if not m:
-            if not entries and not line.startswith("- "):
-                head.append(line)        # the explanatory header
-            elif line.startswith("- "):
+            if line.startswith("- ["):
                 dropped += 1             # an entry with no valid expiry date
+            elif not entries:
+                head.append(line)        # the explanatory header
             continue
         if datetime.date.fromisoformat(m.group(1)) < today:
             dropped += 1

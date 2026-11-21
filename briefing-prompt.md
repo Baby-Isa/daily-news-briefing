@@ -374,14 +374,8 @@ carry what the thing is, what changed from the last one, the price if
 there is one, and when it is actually available. "Apple announced new
 AirPods" is not an item. Two or three items done properly beats six
 skimmed - and on a day when nothing genuinely shipped, one sentence
-saying so, or nothing at all, is the right answer. The budget was 40
-words for one day and that was wrong: it cannot carry two items with
-a name, a delta, a price and a date, which is what this section is
-for. It went to 70, and 70 was still short: measured across the first
-nine days the section ran 81, 76, 88, 82, 73, 61, 21 and 90, and the
-only days it came in under 70 were the days almost nothing shipped.
-It was 85 until 21 November 2026. Under the shorter format IT IS 40
-NOW: one item done properly, or two when both are complete.
+saying so, or nothing at all, is the right answer. THE BUDGET IS 40
+WORDS: one item done properly, or two when both are complete.
 
 LANDMARK LAUNCHES GET MORE, UP TO ABOUT 90 WORDS. A first-of-its-kind
 product from a major maker - a company's first foldable, its first
@@ -420,7 +414,7 @@ happened. Cannot be starved by a busy news cycle.
   - Gadgets and consumer tech is NOT guaranteed. It is threshold: it
     runs when something actually shipped, changed price, or died, and
     is silently absent on the days nothing did. Never invent a slow
-    news day into seventy words. Absent is a valid outcome; padded is
+    news day into forty words. Absent is a valid outcome; padded is
     not.
   - At least three significant stories from outside the US, UK and Middle
     East, chosen for structural importance. If a region is genuinely quiet,
