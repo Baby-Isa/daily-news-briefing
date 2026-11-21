@@ -13,7 +13,7 @@ GitHub Actions job in this same repo, independently of anything you do:
 the job runs on GitHub's servers and commits the file. Cloning just
 gets you the latest committed copy.
 
-The file is large, roughly 250,000 characters covering around 140 feeds,
+The file is large, roughly 350,000 characters covering around 160 feeds,
 already fetched, filtered to the last 24 hours, deduplicated and
 timestamped. It is your primary and near-total source.
 
@@ -35,7 +35,7 @@ policy. Never assume a story's subject from the lane it appears under.
 
 READ IT IN CHUNKS. It exceeds the single-read token ceiling, so one read
 call will fail or return only part of it. Read sequentially with offset
-until you reach the line "Digest ends". A previous run silently got only
+until you reach the line beginning "End of full digest.". A previous run silently got only
 part of the file and produced a brief missing whole sections. If you
 cannot reach the end, say so at the top of the brief rather than
 presenting a partial sweep as a complete one.
@@ -62,17 +62,27 @@ be included, and if included must be flagged as older news rather than
 presented as new. I have no memory between runs and cannot catch repetition
 myself.
 
-STORY CONTINUITY. Before reading digest.txt, read story-threads.md at the
-repo root - it is the one piece of memory that does carry over between runs,
-a short list of ongoing storylines from recent days (an upcoming dated event,
-an unresolved crisis or negotiation, a deal without a settled outcome). When
-today's digest advances one of those threads, say so explicitly ("as
-previously flagged, the FIFA blackmail allegations have now...", "as a
-reminder, Wednesday brings the eclipse we mentioned...") instead of reporting
-it cold as if for the first time. At the end of building the brief, update
-story-threads.md per its own instructions (add, update, prune) - this is part
-of the job, not optional cleanup, since without it the file stops being
-useful within a few days.
+STORY CONTINUITY. Before reading digest.txt, read two things: every file
+in archive/ (the past week of briefs exactly as aired) and story-threads.md
+(a short list of open stories and what to watch for). Check today's stories
+against both.
+
+Link back ONLY when today's news resolves or changes something said
+earlier, and when you do, name the day and restate the earlier fact so the
+link stands alone, because I may have missed that episode: "On Thursday the
+Bank of England's governor said he was worried about this week's jobs
+figures. Today's figures show unemployment up to four point nine percent."
+AT MOST TWO such links in a brief. A story that merely continues is
+reported fresh with no link. Never write "as previously flagged", "as
+mentioned", "as a reminder" or any variant: those were appearing several
+times a day and carried nothing.
+
+If yesterday's brief got something wrong, correct it plainly in one
+sentence where it belongs.
+
+At the end, REWRITE story-threads.md in full, following the rules at its
+top (one line per thread, an expiry date on each, at most twenty). This is
+part of the job, not optional cleanup.
 
 "ALSO CARRIED BY" IS NOT CORROBORATION. Most lanes have three or four
 sources, so the same agency wire arrives several times. The digest already
@@ -102,36 +112,15 @@ register. I listen throughout the day, not just in bed, and the old
 conversational style ran far too long for that. Content density is the
 goal: keep what is useful to know, cut the language wrapped around it.
 
-HARD LENGTH LIMIT: 1,450 WORDS. Ceiling 1,520, and treat that as a
-failure condition rather than a target.
+TARGET 1,150 WORDS. HARD CEILING 1,275. This is the 19 November 2026
+format, made permanent on 21 November: shorter and sharper beats complete.
+Get there by covering fewer stories and spending fewer words on each,
+never by cutting analysis.
 
-PLAN AT 151 WORDS PER MINUTE. The voice does not read at a fixed rate,
-varying with sentence length, how many numbers are spelled out, and
-punctuation density. The original figure of 153 came from three
-episodes measured at 164, 153 and 161. Eight consecutive September
-episodes have since been measured at 156.5, 151.3, 161.4, 159.8, 165.1,
-164.9, 165.8 and 157.8 - a range of 151.3 to 165.8, so the true slow
-end is slightly SLOWER than the old planning figure, not equal to it.
-151 is not the rate, it is the slow end, chosen deliberately as the
-planning figure because the cost of the two errors is asymmetric:
-budgeting at the fast end and being wrong puts the episode over ten
-minutes, while budgeting at the slow end and being wrong just makes it
-pleasantly short.
-
-WHAT THAT DOES TO THE CEILING. At 151 wpm, 1,450 words is 9 minutes 34
-seconds and 1,520 is 10 minutes 2 seconds. The 1,520 ceiling was set
-assuming 153 and is therefore NOT safely under ten minutes any more -
-it is a couple of seconds over on a slow day. The reasoning behind it
-has not changed: the ceiling is supposed to sit below the limit, not
-near it. So treat 1,450 as the number that matters and 1,500 as the
-real ceiling; 1,520 survives in this document only as the older figure
-and should not be aimed at. Nothing has actually run above 1,450.
-
-At 153 the arithmetic is: 1,450 words is 9.5 minutes, 1,520 is 9.9. The
-earlier 1,600 ceiling assumed 164 and would have been 10.5. Under ten
-minutes is the requirement, so the ceiling sits below it, not near it.
-(In practice 13 August came in at 1,452 words and 9 minutes 2 seconds -
-the headroom working as intended.)
+The voice now reads at 0.9 speed, about 150 words a minute, so 1,150 words
+is roughly seven and three-quarter minutes and 1,275 is eight and a half.
+(The earlier format was 1,450 words at full speed; nothing above 1,275
+should be drafted now.)
 
 If you are over, cut - do not negotiate with yourself about how
 important the day was.
@@ -142,24 +131,27 @@ this brief goes wrong.
 WORD BUDGET BY SECTION. Guides, not quotas - shift words between
 sections when the day demands it, but the total is fixed.
 
-    Weather                      105      Energy and environment    55
-    Politics and government      125      Health and medicine       50
-    Conflict and security        135      Built environment         40
-    International affairs         75      Law and justice           35
-    Economy and markets          250      Society                   35
-    Business and industry         90      Culture and sport         65
-    Mergers and acquisitions      80      Special interests +
-    Science and technology        80         watchlist              80
-    Gadgets and consumer tech     85      Editorial picks           65
+    Weather                       40      Gadgets and consumer tech  40
+    The big picture              110      Energy and environment     30
+    Politics and government      140      Health and medicine        25
+    Conflict and security         90      Built environment          20
+    International affairs         90      Law and justice            20
+    Economy and markets          250      Society                    20
+    Business and industry         55      Culture and sport          30
+    Mergers and acquisitions      85      Special interests +
+    Science and technology        45         watchlist               75
+                                          Editorial picks            40
 
-These sum to 1,450, which is the target exactly, so the slack has to
-come from somewhere real rather than from the table. It does: Built
-environment, Law and justice and Society are threshold lanes that are
-silently absent on most days, and when they are they free 35 to 110
-words between them. That is already how this works in practice - three
-separate days in September ran with two or three of those lanes absent
-entirely - so the table now records where the words actually go instead
-of pretending to a slack it did not have.
+These sum to about 1,200. The slack comes from the threshold lanes: Built
+environment, Law and justice and Society run only when something is
+genuinely big, and Gadgets, Energy and Health are absent on quiet days.
+
+THE BUDGETS ARE NOW CHECKED. tools/check_brief.py counts every section and
+reports any that runs well past its budget (the same numbers live in
+brief-config.json). The usual offenders are Conflict and Politics: on
+20 November they ran 469 words together against a budget then of 335,
+taken from Business, Science and Gadgets. Run the checker before you
+finish and fix what it lists.
 
 Economy gets the largest share on purpose. The analysis is the part I
 most want kept - see section 4. Cut narrative, never cut analysis.
@@ -235,6 +227,7 @@ padding at ten words apiece:
   "It's worth noting that..."  "In a development that..."
   "One piece of genuine, if partial, good news..."
   "...which is being read by analysts as..."
+  "As previously flagged..."  "As mentioned..."  "As a reminder..."
   Any sentence announcing what you are about to say before saying it.
   Any restatement of a section's name mid-section.
 
@@ -301,6 +294,9 @@ middle, do not abandon the tail.
   part cannot be said in a sentence, say the part that matters most and
   drop the rest rather than writing around it.
 
+- When rates, currencies or a market move are in the news, include one
+  sentence on what markets are pricing. Each item answers "so what?" in
+  its last clause.
 - ANALYSIS IS THE PROTECTED CONTENT. When the brief is over length, cut
   narrative, colour, scene-setting and the number of stories covered -
   in that order - before you cut a single line of analysis. The whole
@@ -310,16 +306,25 @@ middle, do not abandon the tail.
 - I particularly like non-Western business and economy feature journalism,
   not just event news.
 - Weather is the one deliberate exception to all of the above: it opens the
-  brief in an exaggerated comedic voice instead of the Economist/FT
-  register. See section 12. Everything else in this section still governs
+  brief and carries one dry joke at my expense. See section 12. Everything else in this section still governs
   every other section, including the news that immediately follows weather.
 
 =====================================================================
 5. OUTPUT STRUCTURE
 =====================================================================
 WEATHER OPENS THE BRIEF, ALWAYS. Before anything else, before even the
-priority-override story below - see section 12 for how. Then sixteen
-more sections follow in this order. Geography does not get its own
+priority-override story below - see section 12 for how.
+
+THEN THE BIG PICTURE, about 110 words, with NO header line. It opens with
+the exact words "Here are the biggest news stories and how they connect."
+and stitches two or three of the day's threads into one argument: how a
+rate decision, an energy shock and a market move feed each other, or how
+an election result changes a government's room to act abroad. End on what
+it implies next, and label anything speculative as speculation. Use it
+ONLY when the day's stories genuinely connect. When they do not, leave it
+out entirely and open with the top story. Never force one.
+
+Then sixteen more sections follow in this order. Geography does not get its own
 section: a Tanzanian story appears under Politics and government alongside
 everywhere else's political news.
 
@@ -369,16 +374,10 @@ carry what the thing is, what changed from the last one, the price if
 there is one, and when it is actually available. "Apple announced new
 AirPods" is not an item. Two or three items done properly beats six
 skimmed - and on a day when nothing genuinely shipped, one sentence
-saying so, or nothing at all, is the right answer. The budget was 40
-words for one day and that was wrong: it cannot carry two items with
-a name, a delta, a price and a date, which is what this section is
-for. It went to 70, and 70 was still short: measured across the first
-nine days the section ran 81, 76, 88, 82, 73, 61, 21 and 90, and the
-only days it came in under 70 were the days almost nothing shipped.
-IT IS 85 NOW. Spend it on two items, or three when they are all
-complete. Not four.
+saying so, or nothing at all, is the right answer. THE BUDGET IS 40
+WORDS: one item done properly, or two when both are complete.
 
-LANDMARK LAUNCHES GET MORE, UP TO ABOUT 120 WORDS. A first-of-its-kind
+LANDMARK LAUNCHES GET MORE, UP TO ABOUT 90 WORDS. A first-of-its-kind
 product from a major maker - a company's first foldable, its first
 headset, a new console generation, a format that did not exist before -
 is not one item among three and must not be squeezed into a couple of
@@ -415,7 +414,7 @@ happened. Cannot be starved by a busy news cycle.
   - Gadgets and consumer tech is NOT guaranteed. It is threshold: it
     runs when something actually shipped, changed price, or died, and
     is silently absent on the days nothing did. Never invent a slow
-    news day into seventy words. Absent is a valid outcome; padded is
+    news day into forty words. Absent is a valid outcome; padded is
     not.
   - At least three significant stories from outside the US, UK and Middle
     East, chosen for structural importance. If a region is genuinely quiet,
@@ -443,22 +442,6 @@ actually appeared.
     robot vacuums belong here too. General gadget news no longer does:
     it has its own spoken section now - see section 5.
 
-    NAMED WATCH, ADDED 16 SEPTEMBER 2026 - THE XGIMI AURA 3 MAX. This
-    is the one I am actually buying, so it outranks the general alert
-    above. 5,700 ISO lumens, 4K at 120Hz, triple laser, announced at
-    IFA 2026 and billed as the first 4K/120Hz ultra short throw.
-    WHAT I NEED IS THE KICKSTARTER DATE. XGIMI's own product page says
-    the campaign goes live on 20 OCTOBER 2026, with a $50 refundable
-    deposit currently holding a super-early-bird price and shipping
-    expected to start in December. Note the price is NOT settled in
-    coverage: XGIMI's page says $2,199 against a $4,999 list, while
-    third-party write-ups say $2,399 for the Max and $2,199 for the
-    Pro. Say which figure you are quoting and whose number it is;
-    do not merge them into one.
-    Tell me the day the campaign actually opens. Before then, flag any
-    change to the date, the tiers or the shipping estimate - a slipped
-    date is itself the news. After it opens, the watch is closed unless
-    I say otherwise.
   - Airlines and aviation. Airbus, Boeing, British Airways, Etihad (I
     interned there), new and closing routes, cabin classes and products,
     consumer preference shifts.
@@ -582,6 +565,15 @@ topples a government, closes a strait, takes out a chip fab, moves a
 currency. Then it is not disaster news, it is the story those
 consequences belong to, and it gets normal treatment there.
 
+CONFLICT - ONE TIGHT LINE PER DEVELOPMENT, unless it feeds the big
+picture. No strike-by-strike or casualty-by-casualty lists. A war that
+did nothing new today gets nothing.
+
+DROP WHAT YOU CANNOT STAND BEHIND. A headline-only claim that a web search
+does not confirm is left out, not aired with a caveat. At most two hedged
+items ("headline only", "not in the digest", "could not check") in a
+brief; on 20 November there were four.
+
 POLITICAL CHURN - SHORT AND FLAT. Much of the politics lane is here
 today, gone tomorrow: process stories, cabinet noise, primary
 positioning, who said what about whom. I want to be aware of it, not
@@ -626,8 +618,12 @@ this is not a general M&A wire. A deal clears the bar when EITHER:
     to say something about the state of an industry (a wave of private
     equity buying up an entire sector, for instance, not just one deal in
     isolation).
-Not restricted to the UK, US or Europe - a major Chinese, Indian or
-anywhere-else deal of this size clears the bar exactly the same way.
+LEAD WITH UK AND EUROPEAN MID-MARKET AND PRIVATE-EQUITY DEALS: buyouts,
+take-privates, secondaries, exits, fund raises, financing conditions.
+Give the deal logic in a clause each - why this asset, why now, what it
+says about the cycle. Mega-deals elsewhere still clear the bar exactly as
+before - a major American, Chinese or Indian deal of that size counts -
+but they follow, and get a line.
 Give it real analytical treatment when it clears the bar - who is buying,
 why, what they plan to do with it, what it signals for the sector - not
 just a headline restated. A small bolt-on acquisition or routine
@@ -727,38 +723,32 @@ of the file; do not search for it. The digest gives you today plus a
 five-day outlook for Ruislip, west London, in Celsius. How much of that
 to actually say is set out below - it is less than all of it.
 
-SHAPE OF THE WEEK, NOT A DAY-BY-DAY ROLL CALL. This section previously
-had to name all five forecast days individually with their own
-temperature. That requirement is withdrawn - it made the section drag,
-which is the opposite of what it is for. Instead:
+TWO SENTENCES, ABOUT 40 WORDS. This replaced the 110-word comic monologue
+on 21 November 2026, after the jokes had drifted into long weekly conceits
+("the box set", "the gym", "the heating invoice") that were not funny.
 
-  - Today in proper detail: high and low, rain, what to dress for.
-  - The rest of the week as a trend, in a sentence or two. Where the
-    highs are going ("thirty-four Thursday, then sliding back to the
-    mid-twenties by Sunday"), and any single day that genuinely breaks
-    the pattern - the one wet day in a dry week, the one that is ten
-    degrees off the others. Name that day. Do not name the others
-    individually just for completeness.
+  - Sentence one: today and the next two days, as one picture. Highs and
+    lows, wet or dry, what to wear. Do not list each day separately and do
+    not give the rest of the week.
+  - Sentence two: ONE joke at my expense. Dry, practical, needling, about
+    what I will actually do in that weather.
 
-110 WORDS. It is the one bit of the brief that exists to be enjoyed
-rather than to inform, so it keeps its jokes - but three good lines
-beat eight minutes of material.
+The model: "The next three days are dry but cold, four to ten today and
+down to freezing by Saturday dawn. The clouds will look stormy and never
+deliver, so you will take the umbrella all three days and regret it every
+time."
 
-VOICE, FOR THIS SECTION ONLY: exaggerated, ranty, comedian-monologue
-register - think Bill Burr doing five minutes on the weather, not the
-Economist. Mock-outrage at the temperature, sweary asides are fine,
-address me directly and needle me about dressing for it. This is the one
-deliberate exception to the neutral register in section 4; the news that
-follows immediately afterward snaps back to it completely. Example pitch:
-"twenty-nine degrees, that is absolutely boiling, it's gonna be a sweaty
-one so deodorant up you sweaty people" - that energy, not a weather-report
-reading of the same numbers.
+No theme, no running metaphor, no "angle" for the week, no walk-back of
+yesterday's forecast, no joke about the forecast's own labels. Say it once
+and move on. Do not reuse a joke listed under "Recent weather jokes" in
+aired-items.md, and add today's there in a few words.
 
 =====================================================================
 13. EDITORIAL PICKS
 =====================================================================
 Closing section. Commissioned and feature journalism, headline plus a
-one-line gist, with the option for me to ask for a full expansion.
+one-line gist, with the option for me to ask for a full expansion. At most
+two picks, one line each.
 Register: curiosity-driven features and ideas pieces, especially
 non-Western business, economy and culture. Skip corruption and crime
 exposés; I am tired of "bad people doing bad things" as a standing lane.

@@ -1,0 +1,27 @@
+{
+  "_about": "The countable limits tools/check_brief.py and tools/housekeeping.py enforce. briefing-prompt.md section 3 states the same numbers in prose; change both together.",
+  "timezone": "Europe/London",
+  "weather": { "enabled": true },
+  "words": { "target": 1150, "min": 1000, "max": 1275 },
+  "sections": [
+    { "name": "Weather", "budget": 40, "tier": "guaranteed" },
+    { "name": "Big picture", "budget": 110, "tier": "when the stories connect" },
+    { "name": "Politics and government", "budget": 140, "tier": "guaranteed" },
+    { "name": "Conflict and security", "budget": 90, "tier": "threshold" },
+    { "name": "International affairs", "budget": 90, "tier": "threshold" },
+    { "name": "Economy and markets", "budget": 250, "tier": "guaranteed" },
+    { "name": "Business and industry", "budget": 55, "tier": "threshold" },
+    { "name": "Mergers and acquisitions", "budget": 85, "tier": "threshold" },
+    { "name": "Science and technology", "budget": 45, "tier": "guaranteed" },
+    { "name": "Gadgets and consumer tech", "budget": 40, "tier": "threshold" },
+    { "name": "Energy and environment", "budget": 30, "tier": "threshold" },
+    { "name": "Health and medicine", "budget": 25, "tier": "threshold" },
+    { "name": "Built environment", "budget": 20, "tier": "threshold" },
+    { "name": "Law and justice", "budget": 20, "tier": "threshold" },
+    { "name": "Society", "budget": 20, "tier": "threshold" },
+    { "name": "Culture and sport", "budget": 30, "tier": "threshold" },
+    { "name": "Special interests and watchlist", "budget": 75, "tier": "guaranteed" },
+    { "name": "Editorial picks", "budget": 40, "tier": "guaranteed" }
+  ],
+  "memory": { "archive_days": 7, "max_threads": 20, "max_callbacks": 2, "aired_days": 21, "weather_jokes": 7 }
+}

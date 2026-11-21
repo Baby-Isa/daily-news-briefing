@@ -24,9 +24,13 @@ does that.
 
 1. Read these IN FULL before anything else. They are the system's entire memory.
    - `briefing-prompt.md` - the AUTHORITATIVE spec. Overrides anything here.
-   - `story-threads.md` - ongoing threads, with their own prune/revive conditions.
-   - `aired-items.md` - every consumer item already broadcast, the refused list,
-     and the weather angles already used.
+   - `examples/2026-11-19.txt` - the reference episode. Match its shape,
+     density and tone. This, not yesterday's brief, is the model for format.
+   - every file in `archive/` - the past week of briefs exactly as aired. Use
+     them for facts and continuity, never as a style model.
+   - `story-threads.md` - open stories to watch, and the rules for rewriting it.
+   - `aired-items.md` - consumer items already broadcast, the refused list,
+     and the recent weather jokes.
    - `HANDOFF.md` sections 3, 5 and 8a - the files, the failures that have cost
      whole days, and what earlier runs learned.
    - `editor-note.md`, if it exists. It is a one-off note from the owner, and
@@ -43,17 +47,21 @@ does that.
 4. Note today's weekday and the Editorial Picks rotation (spec section 13), the
    WEATHER block, the SOURCES THAT FAILED block verbatim, and any thread whose
    prune or revive condition has come due - handle each by its own stated terms.
-5. Draft `briefing.txt` (full replacement; read the current one first for format).
-   - Hard word limit and ceiling as the spec states. Count before finishing.
+5. Draft `briefing.txt` (full replacement). Do NOT model it on the current
+   one: each day copying the day before is how the brief drifted.
+   - Word target and ceiling as the spec states. Count before finishing.
    - EVERY ITEM CARRIES ITS PAYLOAD outranks brevity: recover a missing fact by
      web search where the spec permits, say the gap out loud, or cut the item.
    - Zero digits - this is text-to-speech input.
    - No markdown, bullets or headers beyond the plain section-name lines.
    - Nothing from `aired-items.md` re-run without a genuinely new fact.
-   - No weather angle used in the past week; the two worn constructions sparingly.
+   - Weather is two sentences with one joke; no joke from the recent list.
    - Nothing asserted that has not happened yet.
-6. Update `story-threads.md` and append today's items and weather angle to
-   `aired-items.md` in their existing formats.
+   - Run `python3 tools/check_brief.py` and fix everything it lists.
+6. REWRITE `story-threads.md` in full by the rules at its top (never append a
+   dated block). Add ONE line for today under "Aired" in `aired-items.md`, and
+   today's weather joke under "Recent weather jokes". Web searches and
+   unverified items go in your report, not in either file.
 7. Report back in under 250 words: word count, web searches, what the gadgets
    section ran and why each cleared `aired-items.md`, thread changes, weather
    angle, and anything left out or unverified.
@@ -68,17 +76,23 @@ Do not rewrite the brief's content - check it, and if a check fails, fix only th
 (a stray digit, a markdown mark) or report it.
 
 1. Verify the draft yourself; do not take the drafter's word:
-   - `wc -w briefing.txt` against the spec's hard limit.
-   - `grep -coE "[0-9]" briefing.txt` must print 0.
-   - No markdown (`**`, `##`, leading `- ` or `* `).
+   - `python3 tools/check_brief.py`. It checks the word ceiling, zero digits,
+     no markdown, every section against its budget, the weather length, banned
+     phrases, look-backs and hedged items. MUST FIX lines: fix them if
+     mechanical, otherwise report. DRIFT lines: do not rewrite the brief and do
+     not hold the episode for them; publish, and put each DRIFT line in the
+     run-log entry so the pattern is visible.
    - The closing failed-sources line matches the digest's SOURCES THAT FAILED
      block, and is absent entirely when that block says none failed.
    - `git diff --stat` shows `briefing.txt`, `story-threads.md` and
      `aired-items.md` all changed. All three must move together.
-2. Append one line to `run-log.md` under `## Log`, newest first:
+2. Run `python3 tools/housekeeping.py`. It copies today's brief into
+   `archive/`, deletes archive files over a week old, and prunes
+   `story-threads.md` and `aired-items.md` to their limits.
+2b. Append one line to `run-log.md` under `## Log`, newest first:
    `- YYYY-MM-DD — OK — <words>, <one line on the day>.` (PARTIAL or FAILED with
    the reason if something did not pass.)
-3. `git add briefing.txt story-threads.md aired-items.md run-log.md`, commit as
+3. `git add -A briefing.txt story-threads.md aired-items.md run-log.md archive`, commit as
    `Briefing YYYY-MM-DD`, `git pull --rebase origin main`, then
    `git push origin main`. This triggers the podcast render.
 4. Confirm the render with ONE command, run in the FOREGROUND with the Bash

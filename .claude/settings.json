@@ -4,6 +4,8 @@
       "Bash(git *)",
       "Bash(python3 build_digest.py*)",
       "Bash(python3 tools/check_render.py*)",
+      "Bash(python3 tools/check_brief.py*)",
+      "Bash(python3 tools/housekeeping.py*)",
       "Bash(curl -fsS *)",
       "Bash(date *)",
       "Bash(wc *)",

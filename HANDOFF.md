@@ -249,6 +249,9 @@ FIRST: run `date -u` and state the real time. On 24 August a session woke 8.5 ho
 
 ## 8a. What the 8-21 September fortnight taught
 
+(The word counts and budgets quoted in this section are the September
+ones. The current numbers are in section 8g and `brief-config.json`.)
+
 Fourteen consecutive episodes, none missed, all inside ten minutes, all
 rendered first attempt. What changed and why, so none of it is relearned:
 
@@ -694,6 +697,41 @@ report to three or four lines.
 - Rainfall forecasts in the WEATHER block have run extreme: 82.8 mm, which
   fell to 25.2 mm the next day, and 125.8 mm for 24 October. The brief takes
   them as given. A sanity check in `build_digest.py` may be worth adding.
+
+## 8g. CHANGES OF 21 NOVEMBER 2026 - the 19 November format made permanent
+
+Made by a separate planning session at the owner's request, after a review
+of all 107 days of running. The scheduled tasks and their session did not
+change.
+
+- **Format.** `briefing-prompt.md` now targets 1,150 words (ceiling 1,275)
+  with a two-sentence, one-joke weather, a "how they connect" opening
+  passage, one line per conflict development, hedged claims dropped, and
+  UK and European private-equity deals leading M&A. `editor-note.md` was a
+  one-off and is deleted; the mechanism in `daily-run.md` remains.
+- **Reference episode.** `examples/2026-11-19.txt` is the model for format.
+  The drafter no longer reads yesterday's brief for format: a copy of a
+  copy drifts.
+- **Budgets are checked.** `tools/check_brief.py` (limits in
+  `brief-config.json`) counts every section. On 20 November Politics,
+  Conflict and International ran 134 words over budget between them, and
+  nothing noticed. DRIFT lines never block an episode; they go in the run
+  log.
+- **Memory is capped.** `story-threads.md` (160 KB) and `aired-items.md`
+  (107 KB) were being read only in part. Threads are now at most twenty
+  one-line entries with expiry dates, rewritten daily; `archive/` holds
+  the past seven briefs; `tools/housekeeping.py` prunes all three before
+  each commit. The full old files are in git history before this commit.
+- **Sources.** Google News OriginTrail is flagged RARE (it had been read
+  out as failed for weeks; it still reports if anything is published).
+  The expired XGIMI watch is removed from the spec.
+- **A third check, Mondays 10:35 UTC.** October's lost days were nearly all
+  Saturday to Monday, and the weekly usage limit reset on Monday at 10:00
+  UTC, after the 09:07 backup. A Monday-only backup now fires after it.
+- **Found, not changed:** GitHub's own schedule for the digest ran 7 to 10
+  hours late every day from 11 to 20 November. The cron-job.org ping at
+  06:03 UTC is doing all the work. If it ever stops, the daily run must
+  start the build itself (dispatch `digest.yml` with `force: true`).
 
 ## 9. Where things stand, 7 September 2026
 
