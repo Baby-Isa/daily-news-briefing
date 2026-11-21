@@ -140,7 +140,7 @@ Editorial | Pulitzer Center | https://news.google.com/rss/search?q=site%3Apulitz
 ## ENTITY SEARCH FEEDS (Google News, for lanes with no dedicated publication)
 Agronomics | Google News Agronomics | https://news.google.com/rss/search?q=Agronomics+ANIC&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
 Agronomics | Google News cultivated meat | https://news.google.com/rss/search?q=cultivated+meat+investment&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
-OriginTrail | Google News OriginTrail | https://news.google.com/rss/search?q=%22OriginTrail%22+OR+%22TRAC+token%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET
+OriginTrail | Google News OriginTrail | https://news.google.com/rss/search?q=%22OriginTrail%22+OR+%22TRAC+token%22&hl=en-GB&gl=GB&ceid=GB:en | QUIET RARE
 Chainlink | Google News Chainlink | https://news.google.com/rss/search?q=%22Chainlink%22+crypto+OR+oracle&hl=en-GB&gl=GB&ceid=GB:en |
 
 ## REPLACEMENTS FOR THIN LANES
