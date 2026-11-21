@@ -26,6 +26,7 @@ permission, a subagent error, something else).
 
 ## Log
 
+- 2026-11-21 — OK — 1141 words, Saturday edition, Dutch court blocks BYD Ti seven in the EU, no failed sources; all checks passed.
 - 2026-11-20 — OK — 1447 words, Friday edition, critical minerals and rice colour in the Editorial picks, GN Hydgene and Google News OriginTrail flagged in the closing line; all checks passed.
 - 2026-11-19 — OK — 1149 words, early (03:30 UTC) draft, re-published ~05:45 UTC with owner feedback plus overnight news (IEA, Shenzhen summit, Hegseth in Caracas, IMF debt, Deutsche Bank Italy) (one-joke weather, connect-line opener, voice 0.9x) under the editor note (shorter, big-picture passage, short weather jokes), refreshed version follows at 06:00; CSM Culture and Google News OriginTrail stale and flagged in the closing line; all checks passed.
 - 2026-11-18 — OK — 1400 words, Wednesday edition, leg-day rain weather opener and a West Bank, Sri Lanka and migration New Lines close, Google News OriginTrail feed stale and flagged in the closing line; all checks passed.

@@ -1,81 +1,81 @@
 Weather.
 
-Today two to nine degrees, partly cloudy, half a millimetre of rain, which is not rain, that is the sky clearing its throat. Coat, scarf, and yes, you. Saturday dawn dips to freezing, so the car becomes a block of ice and you chip at it like an archaeologist whose funding has run out. Then the week bleeds heat slowly: eight Sunday, six Monday, five Tuesday, four by Wednesday, all dry. Nothing to complain about, which has never stopped you. Meanwhile energy bills are climbing, so every degree lost is another invoice from your thermostat. Layer up, cheapskate.
+The next three days are dry: two to eight degrees today, four to eight Sunday under cloud, two to six Monday and clear. Every dry day removes an excuse for not clearing the gutters, and you will invent a fresh one by lunchtime.
+
+Here are the biggest news stories and how they connect. The AI trade is unwinding on three fronts at once. The Securities and Exchange Commission is probing Nvidia's accounting after Jensen Huang's resignation; Anthropic fell again on its second day; and Trump threatened a tremendous tax on American firms building data centres abroad. On Friday the brief had Anthropic closing its first day up seventeen percent. Since then the Nasdaq has lost all its twenty twenty-six gains, with a December Federal Reserve hike still expected. My speculation: growth fears, not inflation, may set the next rate debate.
 
 Politics and government.
 
-United States. The Justice Department dropped its Alaska Senate lawsuit, which had sought to block certification if Senator Sullivan narrowly lost; critics called it meritless. Trump replaced his White House cyber director, Sean Cairncross, after a run of tech outages; the Pentagon's chief information officer takes over. Trump's nominee to lead the cyber agency CISA would not call January sixth an attack, and two senators will hold his nomination. Senate Republicans again blocked a bid to curb the Iran war.
+United States. Democrats want an end to Iran war funding attached to next month's spending bill; Senator Ron Johnson refuses.
 
-UK. Burnham signs the UK-EU package in Brussels today: a youth mobility scheme, food trade, carbon markets. Tories picked James Cleverly to run for London mayor.
+UK. The UK-EU deal is signed: three agreements covering food and drink trade, linked emissions trading and a youth experience scheme, in a twelve-page statement. Tuition fees for EU students are unresolved, and Brussels made the wider reset contingent on them. It should lift the economy more than earlier deals but will not lower food prices.
 
-Europe. Youth protests are planned across the continent today. Danish lawmakers approved a US-Greenland security deal.
+Europe. Youth protests ran across twenty-five countries over living costs and military spending. Spain votes next Sunday; Sanchez looks set to lose power. Estonia closes its Russian border from the first of December for at least six months. Denmark expels Russia's military attache over an alleged plot to kill a Ukrainian rapper.
 
-East Africa. Kenya's opposition walked out of an electoral commission meeting over preparations for the twenty twenty-seven vote; Ruto's party threatens a boycott, and Ruto calls it excuses. Kenya awarded a rare earths contract to a US consortium over Chinese rivals. Tanzania: nothing.
+East Africa. Kenya: more MPs defect to Gachagua's party, the latest from Gilgil, as the opposition presses the electoral commission. Tanzania: Samia pledges a new constitution by twenty twenty-eight or twenty twenty-nine, reports differ,.
 
 Conflict and security.
 
-Iran. The two-month lull is over. Iranian drones targeted radar sites in Bahrain and an air base in Kuwait; the US hit a missile site on Qeshm Island. Trump says he is not rushing a decision on bigger strikes and looks to next year. Iran's army says two tankers burned after hitting mines east of Hormuz. An Associated Press count says Iranian and allied strikes damaged twenty-six US sites. The Pentagon puts the war's cost at forty-eight point three billion dollars. Houthis hit the Public Investment Fund tower in Riyadh, shattering windows across seven or eight floors.
+Poland. Two Russian cruise missiles and a jet-powered drone crashed in Poland during Russia's attack on Ukraine, amid Western exercises; no injuries. Tusk calls it intentional, NATO's Rutte a grave violation; Trump called them a couple of little missiles, fired by accident.
 
-Ukraine. Ukraine struck the Kerch bridge a third time this week; satellite images show a collapsed span, and Putin promises a painful response. A Russian drone attack on Kyiv killed one and damaged the Dutch and Austrian embassies. Kushner says Trump is open to a NATO-style guarantee for Kyiv and that Moscow is comfortable with it. Zelensky asks whether both sides mean the same thing. Putin offers no territory, no sea or energy truce, and invites Europeans to Moscow.
+Ukraine. Russia hit Kyiv's bridges again; eight dead, per the Associated Press. The Financial Times says Washington wants a peace deal by early January, before Democrats take Congress, and a European official fears heavy Ukrainian concessions. Trump says no security guarantees without a broader deal.
 
-Gaza. Israel ended its ground operation near Nuseirat, and residents are returning. A mosque was torched in a northern Israeli village.
+Iran. Trump is weighing new strikes while commanders warn indefinite deployments strain US forces. Foreign Minister Araghchi says Tehran wants diplomacy; Trump calls its terms unacceptable. Iran says it downed a fifty-eighth American drone. Houthi missiles at Riyadh were intercepted.
 
 International affairs.
 
-Shenzhen produced the first three-way summit and a joint declaration: nuclear war cannot be won and must never be fought, plus language on United Nations reform, energy supply and sovereign immunity, and a vow to raise oil output. Xi urged abolishing nuclear weapons. No breakthrough on arms control, Ukraine or artificial intelligence; Putin gets equal billing, Europe watches. Trump says Xi and Putin want the Iran war ended. Somalia expelled the UAE ambassador, alleging an open invasion. Disasters: cyclone emergency in the Cook Islands, a gas blast killing six in Georgia, a migrant boat capsized off Senegal with dozens missing, violence in Bangladesh before Hasina's planned return.
+Kim Jong Un skipped meeting Trump and toured school-equipment factories instead. Vietnam abolished the death penalty for drug trafficking, leaving four capital offences. UN states agreed talks to regulate autonomous weapons by twenty twenty-eight; the US, Russia and Israel diluted it, so it may not bind. Switzerland and China scrapped tariffs on almost all Swiss exports. Disasters: cyclone Xavier weakening off the Cook Islands.
 
 Economy and markets.
 
-Brazil. Mechanism: the central bank sold one billion dollars of reserves as the dollar neared five point nine three reais. Intended effect: supply dollars and stall depreciation. Risk: relief faded by afternoon because the problem is fiscal; markets distrust Lula's adjustment, so the fiscal-dominance reading says intervention cannot fix a risk premium, only credible budgets or higher rates can. Read-through: dollar strength is squeezing emerging markets, and Mexico's peso broke nineteen per dollar, weakest in seventeen months.
+AI capex. Mechanism: Trump's threatened tax on overseas data centres; nothing is enacted. Intended effect: keep compute and jobs onshore. Risks: industrial-policy advocates cheer it, while free-traders warn it raises build costs and invites retaliation just as financing tightens. Read-through: another cost on the capex cycle that lifts your largest holdings. Nvidia also faces the accounting probe, and California is probing its China exports. Trump wants Huang given a second chance.
 
-Rates. IMF chief Georgieva says artificial intelligence demand will force major central banks to raise rates. The logic is a higher neutral rate from investment demand; sceptics expect productivity gains to be disinflationary later. Markets are pricing the first reading: Asian tech fell even as Anthropic closed its first day up seventeen percent at ninety-seven dollars, a one point three trillion dollar valuation, after raising eighty-one billion. Nvidia sits near one hundred fifty dollars, nearly forty percent below its October peak. The Financial Times argues oil and borrowing costs have decoupled, meaning inflation is broadening beyond energy; that is its headline claim, not something I could check.
+Oil. Oil shipped through Hormuz fell as Iranian strikes rose, yet crude heads for a third weekly loss. Markets are pricing demand fear over lost supply; that is my reading.
 
-Chips. Lawmakers say Commerce approved sales of more than eight hundred thousand AI chips to Chinese firms in six months, some with military ties; California opened a probe. Tighter export enforcement is a risk to Nvidia's China revenue.
+UK. October retail sales jumped as households stockpiled long-life food after the Be Ready campaign, probably a one-off that overstates demand.
 
-Elsewhere. Japan's inflation picked up, keeping a Bank of Japan hike on track. Senegal's president bypassed parliament to advance a two point two billion dollar IMF programme. Russia's takeover of Japan Tobacco units costs it eight point six billion dollars.
+China. Electric vehicles are seven in ten car sales this month, one point one five million deliveries, as petrol car sales fall.
 
 Business and industry.
 
-Walmart's US e-commerce grew twenty-three percent in the quarter on faster fulfilment. Britain's competition regulator provisionally finds Viagogo may have broken the law on hidden fees. BAE plans to cut about one thousand jobs. Meta is rethinking its twenty-thirty climate goals as AI data centres push emissions up.
+YouTube has reportedly agreed in principle to pay three billion dollars to school districts over claims its addictive design harmed children, with new teen safeguards. Lufthansa cuts one thousand jobs; its own board calls the airline uncompetitive on cost.
 
 Mergers and acquisitions.
 
-Palo Alto Networks buys AI start-up Applied Compute for four point five billion dollars. Bending Spoons buys Mailchimp from Intuit for three point six eight billion, its usual play: mature software, then cost cuts. Corpay joins TPG to buy Bill, terms not in the digest. Brookfield is reportedly near buying PGP Glass from Blackstone, reports differ on price. Sponsors are pairing with strategics to exit.
+CVC accuses Advent of overstating Irca's performance before agreeing to buy the Italian pastry-ingredients business for three billion euros; Advent denies it. Poundland's last-ditch rescue drew a late Gulf wholesaler bid. Buyout firm GTCR has revived a fifty billion dollar approach for Global Payments, headline only. KKR is reportedly in talks to buy data-centre developer EdgeCore at eight billion dollars or more. Private equity is still buying AI infrastructure while public AI stocks fall.
 
 Science and technology.
 
-Australian surgeons kept a human liver alive outside the body for a record seven weeks; details await publication. Mercury-bound X-ray telescope delivered first images after eight years in space. China rolled out the rocket for its first international astronaut to the Tiangong station. Japan's Hayabusa two probe cancels a second asteroid landing over engine trouble.
+An Anthropic mathematician claims Claude helped prove the Riemann hypothesis; unverified. Mars: Perseverance and the Odyssey orbiter paused science over glitches. CERN reports evidence of a particle decay so rare it took forty years to detect.
 
 Gadgets and consumer tech.
 
-Valve's Steam Machine in the five hundred twelve gigabyte version is now available without a waitlist, with a warning that memory shortages threaten future supply; price not in the digest. Meta's Muse Charm AI keychain reportedly costs three hundred dollars, per The Information, against a December ship date from Zuckerberg. Google will enforce Android developer verification globally from January.
+Valve paused Steam Machine two-terabyte orders over supply limits and says prices may rise. Nothing's AI device debuts on December eighth, headline only.
 
 Energy and environment.
 
-The International Energy Agency calls the Iran war the largest energy security threat in history, yet says oil shocks are speeding the shift to electric cars and renewables. COP thirty-one talks reportedly drop the call to quit fossil fuels as a deal nears. The Senate passed a major permitting bill, facing hurdles in the House. The US sold its first deep-sea mining leases off American Samoa, six million dollars for mapping, after a judge found the process unlawful.
+COP thirty-one ran past its deadline over fossil fuels and climate finance. The Army delayed detonating lead azide in Iowa to Monday; modelling shows a lead plume up to sixty miles.
 
 Health and medicine.
 
-A pancreatic cancer pill saw tumours vanish in a trial, per a headline only. Hims and Noom launched peptide programmes after the government eased compounding rules. Drugmakers told Congress they will halt trials at some Chinese hospitals.
+The FDA rejected Capricor's Duchenne muscular dystrophy cell therapy. Medicare will pilot food-is-medicine and lifestyle programmes it does not currently cover.
 
 Built environment.
 
-New York's Power Authority shortlisted ten firms for new nuclear plants. Singapore's Tuas Port broke ground on its largest phase, first berths in twenty twenty-eight.
+Poland is ordering nuclear plant components early to protect a twenty twenty-eight start, though the fifty-two billion dollar construction contract slips to twenty twenty-seven.
 
 Law and justice.
 
-The International Court of Justice found Myanmar committed genocide against the Rohingya. Four British men were convicted of raping or abusing Joanne Young, drugged by her husband; she waived anonymity. A judge let Trump's fifteen billion dollar defamation suit against the New York Times proceed.
+A federal appeals court halted the Pregnant Workers Fairness Act, ruling its Covid-era proxy vote unconstitutional; a Supreme Court appeal is expected. Nikhil Gupta got nineteen years for an Indian government-backed plot to kill a Sikh separatist in New York.
 
 Culture and sport.
 
-Grand Theft Auto six launched; sales are estimated above two point three billion dollars, the biggest entertainment launch ever. Kenya's marathon world champion Peres Jepchirchir is banned three years for doping. UEFA gave England a suspended away-ticket ban over fans' chants in Spain.
+Correction: Friday's estimate of above two point three billion dollars for Grand Theft Auto six was low. Rockstar says it made three point seven nine billion dollars on day one, with thirty-two point five million preorders. England captain Harry Kane is out for months with an ankle ligament tear.
 
 Special interests and watchlist.
 
-Seven-seaters: Honda revealed the three-row Avancier hybrid for Asian markets, coming to Australia; Mahindra and Tata electric seven-seaters are near. BYD teases a flagship MPV. Aviation: the FAA orders checks on older Boeing seven three seven models over loss-of-control risk. Chainlink: UBS piloted automated tokenised structured notes using Chainlink. Agronomics: nothing from the company. Arsenal: Newcastle away Saturday, most listings say half past five; Raya, Timber, Rice and Hincapie reportedly near new deals. Projectors, cameras, BMW: nothing.
+Cars: a Dutch court blocked BYD's Ti seven in the EU over Land Rover Defender design, leaving the UK launch untouched. Aviation: American retires its Boeing seven seven seven flagship first class. Arsenal: Newcastle away at half past five today; Zubimendi is out and Saka may miss until Christmas. Chainlink: no official post; ECB's Lagarde warns Europe could lose control of tokenised assets. OriginTrail: nothing. Agronomics: nothing. Tourism: Saudi Arabia's Diriyah cancelled a hotel contract, the first known since Houthi strikes on Riyadh. Projectors, cameras, BMW, seven-seaters: nothing.
 
 Editorial picks.
 
-The Intelligence: who profits from the China-America fight over critical minerals; why rice colour may not matter. Longreads: parents who track their grown children by phone.
-
-Not returning today: GN Hydgene, covering Agronomics' portfolio company Hydgene; Google News OriginTrail, covering OriginTrail.
+Longreads: The Old and the Furious, on rising crashes among elderly drivers and why removing licences is no answer. The Intelligence: how AI-enabled cybercrime is also a chance for tech giants to prevent it.
