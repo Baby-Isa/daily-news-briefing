@@ -4,6 +4,8 @@ A short podcast, written fresh every morning around what you care about,
 and delivered to the podcast app on your phone. Claude sets it up with you
 in about fifteen minutes and then runs it for you.
 
+![Set up in three steps](assets/onboarding-guide.png)
+
 ## What you need
 
 - A Claude subscription that includes Claude Code (the "Code" tab).

@@ -28,6 +28,7 @@ asks you to use a different branch, their agreement is what permits
 | `Daily briefing run.` | `daily-run.md`, from step 1 |
 | `Backup check.` | `daily-run.md`, "Backup check" |
 | `Weekly self-review.` | `weekly-review.md` |
+| `Test run.` | `daily-run.md` from step 2, skipping the "already published" guard |
 
 ## When the listener asks for a change
 
@@ -48,6 +49,8 @@ Do not ask them to confirm things they have just told you.
 | "that episode was great, more like that" | copy that day's file from `archive/` into `examples/` (keep at most three there) |
 | "just for tomorrow, ..." | write `editor-note.md` with the date it applies to on its first line |
 | "pause" / "stop" / "start again" | disable or enable the scheduled tasks; do not delete them |
+| "run it now" / "do a test run" | run `daily-run.md` from step 2, skipping the "already published" guard. Today's episode is replaced, not duplicated; tell them their app may need a pull-to-refresh. |
+| "test it every hour" | create ONE extra scheduled task named `Briefing test (hourly)`, hourly, in this session, with the prompt `Test run. Follow daily-run.md from step 2, skipping the "already published" guard.` Say that each run uses allowance. Delete it when they say "stop testing", and ask whether to stop after six runs. |
 
 After a change to content or style, offer once to re-run today's episode
 so they can hear it.
