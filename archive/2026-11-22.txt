@@ -1,0 +1,73 @@
+Weather.
+
+The next three days are dry and cold, four to eight today, two to six Monday, then light rain on Tuesday. Dry today and Monday means you will announce a long walk and decide at the door that the sofa has better reviews.
+
+Here are the biggest news stories and how they connect. AI spending is getting dearer from every side. Dell, Hewlett Packard Enterprise, Lenovo and Supermicro are raising AI server prices by up to forty-five percent months after contracts were signed. Trump has threatened a tax on American firms building data centres abroad, and Nvidia faces an accounting probe. Amazon is reportedly paying about seven and a half billion dollars for the start-up Decart to cut its compute bill and its reliance on Nvidia. A higher Federal Reserve rate in December is still expected. Customers are squeezed while Nvidia is the target. My speculation: the big buyers respond by building their own chips, which tests Nvidia's pricing power.
+
+Politics and government.
+
+United States. Trump ordered federal contractors to consult the White House before answering Congress and to withhold anything it deems privileged, a shield against Democratic investigations due in January. A judge blocked his shift of homelessness aid from housing subsidies to treatment requirements.
+
+UK. Blair says Britain should rejoin the European Union only if the Union gets better at technology innovation.
+
+Europe. Spain votes next Sunday. The Financial Times says Feijoo is on course to be prime minister, but only with the far-right Vox party's backing. Costa tabled a leaner EU budget with a Big Tech levy.
+
+East Africa. Kenya's electoral commission faces court orders seeking to halt ballot-paper procurement and the hiring of a permanent chief executive, ahead of the twenty twenty-seven vote. Tanzania: nothing.
+
+Conflict and security.
+
+Iran. Iran's Guards say they struck two American bases in Bahrain; a Bahraini industrial site caught fire, no injuries. Two tankers were hit in Hormuz. Euronews says Iranian tankers are preparing to break the American blockade, now in its one hundred thirtieth day. Iran says Qatari mediators are talking and urges Washington to accept its conditions.
+
+Ukraine. A Ukrainian drone set a Russian cargo ship on fire in the Gulf of Finland; Finland's prime minister says the war is spilling over. On Saturday the brief had Russian missiles crashing in Poland. NATO now vows to defend every inch of Polish territory.
+
+Gaza. An Israeli strike on a food truck killed three; Israel says they were Islamic Jihad fighters. Israel's Eisenkot invited Netanyahu's Likud to coalition talks.
+
+International affairs.
+
+The EU and Indonesia signed a trade deal on Saturday, to take effect early next year. Mexico captured Fausto Isidro Meza Flores, known as Chapo Isidro, on the FBI's ten most wanted list; the raid left eleven dead, four soldiers and seven gunmen. South Korea's education minister resigned after the top scorer in a national tax accountant exam admitted using AI, days before the college entrance exam. Disasters: a factory fire in Indonesia, three dead and thirty-six missing; a boat carrying mourners capsized in Nigeria, at least twenty-four dead; a Basra power station fire, four dead; tainted liquor in India, eleven dead.
+
+Economy and markets.
+
+AI servers. The price rises hit trading firms hardest, per the Financial Times. Mechanism: suppliers reprice signed orders as component costs climb. Intended effect: protect margins. Risk: one school reads it as demand outrunning supply; another as a late-cycle squeeze on customers whose returns on compute are unproven. Read-through: the cost side of the capex cycle is rising just as financing tightens, which pressures the customers of your largest holdings.
+
+Argentina. Borrowing costs jumped as Milei's falling approval ahead of his re-election bid rattles investors: a political risk premium, priced before any policy changes.
+
+Business and industry.
+
+Amazon faces opposition to rapid data-centre expansion from the public and from its own staff, the Financial Times reports. The Guardian calls debt-laden CoreWeave the poster child of the AI bubble.
+
+Mergers and acquisitions.
+
+Entain, owner of Ladbrokes and Coral, is in talks to sell part of its business to CVC, to offset Labour's gambling tax rise; which part was not stated. Buyout firm MBK is taking Japan's Wacom private for nine hundred million dollars. The Financial Times says co-investors in buyout funds are newly angry at being forced out when assets are sold into continuation vehicles, sponsors selling to themselves. That is a symptom of scarce exits.
+
+Science and technology.
+
+Physicists propose using ultra-sensitive atomic clocks to detect clocks experiencing multiple flows of time at once, a never-observed quantum effect. A Chinese-built pilotless air taxi carried a passenger in Yamanashi, Japan.
+
+Energy and environment.
+
+COP thirty-one ran a second day past deadline. Reuters says the Turkish and Australian presidents tabled a new package; fossil fuels are still missing, electrification goals stay. The Army detonates lead azide in Iowa on Monday, having dropped a firm that would have neutralised it.
+
+Health and medicine.
+
+Australia opened an inquiry into peptides amid a surge in hospital visits, headline only.
+
+Law and justice.
+
+A federal judge ordered an indefinite halt to construction of Trump's triumphal arch near Arlington. A judge approved Bayer's seven point two five billion dollar Roundup settlement for cancer claims.
+
+Society.
+
+A Suffolk village voted to leave the United Kingdom, symbolically, over plans to house nine hundred thirty asylum seekers at a former military base.
+
+Culture and sport.
+
+Verstappen won in Las Vegas, with Piastri climbing from seventeenth to third. France and South Africa reached the rugby Nations Championship final; South Africa lost to Ireland but kept a bonus point.
+
+Special interests and watchlist.
+
+Aviation: Boeing is weighing more layoffs as its seven three seven Max output lags its target, per a headline; the target was not given. Cars: Xiaomi hired former Xpeng executives to lead its European entry. Arsenal: two-two at Newcastle, Madueke equalising; Raya went off with a shoulder injury and Arteta said it is not good. Chainlink: no official post; the European Central Bank seeks partners for tokenised-finance tests, applications due December eleventh. OriginTrail: nothing. Agronomics: nothing from the company; dairy body IDF's updated Codex guidance would reserve dairy terms for animal milk, a labelling risk for precision-fermented dairy, from Wednesday. Projectors, cameras, BMW, seven-seaters: nothing.
+
+Editorial picks.
+
+Rest of World: AI is turning professional jobs into low-paid gig work; a United States cardiologist earns up to one hundred eighty dollars an hour, a Swahili speaker in Tanzania twelve fifty. New Lines: Serbia's students won the election with one hundred forty seats, and a veteran who burned parliament in the year two thousand asks what they understood that his generation did not.
