@@ -19,22 +19,21 @@ appended daily notes and was being read only in part):
 - `tools/housekeeping.py` enforces all of this before every commit: it
   deletes expired or malformed entries and trims long ones.
 
-- [expires 2026-11-29] AI trade and capex costs | said Sun 22 Nov: server makers raising prices up to 45% after signing, Amazon near $7.5bn Decart deal, Trump data-centre tax threat, Nvidia probe | watch: Decart signing, Anthropic price, Huang testimony 1 Dec
-- [expires 2026-11-29] Iran war and Hormuz | said Sun 22 Nov: Iran struck US bases in Bahrain, two tankers hit, tankers set to break blockade (day 130), Qatari mediation | watch: blockade breach, a US strike decision, talks
-- [expires 2026-11-29] Ukraine | said Sun 22 Nov: Ukrainian drone hit Russian ship in Gulf of Finland, NATO vows to defend every inch of Poland | watch: Russian response, Finland, deal terms, EU EUR45bn loan
-- [expires 2026-11-29] UK and the EU under Burnham | said Sat 21 Nov: three agreements signed; tuition fees unresolved | watch: tuition-fee talks, December options announcement
+- [expires 2026-11-30] AI sell-off and Nvidia | said Mon 23 Nov: global rout, KOSPI -5%, Hong Kong 19-month low, Alice Huang spy-agency link, SpaceX GPU lease collateral worry | watch: Wall Street rebound, SEC probe, Huang testimony 1 Dec
+- [expires 2026-11-30] Iran war and Hormuz | said Mon 23 Nov: Iranian strike on Bahrain site, supertankers hit mines, Saudi strike on Hodeida, Houthi Rabigh claim | watch: blockade, US strike decision, Qatari mediation
+- [expires 2026-11-30] Ukraine | said Mon 23 Nov: Kyiv-region block strike 9+ dead, Russian corvette sunk at Benghazi | watch: Russian response, Libya, peace deal terms, EU EUR45bn loan
+- [expires 2026-11-30] COP thirty-one | said Mon 23 Nov: collapsed Sunday, EU rejected text, first since Copenhagen | watch: consensus-rule reform, side coalitions
+- [expires 2026-11-30] US politics | said Mon 23 Nov: Democrats 258+ House seats, Andrews beat Graham, Trump on Schumer | watch: four undecided races, December spending bill, January investigations
+- [expires 2026-11-30] Deals | said Mon 23 Nov: Tata Steel-APL Apollo $1.67bn, Brookfield-PGP Glass $1.7bn, Amazon-Decart near $7.5bn, Poundland last-gasp bids | watch: Poundland outcome, Decart signing, Entain-CVC
+- [expires 2026-11-30] Israel and Gaza | said Mon 23 Nov: Netanyahu-Eisenkot talks ended with no deal, settler arson | watch: coalition formation, ceasefire
+- [expires 2026-11-30] Kenya and Tanzania | said Mon 23 Nov: Kenya-Congo ties restored, IEBC Smartmatic contract expiring | watch: ambassadors, IEBC court rulings
+- [expires 2026-11-30] UK and the EU under Burnham | said Mon 23 Nov: Burnham to brief MPs, Tories would scrap deal | watch: tuition-fee talks, December options announcement
+- [expires 2026-11-30] Sudan | said Mon 23 Nov: Khartoum drone strikes hit UN building, army blames Ethiopia | watch: Ethiopian response
 - [expires 2026-12-18] Rates: Fed, Bank of England, Bank of Japan | said Thu 19 Nov: Waller floated a fifty basis point December hike, BoE at 4.00%, UK inflation 3.6% | watch: FOMC 8-9 Dec, BoE 17 Dec
-- [expires 2026-12-02] Nvidia | said Sat 21 Nov: SEC accounting probe, Trump wants Huang given a second chance, California probe | watch: Huang House testimony 1 Dec, a successor
-- [expires 2026-11-29] Deals | said Sun 22 Nov: Entain-CVC talks, MBK-Wacom $900m, Amazon-Decart, Poundland late Gulf bid | watch: Entain terms, Poundland outcome
-- [expires 2026-11-29] US politics | said Sun 22 Nov: Trump order on contractors and Congress, Democrats want Iran war funding ended in December spending bill | watch: shutdown risk, January investigations
-- [expires 2026-11-29] Kenya and Tanzania | said Sun 22 Nov: IEBC faces court orders on ballot paper procurement and CEO hire | watch: court rulings, 2027 preparations
-- [expires 2026-11-29] COP thirty-one | said Sun 22 Nov: second day past deadline, new package tabled, fossil fuels still missing | watch: the final text
-- [expires 2026-11-29] Gaza and Israel | said Sun 22 Nov: strike on food truck killed three, Eisenkot invited Likud to coalition talks | watch: coalition formation, ceasefire
-- [expires 2026-11-26] Yemen | said Sat 21 Nov: Houthi missiles at Riyadh intercepted | watch: Aden
 - [expires 2026-12-31] Ebola | said Mon 16 Nov: Africa CDC called the outbreak out of control, 11,000+ cases; Kenya's 42-day all-clear clock runs to about late December | watch: Kenya declared clear, or a new case
 - [expires 2026-11-29] Arsenal | said Sun 22 Nov: 2-2 at Newcastle, Raya shoulder injury | watch: Raya fitness, contracts for Raya, Timber, Rice, Hincapie
 - [expires 2026-11-28] Guangzhou motor show 27 Nov | said Tue 17 Nov: Mercedes VLE and Yangwang Altior due; seat counts unverified | watch: any seven-seater confirmed with price and market
 - [expires 2026-11-29] Sea Lion (Falklands oil) | ITLOS ruling due Sat 28 Nov | watch: the ruling and what it means for Rockhopper
 - [expires 2026-12-01] Spain's snap election Sun 29 Nov | said Sun 22 Nov: FT says Feijoo on course to lead but needs Vox | watch: the result
 - [expires 2026-12-02] Estonia-Russia border | said Sat 21 Nov: closes from 1 Dec for at least six months | watch: the closure, Russian response
-- [expires 2026-11-29] Iowa lead azide blast | said Sun 22 Nov: Army detonates Mon 23 Nov | watch: plume and fallout
+- [expires 2026-11-29] Iowa lead azide blast | said Mon 23 Nov: Army detonates by Tue 24 Nov | watch: plume and fallout

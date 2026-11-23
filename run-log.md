@@ -26,6 +26,7 @@ permission, a subagent error, something else).
 
 ## Log
 
+- 2026-11-23 — OK — 1060 words, Monday edition, two failed sources (Euronews, NYT Space) noted on air; all checks passed, no DRIFT lines.
 - 2026-11-22 — OK — 1098 words, Sunday edition, AI server price rises lead the big picture, no failed sources; all checks passed, no DRIFT lines.
 - 2026-11-21 — OK — 1141 words, Saturday edition, Dutch court blocks BYD Ti seven in the EU, no failed sources; all checks passed.
 - 2026-11-20 — OK — 1447 words, Friday edition, critical minerals and rice colour in the Editorial picks, GN Hydgene and Google News OriginTrail flagged in the closing line; all checks passed.

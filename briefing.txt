@@ -1,73 +1,75 @@
 Weather.
 
-The next three days are dry and cold, four to eight today, two to six Monday, then light rain on Tuesday. Dry today and Monday means you will announce a long walk and decide at the door that the sofa has better reviews.
+The next three days are dry or nearly so and cloudy, one to six today, one to seven Tuesday, two to six Wednesday. With almost no rain forecast you will check the radar app hourly, as though it owed you money.
 
-Here are the biggest news stories and how they connect. AI spending is getting dearer from every side. Dell, Hewlett Packard Enterprise, Lenovo and Supermicro are raising AI server prices by up to forty-five percent months after contracts were signed. Trump has threatened a tax on American firms building data centres abroad, and Nvidia faces an accounting probe. Amazon is reportedly paying about seven and a half billion dollars for the start-up Decart to cut its compute bill and its reliance on Nvidia. A higher Federal Reserve rate in December is still expected. Customers are squeezed while Nvidia is the target. My speculation: the big buyers respond by building their own chips, which tests Nvidia's pricing power.
+Here are the biggest news stories and how they connect. The AI sell-off has gone global. Wall Street's rout reached Asia: South Korea's index fell five percent, Hong Kong hit a nineteen-month low, and regulators in the region are rushing to support markets. The trigger is trust in AI finance. Nvidia faces an accounting probe, and the New York Times says Alice Huang, at the centre of the scandal involving its former chief executive Jensen Huang, kept in contact with a Chinese spy agency official for over a year. The Financial Times warns that Nvidia's vendor financing is a Jenga tower. My speculation: if circular financing is the weak point, the next stress shows up in credit before equities.
 
 Politics and government.
 
-United States. Trump ordered federal contractors to consult the White House before answering Congress and to withhold anything it deems privileged, a shield against Democratic investigations due in January. A judge blocked his shift of homelessness aid from housing subsidies to treatment requirements.
+United States. Democrats have won at least two hundred fifty-eight House seats, their biggest majority since nineteen ninety-two, with four races undecided. Pediatrician Annie Andrews unseated Senator Graham in South Carolina. Trump says Schumer will be very hard to work with.
 
-UK. Blair says Britain should rejoin the European Union only if the Union gets better at technology innovation.
+UK. Timms's review will call for a fundamental overhaul of disability benefit assessments, not scrapping the benefit for under-twenty-fives. Burnham tells MPs the EU deal could make the next decade much better; the Conservatives say they would scrap it. Poundland has days to find a buyer or enter administration.
 
-Europe. Spain votes next Sunday. The Financial Times says Feijoo is on course to be prime minister, but only with the far-right Vox party's backing. Costa tabled a leaner EU budget with a Big Tech levy.
+Europe. Belgium's airports shut under an anti-austerity strike. Spain votes next Sunday.
 
-East Africa. Kenya's electoral commission faces court orders seeking to halt ballot-paper procurement and the hiring of a permanent chief executive, ahead of the twenty twenty-seven vote. Tanzania: nothing.
+East Africa. Ruto and Tshisekedi agreed in Oyo to restore full ambassador-level relations between Kenya and Congo. Kenya's electoral commission's Smartmatic contract is expiring, a question for twenty twenty-seven voter registration. Tanzania: nothing.
 
 Conflict and security.
 
-Iran. Iran's Guards say they struck two American bases in Bahrain; a Bahraini industrial site caught fire, no injuries. Two tankers were hit in Hormuz. Euronews says Iranian tankers are preparing to break the American blockade, now in its one hundred thirtieth day. Iran says Qatari mediators are talking and urges Washington to accept its conditions.
+Iran. An Iranian strike on an industrial site in Bahrain wounded two; Saudi Arabia and Qatar condemned it. Iran's navy says two supertankers hit mines near Hormuz. Saudi strikes killed four in Yemen's Hodeida; the Houthis say they hit Saudi Arabia's Rabigh refinery.
 
-Ukraine. A Ukrainian drone set a Russian cargo ship on fire in the Gulf of Finland; Finland's prime minister says the war is spilling over. On Saturday the brief had Russian missiles crashing in Poland. NATO now vows to defend every inch of Polish territory.
+Ukraine. A Russian strike collapsed part of an apartment block near Kyiv, killing at least nine. A Russian corvette docked in Benghazi, Libya, was sunk in a suspected Ukrainian sea drone attack; eastern Libya has complained to the United Nations.
 
-Gaza. An Israeli strike on a food truck killed three; Israel says they were Islamic Jihad fighters. Israel's Eisenkot invited Netanyahu's Likud to coalition talks.
+Israel. Netanyahu's and Eisenkot's parties ended coalition talks with no deal. Eisenkot called settler arson on West Bank villages Jewish terrorism.
+
+Sudan. Drones hit Khartoum homes and a United Nations building; the army blames Ethiopia.
 
 International affairs.
 
-The EU and Indonesia signed a trade deal on Saturday, to take effect early next year. Mexico captured Fausto Isidro Meza Flores, known as Chapo Isidro, on the FBI's ten most wanted list; the raid left eleven dead, four soldiers and seven gunmen. South Korea's education minister resigned after the top scorer in a national tax accountant exam admitted using AI, days before the college entrance exam. Disasters: a factory fire in Indonesia, three dead and thirty-six missing; a boat carrying mourners capsized in Nigeria, at least twenty-four dead; a Basra power station fire, four dead; tainted liquor in India, eleven dead.
+Trump, Putin and Xi's Shenzhen meeting produced few concrete results, and Politico says it showed Europe has no seat at the table. Johannesburg, Tshwane and Ekurhuleni will be run by a four-party pact of the ANC, ActionSA, MK and the EFF, with Herman Mashaba set to be Johannesburg's mayor. China sentenced a ministry official to death for leaking state secrets. Disasters: a candy factory fire in Indonesia, twenty-four dead, thirty missing.
 
 Economy and markets.
 
-AI servers. The price rises hit trading firms hardest, per the Financial Times. Mechanism: suppliers reprice signed orders as component costs climb. Intended effect: protect margins. Risk: one school reads it as demand outrunning supply; another as a late-cycle squeeze on customers whose returns on compute are unproven. Read-through: the cost side of the capex cycle is rising just as financing tightens, which pressures the customers of your largest holdings.
+AI trade. The mechanism is credit: lenders backing SpaceX's forty-three billion dollar lease of Nvidia chips worry the collateral could end up in orbit, beyond reach if Musk defaults. Intended effect: keep GPU demand financed. Risk: one school sees vendor financing as ordinary growth capital; another sees the dot-com telecom pattern of suppliers lending to their own customers. Read-through: if funding tightens, capex guidance and your largest holdings are exposed. The Financial Times has Wall Street set to rebound today.
 
-Argentina. Borrowing costs jumped as Milei's falling approval ahead of his re-election bid rattles investors: a political risk premium, priced before any policy changes.
+Australia. Chalmers warns unemployment will pass five percent and growth stays under two percent in twenty twenty-seven and twenty twenty-eight. The New Zealand dollar is at a seventeen-year low against the dollar.
+
+Oil. Prices hold a tight range as Gulf attacks sustain the risk premium.
 
 Business and industry.
 
-Amazon faces opposition to rapid data-centre expansion from the public and from its own staff, the Financial Times reports. The Guardian calls debt-laden CoreWeave the poster child of the AI bubble.
+Novartis's chief executive rejects AI industry claims of curing cancer in five to ten years. BYD will appeal a Dutch court's EU sales ban on its Ti seven, which the court found copies the Land Rover Defender's design.
 
 Mergers and acquisitions.
 
-Entain, owner of Ladbrokes and Coral, is in talks to sell part of its business to CVC, to offset Labour's gambling tax rise; which part was not stated. Buyout firm MBK is taking Japan's Wacom private for nine hundred million dollars. The Financial Times says co-investors in buyout funds are newly angry at being forced out when assets are sold into continuation vehicles, sponsors selling to themselves. That is a symptom of scarce exits.
+Tata Steel is buying a one point six seven billion dollar stake in APL Apollo, India's largest steel pipe maker, and will make an open offer, taking control. Brookfield is buying Blackstone-backed PGP Glass for one point seven billion dollars, an exit for Blackstone. The Financial Times says private capital is using hybrid financing to close deals while the traditional buyout market stalls.
 
 Science and technology.
 
-Physicists propose using ultra-sensitive atomic clocks to detect clocks experiencing multiple flows of time at once, a never-observed quantum effect. A Chinese-built pilotless air taxi carried a passenger in Yamanashi, Japan.
+Europe's and Japan's BepiColombo entered Mercury orbit on Saturday, only the second mission ever to do so. A robot submarine in the Mariana Trench found unprecedented volcanic activity. SpaceX launched two rockets from one pad thirty-two hours apart, a record.
+
+Gadgets and consumer tech.
+
+Kodak's SlideTag, from licensee Reto, is a thirty-five dollar blind-box colour E Ink photo display that doubles as an AirTag-style tracker with a replaceable battery. TSMC has reportedly paused shipments to Chinese chip designers after new United States rules flagged older sixteen and fourteen nanometre nodes, headline only.
 
 Energy and environment.
 
-COP thirty-one ran a second day past deadline. Reuters says the Turkish and Australian presidents tabled a new package; fossil fuels are still missing, electrification goals stay. The Army detonates lead azide in Iowa on Monday, having dropped a firm that would have neutralised it.
+On Saturday the brief said COP thirty-one had run past its deadline. It ended Sunday with no deal: the EU and others rejected the text as too weak, the first collapse since Copenhagen in two thousand nine. The Army detonates lead azide in Iowa by Tuesday, not Monday as Sunday's brief said.
 
 Health and medicine.
 
-Australia opened an inquiry into peptides amid a surge in hospital visits, headline only.
-
-Law and justice.
-
-A federal judge ordered an indefinite halt to construction of Trump's triumphal arch near Arlington. A judge approved Bayer's seven point two five billion dollar Roundup settlement for cancer claims.
-
-Society.
-
-A Suffolk village voted to leave the United Kingdom, symbolically, over plans to house nine hundred thirty asylum seekers at a former military base.
+The NHS will trial AI reading of breast screening scans for hundreds of thousands of women, to test earlier detection.
 
 Culture and sport.
 
-Verstappen won in Las Vegas, with Piastri climbing from seventeenth to third. France and South Africa reached the rugby Nations Championship final; South Africa lost to Ireland but kept a bonus point.
+Liverpool beat Manchester United four-nil in Pochettino's first game as manager. Alcaraz beat Zverev to win his first ATP Finals title. Uzbekistan's Sindarov will challenge Gukesh for the world chess title.
 
 Special interests and watchlist.
 
-Aviation: Boeing is weighing more layoffs as its seven three seven Max output lags its target, per a headline; the target was not given. Cars: Xiaomi hired former Xpeng executives to lead its European entry. Arsenal: two-two at Newcastle, Madueke equalising; Raya went off with a shoulder injury and Arteta said it is not good. Chainlink: no official post; the European Central Bank seeks partners for tokenised-finance tests, applications due December eleventh. OriginTrail: nothing. Agronomics: nothing from the company; dairy body IDF's updated Codex guidance would reserve dairy terms for animal milk, a labelling risk for precision-fermented dairy, from Wednesday. Projectors, cameras, BMW, seven-seaters: nothing.
+Cars: Hyundai revealed its Neira seven-seat electric MPV for India, no price or date. BYD's next-generation Han, five metres sixteen long, is off the line before Guangzhou's show on the twenty-seventh. Arsenal: nothing new since Sunday's two-two; Raya's shoulder is the question. Chainlink: no official post. OriginTrail: nothing. Agronomics: nothing from the company. Projectors, cameras, aviation, BMW: nothing.
 
 Editorial picks.
 
-Rest of World: AI is turning professional jobs into low-paid gig work; a United States cardiologist earns up to one hundred eighty dollars an hour, a Swahili speaker in Tanzania twelve fifty. New Lines: Serbia's students won the election with one hundred forty seats, and a veteran who burned parliament in the year two thousand asks what they understood that his generation did not.
+Aeon: My Grandmother Was a Seal, on Irish families who believed they descended from selkies, and what it says about violence and grief in our kinship with nature. New Lines: Infantino's path to a fourth FIFA term runs through Asia, with Saudi Arabia and Qatar leading Africa and Asia behind him.
+
+Not returning today: Euronews, covering Europe; NYT Space, covering space.
