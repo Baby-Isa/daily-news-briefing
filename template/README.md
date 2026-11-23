@@ -16,12 +16,18 @@ in about fifteen minutes and then runs it for you.
 **1. Make your own copy.** Sign in to GitHub first (the button below only
 appears once you are signed in; you can create a free account at
 github.com/signup). Then press the green **Use this template** button at
-the top of this page, and **Create a new repository**. Give it any name
+the top of this page, then **Create a new repository**. Give it any name
 (for example `my-briefing`) and press **Create repository**.
 
-**2. Connect Claude.** Open [claude.ai/connect-github](https://claude.ai/connect-github),
-approve the connection, and when asked which repositories Claude may use,
-choose the one you just created.
+**2. Connect Claude to GitHub.**
+
+- *In the Claude app (phone or desktop):* open the **Code** tab and tap
+  **Connect GitHub** when it asks.
+- *In a web browser:* sign in to Claude, then open
+  [claude.ai/connect-github](https://claude.ai/connect-github).
+
+Either way, approve the connection, and when asked which repositories
+Claude may use, choose the one you just created.
 
 **3. Say hello.** In Claude, open the **Code** tab, start a new session,
 pick your new repository from the list, and type **hello**. Claude takes it
