@@ -13,8 +13,10 @@ in about fifteen minutes and then runs it for you.
 
 ## Set it up in three steps
 
-**1. Make your own copy.** Press the green **Use this template** button at
-the top of this page, then **Create a new repository**. Give it any name
+**1. Make your own copy.** Sign in to GitHub first (the button below only
+appears once you are signed in; you can create a free account at
+github.com/signup). Then press the green **Use this template** button at
+the top of this page, and **Create a new repository**. Give it any name
 (for example `my-briefing`) and press **Create repository**.
 
 **2. Connect Claude.** Open [claude.ai/connect-github](https://claude.ai/connect-github),
