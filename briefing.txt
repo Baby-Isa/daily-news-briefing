@@ -1,75 +1,83 @@
 Weather.
 
-The next three days are dry or nearly so and cloudy, one to six today, one to seven Tuesday, two to six Wednesday. With almost no rain forecast you will check the radar app hourly, as though it owed you money.
+The next three days are dry, cloudy and cold, two to six today and Wednesday, one to four Thursday. With no wind or rain to blame, you will blame the bus.
 
-Here are the biggest news stories and how they connect. The AI sell-off has gone global. Wall Street's rout reached Asia: South Korea's index fell five percent, Hong Kong hit a nineteen-month low, and regulators in the region are rushing to support markets. The trigger is trust in AI finance. Nvidia faces an accounting probe, and the New York Times says Alice Huang, at the centre of the scandal involving its former chief executive Jensen Huang, kept in contact with a Chinese spy agency official for over a year. The Financial Times warns that Nvidia's vendor financing is a Jenga tower. My speculation: if circular financing is the weak point, the next stress shows up in credit before equities.
+Here are the biggest news stories and how they connect. Markets spent a day on one man. Yesterday's brief had Wall Street set to rebound, and it did, after Nvidia reinstated Jensen Huang as chief executive at President Trump's urging. Nvidia shares jumped about thirty percent, South Korea's index rose seven percent in early trade, and Trump made up to fifteen million dollars on his own holding, the Financial Times reports. Nothing underneath changed: the circular financing of Nvidia's customers, the China chip probes, and bipartisan demands that Huang testify, reportedly on third December. My speculation: the rally priced out key-man risk, not export-control risk, which returns at that hearing.
 
 Politics and government.
 
-United States. Democrats have won at least two hundred fifty-eight House seats, their biggest majority since nineteen ninety-two, with four races undecided. Pediatrician Annie Andrews unseated Senator Graham in South Carolina. Trump says Schumer will be very hard to work with.
+United States. A Senate-passed permitting bill, the Bipartisan American Affordability and Jobs Act, heads to the House: faster environmental reviews, limits on litigation delays, easier transmission siting, for clean and fossil projects alike. Democrats voted two to one against it in the Senate.
 
-UK. Timms's review will call for a fundamental overhaul of disability benefit assessments, not scrapping the benefit for under-twenty-fives. Burnham tells MPs the EU deal could make the next decade much better; the Conservatives say they would scrap it. Poundland has days to find a buyer or enter administration.
+UK. Burnham says it would be unthinkable to rejoin the European Union without another referendum, his strongest commitment yet.
 
-Europe. Belgium's airports shut under an anti-austerity strike. Spain votes next Sunday.
+Europe. Several states accuse Costa's new EU budget of favouring France. Spain votes Sunday; Politico says the far right is poised to enter government.
 
-East Africa. Ruto and Tshisekedi agreed in Oyo to restore full ambassador-level relations between Kenya and Congo. Kenya's electoral commission's Smartmatic contract is expiring, a question for twenty twenty-seven voter registration. Tanzania: nothing.
+East Africa. Kenya's electoral commission funding gap is reported as twelve billion shillings by one outlet and three point five billion by another; unresolved. Tanzania: fire swept six beachfront hotels at Nungwi, Zanzibar, forcing about one hundred eighty tourists out.
 
 Conflict and security.
 
-Iran. An Iranian strike on an industrial site in Bahrain wounded two; Saudi Arabia and Qatar condemned it. Iran's navy says two supertankers hit mines near Hormuz. Saudi strikes killed four in Yemen's Hodeida; the Houthis say they hit Saudi Arabia's Rabigh refinery.
+Iran. Iran says three ships caught fire after hitting Hormuz mines and vows to use all available tools against the American blockade. Qatar's prime minister, after meeting Rubio, says he is working to revive talks. Washington sanctioned dozens tied to Iran's shadow banking.
 
-Ukraine. A Russian strike collapsed part of an apartment block near Kyiv, killing at least nine. A Russian corvette docked in Benghazi, Libya, was sunk in a suspected Ukrainian sea drone attack; eastern Libya has complained to the United Nations.
-
-Israel. Netanyahu's and Eisenkot's parties ended coalition talks with no deal. Eisenkot called settler arson on West Bank villages Jewish terrorism.
-
-Sudan. Drones hit Khartoum homes and a United Nations building; the army blames Ethiopia.
+Ukraine. Kyiv confirmed seven naval drones hit two Russian ships off Benghazi, sinking the corvette Merkury; Libya's UN-backed government demands an explanation and Italy warns of a Mediterranean front. The Pentagon has yet to approve sixty Patriot interceptors for Kyiv, the Financial Times says. Western intelligence reportedly fears a Russian nuclear-armed satellite launch as soon as December.
 
 International affairs.
 
-Trump, Putin and Xi's Shenzhen meeting produced few concrete results, and Politico says it showed Europe has no seat at the table. Johannesburg, Tshwane and Ekurhuleni will be run by a four-party pact of the ANC, ActionSA, MK and the EFF, with Herman Mashaba set to be Johannesburg's mayor. China sentenced a ministry official to death for leaking state secrets. Disasters: a candy factory fire in Indonesia, twenty-four dead, thirty missing.
+Armenia unveiled a draft constitution dropping the claim to Karabakh, which Pashinyan calls the only route to peace with Azerbaijan. Tajikistan told the United Nations it is leaving the International Criminal Court, the fourth to quit since Washington's push. India pledged one point six billion dollars to rebuild flood-hit Nepal, with port access and a new train service. Trump meets NATO's Rutte Wednesday in Florida. Disasters: Indonesia's factory fire toll holds at twenty-four, about thirty missing.
 
 Economy and markets.
 
-AI trade. The mechanism is credit: lenders backing SpaceX's forty-three billion dollar lease of Nvidia chips worry the collateral could end up in orbit, beyond reach if Musk defaults. Intended effect: keep GPU demand financed. Risk: one school sees vendor financing as ordinary growth capital; another sees the dot-com telecom pattern of suppliers lending to their own customers. Read-through: if funding tightens, capex guidance and your largest holdings are exposed. The Financial Times has Wall Street set to rebound today.
+Nvidia. Mechanism: the board reversed itself after Washington signalled Huang poses no security risk, removing a key-man discount. Intended effect: stabilise the company at the centre of AI spending. Risk: one school calls Nvidia too big to fail, indispensable; another, Foreign Policy's, says its funding of its own customers is what keeps the AI economy running, so no reckoning means no discipline. Read-through: Nvidia is your largest look-through exposure, and the probes, not the rally, now set the path for AI capex.
 
-Australia. Chalmers warns unemployment will pass five percent and growth stays under two percent in twenty twenty-seven and twenty twenty-eight. The New Zealand dollar is at a seventeen-year low against the dollar.
+Chips. Singapore's non-oil exports rose a record forty-five point eight percent in the third quarter on electronics, the demand side. Its prime minister vows not to be a backdoor for American chips, and Malaysia told data centres to cut ties with seven blacklisted firms.
 
-Oil. Prices hold a tight range as Gulf attacks sustain the risk premium.
+Emerging markets. Brazil cut its twenty twenty-seven growth forecast from two point three to one point eight percent and raised inflation to four point five, blaming high rates: a stagflation-lite squeeze. Mexico's third-quarter growth was three point three percent, its best since twenty twenty-three.
+
+Australia. Chalmers promises a mid-year update that saves more than it spends but is not slash and burn. With unemployment rising, tightening fiscal policy into slowing demand risks the recession the Guardian's Commins warns of.
+
+Oil sits near a three-month low as supply offsets the Hormuz threat. Fed meets eighth and ninth December, Bank of England seventeenth.
 
 Business and industry.
 
-Novartis's chief executive rejects AI industry claims of curing cancer in five to ten years. BYD will appeal a Dutch court's EU sales ban on its Ti seven, which the court found copies the Land Rover Defender's design.
+Capita shares fell seventy percent after it failed to pay civil service pensions on time, and its chief executive left. Compass, the NHS caterer, plans to move its main listing to the United States, another blow to London.
 
 Mergers and acquisitions.
 
-Tata Steel is buying a one point six seven billion dollar stake in APL Apollo, India's largest steel pipe maker, and will make an open offer, taking control. Brookfield is buying Blackstone-backed PGP Glass for one point seven billion dollars, an exit for Blackstone. The Financial Times says private capital is using hybrid financing to close deals while the traditional buyout market stalls.
+Poundland has days to find a buyer or enter administration; Martin Property Group and a German bidder made last-gasp offers. CrowdStrike will buy Zscaler in a forty-four billion dollar all-stock deal; Zscaler jumped twenty-one percent, and TD Cowen sees cybersecurity consolidation entering a more material phase. Amazon signed its seven point five billion dollar Decart purchase. Brookfield's two point five three billion dollar bid for Reliance Worldwide won AustralianSuper's backing. SpaceX and Tesla named five directors for merger talks, headline only.
 
 Science and technology.
 
-Europe's and Japan's BepiColombo entered Mercury orbit on Saturday, only the second mission ever to do so. A robot submarine in the Mariana Trench found unprecedented volcanic activity. SpaceX launched two rockets from one pad thirty-two hours apart, a record.
+Pakistan's Zeeshan Ali will fly on China's Shenzhou twenty-four, the first Pakistani in space and the first foreign astronaut for China's station. Researchers uncovered how the cancer drug Taxol is made naturally, so tobacco plants could produce it more cheaply.
 
 Gadgets and consumer tech.
 
-Kodak's SlideTag, from licensee Reto, is a thirty-five dollar blind-box colour E Ink photo display that doubles as an AirTag-style tracker with a replaceable battery. TSMC has reportedly paused shipments to Chinese chip designers after new United States rules flagged older sixteen and fourteen nanometre nodes, headline only.
+Ladybird, a browser with an engine built from scratch, is in alpha for macOS and Linux, the first new engine in years. The Dutch data regulator advises against AI smart glasses that record people.
 
 Energy and environment.
 
-On Saturday the brief said COP thirty-one had run past its deadline. It ended Sunday with no deal: the EU and others rejected the text as too weak, the first collapse since Copenhagen in two thousand nine. The Army detonates lead azide in Iowa by Tuesday, not Monday as Sunday's brief said.
+COP thirty-one's pact was rejected by the EU, UK and vulnerable states, yet about eighty nations backed thirty-five percent electricity in final energy by twenty thirty-five. Yesterday's brief said Iowa's lead azide would be detonated by Tuesday; a court cleared a Wednesday blast, but Trump postponed it again, no new date.
 
 Health and medicine.
 
-The NHS will trial AI reading of breast screening scans for hundreds of thousands of women, to test earlier detection.
+The FDA approved BridgeBio's Welgemda, the first drug for a type of limb-girdle muscular dystrophy. Medicare expects nine point two billion dollars in savings from its third round of negotiated drug prices.
+
+Built environment.
+
+Data centre cancellations doubled in the third quarter to sixteen projects, per Relae.
+
+Law and justice.
+
+Denmark's Supreme Court upheld the ghetto law evictions of non-Western tenants at Mjolnerparken.
 
 Culture and sport.
 
-Liverpool beat Manchester United four-nil in Pochettino's first game as manager. Alcaraz beat Zverev to win his first ATP Finals title. Uzbekistan's Sindarov will challenge Gukesh for the world chess title.
+The United States, Mexico, Costa Rica and Jamaica will host the twenty thirty-one Women's World Cup; Britain gets twenty thirty-five. The Court of Arbitration for Sport rules today on Senegal's Africa Cup of Nations appeal.
 
 Special interests and watchlist.
 
-Cars: Hyundai revealed its Neira seven-seat electric MPV for India, no price or date. BYD's next-generation Han, five metres sixteen long, is off the line before Guangzhou's show on the twenty-seventh. Arsenal: nothing new since Sunday's two-two; Raya's shoulder is the question. Chainlink: no official post. OriginTrail: nothing. Agronomics: nothing from the company. Projectors, cameras, aviation, BMW: nothing.
+Aviation: Trump predicts two hundred fifty more Boeing jets for China, but nothing firm came through in Shenzhen. Cameras: Panasonic says it heard calls for a viewfinder on a successor to its compact S nine; full-frame, not Micro Four Thirds. Arsenal: Raya's shoulder is not serious, no surgery; he misses tonight's Dortmund game and may return for City. Chainlink: no official post; OKX-ICE launched its tokenised securities venue with one hundred thirteen assets. OriginTrail: nothing. Agronomics: nothing from the company; California approved New Culture's precision-fermented mozzarella. Projectors, cars, BMW: nothing.
 
 Editorial picks.
 
-Aeon: My Grandmother Was a Seal, on Irish families who believed they descended from selkies, and what it says about violence and grief in our kinship with nature. New Lines: Infantino's path to a fourth FIFA term runs through Asia, with Saudi Arabia and Qatar leading Africa and Asia behind him.
+The Intelligence: Japan's new agency dedicated to disaster preparedness. Rest of World: IBM tells its United States immigrant consultants to relocate abroad or leave; India could mean an eighty percent pay cut.
 
-Not returning today: Euronews, covering Europe; NYT Space, covering space.
+Not returning today: Google News robot vacuums, covering projectors.

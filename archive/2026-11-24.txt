@@ -1,0 +1,83 @@
+Weather.
+
+The next three days are dry, cloudy and cold, two to six today and Wednesday, one to four Thursday. With no wind or rain to blame, you will blame the bus.
+
+Here are the biggest news stories and how they connect. Markets spent a day on one man. Yesterday's brief had Wall Street set to rebound, and it did, after Nvidia reinstated Jensen Huang as chief executive at President Trump's urging. Nvidia shares jumped about thirty percent, South Korea's index rose seven percent in early trade, and Trump made up to fifteen million dollars on his own holding, the Financial Times reports. Nothing underneath changed: the circular financing of Nvidia's customers, the China chip probes, and bipartisan demands that Huang testify, reportedly on third December. My speculation: the rally priced out key-man risk, not export-control risk, which returns at that hearing.
+
+Politics and government.
+
+United States. A Senate-passed permitting bill, the Bipartisan American Affordability and Jobs Act, heads to the House: faster environmental reviews, limits on litigation delays, easier transmission siting, for clean and fossil projects alike. Democrats voted two to one against it in the Senate.
+
+UK. Burnham says it would be unthinkable to rejoin the European Union without another referendum, his strongest commitment yet.
+
+Europe. Several states accuse Costa's new EU budget of favouring France. Spain votes Sunday; Politico says the far right is poised to enter government.
+
+East Africa. Kenya's electoral commission funding gap is reported as twelve billion shillings by one outlet and three point five billion by another; unresolved. Tanzania: fire swept six beachfront hotels at Nungwi, Zanzibar, forcing about one hundred eighty tourists out.
+
+Conflict and security.
+
+Iran. Iran says three ships caught fire after hitting Hormuz mines and vows to use all available tools against the American blockade. Qatar's prime minister, after meeting Rubio, says he is working to revive talks. Washington sanctioned dozens tied to Iran's shadow banking.
+
+Ukraine. Kyiv confirmed seven naval drones hit two Russian ships off Benghazi, sinking the corvette Merkury; Libya's UN-backed government demands an explanation and Italy warns of a Mediterranean front. The Pentagon has yet to approve sixty Patriot interceptors for Kyiv, the Financial Times says. Western intelligence reportedly fears a Russian nuclear-armed satellite launch as soon as December.
+
+International affairs.
+
+Armenia unveiled a draft constitution dropping the claim to Karabakh, which Pashinyan calls the only route to peace with Azerbaijan. Tajikistan told the United Nations it is leaving the International Criminal Court, the fourth to quit since Washington's push. India pledged one point six billion dollars to rebuild flood-hit Nepal, with port access and a new train service. Trump meets NATO's Rutte Wednesday in Florida. Disasters: Indonesia's factory fire toll holds at twenty-four, about thirty missing.
+
+Economy and markets.
+
+Nvidia. Mechanism: the board reversed itself after Washington signalled Huang poses no security risk, removing a key-man discount. Intended effect: stabilise the company at the centre of AI spending. Risk: one school calls Nvidia too big to fail, indispensable; another, Foreign Policy's, says its funding of its own customers is what keeps the AI economy running, so no reckoning means no discipline. Read-through: Nvidia is your largest look-through exposure, and the probes, not the rally, now set the path for AI capex.
+
+Chips. Singapore's non-oil exports rose a record forty-five point eight percent in the third quarter on electronics, the demand side. Its prime minister vows not to be a backdoor for American chips, and Malaysia told data centres to cut ties with seven blacklisted firms.
+
+Emerging markets. Brazil cut its twenty twenty-seven growth forecast from two point three to one point eight percent and raised inflation to four point five, blaming high rates: a stagflation-lite squeeze. Mexico's third-quarter growth was three point three percent, its best since twenty twenty-three.
+
+Australia. Chalmers promises a mid-year update that saves more than it spends but is not slash and burn. With unemployment rising, tightening fiscal policy into slowing demand risks the recession the Guardian's Commins warns of.
+
+Oil sits near a three-month low as supply offsets the Hormuz threat. Fed meets eighth and ninth December, Bank of England seventeenth.
+
+Business and industry.
+
+Capita shares fell seventy percent after it failed to pay civil service pensions on time, and its chief executive left. Compass, the NHS caterer, plans to move its main listing to the United States, another blow to London.
+
+Mergers and acquisitions.
+
+Poundland has days to find a buyer or enter administration; Martin Property Group and a German bidder made last-gasp offers. CrowdStrike will buy Zscaler in a forty-four billion dollar all-stock deal; Zscaler jumped twenty-one percent, and TD Cowen sees cybersecurity consolidation entering a more material phase. Amazon signed its seven point five billion dollar Decart purchase. Brookfield's two point five three billion dollar bid for Reliance Worldwide won AustralianSuper's backing. SpaceX and Tesla named five directors for merger talks, headline only.
+
+Science and technology.
+
+Pakistan's Zeeshan Ali will fly on China's Shenzhou twenty-four, the first Pakistani in space and the first foreign astronaut for China's station. Researchers uncovered how the cancer drug Taxol is made naturally, so tobacco plants could produce it more cheaply.
+
+Gadgets and consumer tech.
+
+Ladybird, a browser with an engine built from scratch, is in alpha for macOS and Linux, the first new engine in years. The Dutch data regulator advises against AI smart glasses that record people.
+
+Energy and environment.
+
+COP thirty-one's pact was rejected by the EU, UK and vulnerable states, yet about eighty nations backed thirty-five percent electricity in final energy by twenty thirty-five. Yesterday's brief said Iowa's lead azide would be detonated by Tuesday; a court cleared a Wednesday blast, but Trump postponed it again, no new date.
+
+Health and medicine.
+
+The FDA approved BridgeBio's Welgemda, the first drug for a type of limb-girdle muscular dystrophy. Medicare expects nine point two billion dollars in savings from its third round of negotiated drug prices.
+
+Built environment.
+
+Data centre cancellations doubled in the third quarter to sixteen projects, per Relae.
+
+Law and justice.
+
+Denmark's Supreme Court upheld the ghetto law evictions of non-Western tenants at Mjolnerparken.
+
+Culture and sport.
+
+The United States, Mexico, Costa Rica and Jamaica will host the twenty thirty-one Women's World Cup; Britain gets twenty thirty-five. The Court of Arbitration for Sport rules today on Senegal's Africa Cup of Nations appeal.
+
+Special interests and watchlist.
+
+Aviation: Trump predicts two hundred fifty more Boeing jets for China, but nothing firm came through in Shenzhen. Cameras: Panasonic says it heard calls for a viewfinder on a successor to its compact S nine; full-frame, not Micro Four Thirds. Arsenal: Raya's shoulder is not serious, no surgery; he misses tonight's Dortmund game and may return for City. Chainlink: no official post; OKX-ICE launched its tokenised securities venue with one hundred thirteen assets. OriginTrail: nothing. Agronomics: nothing from the company; California approved New Culture's precision-fermented mozzarella. Projectors, cars, BMW: nothing.
+
+Editorial picks.
+
+The Intelligence: Japan's new agency dedicated to disaster preparedness. Rest of World: IBM tells its United States immigrant consultants to relocate abroad or leave; India could mean an eighty percent pay cut.
+
+Not returning today: Google News robot vacuums, covering projectors.
