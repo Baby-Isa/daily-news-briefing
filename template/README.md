@@ -18,8 +18,8 @@ stay signed in; after that you never need to go back.
 
 **1. Create your GitHub account.** GitHub is where your briefing's
 settings and episodes are kept. It is free: go to
-[github.com/signup](https://github.com/signup) and continue with Google or
-Apple. If you already have an account, just sign in.
+[github.com/signup](https://github.com/signup). Signing up with your email
+address works best. If you already have an account, just sign in.
 
 **2. Make your own copy.** Press the green **Use this template** button at
 the top of this page, then **Create a new repository**. Give it a short
@@ -38,8 +38,8 @@ choose your account, select **Only select repositories** and the copy you
 just made, and press **Install & Authorize**. If it asks you to sign in to
 Claude, do.
 
-**5. Say hello.** In Claude, open the **Code** tab, start a new session,
-pick your copy from the list, and type **hello**. Claude takes it from
+**5. Type start.** In Claude, open the **Code** tab, begin a new session,
+pick your copy from the list, and type **start**. Claude takes it from
 there: it asks what you want covered, makes a first episode, and puts it
 on your phone.
 
