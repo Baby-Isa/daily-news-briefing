@@ -6,6 +6,11 @@ on:
     paths:
       - "briefing.txt"
   workflow_dispatch:
+    inputs:
+      episode_date:
+        description: "Re-render this day (YYYY-MM-DD) instead of today"
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -96,6 +101,7 @@ jobs:
           KOKORO_MODEL_PATH: models/kokoro-v1.0.onnx
           KOKORO_VOICES_PATH: models/voices-v1.0.bin
           PAGES_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+          EPISODE_DATE: ${{ inputs.episode_date }}
         run: python build_podcast_episode.py briefing.txt _site
 
       - name: Publish gh-pages as a fresh orphan commit

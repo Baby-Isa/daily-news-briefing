@@ -3,19 +3,18 @@
 Claude ticks each step as it is finished (see ONBOARDING.md). If any box
 is empty, setup is not complete: resume at the first empty box.
 
-- [ ] 1. Welcome; permission to save and publish; phone and podcast app
-- [ ] 2. About the listener
-- [ ] 3. The ten topics
-- [ ] 4. Watchlist
-- [ ] 5. Sources
-- [ ] 6. Format: length, tone, weather place, voice, time, show name
-- [ ] 7. First episode published and the podcast address working
-- [ ] 8. Subscribed on their phone; first feedback applied
-- [ ] 9. Daily run, two backup checks and the weekly review scheduled
-- [ ] 10. Closing message sent
+- [ ] 1. Welcome; permission to save and publish; podcast app; saving and the podcast address both checked
+- [ ] 2. The ten topics
+- [ ] 3. Watchlist
+- [ ] 4. Sources, tested through the news build
+- [ ] 5. Format: length, tone, weather place, voice, time, show name
+- [ ] 6. First episode published and the podcast address confirmed live
+- [ ] 7. Playing on their phone; first feedback applied
+- [ ] 8. Daily run, two backup checks and the weekly review scheduled
+- [ ] 9. Closing message sent
 
 ## Notes
 
-Phone and podcast app:
-Podcast address:
+Podcast app:
+Podcast address (capitals kept):
 Scheduled task ids:

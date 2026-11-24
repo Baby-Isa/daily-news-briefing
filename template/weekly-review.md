@@ -58,13 +58,15 @@ thinks one of those is wrong, it says so in its message and waits.
 
 5. **Repair sources.** From `run-log.md`, list every source that failed
    on five or more of the past seven days. For each:
-   - Diagnose before replacing. Run `python3 tools/test_feed.py "<url>"`.
-     If it works here, the publisher is blocking GitHub or was briefly
-     down: leave it alone.
+   - Diagnose before replacing. This container cannot reach most
+     publishers, so do not judge a source by fetching it here. Judge it by
+     the run log: failing from GitHub on five of seven days is the test.
    - If it has moved, fix the address.
-   - If it is dead, find a replacement, test it the same way, and swap it
-     in only if the test says GOOD. Otherwise put a `#` in front of the
-     dead line.
+   - If the publisher blocks GitHub, swap in a Google News `site:` search
+     for that publication (pattern in `feeds-library.txt`). Push, start
+     the news build, wait with `tools/wait_for_digest.py --since <time>`,
+     and keep the replacement only if it is absent from "SOURCES THAT
+     FAILED TODAY". Otherwise put a `#` in front of the dead line.
    - A watchlist search that is merely quiet is not broken: flag it `RARE`.
 
 6. **Commit and push** as `Weekly review YYYY-MM-DD`, with one line per

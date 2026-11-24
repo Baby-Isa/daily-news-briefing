@@ -19,7 +19,8 @@ colleague: The Economist and the Financial Times for depth, as neutral as
 you can manage.
 
 The episodes in `examples/` are the standard. Read them before drafting and
-match their shape, density and tone. Never imitate yesterday's briefing: a
+match their shape and density. If `profile.md` asks for a different tone,
+the profile wins on tone and the examples still set the shape. Never imitate yesterday's briefing: a
 copy of a copy drifts.
 
 ## 2. Reading the digest

@@ -38,8 +38,8 @@ Do not ask them to confirm things they have just told you.
 | They say something like | Change |
 |---|---|
 | "more / less / no ..." about a topic | that section's block in `profile.md`; its `budget` in `config.json` if the amount changes |
-| "follow <company / person / team>" | the Watchlist block in `profile.md` AND a source line in `feeds.txt` (patterns at the bottom of `feeds-library.txt`; test with `tools/test_feed.py`) |
-| "add / drop <a publication>" | `feeds.txt` (test first) |
+| "follow <company / person / team>" | the Watchlist block in `profile.md` AND a source line in `feeds.txt` (patterns at the bottom of `feeds-library.txt`; test it as below) |
+| "add / drop <a publication>" | `feeds.txt` (test it as below) |
 | "shorter / longer" | `words` and the section budgets in `config.json`, scaled together (about 150 words a minute) |
 | "different voice / faster / slower" | `voice`, `language`, `speed` in `config.json` |
 | "it said <word> wrong" | `pronunciations` in `config.json` |
@@ -49,11 +49,24 @@ Do not ask them to confirm things they have just told you.
 | "that episode was great, more like that" | copy that day's file from `archive/` into `examples/` (keep at most three there) |
 | "just for tomorrow, ..." | write `editor-note.md` with the date it applies to on its first line |
 | "pause" / "stop" / "start again" | disable or enable the scheduled tasks; do not delete them |
-| "run it now" / "do a test run" | run `daily-run.md` from step 2, skipping the "already published" guard. Today's episode is replaced, not duplicated; tell them their app may need a pull-to-refresh. |
+| "run it now" / "do a test run" | run `daily-run.md` from step 2, skipping the "already published" guard. Today's episode is replaced, not duplicated; tell them their app may need a pull-to-refresh. To re-render a day after their local midnight has passed, start `podcast.yml` by hand with its `episode_date` input set to that day. |
 | "test it every hour" | create ONE extra scheduled task named `Briefing test (hourly)`, hourly, in this session, with the prompt `Test run. Follow daily-run.md from step 2, skipping the "already published" guard.` Say that each run uses allowance. Delete it when they say "stop testing", and ask whether to stop after six runs. |
 
 After a change to content or style, offer once to re-run today's episode
 so they can hear it.
+
+Three working rules:
+
+- **Edit `profile.md` by heading.** Replace the whole block under the
+  heading you are changing; never edit by line number.
+- **Test a new source through GitHub.** This container's network blocks
+  most publishers, so `tools/test_feed.py` usually fails here whatever the
+  source. Instead: push `feeds.txt`, start the news build (`digest.yml`),
+  wait for it (`tools/wait_for_digest.py --since <time>`), and read
+  "SOURCES THAT FAILED TODAY" at the end of `digest.txt`. Replace a
+  blocked publication with a Google News `site:` search.
+- **Always `git pull --rebase origin main` before pushing.** The news
+  build commits to `main` on its own.
 
 ## Where everything is
 
@@ -85,9 +98,13 @@ Read `run-log.md` first; it records what actually happened each day.
   text.
 - **A source keeps failing:** diagnose before replacing
   (`weekly-review.md`, step 5).
-- **The podcast address stopped working:** check
-  `https://<owner>.github.io/<repository>/feed.xml`; if it returns 404,
-  the Pages setting in step 7 of `ONBOARDING.md` has been switched off.
+- **The podcast address stopped working:** the address is
+  `https://<owner>.github.io/<Repository>/feed.xml`, with the repository
+  name's capitals kept exactly (it is case-sensitive). This container
+  cannot open it; ask the listener to, or check that the latest "pages
+  build and deployment" workflow run succeeded. If there is no such run,
+  the Pages setting has been switched off: see Check B in step 1 of
+  `ONBOARDING.md`.
 
 Never run two chats with live scheduled tasks for this repository: they
 would race to publish. If this chat is ever replaced, create the tasks in

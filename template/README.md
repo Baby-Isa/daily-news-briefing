@@ -11,28 +11,29 @@ in about fifteen minutes and then runs it for you.
 - A Claude subscription that includes Claude Code (the "Code" tab).
 - A free GitHub account. You can sign up with Google or Apple in a minute.
 
-## Set it up in three steps
+## Set it up in four steps
 
-**1. Make your own copy.** Sign in to GitHub first (the button below only
-appears once you are signed in; you can create a free account at
-github.com/signup). Then press the green **Use this template** button at
-the top of this page, then **Create a new repository**. Give it any name
-(for example `my-briefing`) and press **Create repository**.
+Steps 1 to 3 are all on GitHub, in a web browser. Sign in to GitHub first
+and do them in one sitting; after that you never need to go back.
 
-**2. Connect Claude to GitHub.**
+**1. Make your own copy.** Press the green **Use this template** button at
+the top of this page, then **Create a new repository**. Give it a short
+name in lower case (for example `my-briefing`), tick **Include all
+branches**, and press **Create repository**.
 
-- *In the Claude app (phone or desktop):* open the **Code** tab and tap
-  **Connect GitHub** when it asks.
-- *In a web browser:* sign in to Claude, then open
-  [claude.ai/connect-github](https://claude.ai/connect-github).
+**2. Switch on your podcast address.** In your new copy, open **Settings**
+(on a phone it is under the "..." menu), then **Pages**. Under **Branch**
+choose **gh-pages**, leave the folder as **/ (root)**, and press **Save**.
 
-Either way, approve the connection, and when asked which repositories
-Claude may use, choose the one you just created.
+**3. Give Claude access.** Open
+[github.com/apps/claude/installations/select_target](https://github.com/apps/claude/installations/select_target),
+choose your account, select the copy you just made, and press **Install &
+Authorize**. If it asks you to sign in to Claude, do.
 
-**3. Say hello.** In Claude, open the **Code** tab, start a new session,
-pick your new repository from the list, and type **hello**. Claude takes it
-from there: it asks what you want covered, makes a first episode, and puts
-it on your phone.
+**4. Say hello.** In Claude, open the **Code** tab, start a new session,
+pick your copy from the list, and type **hello**. Claude takes it from
+there: it asks what you want covered, makes a first episode, and puts it
+on your phone.
 
 ## Afterwards
 

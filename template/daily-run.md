@@ -19,9 +19,11 @@ this file; the scheduled tasks never need touching.
 
 1. Run `date -u` and say the real time. Never infer it from the fact that
    the prompt arrived: a delayed firing looks identical to a punctual one.
-2. Run `git checkout main && git pull origin main`. A rebuilt container
-   can come back on the session's own branch, and work done there
-   publishes nothing.
+2. Run `git checkout main && git config pull.rebase true && git pull origin main`.
+   A rebuilt container can come back on the session's own branch, and work
+   done there publishes nothing. A rebuilt container may also have lost its
+   Python libraries:
+   `python3 -c "import feedparser" || python3 -m pip install -q -r requirements.txt`
 3. Work out today's date in the listener's time zone (`config.json`,
    `timezone`): `TZ=<zone> date +%F`.
 4. **Guard.** Run `git log origin/main --format=%s -30`. If a commit named
@@ -37,15 +39,17 @@ this file; the scheduled tasks never need touching.
 ## Step 2 - Fresh news (main session)
 
 Start the news build on GitHub, whose servers are not blocked by
-publishers the way this container is: use the GitHub Actions tool, method
-`run_workflow`, this repository's owner and name, `workflow_id`
-`digest.yml`, `ref` `main`.
+publishers the way this container is. First note the time:
 
-Then run, in the foreground with a ten-minute limit:
+    SINCE=$(date -u +%s)
 
-    python3 tools/wait_for_digest.py
+Then use the GitHub Actions tool, method `run_workflow`, this repository's
+owner and name, `workflow_id` `digest.yml`, `ref` `main`. Then run, in the
+foreground with a ten-minute limit:
 
-Exit 0 means a fresh `digest.txt` is in the working copy. If the tool is
+    python3 tools/wait_for_digest.py --since $SINCE
+
+Exit 0 means a digest built AFTER that moment is in the working copy. If the tool is
 missing, the trigger fails, or the wait exits 1, build here instead:
 `python3 build_digest.py` in the background (about four minutes), and tell
 both helpers that the failed-sources list from a local build is not
@@ -148,6 +152,10 @@ Working copy: this repository. Confirm `git branch --show-current` prints
    none.
 
 ## If anything stops the run
+
+- **The session nags about uncommitted or unpushed changes during Part A:**
+  ignore it. Part A leaves the draft uncommitted on purpose; Part B
+  commits and pushes it.
 
 - **A helper hits a usage limit:** do not retry at once and do not give up
   on the day. The error names a reset time. Schedule a message to yourself
