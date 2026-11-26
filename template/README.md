@@ -40,7 +40,7 @@ just made, and press **Install & Authorize**. If it asks you to sign in to
 Claude, do.
 
 **5. Type start.** In Claude, open the **Code** tab and begin a new
-session. Choose your copy with the button beside the cloud icon, then type
+session. **Choose your copy with the repo button** beside the cloud icon, then type
 **start**. Claude takes it from there: it asks what you want covered,
 makes a first episode, and puts it on your phone.
 
