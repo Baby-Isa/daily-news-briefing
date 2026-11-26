@@ -26,6 +26,7 @@ permission, a subagent error, something else).
 
 ## Log
 
+- 2026-11-26 — OK — 1199 words, Thursday edition, one failed source (Google News robot vacuums, projectors) noted on air; all checks passed, no DRIFT lines.
 - 2026-11-25 — OK — 1145 words, Wednesday edition, two failed sources (Euronews, Google News robot vacuums) noted on air; all checks passed, no DRIFT lines.
 - 2026-11-24 — OK — 1183 words, Tuesday edition, one failed source (Google News robot vacuums, projectors) noted on air; all checks passed, no DRIFT lines.
 - 2026-11-23 — OK — 1060 words, Monday edition, two failed sources (Euronews, NYT Space) noted on air; all checks passed, no DRIFT lines.
