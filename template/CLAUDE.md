@@ -59,12 +59,13 @@ Three working rules:
 
 - **Edit `profile.md` by heading.** Replace the whole block under the
   heading you are changing; never edit by line number.
-- **Test a new source through GitHub.** This container's network blocks
-  most publishers, so `tools/test_feed.py` usually fails here whatever the
-  source. Instead: push `feeds.txt`, start the news build (`digest.yml`),
-  wait for it (`tools/wait_for_digest.py --since <time>`), and read
-  "SOURCES THAT FAILED TODAY" at the end of `digest.txt`. Replace a
-  blocked publication with a Google News `site:` search.
+- **Check a new source after the next build, not before.** This
+  container's network blocks most publishers, so `tools/test_feed.py`
+  usually fails here whatever the source. Add the line to `feeds.txt` and
+  push; after the next morning's build, read "SOURCES THAT FAILED TODAY"
+  at the end of `digest.txt`. Replace a blocked publication with a Google
+  News `site:` search. Run an extra build only if they ask to hear the
+  change today.
 - **Always `git pull --rebase origin main` before pushing.** The news
   build commits to `main` on its own.
 

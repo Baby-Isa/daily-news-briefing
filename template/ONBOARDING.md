@@ -135,11 +135,6 @@ make it public (Settings, General, bottom of the page, "Change
 visibility") or to upgrade GitHub. Explain both in two lines and let them
 choose.
 
-**Start the first news build** so real news is ready for the first
-episode: `SINCE=$(date -u +%s)`, then the GitHub Actions tool, method
-`run_workflow`, `workflow_id` `digest.yml`, `ref` `main`. Carry on talking
-while it runs.
-
 ## Step 2 - The ten topics, one at a time
 
 Send each of these as its own message, exactly in this form, and wait for
@@ -305,25 +300,29 @@ anyone who has the address. Offer to walk them through it after setup.
 >
 > Type "Yes" to leave it to me, or name them.
 
-Then do the work without narrating it:
+Then do the work without narrating it, and without testing anything now:
 
 1. `feeds.txt` already covers the ten default topics. Remove lanes for
    anything they dropped.
 2. For each new interest, copy matching lines from `feeds-library.txt`, or
    build one using the patterns at the bottom of that file. Each watchlist
    name gets a Google News search line under the lane `Watchlist`, flagged
-   `RARE`. For each source they asked for by name, find its RSS feed.
-3. **Test through GitHub, not here.** Commit and push `feeds.txt`,
-   `SINCE=$(date -u +%s)`, start the news build (`digest.yml`), then
-   `python3 tools/wait_for_digest.py --since $SINCE`. Read the "SOURCES
-   THAT FAILED TODAY" block at the end of `digest.txt`.
-4. For each new source that failed: replace it with a Google News
-   `site:` search for that publication (pattern in `feeds-library.txt`),
-   and build once more. Stop after two rounds; drop what still fails and
-   tell them which source you could not get.
-5. Tell them plainly, in one message, about anything that will not work
-   as they might expect: "The Financial Times and similar paid sites only
-   give me headlines and short summaries, not full articles."
+   `RARE`. For each source they asked for by name, add its RSS feed; if
+   you are not sure of the address, use a Google News `site:` search for
+   that publication instead, which almost always works.
+3. Commit and push `feeds.txt`. Do NOT run a news build to test it: that
+   added three builds and several minutes to the first real setup. The
+   first episode's own build (step 6) is the test.
+4. If they named a paid publication, tell them in one line: "The
+   Financial Times and similar paid sites only give me headlines and short
+   summaries, not full articles."
+
+**After the first episode is out** (step 6), read "SOURCES THAT FAILED
+TODAY" at the end of `digest.txt`. For each source YOU added that failed,
+swap in a Google News `site:` search and push; tomorrow's build picks it
+up. Mention it to the listener only if a source they asked for by name
+could not be found at all. Everything else is repaired by the weekly
+review.
 
 ## Step 5 - Format
 

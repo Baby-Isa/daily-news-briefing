@@ -24,24 +24,25 @@ address works best. If you already have an account, just sign in.
 **2. Make your own copy.** Press the green **Use this template** button at
 the top of this page, then **Create a new repository**. Give it a short
 name in lower case (for example `my-briefing`), tick **Include all
-branches**, and press **Create repository**.
+branches**, and press **Create repository**. Leave it set to **Public**
+for now: setup is simpler, and you can change it later.
 
-**3. Switch on your podcast address.** This gives your podcast a web
-address your podcast app can follow. In your new copy, open **Settings**
-(on a phone it is under the "..." menu), then **Pages**. Under **Branch**
-choose **gh-pages**, leave the folder as **/ (root)**, and press **Save**.
+**3. Check your podcast address is on.** In your new copy, open
+**Settings** (on a phone it is under the "..." menu), then **Pages**. The
+branch should already show **gh-pages**. If it doesn't, choose it and
+press **Save**.
 
-**4. Give Claude access.** This lets Claude save each morning's episode to
-your copy. It can only reach the copy you choose here. Open
+**4. Give Claude access.** This lets Claude save each morning's episode.
+It can only reach the copy you choose here. Open
 [github.com/apps/claude/installations/select_target](https://github.com/apps/claude/installations/select_target),
 choose your account, select **Only select repositories** and the copy you
 just made, and press **Install & Authorize**. If it asks you to sign in to
 Claude, do.
 
-**5. Type start.** In Claude, open the **Code** tab, begin a new session,
-pick your copy from the list, and type **start**. Claude takes it from
-there: it asks what you want covered, makes a first episode, and puts it
-on your phone.
+**5. Type start.** In Claude, open the **Code** tab and begin a new
+session. Choose your copy with the button beside the cloud icon, then type
+**start**. Claude takes it from there: it asks what you want covered,
+makes a first episode, and puts it on your phone.
 
 ## Afterwards
 
