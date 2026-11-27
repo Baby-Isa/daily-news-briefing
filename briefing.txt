@@ -1,88 +1,85 @@
 Weather.
 
-Dry and cloudy today, one to five, then heavy rain Friday and a soaking Saturday, five to nine, with Sunday clear. You will hang the washing out today in pure optimism and spend Friday drying it on every radiator.
+Rain today at one to four degrees, then a soaking Saturday of about forty millimetres at four to eleven, before Sunday clears at four to nine. Saturday's deluge will find the one gap in your coat, and you will take it personally.
 
-Here are the biggest news stories and how they connect. Yesterday's brief said Washington was preparing tariffs on sixteen economies. They are now proposed on fourteen, from early next year. Meanwhile US inflation hit three point eight percent, the Nasdaq fell almost four percent at one point, and S&P put Nvidia on downgrade watch over its board. Tariffs lift goods prices just as a December Fed hike is expected, while AI shares are priced for cheap money. My speculation: the rate path, not any one company, decides whether AI spending keeps its financing.
+Here are the biggest news stories and how they connect. The AI trade is now an export-control story. The New York Times reports Nvidia has halted server shipments to four South-East Asian countries after a new US rule requiring licences for advanced chips; Singapore says it cannot confirm. Tech stocks are heading for their worst month in four years, the dollar sits near a twenty-two month high, and the Fed is still expected to hike on the eighth and ninth of December. Tighter chip access, dearer money and a stronger dollar squeeze the same buyers. My speculation: Huang's testimony, reportedly on third December, lands days before the Fed.
 
 Politics and government.
 
-United States. Trump's administration and outgoing Texas Republicans settled a case so the border barrier cannot be removed for thirty years, days before Democrats take over state government.
+United States. Congress wants to regulate artificial intelligence, but turf battles stand in the way. Trump calls GDP figures fake and wants his own Commerce Department probed.
 
-UK. The government will publish its EU treaties; the BBC understands they carry a ten-year termination clause, with costs of rebuilding border-check infrastructure reimbursed. Burnham indicates EU students will pay higher tuition fees than UK students.
+UK. Net migration fell to seventy-seven thousand in the year to June, the lowest since nineteen ninety-seven excluding the pandemic. The UK will pay a participation fee towards EU running costs for the new deals. Nearly one hundred Labour MPs urge Burnham not to approve the Rosebank oilfield.
 
-Europe. Spain votes Sunday; the Financial Times says voters are set to oust Sanchez and put the radical right into a coalition for the first time since Franco. At the EU budget summit, France seeks an extra thirty-five billion euros for farmers, which raises the cost of Marine Le Pen unpicking the deal if she becomes president.
+Europe. The EU budget summit ended in a walkout, leaving one month to salvage a deal; Slovakia, Hungary and Czechia want out of the forty-five billion euro Ukraine loan. Spain votes Sunday; polls point to a People's Party and far-right Vox coalition.
 
-East Africa. Kenya's opposition set five electoral demands for the electoral commission ahead of twenty twenty-seven. Tanzania: nothing.
+East Africa. Kenya's Senate summoned the electoral commission over missed preparedness briefings, and the opposition wants the national tallying centre scrapped. Tanzania: Samia named a new fisheries minister.
 
 Conflict and security.
 
-Iran. Houthis again targeted Saudi Red Sea ports and Riyadh; Saudi forces report downing missiles over the capital and a drone near Jeddah's port. US envoy Kushner confirmed meeting Iranian representatives a couple of times.
+Iran. Trump says victory is at hand, whenever he wants it. A drone blast in Kuwait killed two Italian defence technicians; Iran denies involvement. A projectile hit Saudi Arabia's Jazan refinery, causing a fire now under control.
 
-Ukraine. Kyiv hit three refineries; Russian strikes killed seven. Poland wants NATO to consider shooting down Russian missiles over Ukraine heading for allied territory. Zelensky says Washington wants a peace deal by January; the Financial Times reports it has dropped business incentives for Russia and returned to land for peace.
+Ukraine. Zelensky warns Russia is preparing a new mass strike. Trump says he urged Putin to pull back all military aggression in Europe. Russia opposes NATO-style guarantees for Kyiv. Ukraine has fired nearly five hundred strikes beyond five hundred kilometres this year, more than the first four years combined.
 
-Israel and Gaza. Strikes killed at least sixteen across Gaza. Judges recommended prosecutors drop one of three Netanyahu cases; he demands the whole trial end.
-
+Gaza. Israel threatens to displace a million Palestinians unless Hamas disarms.
 
 International affairs.
 
-South Africa's court set aside Parliament's Phala Phala report on Ramaphosa, dissolving the impeachment committee; opposition appeals. Brazil withdrew its ambassador from Argentina and will not invite Milei to Lula's January inauguration. Taiwan votes Saturday in local elections; the Kuomintang faces an uphill fight to hold its fifteen administrations. Disasters: Cairo fuel-tanker fire, thirty-one dead; flooded illegal gold mine in Indonesia, thirteen dead and thirteen trapped; plane crash off Mississippi, six dead.
+New Zealand's final count leaves Luxon's coalition short of a majority; the centrist Opportunity Party holds the balance. Taiwan holds local elections Saturday. Duterte's trial at the International Criminal Court opens Monday. Paraguay's president Peña was removed and jailed over Ueno Bank's collapse; Milei visited his successor. Disasters: storms across both US coasts left about eight hundred forty thousand without power; a Bangkok oil depot explosion; a Hong Kong ferry collision injuring twenty-two; a diesel tanker capsized off Ibiza.
 
 Economy and markets.
 
-Tariffs. Mechanism: the US trade representative proposed Section three-oh-one tariffs from early next year: fifteen percent on the EU, Taiwan and South Korea, eighteen on most others, up to twenty-five on India and thirty-five on Vietnam, and twenty added to China for about forty in total. Intended effect: treat subsidies as excess capacity and force negotiations. Risks: protectionists say overcapacity is real, notably in China; free-traders say import prices land on American consumers and invite retaliation; the EU says it is a victim, not a source, and the China truce expires in January. Read-through: more goods inflation for a Fed already facing a hot print, a firmer dollar, and pressure on Asia's tech supply chain. These are proposals, not law.
+Chips. Mechanism: a new US rule requires licences for firms in four South-East Asian countries to buy advanced AI chips, and Nvidia has reportedly paused shipments. Intended effect: close the route by which restricted chips reach Chinese customers. Risks: one school says licensing is the only way to enforce controls that smuggling has hollowed out; another says it diverts rather than stops trade and pushes buyers towards Huawei, costing Nvidia either way. Read-through: Nvidia is your largest look-through exposure, and Asian data-centre builds face delay.
 
-Fed. Inflation rose to three point eight percent, the highest since May, on energy. A December hike, at the meeting on the eighth and ninth, is widely expected and markets treat it as the base case; the argument is over size.
+Fed. Markets treat a December hike as the base case; the Financial Times says the argument is a three-way tussle over inflation, AI and guidance.
 
-AI trade. The Nasdaq slide continued; a tech-heavy index briefly entered bear-market territory. S&P says Nvidia could be cut one notch within ninety days. The Financial Times reports Nvidia has halted chip shipments to south-east Asia as export controls tighten. Software has been spared, and chip and software shares are now level for the year as investors reassess AI's winners.
+ECB. Pablo Hernandez de Cos, who runs the Bank for International Settlements, was chosen to succeed Lagarde. My inference: continuity, not a shift.
 
-UK. The Bank of England's Lombardelli says food inflation could hit five percent next year, as the energy cap rise feeds through.
+Japan. Faster Tokyo inflation supports a Bank of Japan hike in December, and firms say rate rises are starting to bite.
+
+China. Households are shedding consumer debt as a three-year mortgage decline spreads to consumer loans, while industrial profits rose sixteen percent in the first ten months. Output is outrunning demand, the balance-sheet-recession reading.
+
+Brazil. Lula picked Bradesco chairman Luiz Carlos Trabuco as finance minister, a market-friendly signal against fiscal dominance. Argentina barred its central bank from printing money to fund government spending.
 
 Business and industry.
 
-Poundland has collapsed into administration, putting over ten thousand jobs at risk; it is expected to be broken up after its US owner rejected at least two last-ditch bids.
+Amazon workers in more than twenty countries plan strikes on Black Friday and Cyber Monday to demand union recognition. Housebuilder Crest Nicholson's chair is stepping down amid urgent lender talks. Millions rolling off fixed mortgages face about one hundred pounds more a month.
 
 Mergers and acquisitions.
 
-Tempus will buy Personalis, with a six hundred million dollar cash election. CF Industries buys a Louisiana ammonia plant for six hundred million dollars, nearly doubling its production there. Targa is reportedly in talks to buy pipeline operator Kinetik; terms were not in the digest. The Financial Times says hybrid, debtlike capital is beating buyouts: sponsors raise money without needing exits.
+Altria, the American Marlboro seller, is considering a bid for Imperial Brands; its shares jumped fourteen percent, no price named. Channel Four is in talks to sell its London headquarters to property group Socius. Vaar Energi buys ConocoPhillips's Norwegian assets for four point four billion dollars, and a US-backed consortium signed a ten billion dollar deal for Lukoil's international assets. The Financial Times says investors are angry that Kirkland and Ellis contracts for sell-to-yourself continuation vehicles remove their right to sue: scarce exits.
 
 Science and technology.
 
-The FCC cleared SpaceX to deploy up to one million AI-chip satellites as orbital data centres, the first such approval. Europe's Hera probe sent the first close-up of the crater NASA's DART impact left on Dimorphos: a larger mess than expected.
+Harvard researchers built a chip that makes one hundred twenty times more ultraviolet light, a route to smaller quantum computers and atomic clocks. Astronomers found a quasar formed within six hundred thirty million years of the Big Bang, a record.
 
 Gadgets and consumer tech.
 
-WhatsApp is adding scheduled messages for private and group chats, its most requested feature, to three billion users. Google's Familiar Faces recognition now works on Walmart's Onn cameras, thirty-five dollars outdoors and seventy-seven floodlight, but needs a Google Home Premium subscription.
+Google will publish many independent Android developers' phone numbers and addresses from next year to meet the EU Digital Services Act; developers fear for their privacy.
 
 Energy and environment.
 
-Yesterday's brief said the Army would detonate Iowa's lead azide. It did on Wednesday; the Army calls it a success, the EPA reports zero airborne lead, and soil testing continues. OPEC blames the EU for the COP thirty-one collapse.
+Earth ran more than two degrees above pre-industrial levels for seven straight days, a first, Copernicus confirms; Monday's anomaly of two point two five was the largest ever.
 
 Health and medicine.
 
-The largest trial of robot-assisted knee replacement found no meaningful gain in pain, mobility or recovery after a year against conventional surgery. The FDA approved Cogent's drug for a rare stomach cancer, alongside Pfizer's older Sutent.
+Hospitals in England brace for a flu surge, with admissions the highest for the time of year since before Covid.
 
 Built environment.
 
-Texas authorised a two point five eight gigawatt gas plant for an AI campus, with modular generators; commissioning dates are unconfirmed.
+MPs on the transport committee say ministers have failed to make the case for a third Heathrow runway on economy and climate pledges.
 
 Law and justice.
 
-A federal judge barred the FCC from curbing ABC's licence renewals, finding it violated the network's free speech. A second judge blocked Trump's new birthright citizenship order.
-
-Society.
-
-The Canary Islands recorded nearly two thousand migrant arrivals in a day, fifteen boats, many from Senegal and Gambia.
+Kenya's Shakahola cult leader Mackenzie was convicted on all five terrorism counts. Gerard Depardieu will stand trial for rape after losing his appeal.
 
 Culture and sport.
 
-Sinner will miss the Australian Open after knee surgery. Macy's postponed its Thanksgiving parade to Saturday for storms, a first.
+Great Britain won the decider to reach the Davis Cup semi-finals. The Steelers released Aaron Rodgers, now a free agent.
 
 Special interests and watchlist.
 
-Aviation: Norse Atlantic has collapsed, cancelling flights and stranding passengers. Cars: Xiaomi is hiring a UK dealer-network chief ahead of selling EVs in Britain. Arsenal: Peter Storey, midfielder in the nineteen seventy-one double, has died aged eighty-one. Chainlink: Fidelity filed for a spot Chainlink fund, ticker FLNK, no staking; a filing is not a launch. OriginTrail: nothing. Agronomics: nothing from the company; ENOUGH Food is weighing the future of its mycoprotein plant after production struggles. Projectors, cameras, BMW, seven-seaters: nothing.
+Cars: BYD's Whale minivan debuted in Guangzhou, nine hundred kilometre range, reportedly about forty-five thousand dollars next year; seat count unconfirmed. Aviation: European regulators ordered inspections of eight A three eighty aircraft, including Emirates and Etihad. Cameras: OM System says it wants to invest in a new sensor. Arsenal: Manchester City at the Emirates Sunday, half past four. Chainlink: no official post. OriginTrail: nothing. Agronomics: nothing from the company. Projectors, BMW: nothing.
 
 Editorial picks.
 
-The Intelligence: Bangladesh's banking system teeters despite its good economic outcomes, and a look under the bonnet of large language models. Longreads: M. F. K. Fisher's clandestine campaign to spread Japanese cuisine in America.
-
-Not returning today: Google News robot vacuums, covering projectors.
+The Intelligence: Mattel's hunt for a new chapter as children turn to screens, and a pulling-out-all-the-stops adaptation of the Ramayana. Longreads: the bombmaker next door, four hundred devices in a dead man's suburban home, and why neighbours adored him.
